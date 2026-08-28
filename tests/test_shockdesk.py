@@ -21,7 +21,7 @@ import pytest
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from shockdesk import api, config, metrics, options as opt, registry  # noqa: E402
+from shockdesk import api, cli, config, metrics, options as opt, registry  # noqa: E402
 from shockdesk.engine import BacktestEngine, EngineSettings  # noqa: E402
 from shockdesk.marketdata import load_panel  # noqa: E402
 from shockdesk.scenarios import ForecastLedger, scorecard, validate  # noqa: E402
@@ -484,3 +484,24 @@ def test_page_recherche_porte_les_parametres_d_url():
     html = r.get_data(as_text=True)
     assert "25500000" in html and "2026-07-01" in html and "backtest" in html
     assert "ShockDesk" in html
+
+
+# --------------------------------------------------------------------------- #
+# Revue mensuelle (CLI)
+# --------------------------------------------------------------------------- #
+
+def test_revue_mensuelle_produit_les_lignes_attendues(capsys):
+    rc = cli.main(["revue", "--name", "global-macro", "--asof", "2026-08-28",
+                   "--window", "45"])
+    out = capsys.readouterr().out
+    assert rc == 0
+    for attendu in ("SCORE DES PRÉVISIONS", "RÉVISIONS À ÉCRIRE",
+                    "CALIBRATION À REPRENDRE", "STRATÉGIES SUR LA FENÊTRE",
+                    "médiane 1.0 j", "GC=F"):
+        assert attendu in out, attendu
+    # la révision proposée doit être un JSON collable
+    import json as _json
+    payload = out.split("-d '")[1].split("'")[0]
+    sugg = _json.loads(payload)
+    assert set(sugg) == {"sign", "amplitude", "peak_day", "reversion", "note"}
+    assert sugg["amplitude"] and sugg["peak_day"][0] >= 1

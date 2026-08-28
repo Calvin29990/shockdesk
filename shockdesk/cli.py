@@ -19,7 +19,10 @@ import json
 import os
 import sys
 
+import pandas as pd
+
 from . import api, config, registry
+from .marketdata import load_panel
 
 
 def _find_strategy(ref: str) -> str:
@@ -98,6 +101,12 @@ def main(argv=None):
     lab.add_argument("--width", type=float, default=0.03)
     lab.add_argument("--iv-shift", type=float, default=0.0)
 
+    rv = sub.add_parser("revue", help="revue mensuelle : quoi corriger, quoi recalibrer")
+    rv.add_argument("--name", default="global-macro")
+    rv.add_argument("--asof", default=None, help="date de fin de la revue (défaut : aujourd'hui)")
+    rv.add_argument("--window", type=int, default=120, help="fenêtre en jours")
+    rv.add_argument("--port", type=int, default=8050, help="port affiché dans les exemples curl")
+
     srv = sub.add_parser("serve", help="lance l'interface web")
     srv.add_argument("--host", default="0.0.0.0")
     srv.add_argument("--port", type=int, default=8050)
@@ -167,6 +176,9 @@ def main(argv=None):
                   f"@ {l['premium']:.2f} (IV {l['iv']:.1%})")
         return 0
 
+    if args.cmd == "revue":
+        return _cmd_revue(args)
+
     if args.cmd == "serve":
         from .webapp import create_app
         create_app().run(host=args.host, port=args.port, debug=False)
@@ -175,5 +187,116 @@ def main(argv=None):
     return 1
 
 
+def _cmd_revue(args):
+    """Revue mensuelle : ce qu'il faut corriger, et quoi recalibrer.
+
+    C'est l'outil de la boucle de phase 1. Il ne décide rien : il met sous les
+    yeux l'écart entre ce qui a été publié et ce qui s'est passé, et propose la
+    révision suivante au format prêt à coller.
+    """
+    import json as _json
+
+    import numpy as _np
+
+    from .scenarios import ForecastLedger, scorecard
+
+    end = pd.Timestamp(args.asof) if args.asof else pd.Timestamp.today()
+    start = end - pd.Timedelta(days=args.window)
+    panel = load_panel(args.name, start, end)
+    ledger = ForecastLedger()
+    sc = scorecard(ledger, panel)
+
+    print(f"\n=== Revue mensuelle — {args.name} au {end.date()} "
+          f"({panel.source}, {len(panel.close)} barres) ===")
+    print(f"\n1. SCORE DES PRÉVISIONS PUBLIÉES (révisions originales)")
+    print(f"   accord de signe net du drift : {sc['sign_hits']}/{sc['sign_total']}"
+          f" ({sc['lines_total']} lignes publiées, {sc['non_test']} non-test)")
+    print(f"   erreur de timing du pic      : médiane {sc['median_peak_error_days']} j"
+          f" · moyenne {sc['avg_peak_error_days']} j")
+    print(f"   ratio d'amplitude            : médian x{sc['median_amplitude_ratio']}")
+    print(f"   misses                       : {', '.join(sc['misses']) or 'aucun'}")
+
+    print(f"\n2. RÉVISIONS À ÉCRIRE")
+    for row in sc["rows"]:
+        if not row.get("counted") or "sign_ok_peak" not in row:
+            continue
+        ratio = row["amplitude_ratio"] or 1.0
+        err = row["peak_error_days"] or 0
+        base = row["amplitude_forecast"] or 0.05
+        grille = sorted({round(base * m, 4) for m in (0.5, 1.0, max(ratio, 1.0))})
+        sugg = {
+            "sign": row["sign_forecast"],
+            "amplitude": grille,
+            "peak_day": [max(int(row["peak_forecast_days"] + err - 1), 1),
+                         int(row["peak_forecast_days"] + err + 1)],
+            "reversion": row["end_return_active"],
+            "note": (f"revue du {end.date()} : amplitude réelle x{ratio:.2f}, "
+                     f"pic à {err:+.0f} j, signe "
+                     f"{'confirmé' if row['sign_ok_peak'] else 'infirmé'}"),
+        }
+        print(f"\n   {row['asset']} — {row['name']} (r{row['rev']})")
+        print(f"     prévu {row['amplitude_forecast']:+.1%} à J+{row['peak_forecast_days']:.0f}"
+              f" · réalisé {row['amplitude_realized']:+.1%} à J+{row['peak_realized_days']}"
+              f" · signe {'✔' if row['sign_ok_peak'] else '✘'}")
+        print(f"     curl -X POST localhost:{args.port}/api/ledger/{row['id']}/revision \\")
+        print(f"       -H 'Content-Type: application/json' -d '{_json.dumps(sugg, ensure_ascii=False)}'")
+
+    # La calibration se mesure sur un an, pas sur la fenêtre de revue : une
+    # fenêtre courte n'a aucune raison de reproduire la vol annuelle.
+    print(f"\n3. CALIBRATION À REPRENDRE (config/calibration.json)")
+    long_panel = load_panel(args.name, end - pd.Timedelta(days=365), end)
+    print(f"   (volatilité réalisée sur {len(long_panel.close)} séances, "
+          f"du {long_panel.close.index[0].date()} au {long_panel.close.index[-1].date()})")
+    for sym in long_panel.close.columns:
+        spec = config.get_asset(sym)
+        r = _np.diff(_np.log(long_panel.close[sym].to_numpy()))
+        rv = float(r.std(ddof=0) * _np.sqrt(config.TRADING_DAYS))
+        ecart = rv / spec.ann_vol - 1 if spec.ann_vol else 0
+        flag = "  ← à corriger" if abs(ecart) > 0.15 else ""
+        print(f"   {sym:<10} vol réalisée {rv:6.1%} · calibrée {spec.ann_vol:6.1%} "
+              f"({ecart:+.0%}){flag}")
+
+    print(f"\n4. STRATÉGIES SUR LA FENÊTRE")
+    rows = []
+    for meta in registry.list_strategies():
+        code = registry.read_code(meta["id"])
+        defaults = meta.get("defaults") or {}
+        uni = args.name
+        p = api.run_backtest(code, name=uni, startCapital=100000,
+                             startDate=str(start.date()), endDate=str(end.date()))
+        note = ""
+        if p.get("error") and "n'est pas dans l'univers" in str(p["error"]):
+            # La stratégie vise un autre univers : on la joue sur le sien,
+            # mais elle sort alors de la comparaison.
+            uni = defaults.get("name", args.name)
+            p = api.run_backtest(code, name=uni,
+                                 startCapital=float(defaults.get("startCapital", 100000)),
+                                 startDate=defaults.get("startDate", str(start.date())),
+                                 endDate=defaults.get("endDate", str(end.date())))
+            note = f"(hors revue : univers {uni})"
+        m = p["metrics"]
+        rows.append((meta["name"] + (" " + note if note else ""), m.get("total_return"),
+                     m.get("sharpe"), m.get("max_drawdown"), m.get("alpha"),
+                     p.get("error"), bool(note), m.get("trades")))
+    ref = [r for r in rows if "référence" in r[0].lower() or "momentum" in r[0].lower()]
+    ref_ret = ref[0][1] if ref and ref[0][1] is not None and ref[0][7] else None
+    if ref and not ref[0][7]:
+        print("   (référence inactive : son pool ne recoupe pas cet univers — "
+              "la comparaison ne veut rien dire ici)")
+    for name, ret, sharpe, dd, alpha, err, hors, trades in rows:
+        if err:
+            print(f"   {name:<44} ERREUR {err.splitlines()[0][:56]}")
+            continue
+        verdict = ""
+        if (ref_ret is not None and ret is not None and not hors
+                and "momentum" not in name.lower()):
+            verdict = "bat la référence" if ret > ref_ret else "sous la référence"
+        print(f"   {name:<44} {ret:+7.2%}  Sharpe {sharpe:>6}  DD {dd:>7.2%}  "
+              f"alpha {alpha:+7.2%}  {verdict}")
+    print()
+    return 0
+
+
 if __name__ == "__main__":
     sys.exit(main())
+
