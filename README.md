@@ -261,6 +261,50 @@ tests/             suite pytest
 docs/              notes de travail
 ```
 
+## Déploiement
+
+Trois façons de faire tourner ShockDesk, de la plus locale à la plus publique.
+
+**1. En local** — `./run.sh`, puis ouvrir `http://localhost:8050`. C'est le
+serveur de développement Flask : il ne doit pas être exposé.
+
+**2. En production** — l'application expose un objet WSGI (`shockdesk/wsgi.py`),
+donc n'importe quel serveur Python la sert :
+
+```bash
+gunicorn shockdesk.wsgi:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+```
+
+Le dépôt contient le nécessaire pour trois hébergeurs courants, tous capables de
+**se redéployer à chaque push sur GitHub** — c'est ce qui rend un lien public
+vivant plutôt qu'une capture d'écran :
+
+| Fichier | Pour | Comment |
+|---|---|---|
+| `render.yaml` | [Render](https://render.com) | New → Blueprint → pointer sur ce dépôt. Le plan gratuit suffit ; le healthcheck est `/health`. |
+| `Procfile` | Heroku, Railway, Fly (buildpack) | détecté automatiquement |
+| `Dockerfile` | tout ce qui sait lire un Dockerfile | `docker build -t shockdesk . && docker run -p 8050:8050 shockdesk` |
+
+**3. En intégration continue** — `deploy/github-actions-ci.yml` lance les 37
+tests sur Python 3.11 et 3.12 à chaque push. Le fichier est fourni hors de
+`.github/workflows/` parce que le token utilisé pour construire ce dépôt n'a pas
+la permission `workflows` : il suffit de le copier pour l'activer.
+
+```bash
+mkdir -p .github/workflows && cp deploy/github-actions-ci.yml .github/workflows/ci.yml
+```
+
+Ensuite ce badge devient vert ou rouge tout seul — à coller en tête de README :
+
+```markdown
+[![tests](https://github.com/Calvin29990/shockdesk/actions/workflows/ci.yml/badge.svg)](https://github.com/Calvin29990/shockdesk/actions/workflows/ci.yml)
+```
+
+> Un lien GitHub n'est pas un site : `github.com/…` montre le code. Pour
+> envoyer à quelqu'un une URL qui s'ouvre dans un navigateur **et** qui suit les
+> modifications du dépôt, il faut l'étape 2 — l'hébergeur tire le code de GitHub
+> et le redéploie.
+
 ## Limites connues
 
 * Un seul bar par jour, exécution au close. Pas d'intraday.
