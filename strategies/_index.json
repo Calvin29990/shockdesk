@@ -1,0 +1,80 @@
+{
+  "aec7b1a9-ed92-51a6-a896-965e08b01a35": {
+    "file": "shock-lab-oil.py",
+    "name": "Book choc pétrolier (ShockLab)",
+    "created": "2026-08-28T20:43:23+00:00",
+    "updated": "2026-08-28T20:43:23+00:00",
+    "defaults": {
+      "name": "global-macro",
+      "startCapital": 25500000,
+      "startDate": "2026-07-01",
+      "endDate": "2026-08-28"
+    },
+    "id": "aec7b1a9-ed92-51a6-a896-965e08b01a35"
+  },
+  "e7bffd37-df79-5b9c-a5dd-effcce51ec23": {
+    "file": "long-strangle-shock.py",
+    "name": "Long strangle sur scénario",
+    "created": "2026-08-28T20:43:23+00:00",
+    "updated": "2026-08-28T20:43:23+00:00",
+    "defaults": {
+      "name": "global-macro",
+      "startCapital": 1000000,
+      "startDate": "2026-07-01",
+      "endDate": "2026-08-28"
+    },
+    "id": "e7bffd37-df79-5b9c-a5dd-effcce51ec23"
+  },
+  "c30d1543-b126-5971-9cca-04f42628b876": {
+    "file": "butterfly-peak.py",
+    "name": "Butterfly centré sur le pic",
+    "created": "2026-08-28T20:43:23+00:00",
+    "updated": "2026-08-28T20:43:23+00:00",
+    "defaults": {
+      "name": "global-macro",
+      "startCapital": 1000000,
+      "startDate": "2026-07-01",
+      "endDate": "2026-08-28"
+    },
+    "id": "c30d1543-b126-5971-9cca-04f42628b876"
+  },
+  "3d9bdf44-8a58-5076-be63-02bda58210d2": {
+    "file": "short-strangle-carry.py",
+    "name": "Short strangle de carry",
+    "created": "2026-08-28T20:43:23+00:00",
+    "updated": "2026-08-28T20:43:23+00:00",
+    "defaults": {
+      "name": "us-equities",
+      "startCapital": 100000,
+      "startDate": "2026-01-01",
+      "endDate": "2026-08-28"
+    },
+    "id": "3d9bdf44-8a58-5076-be63-02bda58210d2"
+  },
+  "9961b458-afc0-5421-b520-b8385898cb37": {
+    "file": "iron-condor-range.py",
+    "name": "Iron condor de range",
+    "created": "2026-08-28T20:43:23+00:00",
+    "updated": "2026-08-28T20:43:23+00:00",
+    "defaults": {
+      "name": "us-equities",
+      "startCapital": 100000,
+      "startDate": "2026-01-01",
+      "endDate": "2026-08-28"
+    },
+    "id": "9961b458-afc0-5421-b520-b8385898cb37"
+  },
+  "f9c996c5-8b9d-59fa-b119-1f167b372931": {
+    "file": "us-equities-momentum.py",
+    "name": "Momentum cross-actif (référence)",
+    "created": "2026-08-28T20:43:23+00:00",
+    "updated": "2026-08-28T20:43:23+00:00",
+    "defaults": {
+      "name": "us-equities",
+      "startCapital": 10000,
+      "startDate": "2024-01-01",
+      "endDate": "2026-08-28"
+    },
+    "id": "f9c996c5-8b9d-59fa-b119-1f167b372931"
+  }
+}

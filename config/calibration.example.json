@@ -1,0 +1,44 @@
+{
+  "note": "Recalibration mensuelle — exemple. Copier ce fichier en config/calibration.json (prioritaire sur les valeurs par défaut de shockdesk/config.py) et corriger les chiffres à chaque revue. Les valeurs ci-dessous sont celles par défaut : elles sont là pour montrer la forme.",
+  "reviewed_on": "2026-08-28",
+  "factors": {
+    "SPX": 0.150,
+    "OIL": 0.320,
+    "RATES": 0.095,
+    "GOLD": 0.120,
+    "USD": 0.070,
+    "CREDIT": 0.060,
+    "VOL": 0.800
+  },
+  "assets": {
+    "BZ=F": {
+      "s0": 84.95,
+      "ann_vol": 0.34,
+      "iv_base": 0.36,
+      "loadings": { "OIL": 1.00, "SPX": -0.05, "USD": -0.10 }
+    },
+    "^GSPC": {
+      "s0": 6420.0,
+      "ann_vol": 0.150,
+      "iv_base": 0.165,
+      "loadings": { "SPX": 1.00, "RATES": -0.35, "OIL": -0.25, "CREDIT": 0.35, "USD": -0.15 }
+    },
+    "GC=F": {
+      "s0": 3350.0,
+      "ann_vol": 0.145,
+      "iv_base": 0.175,
+      "loadings": { "GOLD": 1.00, "USD": -0.35, "RATES": -0.25, "SPX": 0.05 }
+    },
+    "TLT": {
+      "s0": 88.20,
+      "ann_vol": 0.150,
+      "loadings": { "RATES": -1.00, "SPX": 0.15, "CREDIT": 0.25 }
+    }
+  },
+  "checklist": [
+    "s0 = dernier niveau observé à la date d'ancrage (2026-07-15 par défaut)",
+    "ann_vol = volatilité réalisée annualisée sur 1 an glissant",
+    "iv_base = IV ATM 30 jours observée sur la chaîne d'options",
+    "loadings = betas estimés par régression sur les facteurs, pas recopiés"
+  ]
+}

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ShockDesk — {{ strategy.name }}</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div id="boot">
+  <div class="boot-inner">
+    <div class="boot-logo">SHOCKDESK</div>
+    <div class="boot-sub">chargement du poste de recherche…</div>
+  </div>
+</div>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">▚</span>
+    <span class="brand-name">ShockDesk</span>
+    <span class="brand-phase" title="Phase 1 : à corriger au fil des mois">phase 1 · bêta</span>
+  </div>
+
+  <div class="params">
+    <label class="field">
+      <span>stratégie</span>
+      <select id="p-strategy"></select>
+    </label>
+    <label class="field">
+      <span>name <em>(univers)</em></span>
+      <select id="p-name"></select>
+    </label>
+    <label class="field">
+      <span>startCapital</span>
+      <input id="p-capital" type="text" inputmode="decimal" value="{{ params.startCapital }}">
+    </label>
+    <label class="field">
+      <span>startDate</span>
+      <input id="p-start" type="date" value="{{ params.startDate }}">
+    </label>
+    <label class="field">
+      <span>endDate</span>
+      <input id="p-end" type="date" value="{{ params.endDate }}">
+    </label>
+    <button id="btn-run" class="btn primary">▶ Run backtest</button>
+  </div>
+
+  <div class="topbar-right">
+    <div id="source-badge" class="badge" title="Provenance des prix">—</div>
+    <button id="btn-save" class="btn ghost" title="Enregistrer le code">Enregistrer</button>
+  </div>
+</header>
+
+<div class="urlbar" title="URL de recherche — même forme que Blueshift">
+  <span class="urlbar-label">URL</span>
+  <code id="url-display"></code>
+  <button id="btn-copy-url" class="btn tiny">copier</button>
+</div>
+
+<nav class="tabs">
+  <button class="tab active" data-tab="code">Code</button>
+  <button class="tab" data-tab="backtest">Backtest</button>
+  <button class="tab" data-tab="scenarios">Anticipation</button>
+  <button class="tab" data-tab="options">Options</button>
+  <button class="tab" data-tab="api">API &amp; doc</button>
+  <span class="tabs-spacer"></span>
+  <span id="status" class="status"></span>
+</nav>
+
+<main>
+  <!-- =========================== CODE =========================== -->
+  <section id="tab-code" class="panel active">
+    <div class="code-wrap">
+      <div class="code-head">
+        <div>
+          <strong id="code-title">{{ strategy.name }}</strong>
+          <span class="muted" id="code-file">{{ strategy.file }}</span>
+        </div>
+        <div class="code-actions">
+          <button class="btn tiny" id="btn-new">+ nouvelle stratégie</button>
+          <button class="btn tiny" id="btn-format-check">vérifier</button>
+        </div>
+      </div>
+      <div class="editor" id="editor">
+        <div class="gutter" id="gutter"></div>
+        <div class="code-area">
+          <pre id="highlight" aria-hidden="true"></pre>
+          <textarea id="code" spellcheck="false" autocomplete="off"
+                    autocorrect="off" autocapitalize="off"></textarea>
+        </div>
+      </div>
+    </div>
+    <aside class="side">
+      <h3>Univers <span id="side-universe"></span></h3>
+      <div id="side-assets" class="asset-list"></div>
+      <h3>API stratégie</h3>
+      <div class="api-cheatsheet" id="api-cheatsheet"></div>
+      <h3>Prévisions actives</h3>
+      <div id="side-forecasts" class="forecast-list"></div>
+    </aside>
+  </section>
+
+  <!-- ========================= BACKTEST ========================= -->
+  <section id="tab-backtest" class="panel">
+    <div id="bt-empty" class="empty">
+      <p>Lancez un backtest pour voir la performance.</p>
+      <button class="btn primary" onclick="document.getElementById('btn-run').click()">▶ Run backtest</button>
+    </div>
+    <div id="bt-content" class="hidden">
+      <div class="cards" id="metric-cards"></div>
+      <div class="grid-2">
+        <div class="chart-box">
+          <h3>Courbe d'équité <span class="muted" id="eq-legend"></span></h3>
+          <div id="chart-equity" class="chart"></div>
+        </div>
+        <div class="chart-box">
+          <h3>Drawdown</h3>
+          <div id="chart-dd" class="chart"></div>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="chart-box">
+          <h3>Attribution du P&amp;L par ligne</h3>
+          <div id="chart-attribution" class="chart tall"></div>
+        </div>
+        <div class="chart-box">
+          <h3>Grecs du book <span class="muted">(delta, gamma, vega, theta)</span></h3>
+          <div id="chart-greeks" class="chart tall"></div>
+        </div>
+      </div>
+      <div class="chart-box" id="records-box">
+        <h3>Signaux enregistrés par la stratégie <span class="muted">(record)</span></h3>
+        <div id="chart-records" class="chart"></div>
+      </div>
+      <div class="tables">
+        <div class="table-box">
+          <h3>Positions</h3>
+          <div class="scroll"><table id="tbl-positions"></table></div>
+        </div>
+        <div class="table-box">
+          <h3>Score des prévisions <span class="muted">(net du drift)</span></h3>
+          <div class="scroll"><table id="tbl-scorecard"></table></div>
+        </div>
+        <div class="table-box">
+          <h3>Journal des transactions <span id="trades-count" class="muted"></span></h3>
+          <div class="scroll"><table id="tbl-trades"></table></div>
+        </div>
+        <div class="table-box">
+          <h3>Journal d'exécution</h3>
+          <div class="scroll logs" id="log-box"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ======================= ANTICIPATION ======================= -->
+  <section id="tab-scenarios" class="panel">
+    <div class="scen-head">
+      <div>
+        <h2>Anticipation sur produits et sous-jacents</h2>
+        <p class="muted">Chaque ligne : la prévision active au jour retenu, ce qu'elle vaut
+          face au marché, et les structures d'options cohérentes avec elle.
+          Les prévisions sont <strong>révisables</strong> — on ajoute une révision datée,
+          on ne réécrit jamais l'historique.</p>
+      </div>
+      <div class="scen-controls">
+        <label class="field"><span>univers</span><select id="sc-universe"></select></label>
+        <label class="field"><span>au</span><input id="sc-asof" type="date"></label>
+        <label class="field"><span>horizon (j)</span><input id="sc-horizon" type="number" value="45" min="5" max="180"></label>
+        <button class="btn primary" id="btn-scen">Actualiser</button>
+      </div>
+    </div>
+    <div id="scorecard-banner"></div>
+    <div id="scenario-rows"></div>
+  </section>
+
+  <!-- ========================= OPTIONS ========================= -->
+  <section id="tab-options" class="panel">
+    <div class="opt-controls">
+      <label class="field"><span>sous-jacent</span><select id="op-underlying"></select></label>
+      <label class="field"><span>structure</span><select id="op-structure"></select></label>
+      <label class="field"><span>maturité (j)</span><input id="op-days" type="number" value="30" min="1" max="365"></label>
+      <label class="field"><span>largeur</span><input id="op-width" type="number" step="0.005" value="0.03"></label>
+      <label class="field"><span>choc d'IV (pts)</span><input id="op-ivshift" type="number" step="0.01" value="0"></label>
+      <label class="field"><span>régime de vol</span><input id="op-regime" type="number" step="0.05" value="1"></label>
+      <button class="btn primary" id="btn-quote">Pricer</button>
+    </div>
+    <div class="grid-2">
+      <div class="chart-box">
+        <h3 id="op-title">Payoff à l'échéance</h3>
+        <div id="chart-payoff" class="chart tall"></div>
+      </div>
+      <div class="table-box">
+        <h3>Caractéristiques</h3>
+        <div id="op-summary"></div>
+        <h3>Jambes</h3>
+        <div class="scroll"><table id="tbl-legs"></table></div>
+      </div>
+    </div>
+    <div class="table-box">
+      <h3>Catalogue de structures</h3>
+      <div id="op-catalog" class="catalog"></div>
+    </div>
+  </section>
+
+  <!-- =========================== API =========================== -->
+  <section id="tab-api" class="panel">
+    <div class="doc">
+      <h2>La forme Blueshift, en local</h2>
+      <p>Une stratégie = un fichier Python dans <code>strategies/</code>, identifié par un
+        UUID. Les paramètres de backtest voyagent dans l'URL, exactement comme sur une
+        plateforme de recherche :</p>
+      <pre class="code-block" id="doc-url"></pre>
+      <p>Les mêmes paramètres existent sur l'API et en ligne de commande.</p>
+      <pre class="code-block" id="doc-api"></pre>
+      <h3>Écrire une stratégie</h3>
+      <pre class="code-block" id="doc-strategy"></pre>
+      <h3>API disponible dans le code</h3>
+      <div class="scroll"><table id="tbl-api"></table></div>
+      <h3>Discipline de la phase 1</h3>
+      <ul>
+        <li><strong>Pas de fuite d'information.</strong> <code>get_forecast()</code> ne renvoie
+          que la dernière révision publiée <em>avant</em> la date du bar.</li>
+        <li><strong>Le sens se mesure net du drift.</strong> Le score de signe déduit le
+          benchmark, pondéré par le beta de la ligne.</li>
+        <li><strong>Le stop est fixé ex-ante.</strong> Il est porté par la prévision
+          (<code>stop_date</code>), pas décidé en regardant la courbe.</li>
+        <li><strong>Les misses sont affichés.</strong> Le scorecard montre les échecs avec
+          les réussites.</li>
+        <li><strong>On corrige par révision.</strong> Chaque correction est datée et
+          conservée : l'historique des prévisions reste auditable.</li>
+      </ul>
+      <h3>Données</h3>
+      <p id="doc-data"></p>
+    </div>
+  </section>
+</main>
+
+<div id="toast" class="toast"></div>
+
+<script>
+  window.SHOCKDESK = {
+    sid: {{ sid|tojson }},
+    params: {{ params|tojson }},
+    universes: {{ universes|tojson }},
+    calibration: {{ calibration|tojson }}
+  };
+</script>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
