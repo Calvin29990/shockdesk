@@ -1,0 +1,239 @@
+{
+  "note": "Registre des prévisions ShockLab. Chaque prévision porte une liste de révisions datées : la phase 1 se corrige ici, mois par mois, sans réécrire l'historique. Un backtest ne voit que la dernière révision publiée avant la date du bar.",
+  "forecasts": [
+    {
+      "id": "shocklab-2026-07-oil",
+      "name": "Choc pétrolier — Brent",
+      "asset": "BZ=F",
+      "benchmark": "^GSPC",
+      "stop_date": "2026-08-05",
+      "tags": [
+        "exercice-juillet-2026",
+        "énergie"
+      ],
+      "revisions": [
+        {
+          "rev": 1,
+          "date": "2026-07-15",
+          "sign": 1,
+          "amplitude": 0.05,
+          "peak_day": 7,
+          "reversion": -0.03,
+          "reversion_days": 21,
+          "iv_shift": 0.1,
+          "confidence": 0.6,
+          "note": "v1 publiée : +5 % en 7 jours, pic J+7, puis reversion -3 %."
+        },
+        {
+          "rev": 2,
+          "date": "2026-08-28",
+          "sign": 1,
+          "amplitude": [
+            0.05,
+            0.1,
+            0.185
+          ],
+          "peak_day": [
+            7,
+            9
+          ],
+          "reversion": -0.065,
+          "reversion_days": 14,
+          "iv_shift": 0.14,
+          "confidence": 0.55,
+          "note": "Correction phase 1 : amplitude passée en grille (sous-estimée d'un facteur ~3,7), pic J+7 a J+9, reversion plus rapide et plus profonde. Le signal de timing est conservé, le niveau non."
+        }
+      ]
+    },
+    {
+      "id": "shocklab-2026-07-rates",
+      "name": "Choc pétrolier — duration (TLT)",
+      "asset": "TLT",
+      "benchmark": "^GSPC",
+      "stop_date": "2026-08-05",
+      "tags": [
+        "exercice-juillet-2026",
+        "taux"
+      ],
+      "revisions": [
+        {
+          "rev": 1,
+          "date": "2026-07-15",
+          "sign": 1,
+          "amplitude": 0.02,
+          "peak_day": 7,
+          "reversion": 0.01,
+          "reversion_days": 21,
+          "iv_shift": 0.03,
+          "confidence": 0.5,
+          "note": "Refuge taux sur choc d'offre : duration longue."
+        }
+      ]
+    },
+    {
+      "id": "shocklab-2026-07-usd",
+      "name": "Choc pétrolier — dollar",
+      "asset": "DX-Y.NYB",
+      "benchmark": "^GSPC",
+      "stop_date": "2026-08-05",
+      "tags": [
+        "exercice-juillet-2026",
+        "devises"
+      ],
+      "revisions": [
+        {
+          "rev": 1,
+          "date": "2026-07-15",
+          "sign": 1,
+          "amplitude": 0.02,
+          "peak_day": 7,
+          "reversion": 0.015,
+          "reversion_days": 21,
+          "iv_shift": 0.01,
+          "confidence": 0.5,
+          "note": "Bid dollar de précaution."
+        }
+      ]
+    },
+    {
+      "id": "shocklab-2026-07-credit",
+      "name": "Choc pétrolier — crédit HY",
+      "asset": "HYG",
+      "benchmark": "^GSPC",
+      "stop_date": "2026-08-05",
+      "tags": [
+        "exercice-juillet-2026",
+        "crédit"
+      ],
+      "revisions": [
+        {
+          "rev": 1,
+          "date": "2026-07-15",
+          "sign": 1,
+          "amplitude": 0.005,
+          "peak_day": 7,
+          "reversion": 0.004,
+          "reversion_days": 21,
+          "iv_shift": 0.0,
+          "confidence": 0.4,
+          "note": "Énergie = grosse part de l'indice HY : le choc pétrolier porte le carry."
+        }
+      ]
+    },
+    {
+      "id": "shocklab-2026-07-commodities",
+      "name": "Choc pétrolier — matières premières",
+      "asset": "DBC",
+      "benchmark": "^GSPC",
+      "stop_date": "2026-08-05",
+      "tags": [
+        "exercice-juillet-2026",
+        "matières"
+      ],
+      "revisions": [
+        {
+          "rev": 1,
+          "date": "2026-07-15",
+          "sign": 1,
+          "amplitude": 0.03,
+          "peak_day": 7,
+          "reversion": 0.005,
+          "reversion_days": 21,
+          "iv_shift": 0.02,
+          "confidence": 0.5,
+          "note": "Contagion au complexe."
+        }
+      ]
+    },
+    {
+      "id": "shocklab-2026-07-gold",
+      "name": "Choc pétrolier — or",
+      "asset": "GC=F",
+      "benchmark": "^GSPC",
+      "stop_date": "2026-08-05",
+      "tags": [
+        "exercice-juillet-2026",
+        "métaux",
+        "miss"
+      ],
+      "revisions": [
+        {
+          "rev": 1,
+          "date": "2026-07-15",
+          "sign": 1,
+          "amplitude": 0.03,
+          "peak_day": 7,
+          "reversion": 0.01,
+          "reversion_days": 21,
+          "iv_shift": 0.02,
+          "confidence": 0.45,
+          "note": "Or vu comme couverture du choc. C'est le miss de l'exercice : l'or a corrigé, taux réels et dollar trop forts."
+        },
+        {
+          "rev": 2,
+          "date": "2026-08-28",
+          "sign": -1,
+          "amplitude": 0.04,
+          "peak_day": 15,
+          "reversion": -0.02,
+          "reversion_days": 25,
+          "iv_shift": 0.0,
+          "confidence": 0.4,
+          "note": "Correction phase 1 : sens inverse. L'or n'est pas la couverture d'un choc d'offre quand le dollar et les taux réels montent."
+        }
+      ]
+    },
+    {
+      "id": "shocklab-2026-07-equities",
+      "name": "Choc pétrolier — actions US",
+      "asset": "^GSPC",
+      "benchmark": "^GSPC",
+      "stop_date": "2026-08-05",
+      "tags": [
+        "exercice-juillet-2026",
+        "actions",
+        "benchmark"
+      ],
+      "revisions": [
+        {
+          "rev": 1,
+          "date": "2026-07-15",
+          "sign": -1,
+          "amplitude": 0.015,
+          "peak_day": 7,
+          "reversion": -0.01,
+          "reversion_days": 21,
+          "iv_shift": 0.04,
+          "confidence": 0.45,
+          "note": "Non-test par construction : c'est le benchmark de drift. Affiché pour mémoire, exclu du score de signe."
+        }
+      ]
+    },
+    {
+      "id": "shocklab-2026-09-oil-roll",
+      "name": "Pétrole — rouleau septembre (phase 1, à valider)",
+      "asset": "BZ=F",
+      "benchmark": "^GSPC",
+      "stop_date": "2026-10-15",
+      "tags": [
+        "phase-1",
+        "énergie",
+        "à-corriger"
+      ],
+      "revisions": [
+        {
+          "rev": 1,
+          "date": "2026-09-01",
+          "sign": -1,
+          "amplitude": 0.06,
+          "peak_day": 20,
+          "reversion": -0.02,
+          "reversion_days": 30,
+          "iv_shift": -0.05,
+          "confidence": 0.4,
+          "note": "Vue de rentrée : reversion post-choc et IV qui se détend. Première révision prévue à la revue de fin septembre."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Noyau (obligatoire)
+numpy>=1.26
+pandas>=2.1
+flask>=3.0
+
+# Tests
+pytest>=8.0
+
+# Données réelles — optionnel mais recommandé hors sandbox.
+# Sans lui, ShockDesk bascule sur le cache CSV puis sur le générateur synthétique.
+# yfinance>=0.2.40
+
+# Serveur de production (le serveur Flask de développement ne doit pas
+# être exposé). Inutile pour un usage local.
+gunicorn>=21

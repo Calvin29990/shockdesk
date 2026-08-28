@@ -1,0 +1,15 @@
+# Blueprint Render : crée un service web qui se redéploie à chaque push sur la
+# branche suivie. C'est ce qui rend le lien public « vivant ».
+services:
+  - type: web
+    name: shockdesk
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn shockdesk.wsgi:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      - key: SHOCKDESK_DATA_DIR
+        sync: false
