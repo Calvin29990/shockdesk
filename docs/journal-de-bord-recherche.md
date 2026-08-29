@@ -300,5 +300,34 @@ le carnet (100 % imputé au pétrole).
    fausses sur données réelles** (−279 633 $ observé) : elles provenaient du générateur
    synthétique. Atelier 1 corrigé le 30/08/2026 avec les valeurs réelles.
 
+### 9. 🐛 Piège d'interface confirmé : une modification non enregistrée est **silencieusement ignorée**
+
+Constat : trois runs consécutifs annoncés avec `BASE_EXPOSURE` différent (0,85 → 1,00 → 0,40)
+ont produit des résultats **identiques au dollar près** (P&L −279 633 $, `Exposition cible
+82 %`, 60 639 145 $ échangés). Aucune erreur affichée.
+
+Explication dans le code (`shockdesk/web/static/app.js`) :
+
+* `runBacktest()` (l. 506) n'envoie au serveur que `{strategy_id, params}` — **pas le contenu
+  de l'éditeur**. Le serveur relit donc le **fichier enregistré** sur le disque.
+* La sauvegarde passe par `saveCode()` (l. 168), qui PUT sur `/api/strategies/<sid>/code`
+  et affiche un toast `code enregistré dans strategies/…`.
+* Le raccourci `Ctrl+S` (l. 150) est attaché **au seul `textarea` de l'éditeur**. Hors du
+  champ de code, `Ctrl+S` ouvre la boîte « Enregistrer la page » du navigateur et ne
+  sauvegarde rien.
+* `state.dirty` (l. 136) n'est consulté **que** par le garde-fou de fermeture de page
+  (l. 1025). `runBacktest` ne le teste jamais : aucune alerte n'est émise si l'on lance un
+  backtest avec des modifications non enregistrées.
+
+**Correctifs suggérés (phase 2)** : (1) `runBacktest()` doit avertir si `state.dirty` est
+vrai, ou sauver automatiquement avant de lancer ; (2) afficher un indicateur « non
+enregistré » permanent à côté du bouton, pas seulement à la fermeture ; (3) attacher
+`Ctrl+S` au document, pas au seul éditeur.
+
+**Règle d'atelier à retenir** : dans ShockDesk, *sauvegarder puis lancer* — et ne faire
+confiance qu'au toast `code enregistré dans strategies/…`. Le témoin de bonne exécution est
+dans le journal d'exécution : `Exposition cible = BASE_EXPOSURE × confiance × 1,6`, soit
+**38 %** pour `0.40`, **82 %** pour `0.85`, **96 %** pour `1.00`.
+
 ---
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
