@@ -238,4 +238,67 @@ reproductibles que sous Yahoo (sous générateur synthétique : +385 544 $, Shar
   au pic — la vue directionnelle seule, tenue jusqu'au stop, perd.
 
 ---
+
+## 📅 Log du 30 Août 2026 (2) — Atelier 1 exécuté : valeur du timing sur données réelles
+
+### 1. 📐 Résultat brut (`TAKE_PROFIT_AT_PEAK`, 25,5 M$, 2026-07-01 → 2026-08-29, 42 barres, yfinance)
+
+| | `True` | `False` | Écart |
+|---|---|---|---|
+| **P&L** | **+337 887 $ (+1,32 %)** | **−279 633 $ (−1,10 %)** | **−617 520 $** |
+| Sharpe | 1,67 | −1,66 | — |
+| Sortino | 15,91 | −1,73 | — |
+| Vol annualisée | 2,40 % | 6,45 % | ×2,7 |
+| Drawdown max | −0,08 % | −3,60 % | ×45 |
+| Calmar | 102,37 | −1,82 | — |
+| Win rate | 7,3 % | 14,6 % | — |
+| Alpha (`^GSPC` +3,05 %) | −1,73 % | **−4,15 %** | — |
+| β | −0,05 | −0,41 | — |
+| Trades | 21 | 21 | — |
+
+**Journal moteur, sorties loguées :**
+* `True` → `2026-07-22 — Sortie J+7 (pic modèle) — P&L +359 323 (+1,41 %)`
+* `False` → `2026-08-05 — Sortie J+21 (stop calendar) — P&L −258 457 (−1,01 %)`
+
+### 2. 🔍 Décomposition de la casse (−617 520 $)
+
+| Ligne | `True` | `False` | Écart | Part de la casse |
+|---|---|---|---|---|
+| `BZ=F` | +187,1 k | −117,5 k | **−304,6 k** | **49 %** |
+| `^GSPC` | +82,0 k | −213,4 k | **−295,4 k** | **48 %** |
+| `DBC` | +46,7 k | −16,9 k | −63,6 k | 10 % |
+| `DX-Y.NYB` | +5,3 k | −10,7 k | −16,0 k | 3 % |
+| `TLT` | −24,6 k | −27,4 k | −2,8 k | 0,5 % |
+| `HYG` | −11,7 k | −1,0 k | +10,7 k | −2 % |
+| `GC=F` | +53,0 k | +107,2 k | **+54,2 k** | **−9 % (compense)** |
+
+**Deux lignes se partagent 97 % du dégât, à parts égales.** Ce n'est pas ce que disait
+le carnet (100 % imputé au pétrole).
+
+### 3. 💡 Enseignements à retenir
+
+1. **Le signal de timing vaut 617 520 $ (2,42 % du capital) sur ce seul exercice** —
+   davantage que le P&L total de la stratégie en l'absence de sortie au pic.
+2. **La couverture actions est le vrai deuxième risque.** Le short `^GSPC` gagne +82,0 k$
+   pendant le choc, puis le marché repasse au-dessus du prix d'entrée
+   (7 568,614 → 7 727,412, soit +2,10 %) et la ligne devient la deuxième perte du book.
+   Un take-profit au pic protège autant la couverture que la vue directionnelle.
+3. **L'or est le contre-exemple : il gagne à tenir** (+54,2 k$ de plus en J+21). Une sortie
+   au pic n'est pas optimale *ligne par ligne* — elle l'est au niveau du *portefeuille*.
+   À ne pas confondre avec l'Atelier 3 : sur données réelles, l'or est une ligne gagnante
+   dans les deux configurations.
+4. **Le take-profit divise la volatilité par 2,7 et le drawdown par 45** (6,45 % → 2,40 %,
+   −3,60 % → −0,08 %). C'est un effet de gestion du risque, pas seulement de performance.
+5. **L'artefact `r2` est stable et mesurable** : P&L logué − P&L final = **−21 436 $** (`True`)
+   et **−21 176 $** (`False`), soit ~0,08 % du capital dans les deux cas. Il s'agit
+   d'une position ouverte sur la dernière barre, jamais débouclée. Correction suggérée
+   (phase 2) : neutraliser le P&L des positions non débouclées en fin de backtest.
+6. **Le scorecard est indépendant du paramètre** (4/6 · 7,0 j · 1,07x dans les deux runs) :
+   le score mesure la qualité des prévisions, pas celle de l'exécution. Bon point de
+   conception à conserver.
+7. ⚠️ **Les fourchettes du carnet d'entraînement pour `False` (« −4 k$ à +99 k$ ») sont
+   fausses sur données réelles** (−279 633 $ observé) : elles provenaient du générateur
+   synthétique. Atelier 1 corrigé le 30/08/2026 avec les valeurs réelles.
+
+---
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*

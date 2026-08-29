@@ -24,11 +24,45 @@
   ```python
   TAKE_PROFIT_AT_PEAK = False   # Passez de True à False
   ```
-* **Ce qu'il faut observer** :
-  1. Regardez la **Courbe d'équité** : Au lieu de rester plate après le 22 juillet, elle rechute fortement pendant la première semaine d'août !
-  2. Regardez la carte **P&L** : Le gain passe de **+337 k$ (+1,32 %)** à environ **−4 k$ à +99 k$** selon les dates.
-  3. Regardez la ligne **`BZ=F` dans le tableau d'attribution** : Elle passe de **+187 k$** (en vert) à **−94 k$** (en rouge) !
-* **Diagnostic Desk** : Le pétrole s'est effondré de +18,5 % à −6,5 % entre le 23 juillet et le 5 août. En désactivant le take-profit à J+7, vous avez laissé le marché vous reprendre tous vos gains sur le brut.
+* **Ce qu'il faut observer** — valeurs **vérifiées le 30/08/2026** sur données réelles Yahoo
+  (25,5 M$, `global-macro`, 2026-07-01 → 2026-08-29, 42 barres) :
+
+  | | `True` (référence) | `False` (votre test) | Écart |
+  |---|---|---|---|
+  | **P&L** | **+337 887 $ (+1,32 %)** | **−279 633 $ (−1,10 %)** | **−617 520 $** |
+  | Sharpe | 1,67 | −1,66 | |
+  | Vol annualisée | 2,40 % | 6,45 % | ×2,7 |
+  | Drawdown max | −0,08 % | −3,60 % | ×45 |
+  | `BZ=F` | +187,1 k$ | **−117,5 k$** | −304,6 k$ |
+  | `^GSPC` | +82,0 k$ | **−213,4 k$** | −295,4 k$ |
+  | `GC=F` | +53,0 k$ | **+107,2 k$** | **+54,2 k$** |
+  | `DBC` | +46,7 k$ | −16,9 k$ | −63,6 k$ |
+  | `DX-Y.NYB` | +5,3 k$ | −10,7 k$ | −16,0 k$ |
+  | `TLT` | −24,6 k$ | −27,4 k$ | −2,8 k$ |
+  | `HYG` | −11,7 k$ | −1,0 k$ | +10,7 k$ |
+
+  1. **La courbe d'équité** : au lieu de rester plate après le 22 juillet, elle dévisse
+     jusqu'au 5 août — le drawdown passe de −0,08 % à **−3,60 %**.
+  2. **La carte P&L** : +337 887 $ → **−279 633 $**. (Le carnet annonçait « −4 k$ à +99 k$ » :
+     cette fourchette venait du générateur synthétique, elle est **fausse sur données réelles**.)
+  3. **La ligne `BZ=F`** : +187,1 k$ → **−117,5 k$**. Le Brent est passé de **+18,4 % au pic
+     (J+8)** à **−6,6 % au stop** (acheté 84,99, revendu 79,41).
+
+* **Diagnostic Desk (corrigé le 30/08/2026)** : le carnet imputait toute la casse au pétrole.
+  Sur données réelles, c'est **deux lignes à parts égales** :
+  1. **Le pétrole : 304,6 k$ (49 % de la casse).** Vous avez laissé le marché vous reprendre
+     le gain sur le brut.
+  2. **Votre couverture actions : 295,4 k$ (48 %).** C'est la leçon que le carnet oubliait.
+     Le short S&P a très bien payé pendant le choc (+82 k$), puis le marché est remonté
+     **au-dessus de votre prix d'entrée** (7 568,61 → 7 727,41) : la couverture est devenue
+     une perte.
+  3. **Contre-exemple, l'or : +54,2 k$ en tenant plus longtemps** (+53,0 k$ → +107,2 k$).
+     Sortir au pic n'est pas optimal pour *chaque* ligne — ça l'est pour le *book*.
+
+  → **La vraie leçon** : le take-profit à J+7 ne protège pas seulement la vue pétrole, il
+  protège **le book entier**, parce que la couverture qui paie dans le krach devient un
+  passif dans le rebond. Un signal de timing se juge au niveau du portefeuille, jamais
+  ligne par ligne.
 * **Action** : Remettez `TAKE_PROFIT_AT_PEAK = True` pour reverrouiller le gain au sommet.
 
 ---
@@ -161,7 +195,7 @@
 
 | Atelier | Thème | Paramètre testé | Statut | Mon diagnostic / Remarque |
 |---|---|---|---|---|
-| **Atelier 1** | Timing de sortie | `TAKE_PROFIT_AT_PEAK = False` | 🔲 À faire | |
+| **Atelier 1** | Timing de sortie | `TAKE_PROFIT_AT_PEAK = False` | ✅ Fait · 30/08 | +337 887 $ → **−279 633 $** (−617 520 $). Casse : `BZ=F` −304,6 k + `^GSPC` −295,4 k, compensées par `GC=F` +54,2 k. Le timing protège le book, pas la ligne. |
 | **Atelier 2** | Exposition globale | `BASE_EXPOSURE = 0.40 / 1.00` | 🔲 À faire | |
 | **Atelier 3** | Nettoyage du Miss | `BOOK['GC=F'] = 0.00` | 🔲 À faire | |
 | **Atelier 4** | Long Strangle | Stratégie gamma | 🔲 À faire | |
