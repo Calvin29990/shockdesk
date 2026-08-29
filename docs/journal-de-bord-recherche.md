@@ -145,4 +145,97 @@
   du book, et le candidat n°1 de l'Atelier 3.
 
 ---
+
+## 📅 Log du 30 Août 2026 — Captures reçues : validation sur données réelles (yfinance)
+
+### 0. 🔬 Conditions du run utilisateur
+
+* `shock-lab-oil` · `global-macro` · 25,5 M$ · **2026-07-01 → 2026-08-29** · **42 barres**
+* Source : **yfinance — données réelles Yahoo Finance** (badge vert). Runtime : **36,7 s**.
+* Paramètres : `TAKE_PROFIT_AT_PEAK = True`, `BASE_EXPOSURE = 0.85`, book inchangé.
+* Le registre de prévisions du dépôt est **inchangé** : `GC=F r2` (publiée 2026-08-28) et
+  `shocklab-2026-09-oil-roll` (publiée 2026-09-01) font partie de `config/forecasts.json`
+  d'origine. Les chiffres diffèrent des sessions précédentes **parce que la source est
+  réelle**, pas parce qu'un fichier a bougé.
+
+### 1. ✅ Référence de l'Atelier 1 confirmée au dollar près
+
+| Métrique | Carnet / log du 30/08 | Run réel utilisateur |
+|---|---|---|
+| P&L | +337 887 $ (+1,32 %) | **+337 887 $ (+1,32 %)** ✔ |
+| Sharpe | 1,67 | **1,67** ✔ |
+| Max drawdown | −0,08 % | **−0,08 %** ✔ |
+| `BZ=F` | +187 k$ | **+187,1 k$** ✔ |
+
+Les repères du carnet sont donc bien établis sur **données réelles** — et ne sont
+reproductibles que sous Yahoo (sous générateur synthétique : +385 544 $, Sharpe 2,26).
+
+### 2. ❌ Correction majeure : l'or n'est PAS le miss sur données réelles
+
+* Run réel : `GC=F` = **+53,0 k$** (P&L réalisé **+54 084 $** dans la table des positions).
+* Carnet (Atelier 3) et log du 30/08 : `GC=F` = **−71 k$**, qualifié de « miss de l'exercice ».
+* Contrôle fait le 29/08 sous générateur synthétique : `GC=F` = **−69 978 $ / −71 012 $**.
+  → Le chiffre de −71 k$ est un **artefact du générateur synthétique**, indûment recopié
+  comme un fait de marché.
+* Confirmation indépendante par le scorecard de l'utilisateur : « accord de signe **4/6** ·
+  **misses : HYG, TLT** ». L'or y est marqué **✔** (amplitude réelle 4,9 % vs 3,0 %,
+  **x1,63** ; net du drift **+4,89 %** ; pic réel J+21).
+* Sur données réelles, les deux seules lignes négatives sont **HYG −11,7 k$** et
+  **TLT −24,6 k$**. La narration « or = refuge défaillant » est donc **fausse sur Yahoo**.
+* **Conséquence directe pour l'Atelier 3** : passer `BOOK['GC=F'] = 0.00` **retirera ~+53 k$**
+  au lieu d'en ajouter ~+71 k$. Le P&L passerait de +337,9 k$ à **≈ +285 k$**, et non à
+  « plus de +400 k$ ».
+
+### 3. ⚠️ Le book sous-performe son benchmark
+
+* Benchmark `^GSPC` **+3,05 %** sur la fenêtre contre **+1,32 %** pour le book
+  → **alpha −1,73 %**, β −0,05.
+* Mécanisme : le book encaisse le choc entre le 15 et le 22 juillet (sortie J+7), puis
+  **reste en cash** pendant que les actions remontent. `^GSPC` rapporte +82,0 k$ sur la
+  première semaine, mais le rallye suivant n'est pas capté.
+* Le verdict « **Excellente** » du log du 30/08 est **benchmark-blind** : à reformuler en
+  « excellente sur le choc, en retrait sur la fenêtre complète ».
+
+### 4. 🧟 Artefact `r2` confirmé sur données réelles
+
+* Journal moteur : sortie J+7 loguée à **+359 323 $** ; P&L final **+337 887 $**.
+* Écart : **−21 436 $**. Décomposition (table des positions, book ré-ouvert le 2026-08-28
+  sur 7 lignes et jamais débouclé) : ~**−11,8 k$** de frais d'entrée sur ~21 M$ d'exposition
+  brute (slippage 5 bps + commissions) + ~**−9,7 k$** de latents.
+* Le P&L affiché mélange donc un trade terminé et une position ouverte.
+
+### 5. 📉 Métriques non significatives (aggravées ici)
+
+* **Sortino 15,91** et **Calmar 102,37** : purs produits d'un drawdown max de 0,08 % sur
+  42 barres (CAGR 8,43 / DD 0,08 ≈ 105). Non publiable.
+* **Win rate 7,3 %** sur 21 trades (3 passes × 7 lignes) : la métrique compte des lignes,
+  pas des décisions de trading.
+
+### 6. 🎯 Score des prévisions : dépendant de la source
+
+| | Données réelles (utilisateur) | Synthétique (29/08) |
+|---|---|---|
+| Accord de signe net du drift | **4/6** | 5/6 |
+| Erreur de pic médiane | **7,0 j** | 3,17 j |
+| Ratio d'amplitude médian | **1,07x** | 1,47x |
+
+### 7. 🐛 Bug d'interface identifié (à corriger en phase 2)
+
+* `shockdesk/web/static/app.js:791` : `(q.net_premium < 0 ? "débit" : "crédit")`
+  — **convention inversée** par rapport à la ligne 687 du même fichier
+  (`s.cost >= 0 ? "débit" : "crédit"`, elle correcte).
+* Symptôme visible sur la capture « Options » : *Long strangle SPY 30 j — prime nette
+  10,69 **(crédit)***, alors que la structure est achetée (perte max = prime payée = 10,69).
+  Le CLI n'affiche pas le label et reste correct.
+
+### 8. 🛢️ Le scénario pétrole, validé sur données réelles
+
+* `BZ=F` r1 : amplitude réelle au pic **18,4 % vs 5,0 % → x3,68** (confirme le facteur
+  consigné le 30/08) ; pic réel **J+8**, écart +1 j ; MFE/MAE 18,42 % / −6,47 %.
+* Mais en fin de fenêtre de validation (→ 2026-08-05) : **brut −6,47 %, net du drift
+  −6,38 %**. C'est la quantification exacte de la leçon de l'Atelier 1 : **au stop calendar,
+  le Brent était sous le prix d'entrée.** Toute la performance du book vient de la sortie
+  au pic — la vue directionnelle seule, tenue jusqu'au stop, perd.
+
+---
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*

@@ -59,6 +59,16 @@
   * Le P&L global grimpe immédiatement à plus de **+400 k$**.
 * **Diagnostic Desk** : Dans un choc pétrolier avec hausse conjointe des taux réels et du dollar, l'or ne joue pas son rôle de refuge. Supprimer cette ligne assainit le portefeuille.
 
+> ⚠️ **Note de vérification ajoutée le 30/08/2026** — à relire avant de faire l'atelier.
+> Sur **données réelles Yahoo** (run du 29/08, `TAKE_PROFIT_AT_PEAK = True`), l'or ressort à
+> **+53,0 k$**, pas à −71 k$ : le scorecard marque `GC=F` **✔** (amplitude 4,9 % vs 3,0 %
+> prévus, x1,63) et ne liste comme misses que **HYG** et **TLT**. Le chiffre de −71 k$
+> vient du **générateur synthétique** (mesuré à −69 978 $ le 29/08) et ne se vérifie pas
+> sur le marché réel.
+> **Attendez-vous donc à l'inverse du résultat annoncé** : mettre `GC=F` à 0.00 devrait
+> faire *baisser* le P&L d'environ 53 k$ (de ~+338 k$ à ~+285 k$), pas le faire grimper à
+> +400 k$. C'est un excellent exercice : mesurez-le, et dites-moi ce que vous trouves.
+
 ---
 
 # ⚔️ NIVEAU 2 — EXPLORATION DES STRATÉGIES ALTERNATIVES
