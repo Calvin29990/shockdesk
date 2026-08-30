@@ -436,15 +436,20 @@ class BacktestEngine:
         return config.get_asset(asset).multiplier
 
     @staticmethod
-    def _contract_size(asset: AssetKey) -> float:
-        """Unités du sous-jacent couvertes par un contrat (1 pour une part d'ETF)."""
+    def _option_contract_size(asset: AssetKey) -> float:
+        """Unités du sous-jacent couvertes par un contrat d'OPTION.
+
+        Les quantités du moteur sont en unités du sous-jacent (des parts), le
+        frais est facturé par contrat : il faut donc le diviseur du contrat
+        d'option, pas la taille du contrat au comptant. Une option US sur une
+        action, un ETF ou un indice porte 100 parts ; une option sur future
+        porte la taille du contrat à terme (1 000 barils, 100 onces).
+        """
         try:
-            return float(config.get_asset(asset.underlying).contract_size) or 1.0
+            return float(config.get_asset(
+                asset.underlying).effective_option_contract_size) or 1.0
         except Exception:
-            try:
-                return float(config.get_asset(asset).contract_size) or 1.0
-            except Exception:
-                return 1.0
+            return 1.0
 
     # ------------------------------------------------------------------ #
     # Exécution
@@ -504,14 +509,21 @@ class BacktestEngine:
             mult = self._multiplier(asset)
             gross = o.amount * exec_px * mult
             if isinstance(asset, opt.OptionContract):
-                # Les quantités du moteur sont en unités du sous-jacent, alors que
-                # le frais est facturé par contrat : on ramène donc la quantité au
-                # nombre de contrats réels. Sans ça, une option à 4,25 $ l'unité
-                # payait 0,65 $ de frais, soit ~15 % de la prime (et ~30 % l'aller-
-                # retour), ce qui rendait toute stratégie d'options structurellement
-                # perdante. 1 contrat Brent = 1 000 barils, 1 contrat or = 100 onces.
-                commission = abs(o.amount) / self._contract_size(asset) \
-                    * s.commission_per_contract
+                # Les quantités du moteur sont en unités du sous-jacent (des
+                # parts), alors que le frais est facturé par contrat : on ramène
+                # donc la quantité au nombre de contrats réels. Le diviseur est
+                # la taille du contrat D'OPTION — 100 parts pour une option US
+                # sur action, ETF ou indice ; la taille du contrat à terme pour
+                # une option sur future (1 contrat Brent = 1 000 barils, or =
+                # 100 onces). Utiliser la taille du contrat au comptant (1 pour
+                # une part d'ETF) facturait 100× trop de contrats : 479,70 $ de
+                # frais sur une jambe de 1 228 $, soit 39 % du brut, ce qui
+                # rendait toute stratégie d'options sur ETF perdante par
+                # construction. Le plancher par ordre est conservé : un broker
+                # facture au minimum un ticket, même pour un demi-contrat.
+                contracts = abs(o.amount) / self._option_contract_size(asset)
+                commission = max(contracts * s.commission_per_contract,
+                                 s.commission_min)
             else:
                 commission = max(abs(o.amount) * s.commission_per_share, s.commission_min)
             self.portfolio.cash -= gross
