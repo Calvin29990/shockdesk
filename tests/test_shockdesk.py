@@ -224,6 +224,52 @@ def test_les_frais_coutent():
     assert len(b["trades"]) == 1
 
 
+OPTION_FEE_CODE = """
+def initialize(context):
+    schedule_function(buy, date_rules.every_day())
+
+def buy(context, data):
+    if not context.portfolio.positions:
+        c = option_contract('{sym}', 'call', moneyness=1.0, days=21)
+        order(c, 1000)
+"""
+
+
+def test_les_frais_option_sont_comptes_par_contrat():
+    """1 000 parts d'option = 10 contrats sur un ETF, 1 contrat sur le Brent.
+
+    Le piège corrigé le 30 août 2026 : le moteur divisait la quantité par la
+    taille du contrat AU COMPTANT (1 part pour un ETF), donc il facturait
+    1 000 contrats au lieu de 10 — 100× trop de frais. Sur l'atelier « iron
+    condor de range », les frais passaient de 30 870 $ à 313 $ pour 138 773 $
+    de volume échangé, et le P&L de −29 157 $ à +1 434 $.
+    """
+    st = EngineSettings(commission_per_share=0.0, commission_min=0.0,
+                        slippage_bps=0.0, commission_per_contract=0.65)
+    for sym, uni, parts_par_contrat in (("SPY", "us-equities", 100.0),
+                                        ("BZ=F", "options-lab", 1000.0)):
+        panel = load_panel(uni, "2026-06-01", "2026-07-15", source="synthetic")
+        eng = BacktestEngine(panel, uni, 100000, settings=st)
+        res = eng.run(OPTION_FEE_CODE.format(sym=sym))
+        assert res["error"] is None, res["error"]
+        assert res["trades"], "aucun ordre exécuté"
+        attendu = 1000.0 / parts_par_contrat * 0.65
+        for t in res["trades"]:
+            assert t["commission"] == pytest.approx(attendu, abs=0.01)
+
+
+def test_taille_des_contrats_d_option_par_type_d_actif():
+    """Une option US sur action/ETF/indice porte 100 parts ; sur future, la
+    taille du contrat à terme."""
+    assert config.get_asset("SPY").effective_option_contract_size == 100.0
+    assert config.get_asset("QQQ").effective_option_contract_size == 100.0
+    assert config.get_asset("AAPL").effective_option_contract_size == 100.0
+    assert config.get_asset("^GSPC").effective_option_contract_size == 100.0
+    assert config.get_asset("BZ=F").effective_option_contract_size == 1000.0
+    assert config.get_asset("GC=F").effective_option_contract_size == 100.0
+    assert config.get_asset("SI=F").effective_option_contract_size == 5000.0
+
+
 SHORT_CODE = """
 def initialize(context):
     context.a = symbol('^GSPC')

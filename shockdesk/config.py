@@ -67,11 +67,20 @@ class AssetSpec:
     iv_skew: float = -0.25               # pente du sourire (put plus chers)
     iv_term: float = 0.10                # pente de la structure en terme (log(T/30j))
     multiplier: float = 1.0
-    # Taille d'un contrat réel, exprimée en unités du sous-jacent. Le moteur
-    # raisonne en unités (1 unité = 1 baril, 1 once, 1 part d'ETF) ; ce champ
-    # sert à ramener une quantité en nombre de contrats pour les frais par
-    # contrat. 1 000 barils pour le Brent, 100 onces pour l'or, 1 pour un ETF.
+    # Taille d'un contrat au comptant / à terme, exprimée en unités du
+    # sous-jacent. Le moteur raisonne en unités (1 unité = 1 baril, 1 once,
+    # 1 part d'ETF) ; ce champ sert à ramener une quantité en nombre de
+    # contrats pour les frais par contrat sur le sous-jacent lui-même.
+    # 1 000 barils pour le Brent, 100 onces pour l'or, 1 pour un ETF.
     contract_size: float = 1.0
+    # Taille d'un contrat d'OPTION sur ce sous-jacent, en unités du sous-jacent.
+    # Ce n'est PAS ``contract_size`` : une option US sur une action, un ETF ou
+    # un indice porte 100 parts, alors que la part d'ETF se négocie à l'unité.
+    # Confondre les deux facturait 738 parts d'option SPY comme 738 contrats,
+    # soit 479,70 $ de frais au lieu de 4,80 $ — un surcoût de 100× qui rendait
+    # toute stratégie d'options sur ETF structurellement perdante.
+    # 0 -> dérivé du type d'actif (voir ``effective_option_contract_size``).
+    option_contract_size: float = 0.0
     tick: float = 0.05
     options: bool = True
     asset_class: str = "autres"          # classe d'actif, pour l'attribution
@@ -80,6 +89,21 @@ class AssetSpec:
     @property
     def effective_iv_base(self) -> float:
         return self.iv_base if self.iv_base > 0 else self.ann_vol * 1.12
+
+    @property
+    def effective_option_contract_size(self) -> float:
+        """Unités du sous-jacent couvertes par UN contrat d'option.
+
+        Options cotées US sur actions, ETF et indices : 100 parts par contrat
+        (le multiplicateur de l'option, pas celui de la part). Options sur
+        contrats à terme : la taille du contrat à terme (1 000 barils pour le
+        Brent, 100 onces pour l'or, 5 000 onces pour l'argent).
+        """
+        if self.option_contract_size > 0:
+            return self.option_contract_size
+        if self.asset_type in ("equity", "etf", "index"):
+            return 100.0
+        return self.contract_size or 1.0
 
 
 # --------------------------------------------------------------------------- #
@@ -218,6 +242,10 @@ def asset_dict(symbol: str) -> dict:
         "options": a.options,
         "unit": a.unit,
         "multiplier": a.multiplier,
+        "contract_size": a.contract_size,
+        # Taille d'un contrat d'option : c'est le diviseur des frais par
+        # contrat. Exposé pour que l'interface puisse afficher « 100 parts ».
+        "option_contract_size": a.effective_option_contract_size,
         "loadings": dict(a.loadings),
     }
 
