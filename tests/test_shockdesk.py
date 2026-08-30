@@ -142,6 +142,49 @@ def test_strangle_long_coute_et_short_encaisse():
 
 
 # --------------------------------------------------------------------------- #
+# Atelier options — verrous anti-artefacts (30/08/2026)
+# --------------------------------------------------------------------------- #
+def test_lab_reference_stable():
+    """Les valeurs de référence de l'atelier Options ne doivent pas bouger."""
+    q = api.option_lab("SPY", "strangle", days=30, width=0.03)
+    assert q["net_premium"] == pytest.approx(10.69, abs=0.01)
+    assert q["greeks"]["vega"] == pytest.approx(1.242, abs=1e-3)
+    assert q["greeks"]["theta"] == pytest.approx(-0.344, abs=1e-3)
+    assert len(q["breakevens"]) == 2
+    assert q["warnings"] == []                      # aucune alerte en régime normal
+    st = api.option_lab("SPY", "straddle", days=30, width=0.03)
+    assert st["net_premium"] == pytest.approx(24.40, abs=0.01)
+
+
+def test_lab_choc_irrealiste_est_signalé():
+    """+1000 pts d'IV : le lab doit le dire, pas l'écrêter en silence."""
+    q = api.option_lab("SPY", "strangle", days=30, width=0.03, iv_shift=10.0)
+    assert any("plafonnée" in w for w in q["warnings"])
+    assert all(l["iv"] == 4.0 for l in q["legs"])   # surface bornée à 400 %
+    # Les points morts existent bel et bien — la grille doit les suivre.
+    be = q["breakevens"]
+    assert len(be) == 2 and be[0] < 642 < be[1]
+
+
+def test_lab_bornes_de_payoff_declarees():
+    """Un strangle acheté a un gain illimité ; un short strangle une perte
+    non bornée. Les bornes sont déclarées par structure, pas déduites d'une
+    grille d'évaluation."""
+    long_ = api.option_lab("SPY", "strangle", days=30)
+    assert long_["max_loss_bounded"] and not long_["max_gain_bounded"]
+    short = api.option_lab("SPY", "short_strangle", days=30)
+    assert short["max_gain_bounded"] and not short["max_loss_bounded"]
+    butterfly = api.option_lab("SPY", "butterfly", days=30)
+    assert butterfly["max_loss_bounded"] and butterfly["max_gain_bounded"]
+
+
+def test_surface_iv_est_bornée():
+    spec = config.get_asset("SPY")
+    assert opt.iv_surface(spec, 1.0, 30 / 365, iv_shift=100.0) == pytest.approx(4.0)
+    assert opt.iv_surface(spec, 1.0, 30 / 365, iv_shift=-100.0) == pytest.approx(0.02)
+
+
+# --------------------------------------------------------------------------- #
 # Moteur
 # --------------------------------------------------------------------------- #
 BUY_HOLD = """

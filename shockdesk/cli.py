@@ -166,8 +166,13 @@ def main(argv=None):
                              width=args.width, iv_shift=args.iv_shift)
         print(f"\n{out['name']} sur {args.underlying} "
               f"({out['underlying_name']}) — {out['days']} j")
-        print(f"  spot {out['spot']:.2f} · prime nette {out['net_premium']:.2f} · "
-              f"perte max {out['max_loss']:.2f} · gain max {out['max_profit']:.2f}")
+        print(f"  spot {out['spot']:.2f} · prime nette {out['net_premium']:.2f}")
+        for w in out.get("warnings", []):
+            print(f"  ⚠ {w}")
+        print(f"  perte max " + (f"{out['max_loss']:.2f}" if out["max_loss_bounded"]
+                                else "non bornée (structure vendeuse)"))
+        print(f"  gain max " + (f"{out['max_profit']:.2f}" if out["max_gain_bounded"]
+                                else "illimité (structure acheteuse)"))
         print(f"  points morts : {', '.join(f'{b:.2f}' for b in out['breakevens'])}")
         g = out["greeks"]
         print(f"  delta {g['delta']:+.2f} · gamma {g['gamma']:+.4f} · "

@@ -244,6 +244,11 @@ class Structure:
     days: int
     spot: float
     note: str = ""
+    # Bornes théoriques du payoff (déclarées par structure, pas déduites d'une
+    # grille d'évaluation) : permettent à l'interface d'afficher « illimité »
+    # au lieu d'un artefact de grille.
+    max_loss_bounded: bool = True
+    max_gain_bounded: bool = True
 
     @property
     def net_premium(self) -> float:
@@ -280,19 +285,35 @@ class Structure:
         return tot
 
     def breakevens(self) -> List[float]:
+        """Points morts de la structure (payoff nul).
+
+        La fenêtre de recherche est étendue par la prime nette : une prime
+        extrême (choc d'IV démesuré) repousse les points morts loin des
+        strikes, et la grille doit les suivre — sinon l'interface affiche un
+        résultat vide au lieu d'un vrai point mort.
+        """
         lo = min(l.strike for l in self.legs)
         hi = max(l.strike for l in self.legs)
         span = max(hi - lo, max(self.spot * 0.05, 1e-9))
-        start = lo - 1.5 * span
-        grid = [start + i * (4.0 * span) / 4000 for i in range(4001)]
+        pad = 2.0 * span + abs(self.net_premium)
+        start = max(lo - pad, self.spot * 0.01)
+        end = hi + pad
+        grid = [start + i * (end - start) / 4000 for i in range(4001)]
         vals = [self.payoff(s) for s in grid]
-        out = []
-        for i in range(len(grid) - 1):
-            if vals[i] == 0:
-                out.append(grid[i])
-            elif vals[i] * vals[i + 1] < 0:
-                t = abs(vals[i]) / (abs(vals[i]) + abs(vals[i + 1]))
-                out.append(grid[i] + t * (grid[i + 1] - grid[i]))
+        # On ne conserve que les franchissements : les plateaux exactement à
+        # zéro (ailes de butterfly, plages plates) ne produisent qu'un seul
+        # point de bord au lieu d'une liste de points de grille redondants.
+        out: List[float] = []
+        prev_s: Optional[float] = None
+        prev_v: Optional[float] = None
+        for s, v in zip(grid, vals):
+            if v == 0.0:
+                if prev_v is not None and prev_v != 0.0:
+                    out.append(s)
+            elif prev_v is not None and prev_v != 0.0 and prev_v * v < 0.0:
+                t = abs(prev_v) / (abs(prev_v) + abs(v))
+                out.append(prev_s + t * (s - prev_s))
+            prev_s, prev_v = s, v
         return out
 
     def _eval_grid(self, n: int = 1200) -> List[float]:
@@ -328,6 +349,8 @@ class Structure:
             "cost": self.cost,
             "max_loss": self.max_loss(),
             "max_profit": self.max_profit(),
+            "max_loss_bounded": self.max_loss_bounded,
+            "max_gain_bounded": self.max_gain_bounded,
             "breakevens": be,
             "greeks": g,
             "note": self.note,
@@ -341,16 +364,16 @@ class Structure:
 
 
 CATALOG: Dict[str, dict] = {
-    "strangle": {"label": "Long strangle", "desc": "Call OTM + put OTM. Long gamma / long vega : paie si le sous-jacent bouge fort dans un sens ou dans l'autre, sans payer l'ATM."},
-    "short_strangle": {"label": "Short strangle", "desc": "Vente call OTM + put OTM. Encaisse la prime, gagne si le sous-jacent reste dans le range. Risque illimité."},
-    "straddle": {"label": "Long straddle", "desc": "Call ATM + put ATM. Le plus pur pari sur l'amplitude, le plus cher en prime."},
-    "butterfly": {"label": "Call butterfly", "desc": "+1 / -2 / +1 calls équidistants. Gagne si le sous-jacent finit sur le corps, coût faible, gain plafonné."},
-    "put_butterfly": {"label": "Put butterfly", "desc": "+1 / -2 / +1 puts équidistants. Miroir du call butterfly."},
-    "iron_condor": {"label": "Iron condor", "desc": "Put spread vendeur + call spread vendeur. Range borné, risque borné, carry de prime."},
-    "call_spread": {"label": "Bull call spread", "desc": "Achat call + vente call plus haut. Vue haussière à coût réduit, gain plafonné."},
-    "put_spread": {"label": "Bear put spread", "desc": "Achat put + vente put plus bas. Vue baissière à coût réduit, gain plafonné."},
-    "risk_reversal": {"label": "Risk reversal", "desc": "Vente put OTM + achat call OTM. Directionnel haussier quasi gratuit, finance le call par le put."},
-    "calendar": {"label": "Calendar spread", "desc": "Vente court terme + achat long terme même strike. Joue la différence de theta et la remontée d'IV."},
+    "strangle": {"label": "Long strangle", "max_loss_bounded": True, "max_gain_bounded": False, "desc": "Call OTM + put OTM. Long gamma / long vega : paie si le sous-jacent bouge fort dans un sens ou dans l'autre, sans payer l'ATM."},
+    "short_strangle": {"label": "Short strangle", "max_loss_bounded": False, "max_gain_bounded": True, "desc": "Vente call OTM + put OTM. Encaisse la prime, gagne si le sous-jacent reste dans le range. Risque illimité."},
+    "straddle": {"label": "Long straddle", "max_loss_bounded": True, "max_gain_bounded": False, "desc": "Call ATM + put ATM. Le plus pur pari sur l'amplitude, le plus cher en prime."},
+    "butterfly": {"label": "Call butterfly", "max_loss_bounded": True, "max_gain_bounded": True, "desc": "+1 / -2 / +1 calls équidistants. Gagne si le sous-jacent finit sur le corps, coût faible, gain plafonné."},
+    "put_butterfly": {"label": "Put butterfly", "max_loss_bounded": True, "max_gain_bounded": True, "desc": "+1 / -2 / +1 puts équidistants. Miroir du call butterfly."},
+    "iron_condor": {"label": "Iron condor", "max_loss_bounded": True, "max_gain_bounded": True, "desc": "Put spread vendeur + call spread vendeur. Range borné, risque borné, carry de prime."},
+    "call_spread": {"label": "Bull call spread", "max_loss_bounded": True, "max_gain_bounded": True, "desc": "Achat call + vente call plus haut. Vue haussière à coût réduit, gain plafonné."},
+    "put_spread": {"label": "Bear put spread", "max_loss_bounded": True, "max_gain_bounded": True, "desc": "Achat put + vente put plus bas. Vue baissière à coût réduit, gain plafonné."},
+    "risk_reversal": {"label": "Risk reversal", "max_loss_bounded": True, "max_gain_bounded": False, "desc": "Vente put OTM + achat call OTM. Directionnel haussier quasi gratuit, finance le call par le put."},
+    "calendar": {"label": "Calendar spread", "max_loss_bounded": True, "max_gain_bounded": True, "desc": "Vente court terme + achat long terme même strike. Joue la différence de theta et la remontée d'IV."},
 }
 
 
@@ -439,4 +462,6 @@ def build_structure(kind: str, underlying: str, spot: float, days: int = 30,
 
     return Structure(name=CATALOG.get(kind, {}).get("label", kind), underlying=underlying,
                      legs=legs, days=days, spot=spot,
+                     max_loss_bounded=bool(CATALOG.get(kind, {}).get("max_loss_bounded", True)),
+                     max_gain_bounded=bool(CATALOG.get(kind, {}).get("max_gain_bounded", True)),
                      note=note or CATALOG.get(kind, {}).get("desc", ""))
