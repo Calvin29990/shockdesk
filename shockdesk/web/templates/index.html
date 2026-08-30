@@ -180,9 +180,9 @@
       <label class="field"><span>sous-jacent</span><select id="op-underlying"></select></label>
       <label class="field"><span>structure</span><select id="op-structure"></select></label>
       <label class="field"><span>maturité (j)</span><input id="op-days" type="number" value="30" min="1" max="365"></label>
-      <label class="field"><span>largeur</span><input id="op-width" type="number" step="0.005" value="0.03"></label>
-      <label class="field"><span>choc d'IV (pts)</span><input id="op-ivshift" type="number" step="0.01" value="0"></label>
-      <label class="field"><span>régime de vol</span><input id="op-regime" type="number" step="0.05" value="1"></label>
+      <label class="field"><span>largeur</span><input id="op-width" type="number" step="0.005" value="0.03" title="Écart des strikes en % du spot : 0.03 = ±3 %"></label>
+      <label class="field"><span>choc d'IV (pts)</span><input id="op-ivshift" type="number" step="0.5" value="0" title="En points de volatilité : 10 = +10 pts"></label>
+      <label class="field"><span>régime de vol</span><input id="op-regime" type="number" step="0.05" value="1" title="Multiplicateur de la surface : 1.2 = +20 %"></label>
       <button class="btn primary" id="btn-quote">Pricer</button>
     </div>
     <div class="grid-2">

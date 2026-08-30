@@ -9,7 +9,7 @@ l'API et le CLI racontent la même chose.
 
 from __future__ import annotations
 
-from typing import Optional
+from typing import List, Optional
 
 import numpy as np
 import pandas as pd
@@ -220,4 +220,18 @@ def option_lab(underlying: str, structure: str = "strangle", days: int = 30,
     d["vol_regime"] = vol_regime
     d["iv_shift"] = iv_shift
     d["catalog"] = opt.CATALOG
+    # Alertes pédagogiques : un pricer silencieux laisse passer des cotations
+    # hors du domaine de marché pour des résultats. Le lab signale au lieu de
+    # corriger — l'apprenant doit voir que la surface a été bornée.
+    warnings: List[str] = []
+    ivs = [l.iv for l in st.legs]
+    if any(iv >= 4.0 - 1e-9 for iv in ivs):
+        warnings.append("IV plafonnée à 400 % par la surface — choc trop grand, cotation hors marché")
+    elif any(iv <= 0.02 + 1e-9 for iv in ivs):
+        warnings.append("IV au plancher de 2 % — choc négatif excessif")
+    if abs(st.net_premium) > 0.5 * spot:
+        warnings.append("prime nette > 50 % du spot : structure hors du domaine réaliste")
+    if not d["breakevens"]:
+        warnings.append("points morts hors de la plage d'évaluation")
+    d["warnings"] = warnings
     return d

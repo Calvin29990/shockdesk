@@ -84,6 +84,13 @@ html, body {
 .badge.live { color: #0f1b16; background: var(--accent); border-color: var(--accent); }
 .badge.synth { color: #2b2205; background: var(--amber); border-color: var(--amber); }
 
+.warn {
+  font-family: var(--sans); font-size: 11.5px; line-height: 1.5;
+  color: var(--amber); background: rgba(242, 177, 52, 0.06);
+  border: 1px solid rgba(242, 177, 52, 0.4); border-radius: 4px;
+  padding: 6px 10px; margin-bottom: 10px;
+}
+
 .btn {
   background: var(--bg-3); color: var(--fg);
   border: 1px solid var(--line-2); border-radius: 4px;

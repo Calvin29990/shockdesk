@@ -169,10 +169,12 @@
 
 > 🔧 **Le moteur a changé le 30/08/2026** (commit `bad72a2`) : les frais par contrat sont
 > désormais calculés sur la **taille réelle du contrat** (1 000 barils pour le Brent) et non
-> plus sur l'unité. Conséquence : **tous les repères chiffrés des Ateliers 4 à 8, établis
-> avant cette date, sont périmés.** Ne les cherchez plus : re-mesurez-les. C'est une bonne
-> nouvelle — c'est la première fois que ces ateliers vont produire des montants réalistes.
-> Le book delta, lui, n'est pas affecté (P&L identique au dollar près).
+> plus sur l'unité. Conséquence : **tous les repères chiffrés des Ateliers 4, 6, 7 et 8,
+> établis avant cette date, sont périmés.** Ne les cherchez plus : re-mesurez-les. C'est une
+> bonne nouvelle — c'est la première fois que ces ateliers vont produire des montants
+> réalistes. Le book delta, lui, n'est pas affecté (P&L identique au dollar près).
+> *(L'Atelier 5, laboratoire d'options, a été re-mesuré le 30/08/2026 ; l'Atelier 7 l'a été
+> aussi — voir leurs fiches.)*
 
 ### 📌 Atelier 4 : Le Long Strangle (`long-strangle-shock.py`)
 * **Objectif** : Découvrir comment gagner sur une explosion de volatilité sans parier sur la direction.
@@ -219,14 +221,35 @@
 
 ### 📌 Atelier 5 : Straddle vs Strangle (ATM vs OTM)
 * **Objectif** : Comparer l'achat à la monnaie (Straddle, plus de gamma mais plus cher) et hors de la monnaie (Strangle, moins cher).
-* **Paramètre à tester** : Ligne 17 dans `long-strangle-shock.py` :
-  ```python
-  MODE = "straddle"   # Remplacez "strangle" par "straddle"
-  ```
-* **Ce qu'il faut observer** (repère d'avant-correction : **non valide**, à re-mesurer le
-  30/08/2026 — voir le bandeau du Niveau 2) :
-  * Comparez le P&L final et la volatilité. Le straddle réagit plus vite au moindre mouvement du spot, mais coûte plus cher en prime quotidienne (Theta).
-  * **Question à trancher** : à amplitude réalisée identique (+18,4 %), le gamma supplémentaire de l'ATM compense-t-il la prime payée en plus ?
+* **Paramètre à tester** : Onglet Options, structure `Long strangle` → `Long straddle`
+  (SPY, 30 j, largeur 0.03, choc d'IV 0).
+* **Ce qu'il faut observer** — vérifié le 30/08/2026 (lab déterministe, reproductible) :
+
+  | | Strangle | Straddle | Écart |
+  |---|---|---|---|
+  | Prime nette | **10,69** | **24,40** | ×2,3 |
+  | Jambes | call 660 (5,88) + put 625 (4,80) | call 640 (14,27) + put 640 (10,12) | — |
+  | Gamma | 0,02222 | 0,02592 | +17 % |
+  | Vega | 1,242 | 1,450 | +17 % |
+  | Theta | −0,344 | −0,405 | +18 % (mais 1,7 %/j de la prime vs 3,2 %) |
+  | Delta | 0,056 | 0,128 | — |
+  | Points morts | 614,3 / 670,7 | 615,6 / 664,4 | resserrés (±3,8 %) |
+
+* **Diagnostic Desk — le verdict en deux lames** :
+  1. **Par structure, le straddle gagne sur tout mouvement au-delà de ±2,1 %.** À +18,4 %
+     (642 → 760,13) : straddle **+95,73** vs strangle **+89,44** (+6,29). Son strike est
+     20 pts plus proche, ce qui rapporte plus que les 13,71 de prime en plus. Le strangle
+     ne gagne que pour les mouvements **inférieurs à ±2,1 %** (il ne perd que sa prime,
+     moins chère). La question du carnet (« le gamma ATM compense-t-il la prime ? ») → oui,
+     par structure.
+  2. **Par dollar déployé, le strangle gagne : 2,13× plus de rendement.** 24,40 $ achètent
+     1 straddle ou 2,28 strangles. Sur +18,4 % : straddle ×3,92 de la prime, strangle
+     ×8,37. Le straddle ne gagne « par structure » que parce qu'il engage 2,3 fois plus de
+     capital.
+  → **Leçon** : pour un desk à capital fixe, le strangle OTM reste le meilleur pari sur un
+  choc — le moins de prime par unité d'amplitude attendue (logique `MIN_EDGE` de
+  l'Atelier 4). Le straddle, lui, est plus patient (theta = 1,7 %/j de la prime vs 3,2 %)
+  mais coûte cher à l'entrée.
 
 ---
 
@@ -249,9 +272,38 @@
 * **Objectif** : Visualiser l'effet Vega sur une structure d'options.
 * **Procédure** :
   1. Allez dans l'onglet **Options**.
-  2. Choisissez `SPY`, structure `Long Strangle`, maturité `30 jours`.
+  2. Choisissez `SPY`, structure `Long Strangle`, maturité `30 jours`, largeur `0.03`.
   3. Observez la courbe de payoff et la prime nette.
   4. Notez le **Vega** (gain par point de hausse d'IV) et le **Theta** (coût journalier du temps).
+* **⚠️ Piège d'unités — découvert puis corrigé le 30/08/2026** : le champ « choc d'IV
+  (pts) » lisait une **fraction** (`0.10` = +10 pts) alors que son libellé promettait des
+  points : taper `10` envoyait +1000 pts, écrêtés en silence au plafond d'IV de 400 %
+  (prime délirante de 84 % du spot). **Corrigé** : le champ accepte désormais des points
+  (10 = +10 pts), et le lab **alerte** quand l'IV atteint le plafond ou que la prime
+  dépasse 50 % du spot — plus de cotation hors marché silencieuse. Réflexe desk conservé :
+  un résultat hors domaine = chercher l'unité, pas un signal de marché.
+* **Ce qu'il faut observer** — vérifié le 30/08/2026 (lab déterministe, reproductible) :
+
+  | | Choc 0 pt | Choc +10 pts | Écart |
+  |---|---|---|---|
+  | Prime nette | **10,69** | **23,91** | **+13,22 (+124 %)** |
+  | Vega | 1,242 | 1,374 | ⤴ +10,6 % |
+  | Theta | −0,344 | −0,608 | ×1,77 |
+  | Gamma | 0,02222 | 0,01530 | ÷1,45 |
+  | Delta | 0,056 | 0,056 | inchangé |
+  | Points morts | 614,3 / 670,7 | 601,1 / 683,9 | élargis |
+  | IV de la surface | 16,4 / 16,6 % | 26,4 / 26,6 % | +10 pts, additif |
+
+* **Contre-épreuve du Theta (maturité 30 → 1 j, choc 0)** — vérifiée le 30/08/2026 :
+  prime **0,00**, vega/theta/gamma **≈ 0**, points morts **= strikes** (625 / 660).
+  À 1 jour, l'option 3 % OTM n'a plus de valeur temps : le vega et le theta meurent
+  ensemble — un choc d'IV ne vaut que ce que vaut le temps restant.
+* **Diagnostic Desk** : l'écart de prime (13,22) dépasse vega × choc (10 × 1,242 = 12,42)
+  : les 0,80 restants sont la **volga** — le vega augmente lui-même avec l'IV (végétarien
+  moyen ≈ 1,308). Un vega affiché est une **pente locale** : il culmine vers 25-30 % de
+  vol puis décroît. Le choc d'IV est un trade directionnel sur la volatilité elle-même :
+  +10 pts font payer la structure **+124 % plus cher** pour la même exposition au spot —
+  c'est le mécanisme exact que filtre `MIN_EDGE` de l'Atelier 4 (prime ÷ amplitude).
 
 ---
 
@@ -299,9 +351,9 @@
 | **Atelier 2** | Exposition globale | `BASE_EXPOSURE = 0.40 / 1.00` | ✅ Fait · 30/08 | +159 040 $ / +337 887 $ / +397 485 $. Tout scale au même facteur. Sharpe affiché −0,24 / 1,67 / 1,93 mais **3,36 / 3,36 / 3,36** hors taux sans risque → le levier change la taille, pas la qualité. |
 | **Atelier 3** | Nettoyage du Miss | `BOOK['GC=F'] = 0.00` | ✅ Fait · 30/08 | +337 887 $ → **+318 756 $** (−19 131). L'or rapportait **+53,0 k$**, il ne coûtait rien. Retrait = redistribution ×1,119 des autres lignes + drawdown ×1,9. Diagnostic du carnet **faux** : corrigé. |
 | **Atelier 4** | Long Strangle | Stratégie gamma | ✅ Fait · 30/08 | Refuse de trader (edge 0,52 < 1,00). Forcé à `MIN_EDGE` 0,50 : **−6 211 $**, dont **6 805 $ de frais** pour 594 $ de P&L brut. Repère « +12 084 $ » = artefact synthétique, reproduit au dollar. |
-| **Atelier 5** | Straddle vs Strangle | `MODE = "straddle"` | 🔲 À faire | |
+| **Atelier 5** | Straddle vs Strangle | Onglet Options | ✅ Fait · 30/08 | Prime ×2,3 (10,69 → 24,40), gamma/vega +17 %, theta +18 %. À ±18,4 % : straddle gagne **par structure** (+6,29) mais strangle gagne **par dollar** (×2,13). Le levier du strangle = capital efficiency, le straddle = strike proche. |
 | **Atelier 6** | Butterfly | Plafond de risque | 🔲 À faire | |
-| **Atelier 7** | Vega & IV | Onglet Options | 🔲 À faire | |
+| **Atelier 7** | Vega & IV | Onglet Options | ✅ Fait · 30/08 | Choc 0 → +10 pts : prime 10,69 → 23,91, vega 1,242 → 1,374, theta −0,344 → −0,608, gamma ÷1,45, delta inchangé, points morts 601/684. Écart 13,22 > 10×1,242 : **volga**. ⚠️ Piège d'unités du champ : il lit une fraction (`0.10` = +10 pts) ; un « 10 » = +1000 pts, écrêtés en silence à 400 % d'IV. |
 | **Atelier 8** | Iron Condor | Carry de prime | 🔲 À faire | |
 | **Atelier 9** | Révision $r_2$ | Onglet Anticipation | 🔲 À faire | |
 | **Atelier 10** | CLI Revue | Revue mensuelle | 🔲 À faire | |

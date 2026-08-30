@@ -701,9 +701,9 @@
       el("p", { class: "why" }, s.rationale || ""),
       el("div", { class: "figs", html:
         "<span>prime nette <b>" + nf(s.cost, 2) + "</b> (" + (s.cost >= 0 ? "débit" : "crédit") + ")</span>"
-        + "<span>perte max <b class='neg'>" + nf(s.max_loss, 2) + "</b></span>"
-        + "<span>gain max <b class='pos'>" + nf(s.max_profit, 2) + "</b></span>"
-        + "<span>points morts <b>" + (s.breakevens || []).map(b => nf(b, 1)).join(" / ") + "</b></span>"
+        + "<span>perte max <b class='neg'>" + (s.max_loss_bounded ? nf(s.max_loss, 2) : "non bornée") + "</b></span>"
+        + "<span>gain max <b class='pos'>" + (s.max_gain_bounded ? nf(s.max_profit, 2) : "illimité") + "</b></span>"
+        + "<span>points morts <b>" + ((s.breakevens || []).map(b => nf(b, 1)).join(" / ") || "hors plage") + "</b></span>"
         + "<span>Δ " + nf(g.delta, 2) + " · Γ " + nf(g.gamma, 4) + " · V " + nf(g.vega, 2)
         + " · Θ " + nf(g.theta, 3) + "</span>" }),
       el("div", { class: "pnl-grid", html: cells })
@@ -731,7 +731,7 @@
       } else {
         input = el("input", { id: id, type: "number", step: "0.01" });
         const map = { amplitude: f.amp_base, pic: f.peak_base, reversion: f.reversion,
-          iv: f.iv_shift, confiance: f.confidence };
+          iv: (f.iv_shift !== undefined ? f.iv_shift * 100 : undefined), confiance: f.confidence };
         input.value = map[key] !== undefined ? map[key] : val;
       }
       inputs[key] = input;
@@ -746,7 +746,7 @@
           amplitude: parseFloat(inputs.amplitude.value),
           peak_day: parseFloat(inputs.pic.value),
           reversion: parseFloat(inputs.reversion.value),
-          iv_shift: parseFloat(inputs.iv.value),
+          iv_shift: parseFloat(inputs.iv.value) / 100,
           confidence: parseFloat(inputs.confiance.value),
           note: note.value || "révision mensuelle"
         };
@@ -782,7 +782,9 @@
       structure: $("#op-structure").value,
       days: parseInt($("#op-days").value, 10),
       width: parseFloat($("#op-width").value),
-      iv_shift: parseFloat($("#op-ivshift").value),
+      // Le champ affiche des points (10 = +10 pts) ; le moteur attend une
+      // fraction (0.10 = +10 pts). La conversion est faite ici, à la saisie.
+      iv_shift: parseFloat($("#op-ivshift").value) / 100,
       vol_regime: parseFloat($("#op-regime").value)
     };
     const r = await fetch("/api/options/quote", {
@@ -800,14 +802,19 @@
     $("#op-title").textContent = q.name + " sur " + q.underlying + " (" + q.underlying_name
       + ") — " + q.days + " jours";
     const g = q.greeks || {};
-    $("#op-summary").innerHTML =
+    const warns = (q.warnings || []).map(w =>
+      "<div class='warn'>⚠ " + esc(w) + "</div>").join("");
+    $("#op-summary").innerHTML = warns +
       "<div class='kv'>"
       + "<div><span>spot</span><span>" + nf(q.spot, 2) + "</span></div>"
       + "<div><span>prime nette</span><span class='" + sgn(-q.net_premium) + "'>"
       + nf(q.net_premium, 2) + " (" + (q.net_premium >= 0 ? "débit" : "crédit") + ")</span></div>"
-      + "<div><span>perte max</span><span class='neg'>" + nf(q.max_loss, 2) + "</span></div>"
-      + "<div><span>gain max</span><span class='pos'>" + nf(q.max_profit, 2) + "</span></div>"
-      + "<div><span>points morts</span><span>" + (q.breakevens || []).map(b => nf(b, 2)).join(" / ") + "</span></div>"
+      + "<div><span>perte max</span><span class='neg'>" + (q.max_loss_bounded
+        ? nf(q.max_loss, 2) : "non bornée (structure vendeuse)") + "</span></div>"
+      + "<div><span>gain max</span><span class='pos'>" + (q.max_gain_bounded
+        ? nf(q.max_profit, 2) : "illimité (structure acheteuse)") + "</span></div>"
+      + "<div><span>points morts</span><span>"
+      + (((q.breakevens || []).map(b => nf(b, 2)).join(" / ")) || "hors plage") + "</span></div>"
       + "<div><span>delta</span><span>" + nf(g.delta, 3) + "</span></div>"
       + "<div><span>gamma</span><span>" + nf(g.gamma, 5) + "</span></div>"
       + "<div><span>vega</span><span>" + nf(g.vega, 3) + " / point de vol</span></div>"

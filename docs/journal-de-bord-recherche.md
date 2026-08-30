@@ -281,6 +281,10 @@ pris pour un fait de marché, s'effondre des mois plus tard.
 | 4 | ✅ **Label débit/crédit** : `app.js` l. 807 aligné sur la convention de la l. 703 (positif = débit) | Un strangle acheté s'affiche enfin comme un débit | **FAIT** |
 | 5 | ✅ **Alerte « code non enregistré »** au lancement d'un backtest (`state.dirty`) | Fini le backtest qui part silencieusement sur l'ancienne version | **FAIT** |
 | 6 | ✅ **Signalement des positions ouvertes** en fin de backtest : `Fin de backtest : 7 position(s) encore ouverte(s), P&L latent −9 685 $ compris dans le résultat` | L'artefact `r2` n'est plus invisible. Choix assumé : on **signale** plutôt que de neutraliser — corriger le P&L d'une position réellement ouverte serait un mensonge comptable | **FAIT** (signalé, non neutralisé) |
+| 7 | ✅ **Choc d'IV en points** : le champ du lab et le formulaire de révision acceptent des points (10 = +10 pts), convertis en fraction à la saisie | Un « 10 » produit enfin +10 pts (prime 23,91) au lieu de +1000 pts écrêtés en silence | **FAIT** |
+| 8 | ✅ **Alerte de domaine sur le lab** : IV au plafond de 400 %, prime > 50 % du spot, points morts hors plage → bandeau `⚠` (UI) et `⚠` (CLI) | Fini le pricer silencieux : une cotation hors marché se voit, elle ne se devine plus | **FAIT** |
+| 9 | ✅ **Points morts étendus par la prime nette** + dédoublonnage des plateaux à zéro | Cas extrême : les vrais BE (86,26 / 1198,74) s'affichent au lieu d'un champ vide | **FAIT** |
+| 10 | ✅ **Bornes de payoff déclarées par structure** (`max_loss_bounded` / `max_gain_bounded` dans le catalogue) | « illimité / non bornée » remplace les artefacts de grille (gain max −274,74 → illimité) | **FAIT** |
 
 ### 🟡 Palier 2 — Intermédiaire (il faut comprendre le moteur)
 
@@ -710,4 +714,277 @@ retenu : le P&L du book delta doit rester identique au dollar près.** C'est le 
   (ici : 385 544,16 $).
 
 ---
+---
+
+## 📅 Log du 30 Août 2026 (3) — Reprise de session : l'atelier Options (Atelier 7)
+
+> La session précédente s'est coupée alors que l'utilisateur était sur l'**onglet Options**
+> (SPY, long strangle, 30 j). Reprise en ce point. Ateliers 1 à 4 déjà consignés ✅.
+
+### 0. État du dépôt à la reprise
+
+* HEAD `20230e0` (merge de la PR #3 — contient les six correctifs du palier 1,
+  commit `bad72a2`), arbre de travail propre, `strategies/shock-lab-oil.py` revenu à
+  l'état de référence (`TAKE_PROFIT_AT_PEAK = True`, `BASE_EXPOSURE = 0.85`).
+* **37 tests passent.** Serveur relancé sur 0.0.0.0:8050.
+* **Yahoo Finance toujours injoignable depuis l'environnement d'exécution**
+  (`TLS/SSL connection has been closed (EOF)` sur `query2.finance.yahoo.com`) — même
+  constat que le 29/08. Tout backtest lancé ici retombera sur la source synthétique
+  (badge orange) et **ne reproduira pas** les repères réels (+337 887 $, etc.).
+
+### 1. ✅ Vérification du correctif débit/crédit sur la structure de la capture coupée
+
+* La convention a bien été corrigée dans `app.js` (convention : **prime nette ≥ 0 = débit**).
+* Contrôle par l'API (`/api/options/quote`, SPY, strangle, 30 j, largeur 3 %) :
+  **prime nette 10,69 (débit)** — la même valeur que la capture précédente, désormais
+  correctement étiquetée. La structure est achetée : perte max **−10,69 $** = prime payée. ✔
+
+### 2. 📐 Références mesurées pour l'Atelier 7 (lab déterministe, hors réseau)
+
+* Le lab Options price depuis la surface paramétrique et un spot **statique de config**
+  (`spec.s0`) : aucune dépendance au réseau. Les valeurs ci-dessous sont donc
+  reproductibles au centime dans cet environnement, contrairement aux backtests.
+
+| | Choc d'IV 0 pt | Choc d'IV +10 pts |
+|---|---|---|
+| Prime nette | **10,69** | **23,91** (+13,22) |
+| Vega | **1,242 / pt** | 1,374 / pt |
+| Theta | **−0,344 / j** | −0,608 / j |
+| Points morts | 614,3 / 670,7 | ≈ 601,1 / 683,9 |
+| Jambes | call 660 à 5,88 (IV 16,4 %) · put 625 à 4,80 (IV 16,6 %) | mêmes strikes, primes gonflées |
+
+* Écart prime : 10 pts × 1,242 = 12,42 attendus pour 13,22 réalisés → l'excédent
+  (~0,8) est la convexité (volga) : le vega lui-même augmente avec le choc.
+* Le payoff **à l'échéance** (intrinsèque) ne dépend pas de l'IV : seul le niveau de la
+  courbe baisse (prime payée plus chère → points morts élargis).
+* SPY : `iv_base` 16,5 %, spot 642,0 (config). `BZ=F` : `iv_base` 36 % — comparaison
+  possible pour montrer que le marché prix le choc pétrole ~2,2× plus cher.
+
+### 3. ⚠️ Faiblesses identifiées (à traiter en phase 2)
+
+* Le lab Options est **déconnecté du marché** : spot figé à `spec.s0`, IV de base
+  statique (`effective_iv_base`), régime de vol et choc d'IV réglés à la main.
+  Correctif souhaitable : brancher spot + IV ATM sur le panel de données (Yahoo/CSV),
+  avec badge de provenance — sinon l'atelier enseigne la mécanique, pas le marché.
+  À ajouter au backlog (palier 2).
+
+---
+
+## 📅 Log du 30 Août 2026 (4) — Atelier 7 : le piège des unités du champ « choc d'IV »
+
+### 0. Cause racine du run à « 1000 pts » — ce n'était pas une erreur de saisie
+
+* L'utilisateur a saisi **10** dans le champ « choc d'IV (pts) », croyant demander +10 pts.
+* Le champ (`#op-ivshift`, `index.html`) attend en réalité une **fraction** : la convention
+  interne est `0.10 = +10 pts` (`options.py` l. 126, et tous les scénarios de `scenarios.py`).
+  `quote()` (`app.js` l. 795) envoie `parseFloat(value)` **brut** ; l'affichage, lui,
+  multiplie par 100 (`q.iv_shift * 100` + « pts »). Saisir 10 envoie donc **+1000 pts**.
+* **Preuve par reproduction API** : `option_lab("SPY", "strangle", 30, 0.03, iv_shift=10.0)`
+  reproduit l'écran utilisateur au centime — prime 538,74, IV 400 %/400 %, vega 1,244,
+  theta −8,263, delta 0,435, gamma 0,00092, call 273,97, put 264,77, points morts vides,
+  gain max −274,74.
+* **Faiblesse d'interface consignée** : un champ libellé « (pts) » qui attend une fraction,
+  sans exemple ni conversion, et aucune alerte quand le résultat sort du domaine réaliste.
+  À ajouter au backlog (palier 1) : accepter les points réels (10 = +10 pts) ou afficher
+  l'unité attendue, et avertir quand l'IV atteint le plafond de la surface.
+
+### 1. Ce que le stress-test accidentel a révélé (tout est mécanisme, rien n'est un prix de marché)
+
+1. **Plafond d'IV silencieux** : `iv_surface` borne l'IV entre 2 % et **400 %**
+   (`options.py` l. 135). +1016 pts demandés → écrêtés à 400 % **sans aucun message**.
+2. **Points morts vides = artefact de fenêtre** : la recherche se borne à ±1,5 span autour
+   des strikes (572 → 712). Les vrais points morts du strangle à 538,74 de prime sont à
+   **86 / 1199** — hors fenêtre, donc rien ne s'affiche au lieu d'un signal « hors plage ».
+3. **Gain max −274,74 = artefact de grille** : c'est le meilleur point de la plage
+   d'évaluation [375, 924], pas un plafond de la stratégie. Un strangle **acheté** a un
+   gain max illimité ; l'affichage « gain max » devrait dire « hors plage ».
+4. **Le vega n'est pas une constante** — mesuré sur 3 niveaux d'IV du même strangle SPY :
+   IV 16,5 % → vega **1,242** · IV 26,5 % → vega **1,374** (en hausse) · IV 400 % → vega
+   **1,244** (retombé). Le vega est une pente locale qui culmine vers 25–30 % de vol puis
+   décroît. Le vega **moyen** du saut de 990 pts ≈ (538,74 − 23,91) ÷ 9,90 ≈ **0,52/pt** :
+   un grand choc ne se price jamais au vega marginal.
+5. **La structure change de nature à 400 % de vol** : delta 0,435 (le call se comporte
+   presque comme l'action), gamma ÷24 (0,022 → 0,0009). Ce n'est plus un pari sur le choc :
+   tout est déjà dans le prix. La prime = 84 % du spot ; un filtre `MIN_EDGE` (Atelier 4)
+   calculerait un edge ≈ 0,06 ≪ 1 → la discipline refuse d'entrer. Le filtre existe
+   précisément pour ce régime.
+6. **Méta-leçon** : *garbage in, garbage out* — un desk pose des bornes sur ses paramètres
+   et vérifie qu'une cotation sortie du pricer est un prix de marché, pas un artefact.
+
+### 2. ⏳ À traiter (rappel ouvert)
+
+* Le run hérité de la session précédente « **Backtest exécuté : 0,06 % sur 42 barres** »
+  (capital 1 M$ dans l'URL, stratégie non identifiée avec certitude) reste **sans
+  provenance établie**. À élucider à la prochaine occasion — un chiffre consigné sans
+  provenance est non vérifié (charte).
+
+---
+
+## 📅 Log du 30 Août 2026 (5) — Atelier 7 : le choc +10 pts exécuté, prédictions validées, volga quantifiée
+
+### 1. ✅ Run utilisateur conforme aux prédictions (choc `0.10` = +10 pts)
+
+| | Choc 0 | Prédit | Écran utilisateur |
+|---|---|---|---|
+| Prime nette | 10,69 | ≈ 23,91 | **23,91** ✔ |
+| Vega | 1,242 | ≈ 1,374 | **1,374** ✔ |
+| Theta | −0,344 | ≈ −0,608 | **−0,608** ✔ |
+| Points morts | 614/671 | ≈ 601/684 | **601,09 / 683,91** ✔ |
+| IV surface | 16,4/16,6 % | ≈ 26,5/26,6 % | **26,4 / 26,6 %** ✔ |
+
+* Courbe : même forme, translatée vers le bas (axe Y débutant à −20) — le payoff à
+  l'échéance est intrinsèque, l'IV ne change que le niveau d'entrée.
+* Jambes : call 660 : 5,88 → **12,72** (+6,84) · put 625 : 4,80 → **11,18** (+6,38).
+  Somme +13,22 ✔. Deltas de jambes 0,389 / −0,332 (structure quasi delta-neutre, 0,056).
+
+### 2. 🔬 Volga quantifiée
+
+* Écart de prime 13,22 vs vega initial × choc = 12,42 → surplus **+0,80**.
+* Vega moyen sur le trajet ≈ (1,242 + 1,374)/2 = **1,308** → 10 × 1,308 = 13,08 ≈ 13,22.
+* Le vega est une **pente locale** : il monte avec l'IV (volga positive), culmine vers
+  25–30 % de vol, puis décroît — les trois points mesurés (1,242 à 16,5 % · 1,374 à
+  26,5 % · 1,244 à 400 %) décrivent cette bosse.
+* Grecques croisées du choc : **delta inchangé** (0,056), **gamma ÷1,45** (0,02222 →
+  0,01530), **theta ×1,77** (−0,344 → −0,608). Signatures du long vega : le choc d'IV
+  renchérit la position (+124 % de prime) et le loyer du temps, sans changer l'exposition
+  au spot.
+* Mécanisme de lien avec l'Atelier 4 : la prime en % du spot passe de 1,7 % (10,69/642)
+  à 3,7 % (23,91/642). Le filtre `MIN_EDGE` = amplitude attendue ÷ prime subit donc
+  directement les chocs d'IV — c'est ainsi que les révisions `iv_shift` du registre
+  (`BZ=F r1` : +0,10 pts, etc.) pèsent sur l'entrée.
+* Choix de conception consigné : le choc est **additif en points** (16,4 % + 10 = 26,4 %),
+  appliqué après le régime — un calibrage manuel d'`iv_shift` doit le savoir.
+
+### 3. 📚 Carnet d'entraînement mis à jour
+
+* Atelier 7 réécrit avec les valeurs mesurées, le piège d'unités et le diagnostic volga.
+* Tableau de bord : Atelier 7 → **✅ Fait · 30/08**.
+
+---
+
+## 📅 Log du 30 Août 2026 (6) — Atelier 7 (contre-épreuve) : à 1 jour, le vega est mort
+
+### 1. ✅ Run utilisateur conforme (maturité 30 → 1, choc 0)
+
+| | 30 j | 1 j (prédit) | Écran utilisateur |
+|---|---|---|---|
+| Prime nette | 10,69 | 0,00 | **0,00** ✔ |
+| Vega | 1,242 | ≈ 0 | **0,000** ✔ |
+| Theta | −0,344 | ≈ 0 | **−0,000** ✔ |
+| Gamma | 0,02222 | ≈ 0 | **0,00000** ✔ |
+| Points morts | 614/671 | = strikes | **625,00 / 660,00** ✔ |
+
+* À 1 jour, l'option est 3 % OTM : probabilité d'ITM quasi nulle (≈ 2,9 σ au vol
+  journalier), la valeur temps s'est entièrement évaporée → la position n'est plus que
+  son payoff intrinsèque. Un choc d'IV ne reprice que la valeur temps : sans valeur
+  temps, **vega = 0** — et theta = 0 aussi. **Le vega et le theta naissent et meurent
+  ensemble** : ce sont les deux faces de la valeur temps.
+* Lien avec l'Atelier 4 : le filtre `MIN_EDGE` paie une prime 30 j (≈ 9,6–10,8 % du spot)
+  *parce qu'on achète du temps* — c'est le temps qui porte le gamma et le vega. Une
+  prime à 1 j serait gratuite… et ne porterait rien.
+* **Preuve arithmétique de l'artefact « gain max »** : 253,31 (30 j) + 10,69 (prime) =
+  **264,00** = gain max affiché à 1 j. Le « gain max » est donc le **point extrême de la
+  grille d'évaluation** (924 − 660), pas un plafond de la stratégie (un strangle acheté a
+  un gain max illimité). Cohérent avec le stress-test du log (4).
+* Structure par terme observée : l'IV de surface passe de 16,5 % (30 j) à **10,8–11,0 %**
+  (1 j) — `iv_term` compresse la vol courte. Un calibrage manuel d'`iv_shift` s'applique
+  au-dessus de cette structure.
+
+### 2. 🔭 Préparé pour l'Atelier 5 (lab, prédictions pré-calculées)
+
+* Long straddle SPY, 30 j, largeur 0,03, choc 0 : prime **24,40** (call 640 à 14,27 +
+  put 640 à 10,12) · gamma **0,02592** · vega **1,450** · theta **−0,405** · delta 0,128 ·
+  points morts **615,6 / 664,4**.
+* À comparer au strangle : prime ×2,3, gamma +17 %, vega +17 %, theta +18 %, points morts
+  resserrés (49 pts vs 56). Le straddle paie l'ATM pour un gamma plus fort près du spot.
+
+---
+
+## 📅 Log du 30 Août 2026 (7) — Atelier 5 exécuté : straddle vs strangle, le verdict en deux lames
+
+### 1. ✅ Run utilisateur conforme (SPY, 30 j, choc 0, largeur 0,03)
+
+* Straddle : prime **24,40** · call 640 à 14,27 (IV 16,5 %, Δ 0,564) · put 640 à 10,12
+  (IV 16,5 %, Δ −0,436) · gamma **0,02592** · vega **1,450** · theta **−0,405** ·
+  delta 0,128 · points morts **615,60 / 664,40** (breakeven ±3,8 %).
+* Gain max affiché 231,60 = 896 (bout de grille = 640 × 1,4) − 640 − 24,40 :
+  **troisième confirmation de l'artefact de grille** (logs 4 et 6). Un straddle acheté a un
+  gain max illimité.
+* Delta 0,128 : spot 642 au-dessus du strike ATM 640 → léger biais long, insignifiant.
+
+### 2. ⚖️ Payoffs à l'échéance (intrinsèque uniquement)
+
+* Le straddle domine **pour tout mouvement au-delà de ±2,1 %** (|S−640| > 13,71) ; le
+  strangle ne gagne que pour les mouvements **inférieurs à ±2,1 %** (il ne perd que sa
+  prime, 13,71 moins chère).
+* À +18,4 % (760,13) : straddle **+95,73** vs strangle **+89,44** → **+6,29** de mieux.
+  À −18,4 % (523,87) : straddle **+91,73** vs strangle **+90,44** → +1,29. L'asymétrie
+  (+6,29 en haut vs +1,29 en bas) vient des distances de strikes : 20 pts au-dessus
+  (660−640) contre 15 pts en dessous (640−625), pour une prime supplémentaire de 13,71.
+* **Par dollar déployé** : 24,40 achètent 1 straddle ou 2,28 strangles → sur +18,4 % :
+  straddle **×3,92** de la prime, strangle **×8,37** (2,13× mieux). Le straddle ne gagne
+  par structure que parce qu'il engage 2,3 fois plus de capital.
+* Theta rapporté à la prime : straddle 1,7 %/j, strangle 3,2 %/j — le straddle est plus
+  patient si le choc tarde ; il a simplement payé plus cher à l'entrée.
+
+### 3. 📚 Leçons de desk consignées
+
+* **La question du carnet était mal posée** — « le gamma ATM compense-t-il la prime ? »
+  appelle deux réponses : oui par structure, non par dollar. La question du desk est
+  « combien de structures puis-je acheter avec mon capital ? » → le strangle est un levier
+  sur l'amplitude, le straddle une assurance chère proche du spot.
+* **Cohérence avec l'Atelier 4** : le filtre `MIN_EDGE` (amplitude ÷ prime) est précisément
+  la version automatisée du ratio « rendement par dollar de prime » — il favorise le
+  strangle tant que l'amplitude attendue domine la prime.
+* Carnet mis à jour : fiche Atelier 5 réécrite (valeurs mesurées + verdict), bandeau du
+  Niveau 2 ajusté (Ateliers 5 et 7 re-mesurés), tableau de bord ✅.
+
+---
+
+## 📅 Log du 30 Août 2026 (8) — Correctifs « anti-artefacts » de l'atelier Options (appliqués et verrouillés)
+
+> Priorité utilisateur : corriger ce qui freine l'apprentissage (le plafond d'IV
+> silencieux, le piège d'unités, les artefacts d'affichage), sans rien casser.
+
+### 1. ✅ Ce qui a été corrigé (4 blocages pédagogiques + 2 finitions)
+
+1. **Piège d'unités du champ « choc d'IV (pts) »** — le lab accepte désormais des
+   **points** (10 = +10 pts), comme son libellé et son affichage le promettent.
+   Conversion UI → fraction moteur dans `quote()` (`app.js`). Même correction au
+   formulaire de révision de l'Anticipation (pré-remplissage ×100, envoi ÷100).
+   Un « 10 » produit maintenant un choc de +10 pts (prime 23,91), plus +1000 pts.
+2. **Fini le pricer silencieux** — `api.option_lab` renvoie un tableau `warnings` :
+   IV au plafond de 400 % (surface bornée), prime nette > 50 % du spot, points morts
+   hors plage. Affiché en bandeau ambre dans le lab, en `⚠` dans le CLI.
+3. **Points morts retrouvés loin des strikes** — la fenêtre de recherche de
+   `breakevens()` est étendue par la prime nette (`pad = 2×span + |prime|`) et les
+   plateaux exactement à zéro sont dédoublonnés. Cas extrême (+1000 pts) : les vrais
+   BE **86,26 / 1198,74** s'affichent au lieu d'un champ vide.
+4. **Bornes de payoff déclarées par structure** — le catalogue porte désormais
+   `max_loss_bounded` / `max_gain_bounded` par structure. L'interface et le CLI
+   affichent « illimité (structure acheteuse) » ou « non bornée (structure vendeuse) »
+   au lieu d'artefacts de grille (le « gain max −274,74 » est devenu « illimité »).
+5. **Infobulles d'unités** sur largeur (en % du spot) et régime de vol (×surface).
+
+### 2. 🔒 Verrouillage — preuves de non-régression
+
+* **41 tests passent** (37 existants + 4 nouveaux verrous) : références du lab gelées
+  (strangle 10,69 · vega 1,242 · theta −0,344 · straddle 24,40 · choc +10 pts 23,91),
+  plafond d'IV signalé, BE extrêmes retrouvés, bornes déclarées par structure.
+* **Tous les repères pédagogiques mesurés pendant les ateliers 5 et 7 restent valides**
+  au centime : la correction ne touche que les cas hors domaine (chocs absurdes) et
+  l'affichage. Aucun prix, aucune grecque, aucun P&L de backtest n'est modifié
+  (`build_structure`, `iv_surface`, `black_scholes` inchangés ; le moteur ne consomme
+  que des champs ajoutés).
+* Choix de conception assumé : le lab **signale** au lieu de **corriger** — on ne
+  borne pas la saisie de l'utilisateur, on lui apprend à lire les alertes.
+
+### 3. 🪜 Backlog mis à jour
+
+* Les 4 blocages pédagogiques passent au palier 1 **✅ fait** (voir tableau).
+* Reste ouvert (inchangé) : lab déconnecté du marché (spot/IV statiques de config) —
+  palier 2.
+
+---
+
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
