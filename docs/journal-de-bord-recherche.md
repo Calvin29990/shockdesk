@@ -239,6 +239,90 @@ reproductibles que sous Yahoo (sous générateur synthétique : +385 544 $, Shar
 
 ---
 
+## 🛡️ Charte de provenance — la règle anti-« on me dit que tout est faux »
+
+Adoptée le 30/08/2026. Elle protège contre le scénario où un chiffre de référence,
+pris pour un fait de marché, s'effondre des mois plus tard.
+
+1. **Tout chiffre consigné porte sa provenance** : source (`yfinance` / `synthétique` /
+   `csv`), fenêtre, nombre de barres, capital, paramètres modifiés. Un chiffre sans
+   provenance est **non vérifié**, pas « vrai ».
+2. **Fait de marché et artefact de plateforme sont toujours séparés**, dans des sections
+   distinctes, jamais mélangés dans un même tableau. C'est le mélange des deux qui a laissé
+   trois repères synthétiques passer pour des résultats de marché dans le carnet
+   (Ateliers 1, 3 et 4 — tous corrigés le 30/08/2026).
+3. **Une leçon démontrée par un mécanisme ne se périme pas.** Le timing qui vaut 617 520 $,
+   la proportionnalité du levier, la redistribution des poids : ce sont des mécanismes
+   vérifiés, pas des montants. Les montants bougent avec les données ; les mécanismes non.
+4. **Ce qui peut changer** : les grandeurs si la source change. **Ce qui ne changera pas** :
+   les mécanismes ci-dessus.
+
+---
+
+## 🪜 Échelle junior → expert — backlog d'améliorations
+
+> Ce que vous avez demandé de consigner : **les améliorations à faire, classées par palier**,
+> y compris « les trucs fins » — subtils, très valorisants, mais hors de portée immédiate.
+> Rien ici n'est à faire maintenant. L'objet de cette section est de **savoir qu'ils
+> existent** et de pouvoir les ressortir le jour où le palier est atteint.
+
+### 🟢 Palier 1 — Junior (fondations · un paramètre ou une ligne à la fois)
+
+| # | Amélioration | Pourquoi c'est valorisant | Déclencheur |
+|---|---|---|---|
+| 1 | **Multiplicateurs de contrat réels** (`BZ=F`, `GC=F` = 1000 ; ETF/indices = 1) | Les frais passent de **14,9 %** à ~0,015 % du volume : tous les backtests d'options redeviennent interprétables | Correctif n°1, prioritaire |
+| 2 | **`risk_free` paramétrable et affiché** | Le Sharpe redevient comparable entre variantes (rappel : **3,36 / 3,36 / 3,36** une fois le terme fixe retiré) | Atelier 2 |
+| 3 | **« n.d. » au lieu de `0.0`** pour Sortino / Calmar / Sharpe indéfinis | Un `0.0` se lit comme « nul » alors qu'il veut dire « non défini » — c'est un piège de lecture | Ateliers 1-2 |
+| 4 | **Label débit/crédit** cohérent (`app.js` l. 791 vs l. 687) | Acheter une structure affichée « crédit » est une erreur de sens, coûteuse en réel | Atelier 7 |
+| 5 | **Alerte « code non enregistré » au Run** (`state.dirty`) | Évite de lancer un backtest sur une version périmée sans le savoir — piège vécu le 30/08 | Atelier 2 |
+| 6 | **Neutraliser le P&L des positions non débouclées** en fin de fenêtre | Supprime l'artefact `r2` : **−21 436 $** et **−21 176 $** indûment imputés | Atelier 1 |
+
+### 🟡 Palier 2 — Intermédiaire (il faut comprendre le moteur)
+
+| # | Amélioration | Pourquoi c'est valorisant |
+|---|---|---|
+| 7 | **Grille d'amplitudes dans le filtre d'entrée** : le filtre n'utilise aujourd'hui que le nœud médian (`0.10`). Avec le nœud haut (`0.185`), l'edge passe de 0,92 à **1,71** | Une prévision qui assume une incertitude ×3,7 doit se filtrer sur sa borne haute, pas sur sa médiane |
+| 8 | **Sortie échelonnée (scale-out)** plutôt que tout-ou-rien au pic | Vendre la moitié à J+7 et laisser courir le reste capte à la fois le pic et le rebond — le défaut exact constaté à l'Atelier 1 |
+| 9 | **Dimensionnement par volatilité** (vol targeting) au lieu d'un `%` fixe | Stabilise le profil de risque quand le régime de vol change (observé : 1,51x puis 1,37x sur BZ=F) |
+| 10 | **Étendre l'univers énergie** : `XLE`, `XOP` | Bêta supérieur au brut, options très liquides — recommandé dès le 30/08 |
+| 11 | **Walk-forward et fenêtres glissantes** | Un résultat qui tient sur une seule fenêtre de 42 barres n'est pas un résultat |
+| 12 | **Comparaison côte à côte de deux variantes** | Aujourd'hui on relance et on retient les chiffres à la main |
+| 13 | **Créditer le cash au taux sans risque** | Cohérence : le Sharpe retire 4,1 % que le moteur ne paie jamais |
+| 14 | **Export CSV/PDF + identifiant de run** | Un backtest = un résultat conservé, pour la revue mensuelle |
+
+### 🔴 Palier 3 — Expert (niveau industrie)
+
+| # | Amélioration | Pourquoi c'est valorisant |
+|---|---|---|
+| 15 | Chaîne d'options réelle (CBOE / broker) au lieu de la surface paramétrique | Le pricing cesse d'être une approximation |
+| 16 | Smile et structure de terme calés par sous-jacent | Les ailes sont précisément là où se jouent les chocs |
+| 17 | VaR / ES conditionnelle par nœud de la grille de stress | La vraie mesure du risque de queue |
+| 18 | Brier score et calibration des probabilités publiées | Savoir si une confiance de 60 % vaut 60 % |
+| 19 | Marge, appels de marge, coût de financement | Indispensable dès qu'on vend de la volatilité |
+| 20 | Exécution intraday, VWAP, impact de marché, liquidité par ligne | Le backtest journalier est optimiste |
+| 21 | Attribution par facteur plutôt que par ligne | Distinguer « j'ai gagné sur l'énergie » de « j'ai gagné sur le bêta » |
+| 22 | Multi-utilisateur, persistance des runs | Le desk devient partageable |
+
+### 💎 Les « trucs fins » — petits en code, immenses en valeur
+
+Ceux-là ne demandent presque pas de développement. Ce sont des **changements de raisonnement**.
+
+1. **Séparer le *timing alpha* du *directionnel alpha*.** Vous l'avez mesuré : le timing vaut
+   **617 520 $**, la vue directionnelle brute vaut **~0**. Un desk qui sait ça **ne paie plus
+   jamais pour une vue directionnelle seule** — il paie pour le calendrier. C'est la
+   différence la plus rentable entre un débutant et un pro.
+2. **Généraliser le ratio amplitude / prime.** Le filtre `MIN_EDGE` compare ce que le marché
+   vous fait payer à ce que votre modèle attend. Rien n'oblige à le réserver aux options :
+   c'est un filtre d'entrée universel, valable pour n'importe quelle ligne.
+3. **Sortir au pic du *book*, pas au pic d'une ligne.** Leçon de l'Atelier 1 : la couverture
+   actions qui vous sauve dans le krach devient un passif dans le rebond (−295,4 k$).
+4. **Ne jamais juger une ligne isolément** dans un book normalisé : la retirer redistribue
+   son poids à toutes les autres (×1,119). Une « bonne » ligne peut faire baisser le P&L.
+5. **Vérifier la provenance avant le chiffre.** C'est le réflexe qui évite, dans six mois,
+   d'entendre que tout était faux. Trois repères du carnet sont tombés faute de l'avoir eu.
+
+---
+
 ## 📅 Log du 30 Août 2026 (2) — Atelier 1 exécuté : valeur du timing sur données réelles
 
 ### 1. 📐 Résultat brut (`TAKE_PROFIT_AT_PEAK`, 25,5 M$, 2026-07-01 → 2026-08-29, 42 barres, yfinance)
