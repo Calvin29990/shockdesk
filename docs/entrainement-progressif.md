@@ -85,12 +85,15 @@
 >
 > ⚠️ **Mais le carnet oubliait le piège du Sharpe**, et c'est la vraie leçon de l'atelier :
 >
-> | | `0.85` | `0.40` |
-> |---|---|---|
-> | P&L | +337 887 $ | +159 040 $ (×0,47) |
-> | Volatilité | 2,40 % | 1,13 % (×0,47) |
-> | **Sharpe** | **1,67** | **−0,24** |
-> | **Sortino** | **15,91** | **−2,29** |
+> | | `0.40` | `0.85` | `1.00` |
+> |---|---|---|---|
+> | Exposition cible | 38 % | 82 % | 96 % |
+> | **P&L** | +159 040 $ | +337 887 $ | **+397 485 $** |
+> | Volatilité | 1,13 % | 2,40 % | 2,83 % |
+> | Drawdown max | −0,04 % | −0,08 % | −0,10 % |
+> | Échangé | 28,7 M$ | 60,6 M$ | 72,0 M$ |
+> | **Sharpe** | **−0,24** | **1,67** | **1,93** |
+> | **Sortino** | **−2,29** | **15,91** | **18,32** |
 >
 > Le P&L et la volatilité sont **rigoureusement proportionnels** à l'exposition. Le Sharpe,
 > lui, s'effondre et **passe en négatif** alors que la stratégie a gagné 159 040 $.
@@ -102,6 +105,19 @@
 > **À retenir** : sur un book qui sort au pic et reste en liquidités, **le Sharpe et le
 > Sortino ne mesurent pas la qualité de votre trade** — ils mesurent surtout le coût
 > d'opportunité du cash. Ne les utilisez jamais seuls pour classer deux variantes.
+>
+> 🔬 **La preuve, en trois chiffres.** Si l'on recalcule le Sharpe *sans* retirer le taux
+> sans risque, on obtient :
+>
+> | `BASE_EXPOSURE` | 0.40 | 0.85 | 1.00 |
+> |---|---|---|---|
+> | Sharpe affiché | −0,24 | 1,67 | 1,93 |
+> | **Sharpe hors sans-risque** | **3,36** | **3,36** | **3,36** |
+>
+> **La qualité risque-ajustée du trade est strictement identique dans les trois cas.**
+> Toute la variation du Sharpe affiché vient de la soustraction d'une constante. Le levier
+> change la *taille* du trade, jamais sa *qualité* — c'est la définition même d'un bouton
+> de volume.
 
 ---
 
@@ -122,9 +138,18 @@
 > prévus, x1,63) et ne liste comme misses que **HYG** et **TLT**. Le chiffre de −71 k$
 > vient du **générateur synthétique** (mesuré à −69 978 $ le 29/08) et ne se vérifie pas
 > sur le marché réel.
-> **Attendez-vous donc à l'inverse du résultat annoncé** : mettre `GC=F` à 0.00 devrait
-> faire *baisser* le P&L d'environ 53 k$ (de ~+338 k$ à ~+285 k$), pas le faire grimper à
-> +400 k$. C'est un excellent exercice : mesurez-le, et dites-moi ce que vous trouves.
+> **Attendez-vous donc à l'inverse du résultat annoncé** : `GC=F` à 0.00 devrait faire
+> **baisser** le P&L, pas le faire grimper à +400 k$.
+>
+> 🧠 **Et attention au second piège — le plus subtil des trois.** Les poids du book sont
+> normalisés par l'exposition brute (`total = Σ|w|`, ligne 92 du code). Retirer l'or fait
+> passer `total` de **0,94 à 0,84** : **chaque ligne restante est donc multipliée par
+> 1,119**. Le book ne perd pas le poids de l'or, il le **redistribue** sur les autres
+> lignes — qui, elles, ont gagné.
+>
+> **Prédiction chiffrée** : P&L ≈ (337,9 − 53,0) × 1,119 ≈ **+319 k$**, soit une baisse
+> d'environ **19 k$** seulement. Si vous trouvez +285 k$, c'est que la redistribution ne
+> s'est pas faite comme prévu — et il faudra comprendre pourquoi.
 
 ---
 
@@ -219,7 +244,7 @@
 | Atelier | Thème | Paramètre testé | Statut | Mon diagnostic / Remarque |
 |---|---|---|---|---|
 | **Atelier 1** | Timing de sortie | `TAKE_PROFIT_AT_PEAK = False` | ✅ Fait · 30/08 | +337 887 $ → **−279 633 $** (−617 520 $). Casse : `BZ=F` −304,6 k + `^GSPC` −295,4 k, compensées par `GC=F` +54,2 k. Le timing protège le book, pas la ligne. |
-| **Atelier 2** | Exposition globale | `BASE_EXPOSURE = 0.40 / 1.00` | 🔲 À faire | |
+| **Atelier 2** | Exposition globale | `BASE_EXPOSURE = 0.40 / 1.00` | ✅ Fait · 30/08 | +159 040 $ / +337 887 $ / +397 485 $. Tout scale au même facteur. Sharpe affiché −0,24 / 1,67 / 1,93 mais **3,36 / 3,36 / 3,36** hors taux sans risque → le levier change la taille, pas la qualité. |
 | **Atelier 3** | Nettoyage du Miss | `BOOK['GC=F'] = 0.00` | 🔲 À faire | |
 | **Atelier 4** | Long Strangle | Stratégie gamma | 🔲 À faire | |
 | **Atelier 5** | Straddle vs Strangle | `MODE = "straddle"` | 🔲 À faire | |

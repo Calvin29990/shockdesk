@@ -374,5 +374,57 @@ facteur (0,471 ≈ 0,40/0,85). Il ne change en rien la qualité de la thèse.
 P&L **≈ +397 000 $ (+1,56 %)** · vol **≈ 2,82 %** · CAGR ≈ 9,9 % · **Sharpe ≈ 1,9** ·
 `Exposition cible 96 %` (r1) / `88 %` (r2) · échangé ≈ 71,3 M$.
 
+### 11. 📐 Atelier 2 — mesure B : `BASE_EXPOSURE = 1.00` et démonstration du biais du Sharpe
+
+Run validé par `Exposition cible 96 %` (r1) / `88 %` (r2). **Prédictions confirmées** :
+P&L annoncé ≈ +397 000 $ → **mesuré +397 485 $** ; Sharpe annoncé ≈ 1,9 → **mesuré 1,93** ;
+vol annoncée 2,82 % → **mesurée 2,83 %** ; échangé annoncé ≈ 71,3 M$ → **mesuré 71 969 163 $**.
+
+| | `0.40` | `0.85` | `1.00` |
+|---|---|---|---|
+| Exposition cible (r1) | 38 % | 82 % | 96 % |
+| **P&L** | +159 040 $ (+0,62 %) | +337 887 $ (+1,32 %) | **+397 485 $ (+1,56 %)** |
+| CAGR | 3,90 % | 8,43 % | 9,97 % |
+| Vol annualisée | 1,13 % | 2,40 % | 2,83 % |
+| Drawdown max | −0,04 % | −0,08 % | −0,10 % |
+| Échangé | 28,70 M$ | 60,64 M$ | 71,97 M$ |
+| Alpha (`^GSPC` +3,05 %) | −2,43 % | −1,73 % | −1,50 % |
+| **Sharpe affiché** | **−0,24** | **1,67** | **1,93** |
+| **Sortino affiché** | **−2,29** | **15,91** | **18,32** |
+| Sortie loguée | J+7 · +169 093 $ | J+7 · +359 323 $ | J+7 · +422 733 $ |
+
+**A. La proportionnalité est vérifiée au dollar près.** Rapport à la référence `0.85` :
+×0,4706 théorique pour `0.40` → P&L 159 010 $ attendu / **159 040 $** mesuré ;
+×1,1765 pour `1.00` → 397 550 $ attendu / **397 485 $** mesuré. Volatilité et drawdown
+suivent le même facteur (2,40 % → 1,13 % / 2,83 % ; −0,08 % → −0,04 % / −0,10 %).
+`BASE_EXPOSURE` est **exactement** un bouton de volume : il ne crée aucune edge.
+
+**B. Démonstration du biais du taux sans risque.** En recalculant le Sharpe **sans** le
+terme `rf_daily` (mean(rets)/std(rets) × √252) sur les trois runs :
+
+| `BASE_EXPOSURE` | Sharpe affiché (rf = 4,1 %) | Sharpe hors sans-risque |
+|---|---|---|
+| 0.40 | −0,24 | **3,36** |
+| 0.85 | 1,67 | **3,36** |
+| 1.00 | 1,93 | **3,36** |
+
+**La qualité risque-ajustée du trade est identique à 3,36 dans les trois cas.** Toute la
+variation du Sharpe affiché (−0,24 → 1,67 → 1,93) est produite par la soustraction d'une
+constante (4,1 %/an) à un rendement qu'on fait varier. C'est la signature d'une métrique
+contaminée par un terme fixe — et la confirmation directe du point 10 ci-dessus.
+Correctif de priorité 1 en phase 2 : cesser de retirer le sans-risque à un book qui dort
+en cash non rémunéré, ou au minimum afficher les deux valeurs.
+
+**C. Alpha : le levier ne rattrape pas le benchmark.** L'alpha passe de −2,43 % à −1,50 %
+quand on monte l'exposition de 0,40 à 1,00 : il reste **négatatif** dans tous les cas.
+Le levier amplifie l'edge, il n'en crée pas — et il ne corrige pas un sous-benchmark.
+
+**D. Prédiction pour l'Atelier 3 (`BOOK['GC=F'] = 0.00`, `BASE_EXPOSURE = 0.85`).**
+Le poids des lignes est normalisé par l'exposition brute (`total = Σ|w|`). Retirer l'or
+fait passer `total` de **0,94 à 0,84**, donc **chaque ligne restante est multipliée par
+1,119** : le book ne perd pas le poids de l'or, il le **redistribue**.
+D'où P&L prédit ≈ (337,9 − 53,0) × 1,119 + 0 ≈ **+319 k$**, soit une **baisse d'environ
+19 k$** — et non la hausse à « plus de +400 k$ » annoncée par le carnet. À vérifier.
+
 ---
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
