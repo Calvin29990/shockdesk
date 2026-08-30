@@ -376,6 +376,28 @@ def test_scoring_net_du_drift():
     assert oil["peak_error_days"] == 1
 
 
+def test_scorecard_distingue_le_hors_univers():
+    """Une prévision sur un sous-jacent absent du panneau n'est pas un échec :
+    elle n'est pas testable dans cet univers.
+
+    Sans cette distinction, un scorecard `us-equities` affichait 9 lignes
+    « non évaluable » sur 10 (Brent, or, dollar, crédit, matières premières...)
+    et se lisait comme une série de misses.
+    """
+    led = ForecastLedger()
+    panel_ue = load_panel("us-equities", "2026-01-01", "2026-08-28", source="synthetic")
+    sc = scorecard(led, panel_ue)
+    assert "BZ=F" in sc["out_of_universe"]
+    assert sc["out_of_universe_total"] > 0
+    assert sc["evaluable_total"] == len(sc["rows"]) - sc["out_of_universe_total"]
+    # TLT est chargé dans us-equities : sa ligne est évaluée, pas « hors univers ».
+    tlt = [r for r in sc["rows"] if r["asset"] == "TLT"]
+    assert tlt and not any(r["out_of_universe"] for r in tlt)
+    # Sur l'univers qui charge toutes les lignes publiées : rien hors univers.
+    gm = load_panel("global-macro", "2026-07-01", "2026-08-28", source="synthetic")
+    assert scorecard(led, gm)["out_of_universe_total"] == 0
+
+
 def test_validation_exclut_le_drift_du_benchmark():
     panel = load_panel("global-macro", "2026-07-01", "2026-08-28")
     led = ForecastLedger()

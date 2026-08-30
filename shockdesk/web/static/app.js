@@ -454,8 +454,12 @@
       : "<tr><td class='muted'>aucune position en fin de période</td></tr>";
 
     const sc = p.scorecard || {};
-    const rows = sc.rows || [];
-    const tagOf = r => r.error ? ["non évaluable", "na"]
+    // Les lignes dont le sous-jacent n'est pas chargé dans cet univers vont en
+    // bas de table : ce ne sont pas des erreurs, elles ne sont pas testables ici.
+    const rows = (sc.rows || []).slice().sort(
+      (a, b) => (a.out_of_universe ? 1 : 0) - (b.out_of_universe ? 1 : 0));
+    const tagOf = r => r.out_of_universe ? ["hors univers", "na"]
+      : r.error ? ["non évaluable", "na"]
       : r.is_benchmark ? ["non-test", "na"]
       : r.counted ? ["compté", "ok"] : ["correction", "na"];
     $("#tbl-scorecard").innerHTML = rows.length ? table(
@@ -464,7 +468,8 @@
         const t = tagOf(r);
         if (r.error) return [r.asset, "r" + r.rev, { v: t[0], c: "muted" },
           { v: "—", c: "muted" }, { v: "—", c: "muted" },
-          { v: r.error, c: "muted" }, "", "", ""];
+          { v: r.out_of_universe ? "sous-jacent absent de cet univers" : r.error, c: "muted" },
+          "", "", ""];
         return [
           r.asset, "r" + r.rev, { v: t[0], c: "" },
           { v: (r.sign_forecast > 0 ? "↑" : "↓"), c: r.sign_forecast > 0 ? "pos" : "neg" },
@@ -476,7 +481,11 @@
         ];
       })) + "<tfoot><tr><td colspan='9' class='muted'>accord de signe net du drift : <b>"
       + (sc.sign_hits || 0) + "/" + (sc.sign_total || 0) + "</b> sur les révisions originales ("
-      + (sc.lines_total || 0) + " lignes publiées, " + (sc.non_test || 0) + " non-test) · "
+      + (sc.lines_total || 0) + " lignes publiées, " + (sc.non_test || 0) + " non-test, "
+      + (sc.evaluable_total || 0) + " évaluables dans cet univers) · "
+      + ((sc.out_of_universe_total || 0)
+        ? "<span class='muted'>hors univers : " + esc((sc.out_of_universe || []).join(", ")) + " · </span>"
+        : "")
       + "erreur de pic médiane <b>" + nf(sc.median_peak_error_days, 1) + " j</b> · "
       + "ratio d'amplitude médian <b>" + nf(sc.median_amplitude_ratio, 2) + "</b>"
       + ((sc.misses || []).length ? " · misses : <b>" + esc((sc.misses || []).join(", ")) + "</b>" : "")
@@ -582,7 +591,12 @@
       + "<div><div class='lbl'>au</div><div class='big'>" + esc(b.asof || "—") + "</div></div>"
       + "<div class='muted'>Données : " + esc(b.data_source)
       + ". Le sens est mesuré net du benchmark, pondéré par le beta de la ligne. "
-      + "Les misses sont affichés avec les réussites.</div></div>";
+      + "Les misses sont affichés avec les réussites."
+      + ((sc.out_of_universe_total || 0)
+        ? " " + (sc.out_of_universe_total) + " prévision(s) portent sur un sous-jacent hors "
+          + "univers (" + esc((sc.out_of_universe || []).join(", ")) + ") : non évaluables ici."
+        : "")
+      + "</div></div>";
 
     const box = $("#scenario-rows");
     box.innerHTML = "";
