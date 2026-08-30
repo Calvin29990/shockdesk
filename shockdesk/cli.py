@@ -53,9 +53,10 @@ def _print_metrics(p: dict):
                 f"({m['total_return']:+.2%})"),
         ("CAGR", f"{(m['cagr'] or 0):+.2%}"),
         ("Vol annualisée", f"{(m['ann_volatility'] or 0):.2%}"),
-        ("Sharpe", f"{m['sharpe']}"),
-        ("Sortino", f"{m['sortino']}"),
-        ("Drawdown max", f"{(m['max_drawdown'] or 0):.2%}"),
+        ("Sharpe", "n.d." if m["sharpe"] is None else f"{m['sharpe']}"),
+        ("Sortino", "n.d." if m["sortino"] is None else f"{m['sortino']}"),
+        ("Drawdown max", "n.d." if m["max_drawdown"] is None
+         else f"{m['max_drawdown']:.2%}"),
         ("Win rate", f"{(m['win_rate'] or 0):.1%}"),
         ("Trades", f"{m['trades']}"),
         ("Benchmark", f"{m.get('benchmark_symbol')} "
@@ -283,6 +284,11 @@ def _cmd_revue(args):
     if ref and not ref[0][7]:
         print("   (référence inactive : son pool ne recoupe pas cet univers — "
               "la comparaison ne veut rien dire ici)")
+    # Un ratio non defini arrive en None depuis metrics.compute() : on
+    # l'affiche « n.d. » plutot que de le formater (et plutot que 0,0).
+    def _fmt(v, spec):
+        return ("n.d." if v is None else format(v, spec)).rjust(7)
+
     for name, ret, sharpe, dd, alpha, err, hors, trades in rows:
         if err:
             print(f"   {name:<44} ERREUR {err.splitlines()[0][:56]}")
@@ -291,8 +297,8 @@ def _cmd_revue(args):
         if (ref_ret is not None and ret is not None and not hors
                 and "momentum" not in name.lower()):
             verdict = "bat la référence" if ret > ref_ret else "sous la référence"
-        print(f"   {name:<44} {ret:+7.2%}  Sharpe {sharpe:>6}  DD {dd:>7.2%}  "
-              f"alpha {alpha:+7.2%}  {verdict}")
+        print(f"   {name:<44} {ret:+7.2%}  Sharpe {_fmt(sharpe, '.2f')}  "
+              f"DD {_fmt(dd, '.2%')}  alpha {_fmt(alpha, '+.2%')}  {verdict}")
     print()
     return 0
 

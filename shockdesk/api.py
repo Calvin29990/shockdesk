@@ -60,8 +60,11 @@ def run_backtest(code: str, name: str = "us-equities", startCapital=10000,
         b = panel.close[bench_col]
         bench = (b / float(b.iloc[0])) * float(p["startCapital"])
 
-    perf = metrics_mod.compute(equity, bench)
+    perf = metrics_mod.compute(equity, bench, risk_free=st.risk_free)
     perf["benchmark_symbol"] = bench_col
+    # Le taux sans risque est retiré du Sharpe et du Sortino : on le renvoie
+    # pour que l'interface puisse l'afficher à côté des deux ratios.
+    perf["risk_free"] = st.risk_free
     exposure = []
     for row in result["greeks"]:
         exposure.append(row)

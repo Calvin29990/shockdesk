@@ -249,6 +249,13 @@ class EngineSettings:
     slippage_bps: float = 5.0
     allow_short: bool = True
     max_leverage: float = 2.0
+    # Taux sans risque annualisé, retiré du rendement dans le Sharpe et le
+    # Sortino. Il est retiré CHAQUE barre, y compris celles où le book dort en
+    # liquidités — or le moteur ne rémunère pas le cash. Sur une stratégie qui
+    # sort au pic et reste en cash, ce terme fixe écrase le ratio : le rendre
+    # paramétrable (et l'afficher) permet au moins de le lire en connaissance
+    # de cause. Le mettre à 0 redonne un Sharpe « brut ».
+    risk_free: float = 0.041
 
 
 class BacktestEngine:
@@ -428,6 +435,17 @@ class BacktestEngine:
             return config.get_asset(asset.underlying).multiplier
         return config.get_asset(asset).multiplier
 
+    @staticmethod
+    def _contract_size(asset: AssetKey) -> float:
+        """Unités du sous-jacent couvertes par un contrat (1 pour une part d'ETF)."""
+        try:
+            return float(config.get_asset(asset.underlying).contract_size) or 1.0
+        except Exception:
+            try:
+                return float(config.get_asset(asset).contract_size) or 1.0
+            except Exception:
+                return 1.0
+
     # ------------------------------------------------------------------ #
     # Exécution
     # ------------------------------------------------------------------ #
@@ -486,7 +504,14 @@ class BacktestEngine:
             mult = self._multiplier(asset)
             gross = o.amount * exec_px * mult
             if isinstance(asset, opt.OptionContract):
-                commission = abs(o.amount) * s.commission_per_contract
+                # Les quantités du moteur sont en unités du sous-jacent, alors que
+                # le frais est facturé par contrat : on ramène donc la quantité au
+                # nombre de contrats réels. Sans ça, une option à 4,25 $ l'unité
+                # payait 0,65 $ de frais, soit ~15 % de la prime (et ~30 % l'aller-
+                # retour), ce qui rendait toute stratégie d'options structurellement
+                # perdante. 1 contrat Brent = 1 000 barils, 1 contrat or = 100 onces.
+                commission = abs(o.amount) / self._contract_size(asset) \
+                    * s.commission_per_contract
             else:
                 commission = max(abs(o.amount) * s.commission_per_share, s.commission_min)
             self.portfolio.cash -= gross
@@ -759,6 +784,18 @@ class BacktestEngine:
         if out:
             for line in out.splitlines()[:200]:
                 self.log_line(line, "stdout")
+
+        # Une position encore ouverte à la dernière barre entre dans le P&L final
+        # par sa seule valeur de marché, sans jamais avoir été débouclée. On le
+        # signale au lieu de le laisser se fondre dans le résultat : sur l'exercice
+        # publié, la ré-entrée r2 du 28/08 pesait ainsi ~21 k$ sur le P&L affiché.
+        open_pos = [(a, pos) for a, pos in self.portfolio.positions.items()
+                    if abs(pos.amount) > 1e-9]
+        if open_pos:
+            latent = sum(pos.unrealized_pnl for _a, pos in open_pos)
+            self.log_line(
+                f"Fin de backtest : {len(open_pos)} position(s) encore ouverte(s), "
+                f"P&L latent {latent:+,.0f} $ compris dans le résultat.", "warning")
         return self.report()
 
     # ------------------------------------------------------------------ #
