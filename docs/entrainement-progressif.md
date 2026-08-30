@@ -127,29 +127,41 @@
   ```python
   "GC=F": 0.00,   # Mettez le poids de l'or à 0.00 (au lieu de 0.10)
   ```
-* **Ce qu'il faut observer** :
-  * La perte de −71 k$ sur l'or disparaît du tableau d'attribution.
-  * Le P&L global grimpe immédiatement à plus de **+400 k$**.
-* **Diagnostic Desk** : Dans un choc pétrolier avec hausse conjointe des taux réels et du dollar, l'or ne joue pas son rôle de refuge. Supprimer cette ligne assainit le portefeuille.
+* **Ce qu'il faut observer** — valeurs **vérifiées le 30/08/2026** sur données réelles Yahoo
+  (25,5 M$, 42 barres, `BASE_EXPOSURE = 0.85`, `TAKE_PROFIT_AT_PEAK = True`) :
 
-> ⚠️ **Note de vérification ajoutée le 30/08/2026** — à relire avant de faire l'atelier.
-> Sur **données réelles Yahoo** (run du 29/08, `TAKE_PROFIT_AT_PEAK = True`), l'or ressort à
-> **+53,0 k$**, pas à −71 k$ : le scorecard marque `GC=F` **✔** (amplitude 4,9 % vs 3,0 %
-> prévus, x1,63) et ne liste comme misses que **HYG** et **TLT**. Le chiffre de −71 k$
-> vient du **générateur synthétique** (mesuré à −69 978 $ le 29/08) et ne se vérifie pas
-> sur le marché réel.
-> **Attendez-vous donc à l'inverse du résultat annoncé** : `GC=F` à 0.00 devrait faire
-> **baisser** le P&L, pas le faire grimper à +400 k$.
->
-> 🧠 **Et attention au second piège — le plus subtil des trois.** Les poids du book sont
-> normalisés par l'exposition brute (`total = Σ|w|`, ligne 92 du code). Retirer l'or fait
-> passer `total` de **0,94 à 0,84** : **chaque ligne restante est donc multipliée par
-> 1,119**. Le book ne perd pas le poids de l'or, il le **redistribue** sur les autres
-> lignes — qui, elles, ont gagné.
->
-> **Prédiction chiffrée** : P&L ≈ (337,9 − 53,0) × 1,119 ≈ **+319 k$**, soit une baisse
-> d'environ **19 k$** seulement. Si vous trouvez +285 k$, c'est que la redistribution ne
-> s'est pas faite comme prévu — et il faudra comprendre pourquoi.
+  | | Avec l'or (`0.10`) | Sans l'or (`0.00`) | Écart |
+  |---|---|---|---|
+  | **P&L** | **+337 887 $ (+1,32 %)** | **+318 756 $ (+1,25 %)** | **−19 131 $** |
+  | Sharpe | 1,67 | 1,47 | dégradé |
+  | Sortino | 15,91 | **4,44** | ÷3,6 |
+  | Drawdown max | −0,08 % | **−0,15 %** | ×1,9 |
+  | Calmar | 102,37 | 53,24 | ÷1,9 |
+  | Alpha | −1,73 % | −1,80 % | dégradé |
+  | Trades | 21 | 18 | une ligne en moins |
+
+  Attribution sans l'or : `BZ=F` **+209,4 k$** · `^GSPC` **+91,8 k$** · `DBC` **+52,3 k$** ·
+  `DX-Y.NYB` +5,9 k$ · `TLT` −27,6 k$ · `HYG` −13,1 k$.
+
+* **Diagnostic Desk — entièrement réécrit le 30/08/2026.** Le carnet annonçait une perte de
+  −71 k$ sur l'or et un P&L grimpant à « plus de +400 k$ ». **Tout était faux sur données
+  réelles.** Les trois vraies leçons :
+
+  1. **L'or n'était pas une perte, c'était un gain de +53,0 k$** (+4,9 % réalisés contre 3,0 %
+     prévus, scorecard ✔). Le chiffre de −71 k$ venait du générateur synthétique.
+  2. **Retirer une ligne ne supprime pas son P&L — ça le redistribue.** Les poids sont
+     normalisés par l'exposition brute (`total = Σ|w|`, ligne 92). Passer de 0,94 à 0,84
+     multiplie **chaque ligne restante par 1,119** : vérifié au dollar sur les six lignes
+     (187,1 → 209,4 · 82,0 → 91,8 · 46,7 → 52,3 · 5,3 → 5,9 · −11,7 → −13,1 · −24,6 → −27,6).
+     Formule : `P&L_après = (P&L_avant − contribution_retirée) × 1,119`.
+  3. **Le retrait dégrade aussi le risque** : drawdown −0,08 % → **−0,15 %**, Sortino 15,91 →
+     **4,44**. L'or était un **diversifiant**, pas un boulet.
+
+  → **La vraie leçon** : dans un book normalisé, « nettoyer » une ligne n'est jamais neutre —
+  on retire sa contribution *et* on redimensionne tout le reste. Et une ligne classée « miss »
+  sur données synthétiques peut être un diversifiant sur données réelles. C'est pour ça que
+  la source des données reste le premier réflexe du desk.
+* **Action** : remettez `"GC=F": 0.10` pour revenir à l'état de référence.
 
 ---
 
@@ -245,7 +257,7 @@
 |---|---|---|---|---|
 | **Atelier 1** | Timing de sortie | `TAKE_PROFIT_AT_PEAK = False` | ✅ Fait · 30/08 | +337 887 $ → **−279 633 $** (−617 520 $). Casse : `BZ=F` −304,6 k + `^GSPC` −295,4 k, compensées par `GC=F` +54,2 k. Le timing protège le book, pas la ligne. |
 | **Atelier 2** | Exposition globale | `BASE_EXPOSURE = 0.40 / 1.00` | ✅ Fait · 30/08 | +159 040 $ / +337 887 $ / +397 485 $. Tout scale au même facteur. Sharpe affiché −0,24 / 1,67 / 1,93 mais **3,36 / 3,36 / 3,36** hors taux sans risque → le levier change la taille, pas la qualité. |
-| **Atelier 3** | Nettoyage du Miss | `BOOK['GC=F'] = 0.00` | 🔲 À faire | |
+| **Atelier 3** | Nettoyage du Miss | `BOOK['GC=F'] = 0.00` | ✅ Fait · 30/08 | +337 887 $ → **+318 756 $** (−19 131). L'or rapportait **+53,0 k$**, il ne coûtait rien. Retrait = redistribution ×1,119 des autres lignes + drawdown ×1,9. Diagnostic du carnet **faux** : corrigé. |
 | **Atelier 4** | Long Strangle | Stratégie gamma | 🔲 À faire | |
 | **Atelier 5** | Straddle vs Strangle | `MODE = "straddle"` | 🔲 À faire | |
 | **Atelier 6** | Butterfly | Plafond de risque | 🔲 À faire | |

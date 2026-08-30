@@ -426,5 +426,57 @@ fait passer `total` de **0,94 à 0,84**, donc **chaque ligne restante est multip
 D'où P&L prédit ≈ (337,9 − 53,0) × 1,119 + 0 ≈ **+319 k$**, soit une **baisse d'environ
 19 k$** — et non la hausse à « plus de +400 k$ » annoncée par le carnet. À vérifier.
 
+### 12. ⚖️ Atelier 3 — `BOOK['GC=F'] = 0.00` : redistribution confirmée au dollar, diagnostic du carnet invalidé
+
+Conditions : `BASE_EXPOSURE = 0.85` (témoin `Exposition cible 82 %` / `75 %`),
+`TAKE_PROFIT_AT_PEAK = True`, 42 barres, yfinance, 25,5 M$.
+
+| | Avec l'or | Sans l'or | Écart |
+|---|---|---|---|
+| **P&L** | +337 887 $ (+1,32 %) | **+318 756 $ (+1,25 %)** | **−19 131 $** |
+| Sharpe | 1,67 | 1,47 | dégradé |
+| Sortino | 15,91 | **4,44** | ÷3,6 |
+| Drawdown max | −0,08 % | **−0,15 %** | ×1,9 |
+| Calmar | 102,37 | 53,24 | ÷1,9 |
+| Alpha | −1,73 % | −1,80 % | dégradé |
+| Trades | 21 | 18 | −3 |
+| Échangé | 60,64 M$ | **61,07 M$** | en hausse |
+| Sortie loguée | J+7 · +359 323 $ | J+7 · +340 310 $ | −19 013 |
+
+**A. La prédiction de redistribution est confirmée à 0,08 %.** Modèle :
+`P&L_après = (P&L_avant − contribution_retirée) × (Σ|w|_avant / Σ|w|_après)`
+= (337,9 − 53,0) × (0,94/0,84) = **318,7 k$** → mesuré **318 756 $**.
+
+Vérification ligne par ligne, toutes exactes au dixième de k$ :
+
+| Ligne | Avant | ×1,119 | Mesuré |
+|---|---|---|---|
+| `BZ=F` | +187,1 k | 209,4 | **+209,4 k** |
+| `^GSPC` | +82,0 k | 91,8 | **+91,8 k** |
+| `DBC` | +46,7 k | 52,3 | **+52,3 k** |
+| `DX-Y.NYB` | +5,3 k | 5,9 | **+5,9 k** |
+| `HYG` | −11,7 k | −13,1 | **−13,1 k** |
+| `TLT` | −24,6 k | −27,5 | **−27,6 k** |
+
+**B. Le carnet d'entraînement était faux sur toute la ligne** (Atelier 3 : « −71 k$ sur l'or »,
+« le P&L grimpe à plus de +400 k$ », « supprimer cette ligne assainit le portefeuille ») :
+* L'or **rapportait +53,0 k$**, il ne coûtait rien. Le chiffre de −71 k$ provenait du
+  générateur synthétique (mesuré −69 978 $ le 29/08).
+* Le P&L **baisse** de 19 131 $, il ne monte pas à +400 k$ (erreur de ~82 k$, et de sens).
+* Le retrait **dégrade** le risque : drawdown ×1,9, Sortino ÷3,6, Calmar ÷1,9. L'or était un
+  **diversifiant**, pas un boulet.
+
+**C. Mécanisme de premier ordre à ne jamais oublier.** Le book est normalisé par
+l'exposition brute (`total = Σ|w|`, `shock-lab-oil.py` l. 92). Retirer une ligne ne libère
+pas son poids : **il est redistribué au prorata sur les lignes restantes**, qui voient
+toutes leur taille multipliée par `Σ|w|_avant / Σ|w|_après`. Conséquence contre-intuitive :
+supprimer une ligne **gagnante** peut faire baisser le P&L global, et supprimer une ligne
+perdante peut le faire monter moins qu'espéré — dans les deux cas, **l'effet net dépend du
+rendement relatif de la ligne retirée par rapport au reste du book**, pas de son signe.
+
+**D. Correction appliquée.** L'Atelier 3 du carnet d'entraînement a été entièrement réécrit
+le 30/08/2026 avec les valeurs mesurées, la formule de redistribution et la conclusion
+inversée. Les Ateliers 1 et 2 ont été corrigés de la même façon (sections ci-dessus).
+
 ---
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
