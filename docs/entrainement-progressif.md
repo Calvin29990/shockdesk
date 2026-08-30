@@ -80,6 +80,29 @@
   * Avec `1.00` : P&L maximisé (~+400 k$), mais les variations quotidiennes sont plus amples.
 * **Diagnostic Desk** : `BASE_EXPOSURE` est votre bouton de volume. Il ne change pas la pertinence de votre thèse, il règle simplement l'intensité financière du trade.
 
+> ✅ **Vérifié le 30/08/2026 sur données réelles** (mesure A, `0.40`) : les prédictions du
+> carnet étaient **bonnes** — P&L **+159 040 $**, volatilité **1,13 %**, drawdown **−0,04 %**.
+>
+> ⚠️ **Mais le carnet oubliait le piège du Sharpe**, et c'est la vraie leçon de l'atelier :
+>
+> | | `0.85` | `0.40` |
+> |---|---|---|
+> | P&L | +337 887 $ | +159 040 $ (×0,47) |
+> | Volatilité | 2,40 % | 1,13 % (×0,47) |
+> | **Sharpe** | **1,67** | **−0,24** |
+> | **Sortino** | **15,91** | **−2,29** |
+>
+> Le P&L et la volatilité sont **rigoureusement proportionnels** à l'exposition. Le Sharpe,
+> lui, s'effondre et **passe en négatif** alors que la stratégie a gagné 159 040 $.
+> Pourquoi ? Parce que ShockDesk retire un **taux sans risque de 4,1 % par an** à votre
+> rendement, **y compris les jours où le book dort en cash** — alors que le moteur ne vous
+> paie aucun intérêt sur ce cash. À `0.40`, votre CAGR (3,90 %) passe juste sous 4,1 % :
+> l'excédent devient négatif, donc le Sharpe aussi.
+>
+> **À retenir** : sur un book qui sort au pic et reste en liquidités, **le Sharpe et le
+> Sortino ne mesurent pas la qualité de votre trade** — ils mesurent surtout le coût
+> d'opportunité du cash. Ne les utilisez jamais seuls pour classer deux variantes.
+
 ---
 
 ### 📌 Atelier 3 : Neutraliser le "Miss" (L'Or `GC=F`)
