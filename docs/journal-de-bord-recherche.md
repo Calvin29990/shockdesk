@@ -329,5 +329,50 @@ confiance qu'au toast `code enregistré dans strategies/…`. Le témoin de bonn
 dans le journal d'exécution : `Exposition cible = BASE_EXPOSURE × confiance × 1,6`, soit
 **38 %** pour `0.40`, **82 %** pour `0.85`, **96 %** pour `1.00`.
 
+### 10. 📐 Atelier 2 — mesure A : `BASE_EXPOSURE = 0.40` (données réelles)
+
+Run validé par le témoin `Exposition cible 38 %` (r1) / `35 %` (r2), `TAKE_PROFIT_AT_PEAK = True`,
+42 barres, yfinance, 25,5 M$.
+
+| | `0.85` (référence) | `0.40` (mesure A) | Ratio |
+|---|---|---|---|
+| **P&L** | +337 887 $ (+1,32 %) | **+159 040 $ (+0,62 %)** | ×0,471 |
+| CAGR | 8,43 % | 3,90 % | ×0,463 |
+| Vol annualisée | 2,40 % | 1,13 % | ×0,471 |
+| Drawdown max | −0,08 % | −0,04 % | ×0,500 |
+| Montant échangé | 60 639 145 $ | 28 701 156 $ | ×0,473 |
+| **Sharpe** | **1,67** | **−0,24** | ✗ non proportionnel |
+| **Sortino** | **15,91** | **−2,29** | ✗ non proportionnel |
+| Calmar | 102,37 | 100,56 | ✗ non significatif |
+| Attribution `BZ=F` | +187,1 k | +88,1 k | ×0,471 |
+| Attribution `^GSPC` | +82,0 k | +38,6 k | ×0,471 |
+| Attribution `GC=F` | +53,0 k | +25,0 k | ×0,472 |
+| Sortie loguée | J+7 · +359 323 $ | J+7 · +169 093 $ | ×0,471 |
+
+**Conclusion 1 — `BASE_EXPOSURE` est bien un bouton de volume pur.** P&L, volatilité,
+drawdown, montants échangés et chaque ligne d'attribution sont multipliés par le même
+facteur (0,471 ≈ 0,40/0,85). Il ne change en rien la qualité de la thèse.
+
+**Conclusion 2 — le Sharpe, lui, s'effondre et passe négatif : c'est le vrai résultat.**
+* `metrics.py` l. 36-38 soustrait `rf_daily = risk_free / 252` avec **`risk_free = 0.041`
+  (4,1 %)** codé en dur — et ce **chaque barre**, y compris les ~37 barres où le book est
+  sorti et dort en cash.
+* À `0.40`, le CAGR tombe à **3,90 %**, sous les 4,1 % du sans-risque → l'excédent devient
+  négatif → Sharpe **−0,24** et Sortino **−2,29**. Arithmétiquement juste.
+* ⚠️ **Mais c'est une incohérence de moteur** : `engine.py` ne crédite **aucun intérêt sur
+  le cash** (le cash n'est mouvementé que par les ordres et le MTM). Une stratégie qui
+  prend son profit et se met en liquidités est donc **pénalisée deux fois** : elle ne
+  touche pas les 4,1 % qu'elle « aurait dû » gagner, et le Sharpe les lui retire quand même.
+* **Correctifs suggérés (phase 2)** : (1) créditer le cash au taux sans risque, ou
+  (2) rendre `risk_free` paramétrable et l'afficher, ou (3) neutraliser le Sharpe quand la
+  stratégie est plate plus de x % des barres — et dans tous les cas **avertir** que le
+  ratio n'est pas significatif sur une fenêtre majoritairement plate.
+* **Règle de lecture pour le desk** : sur ce type d'exercice (book sorti au pic, ~37 barres
+  sur 42 à plat), **le Sharpe et le Sortino ne doivent pas servir à classer la stratégie.**
+
+**Prédiction chiffrée pour la mesure B (`BASE_EXPOSURE = 1.00`)** — à confronter au run :
+P&L **≈ +397 000 $ (+1,56 %)** · vol **≈ 2,82 %** · CAGR ≈ 9,9 % · **Sharpe ≈ 1,9** ·
+`Exposition cible 96 %` (r1) / `88 %` (r2) · échangé ≈ 71,3 M$.
+
 ---
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
