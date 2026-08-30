@@ -175,6 +175,14 @@
 > réalistes. Le book delta, lui, n'est pas affecté (P&L identique au dollar près).
 > *(L'Atelier 5, laboratoire d'options, a été re-mesuré le 30/08/2026 ; l'Atelier 7 l'a été
 > aussi — voir leurs fiches.)*
+>
+> 🔧 **Second changement de frais le 30/08/2026** : la correction ci-dessus divisait par la
+> taille du contrat *au comptant* — exacte pour le Brent (1 000 barils), fausse pour les ETF,
+> actions et indices, dont le contrat d'option porte **100 parts**. Les frais d'options sur
+> ETF étaient donc encore **100× trop élevés** (410,80 $ sur une jambe de 1 233 $).
+> Les repères de l'**Atelier 8** (iron condor sur SPY) établis avant cette date sont
+> **périmés une deuxième fois** : re-mesurez-les. Les ateliers 4, 6 et 7 portent sur
+> `BZ=F`/`GC=F` et ne sont **pas** affectés.
 
 ### 📌 Atelier 4 : Le Long Strangle (`long-strangle-shock.py`)
 * **Objectif** : Découvrir comment gagner sur une explosion de volatilité sans parier sur la direction.
@@ -315,6 +323,20 @@
   3. Fenêtre : `2026-01-01` au `2026-08-28`.
 * **Ce qu'il faut observer** :
   * La courbe d'équité progresse régulièrement à la hausse grâce à l'érosion continue de la prime des options vendues.
+* **Repère mesuré le 30/08/2026** (`us-equities`, 1 000 000 $, 2026-01-01 → 2026-08-28,
+  après le correctif des frais par contrat d'option) :
+  | Source | Trades | Volume | Frais | P&L |
+  |---|---|---|---|---|
+  | `synthetic` (lab déterministe) | 68 | 138 773 $ | **313 $** (0,23 %) | **+1 434 $** |
+  | `yfinance` (données réelles, avant correctif) | 60 | 85 725 $ | **25 392 $** (29,6 %) | −10 158 $ |
+* **La leçon de l'atelier, et elle vaut plus que le chiffre** : avant le correctif, une jambe
+  de 1 233 $ payait **410,80 $** de frais. Le P&L négatif n'était pas un verdict de marché,
+  c'était une erreur de modélisation — le moteur comptait 632 *parts* d'option comme 632
+  *contrats*, alors qu'un contrat d'option US en porte 100. **Toujours lire la colonne
+  « commission » du journal des transactions avant de commenter un P&L d'options** : si le
+  rapport frais/volume dépasse ~1 %, ce n'est pas la stratégie qu'il faut revoir.
+* **Action** : relancez le run sur données réelles et notez le P&L obtenu au tableau de bord ;
+  le repère « ≈ +15 000 $ » annoncé au journal est une attente à vérifier, pas un résultat.
 
 ---
 
@@ -354,6 +376,6 @@
 | **Atelier 5** | Straddle vs Strangle | Onglet Options | ✅ Fait · 30/08 | Prime ×2,3 (10,69 → 24,40), gamma/vega +17 %, theta +18 %. À ±18,4 % : straddle gagne **par structure** (+6,29) mais strangle gagne **par dollar** (×2,13). Le levier du strangle = capital efficiency, le straddle = strike proche. |
 | **Atelier 6** | Butterfly | Plafond de risque | 🔲 À faire | |
 | **Atelier 7** | Vega & IV | Onglet Options | ✅ Fait · 30/08 | Choc 0 → +10 pts : prime 10,69 → 23,91, vega 1,242 → 1,374, theta −0,344 → −0,608, gamma ÷1,45, delta inchangé, points morts 601/684. Écart 13,22 > 10×1,242 : **volga**. ⚠️ Piège d'unités du champ : il lit une fraction (`0.10` = +10 pts) ; un « 10 » = +1000 pts, écrêtés en silence à 400 % d'IV. |
-| **Atelier 8** | Iron Condor | Carry de prime | 🔲 À faire | |
+| **Atelier 8** | Iron Condor | Carry de prime | 🟡 Lancé · 30/08 | 1 M$ : **−10 158 $** sur données réelles, dont **25 392 $ de frais** pour 85 725 $ échangés → frais d'options sur ETF surcomptés ×100 (contrat d'option = 100 parts, corrigé le 30/08). Repère à re-mesurer : ≈ +15 k$ attendu. |
 | **Atelier 9** | Révision $r_2$ | Onglet Anticipation | 🔲 À faire | |
 | **Atelier 10** | CLI Revue | Revue mensuelle | 🔲 À faire | |

@@ -987,4 +987,102 @@ retenu : le P&L du book delta doit rester identique au dollar près.** C'est le 
 
 ---
 
+## 📅 Log du 30 Août 2026 (9) — Atelier 8 : les frais d'options sur ETF surcomptés ×100
+
+> **Document de veille et d'audit interne (Règle 2)** — tout chiffre est publié
+> avec sa source, sa fenêtre et sa commande de reproduction.
+
+### 1. 🔍 Le symptôme — atelier « Iron condor de range », univers `us-equities`
+
+Run utilisateur : `iron-condor-range.py`, `us-equities`, 1 000 000 $,
+2026-01-01 → 2026-08-28, **source yfinance** (165 barres).
+
+* P&L **−10 158 $ (−0,83 %)** pour **85 725 $** de volume échangé, 60 trades.
+* Journal des transactions : **410,80 $ de commission sur une jambe de 1 233 $**
+  — **33 % du brut**, et **477,75 $** sur la jambe de 1 981 $ du 02/01.
+* Total des commissions du run : **25 391,60 $**, soit **29,6 % du volume**.
+  Le P&L est *presque entièrement* constitué de frais : le P&L brut du condor
+  est positif, seules les commissions le rendent négatif.
+
+### 2. 🧭 La cause — la taille du contrat d'option n'est pas celle de la part
+
+Le moteur raisonne en **unités du sous-jacent** (des parts). Les frais sont
+facturés **par contrat**. Le diviseur utilisé était `AssetSpec.contract_size` —
+la taille du contrat **au comptant / à terme** :
+
+| Sous-jacent | `contract_size` | Contrat d'option réel | Frais facturés |
+|---|---|---|---|
+| `SPY` (etf) | 1 part | **100 parts** | 100 × trop de contrats |
+| `AAPL` (equity) | 1 action | **100 actions** | 100 × trop |
+| `^GSPC` (index) | 1 point | **×100** | 100 × trop |
+| `BZ=F` (future) | 1 000 barils | 1 000 barils | ✅ correct |
+
+Le correctif du matin (`bad72a2`) avait branché le diviseur sur la taille du
+contrat à terme : exact pour le Brent, l'or et l'argent, **faux pour les ETF,
+les actions et les indices**, dont le contrat d'option porte 100 parts alors
+que la part se négocie à l'unité. 738 parts d'option SPY (= 7,38 contrats)
+étaient facturées **738 contrats**, soit 479,70 $ au lieu de 4,80 $.
+
+Ce n'est pas un détail de calibration : **c'est un biais de signe**. Tant qu'il
+est là, toute stratégie d'options sur ETF est perdante par construction, et la
+perte se lit comme un résultat de marché.
+
+### 3. ✅ Le correctif
+
+* `AssetSpec.option_contract_size` (0 = dérivé) et la propriété
+  `effective_option_contract_size` : **100 parts** pour `equity` / `etf` /
+  `index`, taille du contrat à terme pour un `future`.
+* `BacktestEngine._option_contract_size()` remplace `_contract_size()` pour les
+  options ; le sous-jacent garde `contract_size` (inchangé au comptant).
+* Plancher par ordre conservé : `max(contrats × 0,65 $, commission_min)` — un
+  broker facture un ticket minimum, même pour un demi-contrat.
+* La taille du contrat d'option est exposée dans la fiche sous-jacent
+  (`config.asset_dict`) pour que l'interface puisse afficher « 100 parts ».
+
+### 4. 📐 Impact mesuré — lab déterministe, reproductible hors réseau
+
+```bash
+python -m shockdesk.cli backtest --strategy iron-condor-range \
+  --name us-equities --start-capital 1000000 \
+  --start-date 2026-01-01 --end-date 2026-08-28 --source synthetic
+```
+
+| | Avant | Après |
+|---|---|---|
+| Trades | 68 | 68 |
+| Volume échangé | 137 134,94 $ | 138 772,69 $ |
+| **Commissions** | **30 869,80 $** | **313,04 $** |
+| Frais / volume | **22,5 %** | **0,23 %** |
+| Commission d'une jambe de 738 parts | 479,70 $ | **4,80 $** |
+| **P&L** | **−29 156,91 $** | **+1 434,32 $** |
+
+**Sur le run utilisateur (données réelles yfinance)**, le même correctif
+divise les 25 391,60 $ de frais par ~100 : le P&L attendu passe de
+**−10 158 $ à ≈ +15 000 $**. À re-mesurer au prochain run — ce n'est pas une
+promesse de performance, c'est la suppression d'un coût fictif.
+
+### 5. 🔒 Verrouillage — preuve de non-régression
+
+* **43 tests passent** (41 → 43) : `test_les_frais_option_sont_comptes_par_contrat`
+  (1 000 parts = 10 contrats sur SPY, 1 contrat sur `BZ=F`) et
+  `test_taille_des_contrats_d_option_par_type_d_actif` (100/100/100/100/1000/100/5000).
+* Le pricing, les grecs et le règlement à l'échéance ne sont pas touchés : seuls
+  les frais changent. Aucun repère du lab d'options (ateliers 5 et 7) n'est
+  affecté.
+* **Les repères chiffrés de l'atelier 8 établis avant ce correctif sont
+  périmés** — ils mesuraient des frais, pas un marché.
+
+### 6. 🪜 Reste ouvert (consigné, non traité ici)
+
+1. **Quantités fractionnaires** : 632 parts = 6,32 contrats. Un desk trade 6
+   contrats entiers. Le moteur raisonne en parts et n'impose pas l'arrondi au
+   lot — cohérent avec le reste du moteur, mais à décider (palier 2).
+2. **Scorecard bruité** : en `us-equities`, 9 lignes sur 10 sont
+   « non évaluable — sous-jacent absent du panneau » (DBC, HYG, ^GSPC, GC=F,
+   BZ=F, DX-Y.NYB). Ce n'est pas un bug de calcul — ces prévisions portent sur
+   des lignes hors univers — mais l'affichage gagnerait à filtrer sur le panneau
+   chargé (palier 1, interface).
+
+---
+
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
