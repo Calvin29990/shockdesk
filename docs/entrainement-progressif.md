@@ -173,9 +173,26 @@
   1. Sélectionnez la stratégie `long-strangle-shock.py`.
   2. Univers : `global-macro`, Capital : `1000000` (1 M$).
   3. Lancer le backtest (`Ctrl + Entrée`).
-* **Ce qu'il faut observer** :
-  * P&L : **+12 084 $ (+1,21 %)** avec seulement **6 trades**.
-  * Le Call OTM a explosé en valeur grâce aux +18,4 % du Brent, couvrant largement la perte totale du Put et le coût du temps.
+* **Ce qu'il faut observer** — vérifié le 30/08/2026 sur **données réelles** :
+  * **La stratégie refuse de trader : 0 trade, P&L 0 $.** Ce n'est pas un bug.
+  * Le journal d'exécution l'explique : `Pas d'entrée : amplitude attendue 5.0% vs prime
+    payée 9.6% du spot (edge 0.52 < 1.00). Mouvement implicite ATM 18.4% pour mémoire.`
+* **Diagnostic Desk (écrit le 30/08/2026)** : la stratégie impose une discipline —
+  `MIN_EDGE = 1.00` (ligne 22) — **on n'achète du gamma que si l'amplitude attendue par la
+  prévision dépasse la prime payée**. Ici, le marché faisait payer **9,6 % du spot** pour un
+  strangle 30 jours, alors que la prévision r1 n'annonçait que **5,0 %**. Payer 9,6 % pour
+  espérer 5 % est une mauvaise affaire : la stratégie a raison de s'abstenir.
+  * **Le marché avait raison et le modèle avait tort** : le marché prix un mouvement implicite
+    de **18,4 %** là où le modèle annonçait 5,0 %. Et le mouvement réalisé a été de **18,4 %**.
+    C'est exactement le facteur **×3,68** déjà consigné au journal : l'erreur est dans la
+    **prévision**, pas dans l'exécution.
+  * **Le filtre a même évité une perte.** Avec des strikes à ±5 % et 9,6 % de prime payée, le
+    point mort haut est à **+14,6 %**. Or à la sortie J+7 (22/07), le Brent valait 94,02
+    contre 84,99 à l'entrée, soit **+10,6 %** — *sous le point mort*. Le pic (+18,4 %) est
+    arrivé à J+8, un jour trop tard. Le trade, tel qu'il est configuré, **aurait perdu**.
+* **Expérience à faire** : passez `MIN_EDGE` à `0.50` (ligne 22) et relancez. Les deux
+  entrées se déclenchent (edge 0,52 et 0,92), vous obtenez **6 trades** — et vous pourrez
+  vérifier par vous-même si le P&L est positif ou négatif.
 
 ---
 

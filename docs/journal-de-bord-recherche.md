@@ -478,5 +478,54 @@ rendement relatif de la ligne retirée par rapport au reste du book**, pas de so
 le 30/08/2026 avec les valeurs mesurées, la formule de redistribution et la conclusion
 inversée. Les Ateliers 1 et 2 ont été corrigés de la même façon (sections ci-dessus).
 
+### 13. 🛑 Atelier 4 — le long strangle **refuse de trader** : la discipline fonctionne, la prévision est en cause
+
+Run : `long-strangle-shock.py`, `global-macro`, **1 000 000 $**, 2026-07-01 → 2026-08-29,
+42 barres, yfinance. Résultat : **0 trade, P&L 0 $**, aucune position.
+
+Journal moteur (deux lignes, aucune entrée) :
+
+```
+2026-07-15  Pas d'entrée : amplitude attendue 5.0% vs prime payée 9.6% du spot
+            (edge 0.52 < 1.00). Mouvement implicite ATM 18.4% pour mémoire.
+2026-08-28  Pas d'entrée : amplitude attendue 10.0% vs prime payée 10.8% du spot
+            (edge 0.92 < 1.00). Mouvement implicite ATM 18.1% pour mémoire.
+```
+
+**A. Ce n'est pas un bug : c'est la règle de discipline** `MIN_EDGE = 1.00`
+(`long-strangle-shock.py` l. 22) — on n'achète du gamma que si l'amplitude attendue par la
+prévision dépasse la prime payée en % du spot. Le régime de vol, lui, passait
+(`MAX_VOL_REGIME = 2.2` non déclenché).
+
+**B. Le carnet annonçait +12 084 $ (+1,21 %) et 6 trades : non reproductible sur données
+réelles.** Les 6 trades correspondent aux deux entrées (4 ordres) + la sortie J+7 (2 ordres)
+— donc à un run où **les deux entrées passaient le filtre**, c'est-à-dire où la prime était
+assez bon marché. Sur données réelles, l'IV 30 j de `BZ=F` est de **59,4 %** (onglet
+Anticipation), d'où une prime de 9,6 % du spot : le filtre bloque.
+
+**C. Le marché avait raison, le modèle avait tort.** Mouvement implicite ATM annoncé par le
+moteur : **18,4 %**. Prévision r1 : **5,0 %**. Mouvement réalisé au pic : **18,4 %**.
+Le marché prix correctement le choc que le modèle sous-estime — c'est le facteur **×3,68**
+déjà consigné. **L'erreur est dans la prévision, pas dans l'exécution.**
+
+**D. Le filtre a même évité une perte — démonstration chiffrée.**
+* Strikes à ±5 % (`WIDTH = 0.05`), prime payée 9,6 % du spot.
+* Point mort haut = +5 % (strike) + 9,6 % (prime) = **+14,6 %**.
+* Sortie à J+7, le 22/07 : Brent **94,023** contre **84,992** à l'entrée = **+10,6 %**.
+* **10,6 % < 14,6 % → sous le point mort.** Le pic (+18,4 %) n'arrive qu'à **J+8**, un jour
+  après la sortie. Le trade, tel qu'il est paramétré, aurait donc **perdu** malgré une vue
+  directionnelle correcte.
+
+**E. Conséquence méthodologique (prioritaire pour la revue mensuelle).** Le nœud `r2` porte
+une amplitude en grille `[0.05, 0.10, 0.185]`, mais le filtre n'utilise que
+`f.amp_base` = **0.10** (nœud médian). Avec le nœud haut (0,185), l'edge serait
+0,185/0,108 = **1,71** → entrée déclenchée. **La grille d'amplitudes n'est pas exploitée par
+le filtre d'entrée** : c'est une incohérence interne à corriger en phase 2 (le filtre devrait
+raisonner sur la grille, ou au moins sur son nœud haut, dès lors que la prévision assume une
+incertitude d'un facteur ~3,7).
+
+**F. À noter** : `MAX_VOL_REGIME = 2.2` n'a pas été déclenché alors que le régime mesuré de
+`BZ=F` est de 1,37x (Anticipation) — le second garde-fou n'a donc pas eu à jouer.
+
 ---
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
