@@ -167,6 +167,13 @@
 
 # ⚔️ NIVEAU 2 — EXPLORATION DES STRATÉGIES ALTERNATIVES
 
+> 🔧 **Le moteur a changé le 30/08/2026** (commit `bad72a2`) : les frais par contrat sont
+> désormais calculés sur la **taille réelle du contrat** (1 000 barils pour le Brent) et non
+> plus sur l'unité. Conséquence : **tous les repères chiffrés des Ateliers 4 à 8, établis
+> avant cette date, sont périmés.** Ne les cherchez plus : re-mesurez-les. C'est une bonne
+> nouvelle — c'est la première fois que ces ateliers vont produire des montants réalistes.
+> Le book delta, lui, n'est pas affecté (P&L identique au dollar près).
+
 ### 📌 Atelier 4 : Le Long Strangle (`long-strangle-shock.py`)
 * **Objectif** : Découvrir comment gagner sur une explosion de volatilité sans parier sur la direction.
 * **Procédure** :
@@ -216,8 +223,10 @@
   ```python
   MODE = "straddle"   # Remplacez "strangle" par "straddle"
   ```
-* **Ce qu'il faut observer** :
+* **Ce qu'il faut observer** (repère d'avant-correction : **non valide**, à re-mesurer le
+  30/08/2026 — voir le bandeau du Niveau 2) :
   * Comparez le P&L final et la volatilité. Le straddle réagit plus vite au moindre mouvement du spot, mais coûte plus cher en prime quotidienne (Theta).
+  * **Question à trancher** : à amplitude réalisée identique (+18,4 %), le gamma supplémentaire de l'ATM compense-t-il la prime payée en plus ?
 
 ---
 

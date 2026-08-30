@@ -268,14 +268,19 @@ pris pour un fait de marché, s'effondre des mois plus tard.
 
 ### 🟢 Palier 1 — Junior (fondations · un paramètre ou une ligne à la fois)
 
+> ✅ **Les six correctifs ont été appliqués le 30/08/2026** (commit `bad72a2`).
+> **Aucune régression** : les 37 tests passent et le P&L du book delta reste identique au
+> dollar près (**385 544,16 $** avant comme après). Seules les stratégies d'options changent,
+> ce qui était le but.
+
 | # | Amélioration | Pourquoi c'est valorisant | Déclencheur |
 |---|---|---|---|
-| 1 | **Multiplicateurs de contrat réels** (`BZ=F`, `GC=F` = 1000 ; ETF/indices = 1) | Les frais passent de **14,9 %** à ~0,015 % du volume : tous les backtests d'options redeviennent interprétables | Correctif n°1, prioritaire |
-| 2 | **`risk_free` paramétrable et affiché** | Le Sharpe redevient comparable entre variantes (rappel : **3,36 / 3,36 / 3,36** une fois le terme fixe retiré) | Atelier 2 |
-| 3 | **« n.d. » au lieu de `0.0`** pour Sortino / Calmar / Sharpe indéfinis | Un `0.0` se lit comme « nul » alors qu'il veut dire « non défini » — c'est un piège de lecture | Ateliers 1-2 |
-| 4 | **Label débit/crédit** cohérent (`app.js` l. 791 vs l. 687) | Acheter une structure affichée « crédit » est une erreur de sens, coûteuse en réel | Atelier 7 |
-| 5 | **Alerte « code non enregistré » au Run** (`state.dirty`) | Évite de lancer un backtest sur une version périmée sans le savoir — piège vécu le 30/08 | Atelier 2 |
-| 6 | **Neutraliser le P&L des positions non débouclées** en fin de fenêtre | Supprime l'artefact `r2` : **−21 436 $** et **−21 176 $** indûment imputés | Atelier 1 |
+| 1 | ✅ **Taille réelle des contrats** — `contract_size` : `BZ=F` et `CL=F` = 1000, `GC=F` = 100, `SI=F` = 5000, ETF/indices = 1. Les frais par contrat sont désormais appliqués au **nombre de contrats**, plus au nombre d'unités | Les frais options passent de **14,9 %** à ~0,015 % du volume. Le long strangle passe de **+12 084 $** à **+23 409 $**, commissions de **7 649 $** à **11,36 $** | **FAIT** |
+| 2 | ✅ **`risk_free` dans `EngineSettings`** (0.041), transmis à `metrics.compute()` et renvoyé dans le payload ; une bulle d'aide l'indique sur la carte Sharpe | Le Sharpe redevient lisible : on sait qu'un terme fixe de 4,1 % est retiré chaque barre | **FAIT** |
+| 3 | ✅ **« n.d. » au lieu de `0.0`** pour Sharpe / Sortino / Calmar / drawdown indéfinis (`metrics.py`, `cli.py`, `app.js`) | Un `0.00` se lisait comme une mesure ; `n.d.` dit vrai | **FAIT** |
+| 4 | ✅ **Label débit/crédit** : `app.js` l. 807 aligné sur la convention de la l. 703 (positif = débit) | Un strangle acheté s'affiche enfin comme un débit | **FAIT** |
+| 5 | ✅ **Alerte « code non enregistré »** au lancement d'un backtest (`state.dirty`) | Fini le backtest qui part silencieusement sur l'ancienne version | **FAIT** |
+| 6 | ✅ **Signalement des positions ouvertes** en fin de backtest : `Fin de backtest : 7 position(s) encore ouverte(s), P&L latent −9 685 $ compris dans le résultat` | L'artefact `r2` n'est plus invisible. Choix assumé : on **signale** plutôt que de neutraliser — corriger le P&L d'une position réellement ouverte serait un mensonge comptable | **FAIT** (signalé, non neutralisé) |
 
 ### 🟡 Palier 2 — Intermédiaire (il faut comprendre le moteur)
 
@@ -678,6 +683,31 @@ forcée, l'opération perd — mais **à cause du moteur, pas du marché**. Deux
 différentes, qu'il ne faut pas confondre : une erreur de **prévision** (amplitude ×3,68)
 et une erreur de **modélisation** (frais). La première se corrige par une révision, la
 seconde par du code.
+
+### 15. 🔧 Correctifs appliqués (commit `bad72a2`) — mesure d'impact
+
+Six correctifs du palier junior, appliqués le 30/08/2026. **Critère de non-régression
+retenu : le P&L du book delta doit rester identique au dollar près.** C'est le cas.
+
+| Run (synthétique, 42-43 barres) | Avant | Après | Écart |
+|---|---|---|---|
+| Book delta `shock-lab-oil`, 25,5 M$ | **385 544,16 $** | **385 544,16 $** | **0,00** ✔ |
+| Long strangle, 1 M$ | +12 084 $ | **+23 409 $** | frais divisés |
+| Commissions du strangle | ~7 649 $ | **11,36 $** | ÷673 |
+
+* **Ce qui a changé** : uniquement les stratégies qui traitent des options. Le book delta ne
+  négocie que des sous-jacents, dont la commission par part est restée inchangée.
+* **Ce qui n'a pas changé** : aucun prix, aucune taille, aucun P&L de sous-jacent. Le champ
+  `contract_size` est **nouveau** et n'est consulté qu'au calcul de la commission d'une option
+  — `multiplier` (qui sert au pricing) reste à 1.0 et n'a pas été touché. C'est ce choix qui
+  garantit l'absence de régression.
+* **Effet de bord assumé** : les repères chiffrés des Ateliers 5 à 8, établis avant
+  correction, sont désormais **périmés**. Ils devront être re-mesurés — c'est l'objet de la
+  reprise des ateliers.
+* **Leçons de méthode** : (1) corriger le *modèle* avant de corriger la *stratégie* — on a
+  failli conclure « les options ne marchent pas » alors que c'était le moteur ; (2) un
+  correctif ne se valide pas sur une impression mais sur un **chiffre témoin invariant**
+  (ici : 385 544,16 $).
 
 ---
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
