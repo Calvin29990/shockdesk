@@ -479,6 +479,17 @@ def scorecard(ledger: ForecastLedger, panel, asof: Optional[str] = None) -> dict
         for f in ledger.revisions(fid):
             rows.append(validate(f, panel, asof))
 
+    # Une prévision dont le sous-jacent n'est pas dans le panneau chargé n'est
+    # pas une prévision fausse : elle n'est pas testable dans CET univers. On la
+    # marque ``out_of_universe`` pour qu'un scorecard d'univers étroit
+    # (us-equities : 9 lignes sur 10 hors panneau) ne se lise pas comme un mur
+    # de « non évaluable », et pour que l'affichage puisse les regrouper.
+    in_panel = set(panel.close.columns)
+    for r in rows:
+        r["out_of_universe"] = bool(r.get("error")) and r["asset"] not in in_panel
+    hors_univers = sorted({r["asset"] for r in rows if r["out_of_universe"]})
+    n_hors = sum(1 for r in rows if r["out_of_universe"])
+
     scored = [r for r in rows if r.get("counted") and "sign_ok_peak" in r]
     evaluated = [r for r in rows if "sign_ok_peak" in r]
     hits = sum(1 for r in scored if r["sign_ok_peak"])
@@ -492,6 +503,11 @@ def scorecard(ledger: ForecastLedger, panel, asof: Optional[str] = None) -> dict
         "lines_total": len(rows),
         "non_test": sum(1 for r in evaluated if r.get("is_benchmark")),
         "sign_rate": round(hits / len(scored), 3) if scored else None,
+        # Combien de lignes publiées sont réellement testables dans le panneau
+        # chargé, et lesquelles portent sur un sous-jacent hors univers.
+        "out_of_universe": hors_univers,
+        "out_of_universe_total": n_hors,
+        "evaluable_total": len(rows) - n_hors,
         # Médiane plutôt que moyenne : une série monotone « pic » en fin de
         # fenêtre et ferait exploser la moyenne sans rien dire du timing.
         "median_peak_error_days": round(float(np.median(errs)), 2) if errs else None,

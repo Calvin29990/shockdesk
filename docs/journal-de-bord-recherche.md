@@ -1085,4 +1085,44 @@ promesse de performance, c'est la suppression d'un coût fictif.
 
 ---
 
+## 📅 Log du 30 Août 2026 (10) — Scorecard : distinguer « hors univers » de « non évaluable »
+
+Repris dans la foulée du (9), sur la même sortie d'atelier.
+
+### 1. 🔍 Le symptôme
+
+En `us-equities`, le scorecard affichait **9 lignes « non évaluable » sur 10**
+(DBC, HYG, ^GSPC, GC=F, BZ=F ×2, DX-Y.NYB), toutes pour la même raison :
+« sous-jacent absent du panneau ». Lu vite, cela ressemble à une série de
+misses — alors que ce sont des prévisions publiées sur des lignes que cet
+univers ne charge pas.
+
+### 2. ✅ Le correctif
+
+* `scorecard()` marque chaque ligne `out_of_universe` (en erreur **et** le
+  sous-jacent n'est pas dans le panneau chargé) et ajoute
+  `out_of_universe`, `out_of_universe_total`, `evaluable_total`.
+* L'interface trie ces lignes **en bas de table**, les étiquette
+  « hors univers » avec le libellé « sous-jacent absent de cet univers », et le
+  pied de table indique « 10 lignes publiées, 0 non-test, **1 évaluable dans cet
+  univers** · hors univers : BZ=F, DBC, DX-Y.NYB, GC=F, HYG, ^GSPC ».
+* La revue mensuelle CLI affiche la même ligne « hors univers ».
+
+**Aucune ligne n'est supprimée et aucun score n'est modifié** : `sign_hits`,
+`sign_total`, `non_test` et `misses` restent calculés exactement comme avant.
+On ne fait que distinguer deux choses que la table confondait.
+
+### 3. 📐 Mesuré
+
+`us-equities` : 10 lignes publiées → **1 évaluable, 9 hors univers** (6
+sous-jacents distincts). `global-macro`, qui charge les 7 lignes publiées :
+**0 hors univers** — le score y est intégralement testable.
+
+### 4. 🔒 Verrouillage
+
+**44 tests passent** (43 → 44) : `test_scorecard_distingue_le_hors_univers`
+vérifie les deux univers et que TLT, chargé dans `us-equities`, reste évalué.
+
+---
+
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*

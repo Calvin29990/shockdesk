@@ -217,6 +217,9 @@ def _cmd_revue(args):
     print(f"\n1. SCORE DES PRÉVISIONS PUBLIÉES (révisions originales)")
     print(f"   accord de signe net du drift : {sc['sign_hits']}/{sc['sign_total']}"
           f" ({sc['lines_total']} lignes publiées, {sc['non_test']} non-test)")
+    if sc.get("out_of_universe_total"):
+        print(f"   hors univers (non évaluable) : {sc['out_of_universe_total']} ligne(s)"
+              f" — {', '.join(sc['out_of_universe'])}")
     print(f"   erreur de timing du pic      : médiane {sc['median_peak_error_days']} j"
           f" · moyenne {sc['avg_peak_error_days']} j")
     print(f"   ratio d'amplitude            : médian x{sc['median_amplitude_ratio']}")
