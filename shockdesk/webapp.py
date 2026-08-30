@@ -37,6 +37,74 @@ def _err(exc, status=400):
                     "detail": traceback.format_exc(limit=6)}), status
 
 
+def _build_info() -> dict:
+    """État de l'instance : commit, correctifs actifs, paramètres des stratégies.
+
+    Sert de check-up avant de comparer deux runs. Un atelier laisse parfois une
+    modification derrière lui ; plutôt que de s'en apercevoir trois backtests plus
+    tard, on lit cette page et on voit immédiatement ce qui n'est pas revenu à
+    l'état de référence.
+    """
+    import hashlib
+    import re
+    import subprocess
+
+    from .engine import EngineSettings
+
+    commit = None
+    try:
+        commit = subprocess.check_output(
+            ["git", "rev-parse", "--short", "HEAD"],
+            stderr=subprocess.DEVNULL, timeout=5).decode().strip()
+    except Exception:
+        pass
+
+    # Paramètres attendus à l'état de référence. Toute ligne « conforme: false »
+    # signale une modification oubliée par un atelier précédent.
+    attendus = {
+        "shock-lab-oil": [
+            ("TAKE_PROFIT_AT_PEAK", r"^TAKE_PROFIT_AT_PEAK\s*=\s*(\S+)", "True"),
+            ("BASE_EXPOSURE", r"^BASE_EXPOSURE\s*=\s*([\d.]+)", "0.85"),
+            ("BOOK['GC=F']", r"^\s+\"GC=F\":\s*([\d.]+)", "0.10"),
+        ],
+        "long-strangle-shock": [
+            ("MODE", r"^MODE\s*=\s*\"?(\w+)", "strangle"),
+            ("MIN_EDGE", r"^MIN_EDGE\s*=\s*([\d.]+)", "1.00"),
+        ],
+    }
+
+    strategies = {}
+    for slug, checks in attendus.items():
+        path = os.path.join(config.STRATEGY_DIR, slug + ".py")
+        if not os.path.exists(path):
+            continue
+        with open(path, "r", encoding="utf-8") as fh:
+            src = fh.read()
+        rows = []
+        for label, pat, ref in checks:
+            m = re.search(pat, src, re.M)
+            val = m.group(1) if m else None
+            rows.append({"parametre": label, "valeur": val, "attendu": ref,
+                         "conforme": val == ref})
+        strategies[slug + ".py"] = {
+            "controles": rows,
+            "sha256": hashlib.sha256(src.encode("utf-8")).hexdigest()[:12],
+        }
+
+    return {
+        "commit": commit,
+        "correctifs_actifs": {
+            "taille_reelle_des_contrats":
+                float(config.get_asset("BZ=F").contract_size) == 1000.0,
+            "taux_sans_risque_parametrable": True,
+        },
+        "risk_free": getattr(EngineSettings, "risk_free", 0.041),
+        "contract_size": {"BZ=F": config.get_asset("BZ=F").contract_size,
+                          "GC=F": config.get_asset("GC=F").contract_size},
+        "strategies": strategies,
+    }
+
+
 def create_app() -> Flask:
     app = Flask(__name__, template_folder=os.path.join(WEB_DIR, "templates"),
                 static_folder=os.path.join(WEB_DIR, "static"))
@@ -86,7 +154,8 @@ def create_app() -> Flask:
     def health():
         return jsonify({"ok": True, "service": "shockdesk",
                         "universes": list(config.UNIVERSES),
-                        "calibration": config.CALIBRATION_NOTE})
+                        "calibration": config.CALIBRATION_NOTE,
+                        **_build_info()})
 
     # ------------------------------------------------------------------ #
     # API — référentiels
