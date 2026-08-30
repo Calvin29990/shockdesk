@@ -234,7 +234,7 @@ Autres points d'API : `/api/universes`, `/api/strategies` (GET/POST),
 .venv/bin/pytest tests/ -q
 ```
 
-36 tests : ancrage et reconstruction des données, parité call/put et bornes des
+44 tests : ancrage et reconstruction des données, parité call/put et bornes des
 structures, P&L du moteur et réconciliation de l'attribution, règlement des
 options à l'échéance, plafond de levier, prévisions point-in-time, scoring net du
 drift, exécution des six stratégies livrées, API et page de recherche.

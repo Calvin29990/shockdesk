@@ -20,6 +20,19 @@ RISK_BUDGET = 0.01         # perte maximale tolérée, en fraction de l'actif ne
 MAX_NOTIONAL_PCT = 0.50    # plafond de notionnel sous-jacent, en fraction de l'actif net
 MAX_VOL_REGIME = 1.15
 EXIT_IF_FORECAST = True
+# Signaux surveillés pour la sortie « prévision de choc ». SPY n'a pas de
+# prévision dans le registre, mais ^GSPC (l'indice que SPY suit) en porte une
+# (r1 · choc pétrolier · sens ↓ · pic J+7). Sans ce deuxième symbole, le garde-fou
+# EXIT_IF_FORECAST était un no-op : il ne se déclenchait jamais.
+FORECAST_SYMBOLS = ["SPY", "^GSPC"]
+
+
+def _shock_active():
+    """Vrai dès qu'une prévision de choc active existe sur les symboles surveillés."""
+    if not EXIT_IF_FORECAST:
+        return False
+    return any(get_forecast(s) is not None for s in FORECAST_SYMBOLS)
+
 
 
 def initialize(context):
@@ -41,11 +54,10 @@ def _flat(context, reason):
 
 def trade(context, data):
     today = get_datetime().date()
-    f = get_forecast(UNDERLYING)
 
     if context.entry is not None:
         expiry_hit = any(pd.Timestamp(c.expiry).date() <= today for c in context.legs)
-        forecast_hit = EXIT_IF_FORECAST and f is not None
+        forecast_hit = _shock_active()
         held = (today - context.entry).days
         if expiry_hit or forecast_hit or held >= DAYS - 2:
             why = ("échéance" if expiry_hit else
@@ -58,7 +70,7 @@ def trade(context, data):
             record(condors=0.0)
             return
 
-    if context.entry is None and f is None:
+    if context.entry is None and not _shock_active():
         regime = vol_regime(UNDERLYING)
         if regime > MAX_VOL_REGIME:
             record(condors=0.0, vol_regime=regime)

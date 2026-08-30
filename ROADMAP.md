@@ -18,7 +18,7 @@ Ce qui est en place :
 - [x] Trois sources de données (yfinance, CSV, synthétique) avec provenance
       affichée
 - [x] CLI + API + interface, une seule grammaire de paramètres
-- [x] 36 tests
+- [x] 44 tests
 
 ## La boucle mensuelle (à faire tourner dès maintenant)
 

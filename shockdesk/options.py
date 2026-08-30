@@ -67,7 +67,6 @@ def greeks(S: float, K: float, T: float, sigma: float, kind: str = "call",
     kind = kind.lower()[0]
     out = {"delta": 0.0, "gamma": 0.0, "vega": 0.0, "theta": 0.0, "rho": 0.0}
     if T <= 0:
-        intrinsic = max(0.0, (S - K) if kind == "c" else (K - S))
         out["delta"] = (1.0 if S > K else 0.0) if kind == "c" else (-1.0 if S < K else 0.0)
         return out
     d1, d2 = _d1_d2(S, K, T, r, q, sigma)

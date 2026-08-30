@@ -1125,4 +1125,94 @@ vérifie les deux univers et que TLT, chargé dans `us-equities`, reste évalué
 
 ---
 
-*Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
+## 📅 Log du 30 Août 2026 (11) — Session Arena : fin des ateliers + correctifs de bugs (PASSATION)
+
+> Section écrite pour la **prochaine session Arena**. Un agent qui reprend ce dépôt
+> DOIT d'abord lire cette section pour savoir où on en est, sans refaire l'audit.
+
+### 0. 🔎 Résumé — où on en est (à lire en premier)
+
+* **Parcours d'apprentissage : tous les ateliers du carnet sont faits.**
+  | Atelier | Statut |
+  |---|---|
+  | 1 (timing) · 2 (exposition) · 3 (miss or) · 4 (strangle) · 5 (straddle) · 7 (vega) | ✅ fait (sessions précédentes) |
+  | **6 (butterfly)** · **8 (iron condor)** · **9 (révision r2)** · **10 (revue CLI)** | ✅ **faits dans CETTE session** |
+
+* **Les 44 tests passent** (`pytest tests/ -q`). Le README/ROADMAP annonçaient
+  « 36 tests » : **corrigé à 44** (il y avait 39 fonctions de test + 4 verrous lab).
+
+### 1. 🐛 Bugs corrects dans cette session — CHAQUE correctif est décrit
+
+**a. BUG CRITIQUE — modifications non enregistrées silencieusement ignorées.**
+* **Symptôme vécu** : l'utilisateur a changé `iron-condor-range.py` (`SHORT_WIDTH`
+  0.03→0.04, `RISK_BUDGET` 0.01→0.005), puis lancé le backtest → **résultat
+  IDENTIQUE au run précédent** (15 132 $, 60 trades). Aucune erreur affichée.
+* **Cause** : `runBacktest()` (app.js) n'envoie que `{strategy_id, params}` ; le serveur
+  relit le **fichier enregistré** sur disque. `saveCode()` (app.js) sauvegarde via PUT
+  `/api/strategies/<sid>/code`, mais `runBacktest` ne **vérifiait pas** `state.dirty`.
+  Sans `Ctrl+S`, le code de l'éditeur n'était jamais écrit sur disque.
+* **Correctif** (`shockdesk/web/static/app.js`) : `runBacktest()` appelle désormais
+  `saveCode()` **automatiquement** si `state.dirty` est vrai, et **annule** le lancement
+  si la sauvegarde échoue. `saveCode()` renvoie `true`/`false`.
+* **Règle d'atelier** (toujours valable) : dans ShockDesk, *sauvegarder puis lancer*.
+  Le témoin de bonne exécution reste le toast `code enregistré dans strategies/…`.
+
+**b. BUG FONCTIONNEL — `EXIT_IF_FORECAST` était un no-op (garde-fou mort).**
+* **Symptôme** : dans `iron-condor-range.py`, toutes les sorties étaient
+  « sortie avant gamma » ; **aucune** « prévision de choc active » sur 8 mois.
+* **Cause** : le garde-fou surveillait `get_forecast("SPY")`, mais SPY **n'a aucune
+  prévision** dans `config/forecasts.json` (le registre porte `^GSPC`, `BZ=F`,
+  `TLT`, `GC=F`, etc.). `get_forecast` renvoie donc `None` toute l'année.
+* **Correctif** (`strategies/iron-condor-range.py`) : nouvelle liste
+  `FORECAST_SYMBOLS = ["SPY", "^GSPC"]` et helper `_shock_active()`. Le garde-fou
+  surveille maintenant `^GSPC` (l'indice que SPY suit, qui a bien une prévision r1).
+* **Effet validé** : le journal montre désormais `Sortie iron condor J+16
+  (prévision de choc active)` dès le 2026-07-15. Le moteur lit `ledger.active()`
+  indépendamment de l'univers chargé, donc `^GSPC` est identifiable partout.
+* **Incohérence connexe corrigée** : l'entrée testait `f is None` (seulement SPY),
+  donc après le 15/07 la stratégie ENTR-AIT puis sortait dès le lendemain (churn).
+  → L'entrée teste désormais `not _shock_active()` : **plus de vente de prime quand
+  une prévision de choc est active**. Le run passe de 184 à **56** trades, plus de churn.
+
+### 2. 🧹 Nettoyage code mort (sans effet fonctionnel)
+
+* `shockdesk/api.py` : retiré `pos_hist` (variable morte).
+* `shockdesk/options.py` : retiré `intrinsic` non utilisé dans `greeks()`.
+* `shockdesk/engine.py` : retiré `field` (import dataclasses inutilisé).
+* `shockdesk/scenarios.py` : retiré `Sequence` (import typing inutilisé).
+* `shockdesk/cli.py` : 6 `f"..."` sans placeholder → `"..."` (cosmétique).
+* `tests/test_shockdesk.py` : retiré import `json` inutilisé au top.
+
+### 3. 📚 Doc mise à jour
+
+* `README.md` : « 36 tests » → « **44 tests** ».
+* `ROADMAP.md` : « 36 tests » → « **44 tests** ».
+* `docs/entrainement-progressif.md` : tableau de bord → Ateliers **6, 8, 9, 10** ✅,
+  avec les résultats mesurés :
+  * Atelier 6 (butterfly) : P&L ≈ −0,06 %, drawdown **−0,18 %** (plafond validé).
+  * Atelier 8 (iron condor) : **+15 132 $ (+1,52 %)**, 60 trades, α −11,70 % vs SPY
+    +13,21 % → le condor vend le temps, pas la direction. + correctif `EXIT_IF_FORECAST`.
+  * Atelier 9 (révision r2) : POST `/api/ledger/<id>/revision` OK, historique préservé.
+  * Atelier 10 (revue CLI) : `cli revue` sort les 4 sections.
+
+### 4. 📊 Résultats de référence (ici, à re-mesurer si besoin)
+
+* Iron condor `us-equities`, 1 M$, 2026-01-01 → 2026-08-28, **synthétique** (repère
+  post-correctif) : **+1 434 $ (+0,15 %)**, 68 trades, commissions **313 $ (0,23 %)**.
+* Iron condor `us-equities`, 1 M$, mêmes dates, **yfinance** (run utilisateur) :
+  **+15 132 $ (+1,52 %)**, 60 trades. Benchmark SPY **+13,21 %**, alpha **−11,70 %**.
+* ⚠️ La sandbox n'accède pas à Yahoo (`SSL/EOF` sur `query2.finance.yahoo.com`) : ici,
+  tout backtest tombe sur **synthétique** (badge orange). Les chiffres yfinance de
+  l'utilisateur ne sont **pas reproductibles** ici.
+
+### 5. ✅ Files modifiés (tous committés et poussés)
+
+`README.md` · `ROADMAP.md` · `docs/entrainement-progressif.md` · `docs/journal-de-bord-recherche.md` ·
+`shockdesk/api.py` · `shockdesk/cli.py` · `shockdesk/engine.py` · `shockdesk/options.py` ·
+`shockdesk/scenarios.py` · `shockdesk/web/static/app.js` · `strategies/iron-condor-range.py` ·
+`tests/test_shockdesk.py`
+
+---
+
+*Fin du log de veille du 30/08/2026. Reprise prévue : phase 2 (chaîne d'options réelle,
+collatéral de marge, grille d'amplitudes dans le filtre d'entrée — voir « Palier 2 »).*
