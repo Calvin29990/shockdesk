@@ -190,9 +190,23 @@
     point mort haut est à **+14,6 %**. Or à la sortie J+7 (22/07), le Brent valait 94,02
     contre 84,99 à l'entrée, soit **+10,6 %** — *sous le point mort*. Le pic (+18,4 %) est
     arrivé à J+8, un jour trop tard. Le trade, tel qu'il est configuré, **aurait perdu**.
-* **Expérience à faire** : passez `MIN_EDGE` à `0.50` (ligne 22) et relancez. Les deux
-  entrées se déclenchent (edge 0,52 et 0,92), vous obtenez **6 trades** — et vous pourrez
-  vérifier par vous-même si le P&L est positif ou négatif.
+* **Expérience faite le 30/08** (`MIN_EDGE = 0.50`) : **P&L −6 211 $ (−0,62 %), 6 trades**.
+  Mais la perte ne vient pas du marché :
+  | | |
+  |---|---|
+  | P&L brut des deux opérations | **+594 $** |
+  | Commissions | **−6 805 $** |
+  | **Net** | **−6 211 $** |
+
+  ⚠️ **Les frais représentent 14,9 % du volume échangé.** Cause : le multiplicateur de
+  contrat vaut **1.0** pour tous les sous-jacents du dépôt, alors que la commission de
+  0,65 $ par contrat est calibrée pour un vrai contrat (1 000 barils pour le Brent).
+  L'option vaut ~4,25 $ et le frais 0,65 $ : **15 % de la prime à l'achat, ~30 %
+  aller-retour**. Consigné au journal comme **correctif prioritaire de phase 2**.
+* 🔬 **Preuve que le repère du carnet était faux** : en générateur synthétique, cette
+  stratégie donne **exactement +12 084 $ (+1,21 %), 6 trades, Sharpe 0,846** — les chiffres
+  mêmes de l'ancien carnet. Ce repère n'a jamais été un résultat de marché.
+* **Action** : remettez `MIN_EDGE = 1.00` (ligne 22).
 
 ---
 
@@ -275,7 +289,7 @@
 | **Atelier 1** | Timing de sortie | `TAKE_PROFIT_AT_PEAK = False` | ✅ Fait · 30/08 | +337 887 $ → **−279 633 $** (−617 520 $). Casse : `BZ=F` −304,6 k + `^GSPC` −295,4 k, compensées par `GC=F` +54,2 k. Le timing protège le book, pas la ligne. |
 | **Atelier 2** | Exposition globale | `BASE_EXPOSURE = 0.40 / 1.00` | ✅ Fait · 30/08 | +159 040 $ / +337 887 $ / +397 485 $. Tout scale au même facteur. Sharpe affiché −0,24 / 1,67 / 1,93 mais **3,36 / 3,36 / 3,36** hors taux sans risque → le levier change la taille, pas la qualité. |
 | **Atelier 3** | Nettoyage du Miss | `BOOK['GC=F'] = 0.00` | ✅ Fait · 30/08 | +337 887 $ → **+318 756 $** (−19 131). L'or rapportait **+53,0 k$**, il ne coûtait rien. Retrait = redistribution ×1,119 des autres lignes + drawdown ×1,9. Diagnostic du carnet **faux** : corrigé. |
-| **Atelier 4** | Long Strangle | Stratégie gamma | 🔲 À faire | |
+| **Atelier 4** | Long Strangle | Stratégie gamma | ✅ Fait · 30/08 | Refuse de trader (edge 0,52 < 1,00). Forcé à `MIN_EDGE` 0,50 : **−6 211 $**, dont **6 805 $ de frais** pour 594 $ de P&L brut. Repère « +12 084 $ » = artefact synthétique, reproduit au dollar. |
 | **Atelier 5** | Straddle vs Strangle | `MODE = "straddle"` | 🔲 À faire | |
 | **Atelier 6** | Butterfly | Plafond de risque | 🔲 À faire | |
 | **Atelier 7** | Vega & IV | Onglet Options | 🔲 À faire | |

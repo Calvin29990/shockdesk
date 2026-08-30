@@ -527,5 +527,73 @@ incertitude d'un facteur ~3,7).
 **F. À noter** : `MAX_VOL_REGIME = 2.2` n'a pas été déclenché alors que le régime mesuré de
 `BZ=F` est de 1,37x (Anticipation) — le second garde-fou n'a donc pas eu à jouer.
 
+### 14. 💥 Atelier 4 (suite) — preuve définitive : le repère du carnet est un chiffre synthétique, et les options sont ruinées par les frais
+
+**A. Contrôle décisif.** En exécutant `long-strangle-shock.py` sur le **générateur
+synthétique** (1 M$, mêmes dates, `MIN_EDGE` à 1.00 ou 0.50 — indifférent) :
+
+| | Synthétique | Données réelles (MIN_EDGE 0.50) |
+|---|---|---|
+| **P&L** | **+12 084 $ (+1,21 %)** | **−6 211 $ (−0,62 %)** |
+| Trades | 6 | 6 |
+| Sharpe | **0,846** | −9,20 |
+| Drawdown max | −0,39 % | −0,62 % |
+| Paires achetées (07-15) | 2 942 | 1 846 |
+| Prime par paire | **2,63** | **8,129** |
+| P&L latent logué à la sortie J+7 | **+23 443 $** | **+610 $** |
+
+→ **Le repère de l'Atelier 4 du carnet (+12 084 $, 6 trades, Sharpe 0,85) est reproduit au
+dollar près en synthétique.** Ce n'est donc pas un résultat de marché : c'est un artefact du
+générateur, indûment présenté comme une performance. Même conclusion qu'à l'Atelier 1
+(« −4 k$ à +99 k$ ») et à l'Atelier 3 (« or −71 k$ ») : **les trois repères chiffrés du
+niveau 1 venaient du synthétique.**
+
+**B. Sur données réelles, la perte est presque entièrement constituée de frais.**
+
+Décomposition exacte (reconstituée depuis le journal des transactions) :
+
+| | Montant |
+|---|---|
+| P&L brut r1 (acheté 15 005, revendu 15 607) | **+602 $** |
+| P&L brut r2 (acheté 14 943, marqué 14 935) | **−8 $** |
+| **P&L brut total** | **+594 $** |
+| Commissions (1 199,90 × 4 + 1 002,95 × 2) | **−6 805,50 $** |
+| **P&L net** | **−6 211,50 $** ✔ conforme à l'écran |
+
+**Les frais représentent 6 805 $ sur 45 557 $ échangés, soit 14,9 % du volume — pour un P&L
+brut de 594 $.**
+
+**C. Cause racine : le multiplicateur de contrat vaut 1,0 partout.**
+
+* `config.get_asset("BZ=F").multiplier = 1.0` — et **1.0 pour les sept sous-jacents** de
+  l'univers. Un contrat Brent réel porte **1 000 barils** (notionnel ~85 000 $).
+* `engine.py` l. 489 : `commission = abs(o.amount) * s.commission_per_contract`, avec
+  `commission_per_contract = 0.65` (l. 248) — **appliqué sans multiplicateur**.
+* Conséquence : l'option vaut ~4,25 $ et la commission 0,65 $, soit **15,3 % de la prime** à
+  l'achat, et **~30 % aller-retour**. Aucune stratégie d'options ne peut survivre à ça.
+* Le commentaire de `options.py` l. 14-15 annonçait l'intention inverse : *« les prix, grecs
+  et P&L sont exprimés par contrat avant multiplicateur (AssetSpec.multiplier s'applique au
+  moment du passage d'ordre) »* — le P&L applique bien le multiplicateur (l. 67, 71), mais
+  **la commission ne l'applique jamais**. Incohérence interne.
+
+**Correctif phase 2 (priorité haute)** : renseigner les multiplicateurs réels par
+sous-jacent (BZ=F et GC=F = 1000, ETF = 1, indices = 1) **et** appliquer le multiplicateur à
+la commission, ou passer à une commission en points de base du notionnel. Tant que ce n'est
+pas fait, **tous les backtests d'options de ShockDesk sont structurellement faussés** et les
+repères chiffrés des Ateliers 4 à 8 ne veulent rien dire.
+
+**D. Correction d'une erreur d'analyse de ma part.** J'avais prédit une perte en raisonnant
+sur le **point mort** (strikes ±5 %, prime 9,6 % → point mort haut à +14,6 %, or le Brent
+n'avait fait que +10,6 % à J+7). La perte est réelle, mais **le raisonnement était faux** :
+les options conservaient 23 jours de valeur temps, si bien que le P&L brut à la sortie était
+**positif** (+610 $). Le point mort « intrinsèque » ne s'applique qu'à l'échéance, pas à une
+sortie anticipée. La perte vient des frais, pas du point mort.
+
+**E. À retenir pour le desk.** La discipline (`MIN_EDGE`) avait raison de bloquer. Une fois
+forcée, l'opération perd — mais **à cause du moteur, pas du marché**. Deux erreurs
+différentes, qu'il ne faut pas confondre : une erreur de **prévision** (amplitude ×3,68)
+et une erreur de **modélisation** (frais). La première se corrige par une révision, la
+seconde par du code.
+
 ---
 *Fin du log de veille du 30/08/2026. Ce fichier sera mis à jour à chaque cycle mensuel de révision.*
