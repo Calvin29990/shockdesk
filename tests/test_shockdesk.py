@@ -10,7 +10,6 @@ Ils couvrent les quatre couches qui portent le projet :
 * l'**anticipation** (prévisions point-in-time, scoring net du drift).
 """
 
-import json
 import math
 import os
 import sys

@@ -71,7 +71,6 @@ def run_backtest(code: str, name: str = "us-equities", startCapital=10000,
 
     # Exposition brute et levier, jour par jour.
     lev = []
-    pos_hist = []
     for row in result["greeks"]:
         lev.append(row["equity"])
 

@@ -169,9 +169,9 @@ def main(argv=None):
         print(f"  spot {out['spot']:.2f} · prime nette {out['net_premium']:.2f}")
         for w in out.get("warnings", []):
             print(f"  ⚠ {w}")
-        print(f"  perte max " + (f"{out['max_loss']:.2f}" if out["max_loss_bounded"]
+        print("  perte max " + (f"{out['max_loss']:.2f}" if out["max_loss_bounded"]
                                 else "non bornée (structure vendeuse)"))
-        print(f"  gain max " + (f"{out['max_profit']:.2f}" if out["max_gain_bounded"]
+        print("  gain max " + (f"{out['max_profit']:.2f}" if out["max_gain_bounded"]
                                 else "illimité (structure acheteuse)"))
         print(f"  points morts : {', '.join(f'{b:.2f}' for b in out['breakevens'])}")
         g = out["greeks"]
@@ -214,7 +214,7 @@ def _cmd_revue(args):
 
     print(f"\n=== Revue mensuelle — {args.name} au {end.date()} "
           f"({panel.source}, {len(panel.close)} barres) ===")
-    print(f"\n1. SCORE DES PRÉVISIONS PUBLIÉES (révisions originales)")
+    print("\n1. SCORE DES PRÉVISIONS PUBLIÉES (révisions originales)")
     print(f"   accord de signe net du drift : {sc['sign_hits']}/{sc['sign_total']}"
           f" ({sc['lines_total']} lignes publiées, {sc['non_test']} non-test)")
     if sc.get("out_of_universe_total"):
@@ -225,7 +225,7 @@ def _cmd_revue(args):
     print(f"   ratio d'amplitude            : médian x{sc['median_amplitude_ratio']}")
     print(f"   misses                       : {', '.join(sc['misses']) or 'aucun'}")
 
-    print(f"\n2. RÉVISIONS À ÉCRIRE")
+    print("\n2. RÉVISIONS À ÉCRIRE")
     for row in sc["rows"]:
         if not row.get("counted") or "sign_ok_peak" not in row:
             continue
@@ -252,7 +252,7 @@ def _cmd_revue(args):
 
     # La calibration se mesure sur un an, pas sur la fenêtre de revue : une
     # fenêtre courte n'a aucune raison de reproduire la vol annuelle.
-    print(f"\n3. CALIBRATION À REPRENDRE (config/calibration.json)")
+    print("\n3. CALIBRATION À REPRENDRE (config/calibration.json)")
     long_panel = load_panel(args.name, end - pd.Timedelta(days=365), end)
     print(f"   (volatilité réalisée sur {len(long_panel.close)} séances, "
           f"du {long_panel.close.index[0].date()} au {long_panel.close.index[-1].date()})")
@@ -265,7 +265,7 @@ def _cmd_revue(args):
         print(f"   {sym:<10} vol réalisée {rv:6.1%} · calibrée {spec.ann_vol:6.1%} "
               f"({ecart:+.0%}){flag}")
 
-    print(f"\n4. STRATÉGIES SUR LA FENÊTRE")
+    print("\n4. STRATÉGIES SUR LA FENÊTRE")
     rows = []
     for meta in registry.list_strategies():
         code = registry.read_code(meta["id"])

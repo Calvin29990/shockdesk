@@ -179,9 +179,10 @@
     });
     const j = await r.json();
     status("");
-    if (!j.ok) return toast("échec : " + j.error, true);
+    if (!j.ok) { toast("échec : " + j.error, true); return false; }
     state.dirty = false;
     toast("code enregistré dans strategies/" + (j.strategy.file || ""));
+    return true;
   }
 
   function renderCheatsheet(code) {
@@ -524,11 +525,17 @@
   /* ------------------------------------------------------------------ */
   async function runBacktest(opts) {
     if (state.running) return;
-    // Le moteur relit le fichier enregistre, pas l'editeur : lancer avec des
-    // modifications non enregistrees_execute silencieusement l'ancienne version.
+    // Le moteur relit le fichier enregistre, pas l'editeur : si on lance avec
+    // des modifications non enregistrees, elles seraient silencieusement ignorees.
+    // On sauvegarde donc automatiquement avant de lancer, et on annule si l'echec
+    // de sauvegarde a lieu — un backtest ne doit jamais partir sur l'ancien code.
     if (state.dirty) {
-      toast("Attention : le code affiche n'est pas enregistre. Le backtest part sur "
-            + "la derniere version sauvegardee — cliquez sur Enregistrer d'abord.", true);
+      toast("Code modifie : sauvegarde automatique avant le backtest…", true);
+      const saved = await saveCode();
+      if (!saved) {
+        toast("Sauvegarde impossible — backtest annule", true);
+        return;
+      }
     }
     state.running = true;
     $("#btn-run").disabled = true;
