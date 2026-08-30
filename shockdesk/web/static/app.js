@@ -27,6 +27,11 @@
   const pct = (x, d) => (x === null || x === undefined || isNaN(x)) ? "—"
     : (x * 100).toFixed(d === undefined ? 2 : d) + " %";
   const sgn = x => (x > 0 ? "pos" : x < 0 ? "neg" : "");
+  // Un ratio non defini (volatilite nulle, drawdown nul, moins de deux jours
+  // negatifs) s'affiche "n.d." : un 0,00 se lit comme une mesure et fausse
+  // le jugement. Cf. journal de bord, correctif du 30/08/2026.
+  const ratio = (n, d) => (n === null || n === undefined || isNaN(n))
+    ? "n.d." : nf(n, d);
   const esc = s => String(s === null || s === undefined ? "" : s)
     .replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 
@@ -357,8 +362,8 @@
   /* ------------------------------------------------------------------ */
   /* backtest                                                            */
   /* ------------------------------------------------------------------ */
-  function card(k, v, sub, cls) {
-    return el("div", { class: "card" }, [
+  function card(k, v, sub, cls, title) {
+    return el("div", { class: "card", title: title || "" }, [
       el("div", { class: "k" }, k),
       el("div", { class: "v " + (cls || "") }, v),
       sub ? el("div", { class: "s" }, sub) : null
@@ -385,8 +390,13 @@
       card("Capital final", money(m.final_equity), "départ " + money(p.params.startCapital)),
       card("CAGR", pct(m.cagr), "sur " + m.years + " an(s)", sgn(m.cagr)),
       card("Vol annualisée", pct(m.ann_volatility)),
-      card("Sharpe", nf(m.sharpe, 2), "Sortino " + nf(m.sortino, 2), sgn(m.sharpe)),
-      card("Drawdown max", pct(m.max_drawdown), "Calmar " + nf(m.calmar, 2), sgn(m.max_drawdown)),
+      card("Sharpe", ratio(m.sharpe, 2), "Sortino " + ratio(m.sortino, 2), sgn(m.sharpe),
+           (m.risk_free ? "Sharpe net du taux sans risque de " + pct(m.risk_free, 1)
+             + " par an, retire a chaque barre — y compris celles ou le book dort en\n"
+             + "liquidites (le moteur ne remunere pas le cash)."
+             : "Volatilite nulle : ratio non defini.")),
+      card("Drawdown max", pct(m.max_drawdown), "Calmar " + ratio(m.calmar, 2), sgn(m.max_drawdown),
+           "Calmar = CAGR / drawdown max. Non defini si le drawdown est nul."),
       card("Win rate", pct(m.win_rate, 1), m.trades + " trades · " + money(m.turnover) + " échangés"),
       card("Benchmark", pct(m.benchmark_return), m.benchmark_symbol + " · alpha " + pct(m.alpha) + " · β " + nf(m.beta, 2),
         sgn((m.alpha || 0)))
@@ -505,6 +515,12 @@
   /* ------------------------------------------------------------------ */
   async function runBacktest(opts) {
     if (state.running) return;
+    // Le moteur relit le fichier enregistre, pas l'editeur : lancer avec des
+    // modifications non enregistrees_execute silencieusement l'ancienne version.
+    if (state.dirty) {
+      toast("Attention : le code affiche n'est pas enregistre. Le backtest part sur "
+            + "la derniere version sauvegardee — cliquez sur Enregistrer d'abord.", true);
+    }
     state.running = true;
     $("#btn-run").disabled = true;
     status("backtest en cours…", "busy");
@@ -788,7 +804,7 @@
       "<div class='kv'>"
       + "<div><span>spot</span><span>" + nf(q.spot, 2) + "</span></div>"
       + "<div><span>prime nette</span><span class='" + sgn(-q.net_premium) + "'>"
-      + nf(q.net_premium, 2) + " (" + (q.net_premium < 0 ? "débit" : "crédit") + ")</span></div>"
+      + nf(q.net_premium, 2) + " (" + (q.net_premium >= 0 ? "débit" : "crédit") + ")</span></div>"
       + "<div><span>perte max</span><span class='neg'>" + nf(q.max_loss, 2) + "</span></div>"
       + "<div><span>gain max</span><span class='pos'>" + nf(q.max_profit, 2) + "</span></div>"
       + "<div><span>points morts</span><span>" + (q.breakevens || []).map(b => nf(b, 2)).join(" / ") + "</span></div>"

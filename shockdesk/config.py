@@ -67,6 +67,11 @@ class AssetSpec:
     iv_skew: float = -0.25               # pente du sourire (put plus chers)
     iv_term: float = 0.10                # pente de la structure en terme (log(T/30j))
     multiplier: float = 1.0
+    # Taille d'un contrat réel, exprimée en unités du sous-jacent. Le moteur
+    # raisonne en unités (1 unité = 1 baril, 1 once, 1 part d'ETF) ; ce champ
+    # sert à ramener une quantité en nombre de contrats pour les frais par
+    # contrat. 1 000 barils pour le Brent, 100 onces pour l'or, 1 pour un ETF.
+    contract_size: float = 1.0
     tick: float = 0.05
     options: bool = True
     asset_class: str = "autres"          # classe d'actif, pour l'attribution
@@ -84,10 +89,12 @@ _ASSETS: List[AssetSpec] = [
     # --- Énergie ----------------------------------------------------------- #
     AssetSpec("BZ=F", "Brent Crude", "future", 84.95, 0.34, 0.00,
               {"OIL": 1.00, "SPX": -0.05, "USD": -0.10}, iv_base=0.36,
-              asset_class="Énergie", unit="USD/bbl"),
+              asset_class="Énergie", unit="USD/bbl",
+              contract_size=1000.0),          # 1 contrat Brent = 1 000 barils
     AssetSpec("CL=F", "WTI Crude", "future", 80.50, 0.35, 0.00,
               {"OIL": 0.98, "SPX": -0.05, "USD": -0.10}, iv_base=0.37,
-              asset_class="Énergie", unit="USD/bbl"),
+              asset_class="Énergie", unit="USD/bbl",
+              contract_size=1000.0),          # 1 contrat WTI = 1 000 barils
     AssetSpec("XLE", "Energy Select SPDR", "etf", 92.40, 0.24, 0.05,
               {"OIL": 0.72, "SPX": 0.55}, asset_class="Énergie"),
     AssetSpec("XOP", "SPDR S&P Oil & Gas E&P", "etf", 78.10, 0.32, 0.04,
@@ -122,9 +129,11 @@ _ASSETS: List[AssetSpec] = [
     # --- Métaux / matières ------------------------------------------------- #
     AssetSpec("GC=F", "Gold", "future", 3350.0, 0.145, 0.060,
               {"GOLD": 1.00, "USD": -0.35, "RATES": -0.25, "SPX": 0.05},
-              iv_base=0.175, asset_class="Métaux", unit="USD/oz"),
+              iv_base=0.175, asset_class="Métaux", unit="USD/oz",
+              contract_size=100.0),           # 1 contrat or = 100 onces
     AssetSpec("SI=F", "Silver", "future", 38.20, 0.290, 0.050,
-              {"GOLD": 0.70, "SPX": 0.30}, asset_class="Métaux"),
+              {"GOLD": 0.70, "SPX": 0.30}, asset_class="Métaux",
+              contract_size=5000.0),          # 1 contrat argent = 5 000 onces
     AssetSpec("DBC", "Invesco DB Commodity Index", "etf", 21.10, 0.185, 0.020,
               {"OIL": 0.55, "SPX": 0.20, "USD": -0.20, "GOLD": 0.20},
               asset_class="Matières premières"),

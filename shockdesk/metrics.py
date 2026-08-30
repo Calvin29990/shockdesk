@@ -15,6 +15,17 @@ def _safe(x) -> Optional[float]:
     return None if (np.isnan(x) or np.isinf(x)) else x
 
 
+def _r(x, n: int) -> Optional[float]:
+    """Arrondi qui propage ``None`` au lieu de le transformer en 0.0.
+
+    Un ratio non défini (volatilité nulle, drawdown nul, moins de deux jours
+    négatifs) doit s'afficher « n.d. » et pas « 0,0 », qui se lit comme une
+    valeur mesurée et fausse le jugement.
+    """
+    v = _safe(x)
+    return None if v is None else round(v, n)
+
+
 def drawdown(equity: pd.Series) -> pd.Series:
     peak = equity.cummax()
     return equity / peak - 1.0
@@ -36,13 +47,13 @@ def compute(equity: pd.Series, benchmark: Optional[pd.Series] = None,
     rf_daily = risk_free / periods_per_year
     excess = rets - rf_daily
     sharpe = (excess.mean() / rets.std(ddof=0) * np.sqrt(periods_per_year)
-              if rets.std(ddof=0) > 0 else 0.0)
+              if rets.std(ddof=0) > 0 else None)
     downside = rets[rets < 0]
     sortino = (excess.mean() / downside.std(ddof=0) * np.sqrt(periods_per_year)
-               if len(downside) > 1 and downside.std(ddof=0) > 0 else 0.0)
+               if len(downside) > 1 and downside.std(ddof=0) > 0 else None)
     dd = drawdown(equity)
     max_dd = float(dd.min())
-    calmar = cagr / abs(max_dd) if max_dd < 0 else 0.0
+    calmar = cagr / abs(max_dd) if max_dd < 0 else None
 
     wins = rets[rets > 0]
     losses = rets[rets < 0]
@@ -55,12 +66,12 @@ def compute(equity: pd.Series, benchmark: Optional[pd.Series] = None,
         "trading_days": int(n + 1),
         "years": round(years, 3),
         "total_return": round(float(total), 6),
-        "cagr": round(_safe(cagr), 6),
-        "ann_volatility": round(_safe(ann_vol), 6),
-        "sharpe": round(_safe(sharpe), 3),
-        "sortino": round(_safe(sortino), 3),
-        "max_drawdown": round(max_dd, 6),
-        "calmar": round(_safe(calmar), 3),
+        "cagr": _r(cagr, 6),
+        "ann_volatility": _r(ann_vol, 6),
+        "sharpe": _r(sharpe, 3),
+        "sortino": _r(sortino, 3),
+        "max_drawdown": _r(max_dd, 6),
+        "calmar": _r(calmar, 3),
         "win_rate": round(len(wins) / n, 4) if n else None,
         "best_day": round(float(rets.max()), 6),
         "worst_day": round(float(rets.min()), 6),
