@@ -19,6 +19,18 @@ MAX_NOTIONAL_PCT = 0.30   # plafond de notionnel sous-jacent, en fraction de l'a
 MAX_VOL_REGIME = 1.10     # au-delà, on ne vend pas : le régime est anormal
 STOP_LOSS_MULT = 2.0      # on rachète si la prime a été multipliée par ce facteur
 EXIT_IF_FORECAST = True   # on déboucle dès qu'une prévision de choc apparaît
+# Signaux surveillés pour la sortie « prévision de choc ». SPY n'a pas de
+# prévision dans le registre, mais ^GSPC (l'indice que SPY suit) en porte une
+# (r1 · choc pétrolier · sens ↓ · pic J+7). Sans ce deuxième symbole, le garde-fou
+# EXIT_IF_FORECAST était un no-op : il ne se déclenchait jamais.
+FORECAST_SYMBOLS = ["SPY", "^GSPC"]
+
+
+def _shock_active():
+    """Vrai dès qu'une prévision de choc active existe sur les symboles surveillés."""
+    if not EXIT_IF_FORECAST:
+        return False
+    return any(get_forecast(s) is not None for s in FORECAST_SYMBOLS)
 
 
 def initialize(context):
@@ -41,7 +53,6 @@ def _flat(context, reason):
 
 def trade(context, data):
     today = get_datetime().date()
-    f = get_forecast(UNDERLYING)
 
     # --- gestion de la position ouverte ------------------------------------ #
     if context.entry is not None:
@@ -52,7 +63,7 @@ def trade(context, data):
                    if c in context.portfolio.positions)
         stop_hit = (context.entry_premium > 0
                     and mark > STOP_LOSS_MULT * context.entry_premium)
-        forecast_hit = EXIT_IF_FORECAST and f is not None
+        forecast_hit = _shock_active()
         if expiry_hit or stop_hit or forecast_hit:
             why = ("échéance" if expiry_hit else
                    "stop-loss prime" if stop_hit else "prévision de choc active")
@@ -64,7 +75,7 @@ def trade(context, data):
 
     # --- recherche d'entrée ------------------------------------------------ #
     if context.entry is None:
-        if f is not None:
+        if _shock_active():            # ne jamais vendre de prime pendant un choc
             record(short_premium=0.0, vol_regime=vol_regime(UNDERLYING))
             return
         regime = vol_regime(UNDERLYING)
