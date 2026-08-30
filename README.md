@@ -272,7 +272,7 @@ serveur de développement Flask : il ne doit pas être exposé.
 donc n'importe quel serveur Python la sert :
 
 ```bash
-gunicorn shockdesk.wsgi:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+gunicorn shockdesk.wsgi:app --bind 0.0.0.0:$PORT --workers 2 --timeout 600
 ```
 
 Le dépôt contient le nécessaire pour trois hébergeurs courants, tous capables de
