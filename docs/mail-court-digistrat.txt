@@ -1,0 +1,28 @@
+OBJET : Candidature BA Produits Structurés (Equity) — j'ai déjà codé un moteur d'autocalls & barrières (démo en 5 min)
+
+--------------------------------------------------------------------------
+
+Bonjour,
+
+Je candidate au poste de BA Produits Structurés (Equity) publié aujourd'hui.
+J'ai déjà codé ce que l'annonce demande :
+
+• Autocalls Athena, Phoenix, Reverse Convertible + barrières KI
+• Pricing Reiner-Rubinstein validé vs Monte-Carlo (< 5 % d'écart)
+• Grecs temps réel, P&L explain, stress test spot × vol
+• 44 tests + CI, docs complètes — le tout sur mon GitHub
+
+Démo live : https://calvin-exotic-desk.netlify.app
+GitHub : https://github.com/Calvin29990
+
+Connaissance exigée (call, autocall, barrières) : explicite dans mon dossier.
+Stack : Python, TS/React, SQL, FR/EN.
+
+Disponible en visio dès maintenant. Hors de France jusqu'au 09/09
+(WhatsApp / mail / visio : +33 7 52 97 58 09), disponible sur site à Paris ensuite.
+
+Je peux vous montrer le simu en 5 minutes — quand voulez-vous ?
+
+Cordialement,
+Calvin Minang — SKEMA BS
++33 7 52 97 58 09 · https://github.com/Calvin29990 · https://www.linkedin.com/in/calvin-minang

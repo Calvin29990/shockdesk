@@ -1,0 +1,72 @@
+OBJET : Candidature BA Produits Structurés (Equity) — j'ai déjà codé la chaîne complète : pricing exotiques → validation → intégration (Desk++)
+
+--------------------------------------------------------------------------
+
+Bonjour,
+
+Je candidate au poste de BA Produits Structurés (Equity) publié aujourd'hui.
+Plutôt qu'un CV listant des mots-clés, voici concrètement ce que j'ai déjà
+construit et publié, ligne par ligne avec vos missions.
+
+1) MODÉLISATION PRODUIT (votre SPL) — déjà implémenté
+Mon moteur Exotic Desk Simulator (démo live : https://calvin-exotic-desk.netlify.app)
+modélise un book fictif de 195 M€ de produits structurés : autocalls Athena,
+Phoenix et Reverse Convertible, barrières knock-in avec observations et mémoire
+de coupon, rappels d'autocall. Pricing Black-Scholes (r=0) + formules de
+Reiner-Rubinstein pour barrières continues, digitales et knock-in européens,
+VALIDÉ CONTRE MONTE-CARLO (écart < 5 %).
+=> C'est exactement le périmètre « call / autocall / options à barrières »
+exigé dans votre annonce.
+
+2) VALIDATION DE PRICING AVEC TRADING / STRUCTURATION / QUANTS
+Grecs par différences finies (delta, gamma, vega, theta) recalculés en temps
+réel et agrégés au niveau book, P&L explain en waterfall (delta, gamma, vega,
+theta, événements, inexpliqué), stress test spot × vol.
+=> Je sais lire et challenger un deal, pas seulement le saisir.
+
+3) INTÉGRATION PLATEFORME PRICING / BOOKING
+Le simulateur tourne dans un fichier HTML unique (~82 Ko), sans serveur ni
+dépendance, build reproductible (build_sim.py → index.html). Sur ShockDesk
+(https://github.com/Calvin29990/shockdesk), même rigueur à l'échelle macro :
+backtest multi-actifs d'un book 25,5 M$ avec API REST + CLI + interface,
+catalogue de structures (strangle, straddle, butterfly, iron condor, spreads,
+risk reversal, calendar), prévisions révisables en lecture point-in-time,
+attribution de P&L par ligne.
+
+4) BDD / DEVOPS POUR AUTOMATISER LES TESTS
+44 tests pytest + CI GitHub Actions ; stratégies Python rejouables. Résultat
+publié mesuré : +395 919 $ (+1,55 %) avec la règle de sortie au pic, contre
+-4 054 $ sans — la différence se mesure, elle ne se raconte pas.
+
+5) DOCUMENTATION ET SUIVI UTILISATEURS
+Documentation de reprise technique (pensée pour un humain ou une IA qui
+reprend le projet sans contexte), guide débutant, 83 pages de cours
+(structuration exotiques, Black-Scholes, métier du desk, 40 questions
+d'entretien).
+
+6) RÉUNIONS / CONF-CALLS FR-EN
+Français natif, anglais professionnel courant. Stack : Python (pandas, numpy,
+scikit-learn), JS/TypeScript, React/Vite, SQL, CI, Excel/VBA.
+
+En amont de la chaîne, Desk++ couvre aussi : ShockLab
+(https://github.com/Calvin29990/ShockLab-Fade-or-Cascade-) — stress-testing
+multi-actifs composé de 25 chocs réels 2001→2025 (« fade or cascade ») — et
+CalvinX Market Terminal (https://github.com/Calvin29990/calvinx-market-terminal)
+— terminal type Bloomberg, indicateurs techniques, sentiment news, export
+Excel 3 feuilles. Tout est public et vérifiable sur mon GitHub :
+https://github.com/Calvin29990
+
+DISPONIBILITÉ : je suis actuellement hors de France jusqu'au 9 septembre —
+joignable par e-mail, WhatsApp et visio au +33 7 52 97 58 09 ; à partir du
+9 septembre, joignable par téléphone et disponible sur site à Paris.
+Je peux vous faire une démo en visio de 5 minutes du simulateur (book exotique,
+grecs temps réel, stress test) quand vous voulez.
+
+Je reste à votre disposition pour un premier échange dès cette semaine.
+
+Cordialement,
+Calvin Minang — SKEMA BS
+📞 +33 7 52 97 58 09 (WhatsApp / e-mail / visio jusqu'au 09/09, puis téléphone)
+🔗 GitHub : https://github.com/Calvin29990
+🔗 LinkedIn : https://www.linkedin.com/in/calvin-minang
+🖥️ Démo live : https://calvin-exotic-desk.netlify.app
