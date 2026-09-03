@@ -37,7 +37,28 @@
 
 ## 📊 3. HISTORIQUE DES CONTACTS VALIDÉS & DÉLIVRÉS (SEPTEMBRE 2026)
 
-| Institution | Contacts Validés & E-mails Délivrés avec Succès |
+### 🌟 Leads Chauds & Réponses Desks Confirmées (03/09/2026) :
+* **Pierre Pogarsky** (`pierre.pogarsky@ca-cib.com`, +33 5 57 14 26 63) — Responsable Salle des Marchés CACIB Bordeaux : **Lead positif confirmé ! Conserve CV/contact, relance calée début novembre 2026**.
+* **Edouard Eckstein** (`edouard.eckstein@bnpparibas.com`) — Cross Asset Solutions Sales BNP Paribas CIB Paris (Envoyé le 03/09 - Alumni SKEMA).
+* **Guillaume Py** (`guillaume.py@bnpparibas.com`) — Strategic Equity Sales / EQD BNP Paribas CIB Paris (Envoyé le 03/09 - Alumni SKEMA).
+* **Trâm-Anh Tran** (`tramanh.tran@bnpparibas.com`) — Recherche Obligations Convertibles BNP Paribas CIB Market360 (Envoyé le 03/09).
+* **Pascal Allibert** (`pascal.allibert@alstomgroup.com`) — Head of Front Office Alstom (Réponse reçue 03/09 - Revoir en mai/juin).
+* **Gilles Sakote** (`gilles.sakote@sgcib.com`) — Director Structured Finance Loan Syndication SG CIB (Réponse reçue 03/09).
+* **Yllan Touboul** (`yllan.touboul@ca-cib.com`) — CACIB Lyon : boîte desk direct obtenue `sdm.raa@ca-cib.com` (T: 04 72 77 45 45).
+* **Gabriel Frappé** (`gabriel.1.frappe@bnpparibas.com`) — BNP Wealth Management : boîte desk direct obtenue `dl.gm.wm.solutions.zh@bnpparibas.com`.
+
+### 🚀 Desks Quantitatifs & Internationaux Envoyés (03/09/2026) :
+* **Citadel Paris** : `othman.nejjar@citadel.com` (Quantitative Trading)
+* **Optiver Paris** : `jeanmarie.tine@optiver.com` (Quantitative Trading Director)
+* **Millennium Paris** : `ross.garon@mlp.com` (Global Head Quantitative Strategies)
+* **Squarepoint Capital Paris** : `julien.coppey@squarepoint-capital.com` (Quantitative Trader)
+* **Goldman Sachs Paris** : `dmitri.potishko@gs.com` (Global Co-Head Flow Derivatives Trading), `dimitrios.nikolakopoulos@gs.com` (Global Head Equity Structured Products)
+* **JPMorgan Paris** : `douglas.borden@jpmorgan.com` (Global Markets & Structured Solutions)
+* **Tradition Paris** : `daria.merzlikina@tradition.com` (Equity Derivatives Brokerage)
+* **Tetra Capital Paris** : `contact@tetra-capital.fr` (Sales Produits Structurés)
+
+### 🏛️ Banques & Institutions Contactées Antérieurement :
+| Institution | Contacts Validés & E-mails Délivrés |
 | :--- | :--- |
 | **Bank of America Paris** | `leonard.fienberg@bofa.com` (MD Structuration), `amaury.gosselin@bofa.com` (MD), `blaise.prevoteau@bofa.com` (MD EGB Trading), `barbara.duval@bofa.com` (Sales EQD) |
 | **Goldman Sachs Paris** | `guillaume.tropenat@gs.com` (ED Senior Sales Trader), `alberto.ricci@gs.com` (Global Markets) |
@@ -49,7 +70,6 @@
 | **HSBC Paris** | `jerome.lemue@hsbc.com` (Head of Corporate Equity Derivatives), `zineb.ahmed@hsbc.com` (Private Banking Structurés) |
 | **Amundi Asset Management** | `paul.guiraud@amundi.com` (Derivatives Pricing), `maamoun.mekki@amundi.com` (Quant), `yao.peng@amundi.com` (Structurer), `solenn.legal@amundi.com` (Risk Equity) |
 | **BRED Salle des Marchés** | `benjamin.dussault@bred.fr` (Senior Structurer EQD), `joel.pacevicius@bred.fr` (Trader EQD), `fo.equity-derivatives@bred.fr` |
-| **Natixis / SGCIB / CACIB (Posts récents)** | `jeremie.coscas@natixis.com` (Convertibles/EQD), `zoe.hoblaingre@bnpparibas.com` (Brokers Structurés), `david.attar@sgcib.com` (ETF Trading), `anissa.badaoui@sgcib.com` (CLO Structuring), `lucas.oustric@sgcib.com` (PWM Structurés), `alexandre.selegny@sgcib.com` (Trading Exo) |
 
 ---
 
