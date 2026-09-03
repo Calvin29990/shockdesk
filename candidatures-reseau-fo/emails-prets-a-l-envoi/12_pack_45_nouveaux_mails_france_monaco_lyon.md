@@ -18,23 +18,23 @@
 
 ---
 
-## 🇲🇨 CLUSTER 1 : MONACO & CÔTE D'AZUR (CONTACTS 1 À 8)
+## 🇲🇨 / 🇫🇷 CLUSTER 1 : DESKS DE MARCHÉS & STRUCTURATION (PARIS / MONACO) (CONTACTS 1 À 8)
 
-### 🔹 1. Francesco Grosoli — CEO & Head of Markets @ CMB Monaco
-- **Provenance** : CMB Monaco (Filiale Mediobanca — 17 Avenue des Spélugues, Monaco)
-- **À** : `francesco.grosoli@cmb.mc`
-- **Objet** : `Candidature Stage Salle des Marchés / Sales Trading — CMB Monaco (Janvier 2027)`
+### 🔹 1. Noémie Amadei — Flow Rates Sales Desk @ Crédit Agricole CIB (Montrouge / Paris)
+- **Provenance** : Crédit Agricole CIB Global Markets (Post LinkedIn Desk : « Merci d’envoyer votre CV à l'adresse suivante: noemie.amadei@ca-cib.com (référence Stage – Flow Rates Sales) »)
+- **À** : `noemie.amadei@ca-cib.com`
+- **Objet** : `Candidature Stage – Flow Rates Sales — Calvin Minang (Janvier 2027)`
 - **Corps** :
 ```text
-Bonjour Francesco,
+Bonjour Noémie,
 
-Je me permets de vous contacter directement ayant déduit votre adresse suite à la découverte de vos responsabilités à la direction générale et à la supervision des activités de marchés chez CMB Monaco.
+Je me permets de vous contacter directement suite à vos publications concernant les opportunités de stage au sein du desk Flow Rates Sales chez Crédit Agricole CIB.
 
-Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Business School (M2), je me consacre intensivement aux instruments financiers et aux solutions d'investissement de marché. Afin de maîtriser la pratique opérationnelle, j'ai développé en Python mes propres outils quantitatifs : un simulateur complet de valorisation de dérivés et de structures complexes avec calcul de sensibilités/grecs en temps réel, ainsi qu'un terminal de suivi de marché (https://github.com/Calvin29990).
+Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Business School (M2), je me consacre intensivement aux instruments de taux d'intérêt (swaps de taux IRS, obligations d'État, OIS, basis swaps). Afin de développer une solide aisance technique de desk, j'ai développé en Python mes propres outils quantitatifs : un simulateur complet de valorisation financière avec calcul de sensibilités/grecs en temps réel ainsi qu'un terminal de suivi de marché (https://github.com/Calvin29990).
 
-Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais très honoré de mettre ma rigueur technique et ma réactivité au service de votre salle des marchés : assistance aux sales traders, analyse des flux d'ordres multi-assets et préparation des propositions d'investissement.
+Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais très honoré de mettre ma rigueur technique, ma réactivité et mon sens du relationnel au service de votre équipe : aide à la cotation des flux de taux, analyse des courbes de rendement, préparation des term sheets et suivi quotidien des clients institutionnels.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 (WhatsApp/visio/mail) jusqu'au 9 septembre et pleinement disponible en présentiel dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 (WhatsApp/visio/mail) jusqu'au 9 septembre et pleinement disponible en présentiel à Paris/Montrouge dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -49,47 +49,50 @@ Calvin Minang
 
 ---
 
-### 🔹 2. Marc Mongellaz — CIO & Head of Structuring & Derivatives @ Andbank Monaco
-- **Provenance** : Andbank Monaco (Ex-Head of Structuring SGPB Monaco)
-- **À** : `marc.mongellaz@andbank.com`
-- **Objet** : `Candidature Stage Structuration Produits Dérivés & Marchés — Andbank Monaco (Janvier 2027)`
+### 🔹 2. Matis Leret — Fixed Income & Hybrids Solutions @ BNP Paribas CIB
+- **Provenance** : Desk Produits Structurés Fixed Income & Hybrids BNP Paribas CIB (Post LinkedIn : « Vous pouvez envoyer votre CV avec en objet “Candidature EMEA FI - Nom Prénom” à l’adresse suivante : matis.leret@bnpparibas.com »)
+- **À** : `matis.leret@bnpparibas.com`
+- **Objet** : `Candidature EMEA FI - MINANG Calvin — Stage Fixed Income & Hybrids (Janvier 2027)`
 - **Corps** :
 ```text
-Bonjour Marc,
+Bonjour Matis,
 
-C'est avec un grand intérêt que je me permets de vous contacter suite à la découverte de votre parcours à la tête de la gestion et de la structuration de produits dérivés chez Andbank à Monaco.
+Je me permets de vous contacter directement suite à votre publication concernant le recrutement au sein de l'équipe Produits Structurés Fixed Income & Hybrids chez BNP Paribas CIB.
 
-En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je me passionne pour la conception et le pricing de produits structurés sur-mesure (Autocalls Athena/Phoenix, Reverse Convertibles, structures à barrières). J'ai programmé en Python mon propre moteur de simulation quantitative avec calcul de grecs et de sensibilités en temps réel par formules fermées et Monte-Carlo, disponible sur mon GitHub (https://github.com/Calvin29990). Je serais ravi de vous en faire la démonstration.
+En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je me passionne pour l'ingénierie financière et les solutions de marché hybrides (taux, crédit, change, actions). J'ai programmé en Python mon propre moteur de simulation quantitative avec calcul de grecs et de sensibilités en temps réel par formules fermées et Monte-Carlo, consultable sur mon GitHub (https://github.com/Calvin29990). Je serais ravi de vous en faire la démonstration.
 
-Autonome sur Python et Excel/VBA, et bilingue français / espagnol, je souhaite apporter mon soutien à votre desk pour le pricing indicatif, l'élaboration de term sheets et le suivi des mandats structurés.
+Autonome sur Python et Excel/VBA, et bilingue français / espagnol avec un bon niveau d'anglais professionnel, je souhaite apporter mon soutien à votre desk pour le pricing indicatif de structures sur-mesure, l'élaboration de term sheets et le suivi des transactions clients.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible pour échanger à votre convenance.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris dès le 10 septembre.
 
-Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
+Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
 Bien cordialement,
 
 Calvin Minang
-📞 +33 7 52 97 58 09 · 💻 https://github.com/Calvin29990 · 🔗 https://www.linkedin.com/in/calvin-minang
+Étudiant Bac+5 Finance de Marché — SKEMA BS
+📞 +33 7 52 97 58 09 (WhatsApp & Tel)
+💻 GitHub : https://github.com/Calvin29990
+🔗 LinkedIn : https://www.linkedin.com/in/calvin-minang
 ```
 
 ---
 
-### 🔹 3. Vincent Manuel — Chief Investment Officer @ CFM Indosuez Monaco
-- **Provenance** : CFM Indosuez Wealth Management (Groupe Crédit Agricole — Monaco)
-- **À** : `vincent.manuel@ca-indosuez.mc`
-- **Objet** : `Candidature Stage Stratégie de Marché & Solutions Dérivées — CFM Indosuez Monaco (Janvier 2027)`
+### 🔹 3. Stanislas Savergne — Trader Trésorerie Long Terme & Dérivés Taux @ Natixis CIB
+- **Provenance** : Salle des Marchés Natixis CIB (Post LinkedIn Desk : « Vous pouvez envoyer directement votre CV + lettre de motivation à l'adresse suivante : stanislas.savergne@natixis.com »)
+- **À** : `stanislas.savergne@natixis.com`
+- **Objet** : `Candidature Stage Assistant Trader Gestion Taux & Refinancement — Natixis CIB (Janvier 2027)`
 - **Corps** :
 ```text
-Bonjour Vincent,
+Bonjour Stanislas,
 
-Je me permets de vous adresser directement ma candidature suite à la découverte de vos publications et de vos responsabilités à la tête de l'allocation et de la stratégie d'investissement chez CFM Indosuez à Monaco.
+Je me permets de vous adresser directement ma candidature suite à vos publications concernant les opportunités de stage au sein du desk Trésorerie Long Terme & Refinancement / Risque de Taux chez Natixis CIB à Paris.
 
-Actuellement en Bac+5 finance de marché à SKEMA Business School, je combine une solide compréhension macroéconomique avec des compétences quantitatives poussées en Python et modélisation financière. J'ai programmé des simulateurs de valorisation de produits structurés et un terminal interactif de suivi de marchés financiers consultables sur mon GitHub (https://github.com/Calvin29990).
+Actuellement en Bac+5 finance de marché à SKEMA Business School, je combine une solide compréhension macroéconomique avec des compétences quantitatives poussées en Python et modélisation financière. J'ai programmé des simulateurs de valorisation financière, des outils de pricing et un terminal interactif de suivi de marchés financiers consultables sur mon GitHub (https://github.com/Calvin29990).
 
-Rigoureux, bilingue français / espagnol et à l'aise en anglais, je souhaite mettre ma motivation au service de votre équipe d'investissement pour l'analyse des classes d'actifs, le suivi des allocations et la préparation des comités de marché.
+Rigoureux, autonome sur Python et Excel/VBA, et bilingue français / espagnol, je souhaite mettre ma motivation et ma réactivité au service de votre table de négociation pour l'assistance aux pricings, le développement d'outils de suivi de refinancement et l'interface avec les lignes métiers.
 
-Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre temps et vous souhaite une excellente journée.
 
@@ -104,47 +107,50 @@ Calvin Minang
 
 ---
 
-### 🔹 4. Gérald Mathieu — Head of Barclays Private Bank & Markets Monaco
-- **Provenance** : Barclays Private Bank Monaco & Suisse
-- **À** : `gerald.mathieu@barclays.com`
-- **Objet** : `Candidature Stage Private Markets & Global Solutions — Barclays Monaco (Janvier 2027)`
+### 🔹 4. Émilien Champroux — Desk Global FX & Derivatives @ Société Générale CIB
+- **Provenance** : Desk Global FX & Derivatives SG CIB La Défense (Post LinkedIn Desk : « Si vous êtes intéressé(e), n’hésitez pas à postuler par mail à l’adresse emilien.champroux@sgcib.com »)
+- **À** : `emilien.champroux@sgcib.com`
+- **Objet** : `Candidature Stage FX / E-FX Sales Assistant — SG CIB La Défense (Janvier 2027)`
 - **Corps** :
 ```text
-Bonjour Gérald,
+Bonjour Émilien,
 
-Je me permets de vous contacter directement ayant déduit votre adresse suite à la découverte de vos responsabilités à la tête des activités de Barclays Private Bank à Monaco et en Suisse.
+Je me permets de vous contacter directement suite aux publications concernant les opportunités au sein du Desk Global FX & Derivatives chez Société Générale CIB à La Défense.
 
-En dernière année de Bac+5 en finance de marché à SKEMA Business School, je suis particulièrement attiré par les solutions de marchés sur-mesure et l'ingénierie financière. Développeur actif en Python, j'ai codé un simulateur de book de dérivés avec calcul de sensibilités/grecs en temps réel et un terminal de marché interactif (https://github.com/Calvin29990).
+En dernière année de Bac+5 en finance de marché à SKEMA Business School, je suis particulièrement attiré par les instruments de change (Spots, Forwards, NDFs, Swaps de devises, Options FX) et les plateformes de trading électronique. Développeur actif en Python, j'ai codé un simulateur de book de dérivés avec calcul de sensibilités/grecs en temps réel et un terminal de flux de marché interactif (https://github.com/Calvin29990).
 
-Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais opérationnel. Je serais très honoré d'apporter mon soutien à vos équipes pour l'analyse des opportunités d'investissement, le suivi des portefeuilles et l'assistance commerciale auprès de la clientèle UHNW.
+Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais opérationnel. Je serais très honoré d'apporter mon soutien à vos équipes pour le pricing de flux FX, la préparation des analyses de marché et le support aux clients institutionnels et corporates.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible à Paris dès le 10 septembre.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
 Bien cordialement,
 
 Calvin Minang
-📞 +33 7 52 97 58 09 · 💻 https://github.com/Calvin29990 · 🔗 https://www.linkedin.com/in/calvin-minang
+Étudiant Bac+5 Finance de Marché — SKEMA BS
+📞 +33 7 52 97 58 09 (WhatsApp & Tel)
+💻 GitHub : https://github.com/Calvin29990
+🔗 LinkedIn : https://www.linkedin.com/in/calvin-minang
 ```
 
 ---
 
-### 🔹 5. Ilyes Dijon — Cross-Asset Structured Products Sales Assistant (Monaco / Suisse) @ Natixis CIB
-- **Provenance** : Desk Vente Produits Structurés Cross-Asset Switzerland/Monaco/Luxembourg chez Natixis CIB
-- **À** : `ilyes.dijon@natixis.com`
-- **Objet** : `Candidature Stage Assistant Sales Produits Structurés Monaco/Suisse — Natixis CIB (Janvier 2027)`
+### 🔹 5. Nicolas Dubos — Assistant Sales Produits Structurés Cross-Asset @ Nexo Capital
+- **Provenance** : Nexo Capital Paris (Courtage & Produits Structurés Cross-Asset — Post LinkedIn : « Vous pouvez candidater en envoyant votre CV à l'adresse suivante : nicolas.dubos@nexocapital.com »)
+- **À** : `nicolas.dubos@nexocapital.com`
+- **Objet** : `Candidature Stage Assistant Sales Produits Structurés Cross Asset — Nexo Capital (Janvier 2027)`
 - **Corps** :
 ```text
-Bonjour Ilyes,
+Bonjour Nicolas,
 
-Je me permets de vous contacter directement suite à vos partages d'activité au sein du desk de Vente Produits Structurés Cross-Asset (Monaco / Suisse / Luxembourg) chez Natixis CIB.
+Je me permets de vous contacter directement suite à votre annonce concernant le recrutement d'un stagiaire Assistant Sales Produits Structurés Cross Asset chez Nexo Capital à Paris.
 
 Actuellement en Bac+5 finance de marché à SKEMA Business School, je recherche mon stage de fin d'études de 6 mois à partir de janvier 2027. Passionné par l'ingénierie des dérivés, j'ai programmé en Python un moteur complet de valorisation de structures optionnelles (Autocalls Athena/Phoenix, Reverse Convertibles, formules fermées et Monte-Carlo avec grecs en temps réel) disponible sur mon GitHub : https://github.com/Calvin29990.
 
-Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol (avec un bon niveau d'anglais), je serais ravi d'échanger avec vous si votre desk recrute son prochain stagiaire pour la session de janvier.
+Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol (avec un bon niveau d'anglais), je serais ravi d'apporter ma rigueur et mon enthousiasme à votre équipe : pricing indicatif, rédaction de fiches produits/term sheets et suivi commercial des partenaires.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
 
 Mon CV est joint à ce mail. Merci beaucoup pour votre temps et excellente journée.
 

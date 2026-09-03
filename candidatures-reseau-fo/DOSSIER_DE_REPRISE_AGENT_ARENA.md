@@ -55,7 +55,7 @@
 
 ## 🚫 4. LISTE NOIRE DES BOUNCES (ADRESSES REJETÉES — NE PLUS UTILISER)
 
-`jean-loic.beibro@socgen.com`, `mathis.postec@ca-cib.com`, `arsene.delpierre@ca-cib.com`, `theodore.rousseau@ca-cib.com`, `luca.ciampi-ruiz@gs.com`, `mikael.aboucaya@cic.fr`, `hamza.belkouch@sgcib.com`, `matthieu.boisot@jpmorgan.com`, `sophie.farivarz@jpmorgan.com`, `anne-helene.illich@gs.com`.
+`jean-loic.beibro@socgen.com`, `mathis.postec@ca-cib.com`, `arsene.delpierre@ca-cib.com`, `theodore.rousseau@ca-cib.com`, `luca.ciampi-ruiz@gs.com`, `mikael.aboucaya@cic.fr`, `hamza.belkouch@sgcib.com`, `matthieu.boisot@jpmorgan.com`, `sophie.farivarz@jpmorgan.com`, `anne-helene.illich@gs.com`, `francesco.grosoli@cmb.mc`, `marc.mongellaz@andbank.com`, `vincent.manuel@ca-indosuez.mc`, `gerald.mathieu@barclays.com`, `ilyes.dijon@natixis.com`.
 
 ---
 
