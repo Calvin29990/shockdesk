@@ -165,28 +165,31 @@ Calvin Minang
 
 ---
 
-### 🔹 6. Arnaud Gorgé — Head of Rates & Derivatives Institutional Sales @ CA-CIB
-- **Provenance** : Crédit Agricole CIB Global Markets FIC
-- **À** : `arnaud.gorge@ca-cib.com`
-- **Objet** : `Candidature Stage Vente Dérivés de Taux & Fixed Income — CA-CIB (Janvier 2027)`
+### 🔹 6. Pierre Pogarsky — Salle des Marchés Régionale @ Crédit Agricole CIB (Bordeaux)
+- **Provenance** : Salle des Marchés CACIB Bordeaux (Post LinkedIn Desk : « Belle opportunité de stage à la salle des marchés de CACIB à Bordeaux pour 6 mois axé principalement sur le placement Corporate »)
+- **À** : `pierre.pogarsky@ca-cib.com`
+- **Objet** : `Candidature Stage Salle des Marchés & Solutions Corporate — CACIB Bordeaux (Janvier 2027)`
 - **Corps** :
 ```text
-Bonjour Arnaud,
+Bonjour Pierre,
 
-Je me permets de vous contacter directement suite à vos publications concernant les opportunités au sein du département Fixed Income, Currencies & Commodities chez Crédit Agricole CIB.
+Je me permets de vous contacter avec un grand intérêt suite à vos publications concernant les opportunités de stage au sein de la Salle des Marchés de Crédit Agricole CIB à Bordeaux.
 
-En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je me consacre intensivement aux instruments de taux (IRS, XCCY, ASW, Options). Sur mon temps libre, j'ai développé en Python des outils de calcul de sensibilités et de suivi de book en temps réel consultables sur mon GitHub (https://github.com/Calvin29990).
+Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Business School (M2), je me consacre intensivement aux opérations de marché et aux solutions de couverture et de placement pour les entreprises. Développeur actif en Python, j'ai conçu un simulateur financier de suivi de book et de calcul de sensibilités en temps réel consultable sur mon GitHub : https://github.com/Calvin29990.
 
-Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol. Je serais ravi de mettre ma rigueur au service de votre desk de vente : assistance au pricing des dérivés de taux, élaboration de term sheets et suivi des flux institutionnels.
+Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol. Je serais très honoré de mettre ma rigueur technique et ma réactivité au service de votre table de négociation régionale à Bordeaux : cotation des flux de clientèle corporate, suivi des positions et préparation des propositions commerciales.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible pour échanger à votre convenance pour un stage de 6 mois à partir de janvier 2027.
 
-Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
+Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
 Bien cordialement,
 
 Calvin Minang
-📞 +33 7 52 97 58 09 · 💻 https://github.com/Calvin29990 · 🔗 https://www.linkedin.com/in/calvin-minang
+Étudiant Bac+5 Finance de Marché — SKEMA BS
+📞 +33 7 52 97 58 09 (WhatsApp & Tel)
+💻 GitHub : https://github.com/Calvin29990
+🔗 LinkedIn : https://www.linkedin.com/in/calvin-minang
 ```
 
 ---
@@ -277,28 +280,31 @@ Calvin Minang
 
 ---
 
-### 🔹 10. Christophe Bernard — Sales Marchés Taux & Change @ CIC Lyonnaise de Banque
-- **Provenance** : Desk Vente Marchés CIC Lyon
-- **À** : `christophe.bernard@cic.fr`
-- **Objet** : `Candidature Stage Assistant Sales Taux & FX — CIC Lyonnaise de Banque (Janvier 2027)`
+### 🔹 10. Bastien Pierre & Édouard Guillez — IRD & Produits Structurés @ CACIB (Salle des Marchés Nantes)
+- **Provenance** : Salle des Marchés CACIB Nantes (Post LinkedIn Desk : « Notre desk de vente à la Salle des Marchés de Nantes recrute un stagiaire pour 6 mois. Merci d'envoyer votre CV aux adresses : bastien.pierre@ca-cib.com - edouard.guillez@ca-cib.com »)
+- **À** : `bastien.pierre@ca-cib.com`
+- **Objet** : `Candidature Stage Assistant Sales IRD & Produits Structurés — CACIB Nantes (Janvier 2027)`
 - **Corps** :
 ```text
-Bonjour Christophe,
+Bonjour Bastien et Édouard,
 
-Je me permets de vous contacter avec un vif intérêt concernant les opportunités de stage au sein du desk de vente Taux & FX de la Salle des Marchés du CIC à Lyon.
+Je me permets de vous contacter avec un grand intérêt suite à vos publications concernant le recrutement d'un stagiaire Assistant Sales IRD & Produits Structurés au sein de la Salle des Marchés de Crédit Agricole CIB à Nantes.
 
-Actuellement étudiant en Bac+5 finance de marché à SKEMA Business School, je recherche mon stage de fin d'études de 6 mois dès janvier 2027. Passionné par les instruments de couverture (swaps, options FX, caps/floors), j'ai développé en Python des scripts d'analyse de marché et de calcul de sensibilités en temps réel consultables sur mon GitHub (https://github.com/Calvin29990).
+Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Business School (M2), je me consacre intensivement aux instruments de couverture de taux (swaps, caps/floors, swaptions) et aux produits structurés (autocalls, floaters, ranges). Développeur actif en Python, j'ai programmé mon propre moteur quantitatif de valorisation de structures complexes avec calcul de grecs et de sensibilités en temps réel consultable sur mon GitHub : https://github.com/Calvin29990.
 
-Autonome sur Python et Excel/VBA, et bilingue français / espagnol, je souhaite apporter un soutien direct à votre équipe de vente pour la tarification, l'élaboration des propositions commerciales et le suivi des flux clients.
+Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais honoré d'apporter ma rigueur et ma réactivité à votre table de négociation à Nantes : pricing indicatif, rédaction de term sheets et propositions commerciales, suivi pré/post-trade et calcul des lignes de risque.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible pour échanger dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
 
-Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
+Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
 Bien cordialement,
 
 Calvin Minang
-📞 +33 7 52 97 58 09 · 💻 https://github.com/Calvin29990 · 🔗 https://www.linkedin.com/in/calvin-minang
+Étudiant Bac+5 Finance de Marché — SKEMA BS
+📞 +33 7 52 97 58 09 (WhatsApp & Tel)
+💻 GitHub : https://github.com/Calvin29990
+🔗 LinkedIn : https://www.linkedin.com/in/calvin-minang
 ```
 
 ---
@@ -580,21 +586,21 @@ Calvin Minang
 
 ---
 
-### 🔹 21. Xavier Marconnet, CFA — Head of Quantitative Solutions @ Edmond de Rothschild AM
-- **Provenance** : Edmond de Rothschild Asset Management Paris
-- **À** : `xavier.marconnet@edr.com`
-- **Objet** : `Candidature Stage Solutions Quantitatives & Overlay Dérivés — EdR AM (Janvier 2027)`
+### 🔹 21. Guillaume Diette — Head of Financial Engineering @ La Française AM (Paris)
+- **Provenance** : La Française AM Paris (Post LinkedIn Desk : « Très belle offre de stage pour faire du ML et de l'ingénierie financière en Finance de marché »)
+- **À** : `gdiette@la-francaise.com`
+- **Objet** : `Candidature Stage Ingénierie Financière & Modélisation Quantitative — La Française AM (Janvier 2027)`
 - **Corps** :
 ```text
-Bonjour Xavier,
+Bonjour Guillaume,
 
-Je me permets de vous contacter avec un grand intérêt concernant les activités de recherche et de gestion quantitative chez Edmond de Rothschild AM à Paris.
+Je me permets de vous contacter avec un vif intérêt suite à vos partages concernant les activités d'ingénierie financière et de modélisation quantitative chez La Française AM à Paris.
 
-Actuellement en dernière année de Bac+5 finance de marché à SKEMA Business School, je suis passionné par l'ingénierie financière et la modélisation de stratégies d'overlay. Sur mon temps libre, j'ai développé en Python un moteur complet de simulation de payoffs optionnels et un terminal de suivi de marché (https://github.com/Calvin29990).
+En dernière année de Bac+5 en finance de marché à SKEMA Business School, je me passionne pour la modélisation mathématique, l'analyse de données financières et les algorithmes de pricing. J'ai programmé en Python (numpy, pandas, scipy) un simulateur complet de valorisation de produits structurés et un terminal de suivi de marché (https://github.com/Calvin29990).
 
-Autonome sur Python et Excel/VBA, et bilingue français / espagnol avec un bon niveau d'anglais professionnel, je souhaite mettre ma réactivité et ma rigueur au service de votre équipe pour le développement d'outils quantitatifs d'aide à la décision.
+Autonome sur Python et Excel/VBA, et bilingue français / espagnol avec un bon niveau d'anglais professionnel, je souhaite mettre ma rigueur technique et ma motivation au service de votre équipe pour le développement de modèles d'aide à la décision et l'analyse de portefeuilles.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris dès le 10 septembre.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -747,28 +753,31 @@ Calvin Minang
 
 ---
 
-### 🔹 27. Erdit Hoxha — Global Co-Head Flow Derivatives & Emerging Markets @ Goldman Sachs
-- **Provenance** : Goldman Sachs Global Markets
-- **À** : `erdit.hoxha@gs.com`
-- **Objet** : `Candidature Stage Derivatives Trading & Emerging Markets — Goldman Sachs (Janvier 2027)`
-- **Corps** : *(Même corps que Dmitri Potishko)*
+### 🔹 27. Rafael De León — Senior Short Term Power Analyst & Trading @ EDF Trading Paris
+- **Provenance** : EDF Trading Paris (Post LinkedIn Desk : « EDF Trading (Branche Paris) recherche des stagiaires pour l'équipe STAT - Short Term Analytical Team / Marchés de l’énergie »)
+- **À** : `rafael.deleon@edftrading.com`
+- **Objet** : `Candidature Stage Trading Quantitatif & Marchés de l'Énergie — EDF Trading (Janvier 2027)`
+- **Corps** :
 ```text
-Bonjour Erdit,
+Bonjour Rafael,
 
-Je me permets de vous contacter avec un grand enthousiasme concernant les opportunités de stage au sein des desks de trading Dérivés et Marchés Émergents chez Goldman Sachs.
+Je me permets de vous contacter avec un grand enthousiasme suite à vos publications concernant les opportunités de stage au sein de l'équipe STAT (Short Term Analytical Team) chez EDF Trading à Paris.
 
-En dernière année de Bac+5 en finance de marché à SKEMA Business School, je suis passionné par la gestion des risques de volatilité, le smile et la tenue de marché d'options. Sur mon temps libre, j'ai programmé en Python un simulateur complet de book optionnel avec calcul de grecs de 1er et 2nd ordre en temps réel (https://github.com/Calvin29990).
+En dernière année de Bac+5 en finance de marché à SKEMA Business School, je suis passionné par l'analyse quantitative, les dérivés et la dynamique des marchés d'énergie/commodities. Développeur actif en Python (pandas, numpy, scipy), j'ai programmé des simulateurs financiers de données de marché et de calcul de sensibilités en temps réel disponibles sur mon GitHub : https://github.com/Calvin29990.
 
-Autonome sur Python et Excel/VBA, et bilingue français / espagnol avec un bon niveau d'anglais opérationnel, je souhaite mettre ma réactivité et ma rigueur au service de votre desk pour le suivi des positions et l'automatisation des outils de trading.
+Autonome sur Python et Excel/VBA, et bilingue français / espagnol avec un bon niveau d'anglais opérationnel, je souhaite mettre ma réactivité et mes compétences quantitatives au service de votre table de négociation pour l'analyse des fondamentaux et l'aide aux décisions de trading.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
 
 Vous trouverez mon CV ci-joint. Merci infiniment pour votre temps et très bonne journée.
 
 Bien cordialement,
 
 Calvin Minang
-📞 +33 7 52 97 58 09 · 💻 https://github.com/Calvin29990 · 🔗 https://www.linkedin.com/in/calvin-minang
+Étudiant Bac+5 Finance de Marché — SKEMA BS
+📞 +33 7 52 97 58 09 (WhatsApp & Tel)
+💻 GitHub : https://github.com/Calvin29990
+🔗 LinkedIn : https://www.linkedin.com/in/calvin-minang
 ```
 
 ---
@@ -1191,54 +1200,60 @@ Calvin Minang
 
 ---
 
-### 🔹 43. Denis Pitner — Trader & Risk Manager Salle des Marchés @ Alstom Paris
-- **Provenance** : Table de Trading FX & Taux Alstom Front Office
-- **À** : `denis.pitner@alstomgroup.com`
-- **Objet** : `Candidature Stage Assistant Trader / Salle des Marchés — Alstom (Janvier 2027)`
+### 🔹 43. Lucas Oustric & Desk PWM — Cross-Asset Structured Products @ SGCIB
+- **Provenance** : Desk Vente Produits Structurés PWM SG CIB La Défense (Post LinkedIn Desk : « Le desk de vente de produits structurés PWM recherche un stagiaire. Vous pouvez envoyer vos candidatures au mail : list.par-mark-teamsa@socgen.com »)
+- **À** : `list.par-mark-teamsa@socgen.com`
+- **Objet** : `Candidature Stage Assistant Sales Produits Structurés PWM — Calvin Minang (Janvier 2027)`
 - **Corps** :
 ```text
-Bonjour Denis,
+Bonjour à toute l'équipe du Desk Produits Structurés PWM,
 
-Je me permets de vous contacter avec un vif intérêt suite aux annonces concernant le recrutement d'un stagiaire au sein de la Salle des Marchés chez Alstom.
+Je me permets de vous adresser ma candidature suite à vos publications concernant les opportunités de stage au sein du desk de vente Produits Structurés PWM chez Société Générale CIB à La Défense.
 
-En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je suis passionné par l'exécution de marché et la gestion des risques de change et de taux. J'ai programmé en Python des scripts d'analyse quantitative et de suivi de book disponibles sur mon GitHub (https://github.com/Calvin29990).
+Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Business School (M2), je me consacre intensivement à l'ingénierie et à la commercialisation de produits dérivés et structurés (Autocalls, Reverse Convertibles, structures indiciaires et multi-sous-jacents). Développeur actif en Python, j'ai programmé mon propre moteur quantitatif de valorisation et de calcul de grecs en temps réel disponible sur mon GitHub : https://github.com/Calvin29990.
 
-Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite mettre ma rigueur au service de votre équipe pour l'assistance au trading, le suivi des flux et la réconciliation des opérations.
+Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais ravi de mettre ma rigueur technique et mon sens relationnel au service de votre équipe : pricing indicatif, réalisation des Term Sheets et pitchs commerciaux, reporting et backtestings de structures.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à La Défense dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
 
-Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
+Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
 Bien cordialement,
 
 Calvin Minang
-📞 +33 7 52 97 58 09 · 💻 https://github.com/Calvin29990 · 🔗 https://www.linkedin.com/in/calvin-minang
+Étudiant Bac+5 Finance de Marché — SKEMA BS
+📞 +33 7 52 97 58 09 (WhatsApp & Tel)
+💻 GitHub : https://github.com/Calvin29990
+🔗 LinkedIn : https://www.linkedin.com/in/calvin-minang
 ```
 
 ---
 
-### 🔹 44. Djilali Djoudi — FX & Rates Desk Operator @ Alstom Front Office
-- **Provenance** : Salle des Marchés Alstom Paris
-- **À** : `djilali.djoudi@alstomgroup.com`
-- **Objet** : `Candidature Stage Front Office / Marchés FX & Taux — Alstom (Janvier 2027)`
-- **Corps** : *(Même corps que Denis Pitner)*
+### 🔹 44. Maxime Lopes — Collateral Management & Trading @ Natixis CIB
+- **Provenance** : Desk Trading Collateral & Repo Natixis CIB Paris (Post LinkedIn Desk : « Merci de joindre votre candidature à maxime.lopes@natixis.com avec l’objet : Candidature stage collateral - NOM Prénom »)
+- **À** : `maxime.lopes@natixis.com`
+- **Objet** : `Candidature stage collateral - MINANG Calvin (Janvier 2027)`
+- **Corps** :
 ```text
-Bonjour Djilali,
+Bonjour Maxime,
 
-Je me permets de vous contacter avec un vif intérêt concernant le recrutement d'un stagiaire au sein de la Salle des Marchés chez Alstom à Paris.
+Je me permets de vous contacter directement suite à vos annonces concernant les opportunités de stage au sein de la table de trading et Collateral Management chez Natixis CIB à Paris.
 
-En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je suis passionné par l'exécution de marché et la gestion des risques de change et de taux. J'ai programmé en Python des scripts d'analyse quantitative et de suivi de book disponibles sur mon GitHub (https://github.com/Calvin29990).
+En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je suis passionné par la gestion de la liquidité, le marché monétaire, le repo et l'optimisation de collatéral. J'ai programmé en Python des scripts d'analyse quantitative et de suivi de book disponibles sur mon GitHub (https://github.com/Calvin29990).
 
-Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite mettre ma rigueur au service de votre équipe pour l'assistance au trading, le suivi des flux et la réconciliation des opérations.
+Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite mettre ma rigueur et ma maîtrise technique au service de votre table pour le suivi des positions, l'optimisation des flux et l'automatisation des contrôles.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
 Bien cordialement,
 
 Calvin Minang
-📞 +33 7 52 97 58 09 · 💻 https://github.com/Calvin29990 · 🔗 https://www.linkedin.com/in/calvin-minang
+Étudiant Bac+5 Finance de Marché — SKEMA BS
+📞 +33 7 52 97 58 09 (WhatsApp & Tel)
+💻 GitHub : https://github.com/Calvin29990
+🔗 LinkedIn : https://www.linkedin.com/in/calvin-minang
 ```
 
 ---
