@@ -86,24 +86,29 @@ ajoute la couche ShockDesk : `get_forecast`, `option_contract`, `get_iv`,
 
 ### Ce que donne l'exercice de démonstration
 
-Sur le jeu hors ligne (fenêtre du scénario publié, book de 25,5 M$) :
+Provenance **yfinance** (données réelles), `shock-lab-oil`, 25,5 M$,
+`global-macro`, 2026-07-01 → 2026-08-29, 42 barres. Les chiffres du générateur
+synthétique ne sont pas des résultats de marché — le bandeau orange de
+l'interface le dit.
 
-| Règle de sortie | P&L figé |
+| Règle de sortie | P&L |
 |---|---|
-| Take-profit au jour de pic du modèle (J+7) | **+395 919 $ (+1,55 %)** au 22/07 |
-| Stop calendar du 05/08 | **−4 054 $ (−0,02 %)** |
+| Take-profit au jour de pic du modèle (J+7) | **+337 887 $ (+1,32 %)** |
+| Stop calendar du 05/08 (J+21) | **−279 633 $ (−1,10 %)** |
+| **Valeur du signal de timing** | **617 520 $** |
 
-Attribution au stop : `^GSPC +105 k$ · TLT +23 k$ · DX-Y.NYB +23 k$ · DBC +13 k$ ·
-HYG +5 k$ · GC=F −65 k$ · BZ=F −118 k$`.
+Casse du stop, deux lignes à parts égales : `BZ=F −304,6 k$` (49 %) ·
+`^GSPC −295,4 k$` (48 %). L'or **n'est pas un miss** (`GC=F +53,0 k$` au pic,
++107,2 k$ au stop). Misses du scorecard : **HYG, TLT**.
 
-C'est la leçon de l'exercice, rejouée : **le signal de timing vaut de l'argent, la
-vue directionnelle sur le brut non**, et c'est l'architecture du book qui porte le
-P&L. Basculez `TAKE_PROFIT_AT_PEAK` en tête de stratégie pour comparer les deux
-règles.
+C'est la leçon de l'exercice : **le signal de timing vaut de l'argent, la vue
+directionnelle sur le brut non**, et on juge le timing au niveau du *book*,
+pas ligne par ligne. Basculez `TAKE_PROFIT_AT_PEAK` en tête de stratégie pour
+comparer les deux règles.
 
-Validation des prévisions sur la même fenêtre : **accord de signe 5/6** (net du
-drift), **erreur de timing du pic : 1 jour** (médiane), **amplitude sous-estimée
-×3,7 sur le Brent**, **miss : l'or**.
+Validation des prévisions (même fenêtre, yfinance) : **accord de signe 4/6**
+(net du drift), **erreur de timing du pic : 7,0 j** (médiane), **Brent
+sous-estimé ×3,68** (+18,4 % réalisés vs +5 % prévus).
 
 ---
 
@@ -285,7 +290,7 @@ vivant plutôt qu'une capture d'écran :
 | `Procfile` | Heroku, Railway, Fly (buildpack) | détecté automatiquement |
 | `Dockerfile` | tout ce qui sait lire un Dockerfile | `docker build -t shockdesk . && docker run -p 8050:8050 shockdesk` |
 
-**3. En intégration continue** — `deploy/github-actions-ci.yml` lance les 37
+**3. En intégration continue** — `deploy/github-actions-ci.yml` lance les 44
 tests sur Python 3.11 et 3.12 à chaque push. Le fichier est fourni hors de
 `.github/workflows/` parce que le token utilisé pour construire ce dépôt n'a pas
 la permission `workflows` : il suffit de le copier pour l'activer.

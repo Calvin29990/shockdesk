@@ -115,7 +115,7 @@ L'attribution décompose le résultat net ligne par ligne sur le book de démons
 | `TLT` | Obligations US 20+ | **+27 364 $** | Refuge obligataire sur tensions géopolitiques |
 | `DX-Y.NYB` | Dollar Index | **+23 380 $** | Bid dollar de précaution |
 | `HYG` | Crédit High Yield | **+6 021 $** | Portage de carry sur obligations énergie |
-| `GC=F` | Or (Futures) | **−71 012 $** | **Le MISS de l'exercice** : corrigé sous la hausse des taux réels |
+| `GC=F` | Or (Futures) | **−71 012 $** *(synthétique)* | **Pas un miss sur yfinance** (+53,0 k$). Le −71 k$ est un artefact du générateur. |
 
 ---
 
@@ -270,6 +270,10 @@ Cette commande exécute 4 audits automatisés :
 2. **Nettoyer le drift de marché** : Un gain qui ne bat pas le benchmark passif pondéré par le beta n'est pas de l'alpha.
 3. **Le timing bat la prédiction de cours** : Coupez vos positions au jour de pic prévu plutôt que d'attendre un cours chimérique.
 4. **Stresser sur une grille d'amplitudes** : Ne pariez jamais votre book sur un chiffre unique, testez une fourchette complète.
+5. **Borner son risque avec les options** : Préférez toujours les structures fermées (condors, butterflies) aux positions courtes nues.
+6. **Inviolabilité du registre** : Corrigez vos hypothèses via une nouvelle révision sans jamais falsifier la révision originale $r_1$.
+7. **Recalibration mensuelle** : Ajustez régulièrement les paramètres de volatilité et de corrélation pour rester synchronisé avec la réalité de marché.
+
 5. **Borner son risque avec les options** : Préférez toujours les structures fermées (condors, butterflies) aux positions courtes nues.
 6. **Inviolabilité du registre** : Corrigez vos hypothèses via une nouvelle révision sans jamais falsifier la révision originale $r_1$.
 7. **Recalibration mensuelle** : Ajustez régulièrement les paramètres de volatilité et de corrélation pour rester synchronisé avec la réalité de marché.
