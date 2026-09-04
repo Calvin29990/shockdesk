@@ -1,46 +1,72 @@
-# Programme élite — 5 → 30 septembre 2026
+# Programme élite Front Office — 5 → 30 septembre 2026
 
-**Cible :** candidat S&T / Quant / Risk qui parle FR et EN, écrit au tableau,
-code le modèle, et *montre* le trade sur ShockDesk.
-**Périmètre :** 100 % du Drive. Rien d'autre, sauf approfondir un fichier
-déjà ouvert.
-**Stage :** pause jusqu'au 30/09. Zéro LinkedIn, zéro candidature, zéro
-relance. La seule « vente » du mois, c'est le trade pitch du 30.
-**Lab :** ShockDesk (onglets réels uniquement) + `calvin-exotic-desk` pour
-les structurés. Pas d'onglet ALM, pas d'onglet Risk, pas de galerie
-d'autocalls — ils n'existent pas.
+**Verdict sur l'ébauche :** insuffisante pour un Superday FO. 4 h, 7 jours
+off, Drive à moitié fermé, onglets ShockDesk inventés, mental math absent,
+trade idea au dernier jour, WORDS jamais forcé à voix haute.
+
+**Ce que 1 mois peut faire :** un *junior candidate élite* — tu ne meurs
+pas en Superday S&T / structuration / junior trader dérivés. **Ce que 1 mois
+ne peut pas faire :** te rendre trader élite. Ça se joue sur un desk, pas
+dans un Drive.
+
+**Desk visé (un seul, sinon tu es moyen partout) :**
+**n°1 Equity derivatives / produits structurés (sales-trader, junior trader, structurer).**
+n°2 Rates / ALM / repo (pour ne pas mourir si l'intervieweur vient de la tréso).
+n°3 Commo pétrole+coton (différenciant ShockDesk).
+
+**Périmètre :** 100 % du Drive. Zéro notion hors Drive, sauf approfondir un
+fichier déjà ouvert, ou regarder le marché pour *voir* un concept du Drive.
+**Stage :** pause jusqu'au 30/09.
+**Lab :** ShockDesk (onglets réels) + `calvin-exotic-desk`. Pas d'onglet
+ALM, pas d'onglet Risk, pas de galerie d'autocalls.
 
 Septembre n'a pas de 31. Fin = **mercredi 30**.
 
 ---
 
-## 1. Contrat de journée
+## 1. Contrat de journée — 6 h, pas 4 h
+
+Un Superday FO dure 4 à 6 h d'oraux. S'entraîner 4 h et se reposer jeudi
+*et* dimanche, c'est se préparer à perdre.
 
 | Mode | Durée | Quand |
 |---|---|---|
-| **Élite (défaut)** | **5 h 30** | 22 jours ouvrés |
-| Compressé | 4 h 00 | jour de panne, jamais deux jours de suite |
-| Off | 0 h (+ 20 min flashcards optionnelles) | **dimanches 6, 13, 20, 27** |
+| **FO (défaut)** | **6 h 00** | 22 jours |
+| Compressé | 4 h 30 | 1 jour de panne, jamais deux de suite |
+| Off | 20 min flashcards max | **dimanches 6, 13, 20, 27** |
 
-Si un livrable du jour n'est pas fait, le dimanche suivant n'est plus off :
-c'est un rattrapage. Un élite ne « reporte pas à octobre » un oral de
-septembre.
+Ticket du jour non fait → le dimanche n'est plus off.
 
-### Découpage élite (5 h 30)
+### Découpage FO (6 h)
 
 | Bloc | Temps | Règle |
 |---|---|---|
-| A. Cours Drive | 1 h 30 | chapitres listés, crayon en main, **pas de surlignage passif** |
-| B. TD manuscrit | 1 h 00 | papier, pas d'écran. Preuve ou calcul. |
-| C. Lab | 0 h 45 | ShockDesk *ou* exotic-desk, exercice du jour, capture + 5 lignes au journal |
-| D. Marché | 0 h 30 | *voir* le concept du jour (courbe, smile, Brent, 2s10s, coton) |
-| E. Oral WORDS | 0 h 45 | minuterie 90 s FR + 90 s EN par question, à voix haute |
-| F. Brainteasers | 0 h 30 | 3 problèmes, solutions fermées, re-faire ceux ratés le lendemain |
-| G. Python | 0 h 30 | le fichier du jour **existe** dans `masterclass/livrables/` sinon le jour n'est pas clos |
+| 0. Mental math | 0 h 15 | Optiver Guide, chrono, à voix haute. Dès J1, pas le 26. |
+| A. Cours Drive | 1 h 15 | chapitres listés, crayon, **pas de surlignage** |
+| B. TD manuscrit | 1 h 00 | papier. Preuve ou calcul. |
+| C. Lab | 0 h 45 | ShockDesk *ou* exotic-desk. Capture + 5 lignes journal |
+| D. Marché | 0 h 20 | 5 lignes FR + 5 lignes EN : ce qui a bougé, ta vue, 1 risque |
+| E. Oral WORDS | 0 h 45 | 90 s FR + 90 s EN, minuterie, debout |
+| F. Brainteasers | 0 h 30 | 3 problèmes. Raté → lendemain *avant* les nouveaux |
+| G. Python | 0 h 30 | fichier `livrables/jXX_…` **existe** sinon jour non clos |
+| H. Fit / redites | 0 h 20 | 1 question fit (SG / Why Quant / Aide Maxime) + flashcards |
 
-### Découpage compressé (4 h)
+### Compressé (4 h 30)
 
-A 60 · B 45 · C 30 · D 15 · E 40 · F 25 · G 25.
+Mental 10 · A 50 · B 40 · C 30 · D 10 · E 40 · F 20 · G 20 · H 10.
+
+### Chaque vendredi = mini-Superday (inclus dans les 6 h)
+
+11, 18, 25, 30 : **45 min enregistrées** (téléphone). 8 tech + 4 teasers
++ 1 fit + 1 trade idea 3 min. Tu te réécoutes. C'est non négociable.
+
+### 3 trade ideas, pas une
+
+| Date | Idea | Preuve |
+|---|---|---|
+| 11/09 | **Oil timing** (ShockDesk) | +337 887 vs −279 633, yfinance |
+| 18/09 | **Structuré** (Phoenix / collar client) | exotic-desk + WORDS |
+| 25/09 | **Rates ou coton** | courbe 2s10s *ou* WASDE/ICAC |
 
 ---
 
@@ -218,9 +244,9 @@ yeux fermés.
 | TD | 8 calculs mixtes (parité, grecs, BE strangle, duration *pas encore* — reste sur options). |
 | Lab | `long-strangle-shock` + `butterfly-peak` + `iron-condor-range`. Pour chacun : 3 lignes « pourquoi ça trade / refuse / borne ». |
 | Marché | RAS — temps rendu à l'oral. |
-| Oral | **20 questions** WORDS, 90 s FR puis 90 s EN, sans notes. Celles ratées → liste « redites ». |
-| Brain | 5 chrono (Heard + Practical Guide). |
-| Python | Ranger j01–j05, README de 10 lignes dans `livrables/`. |
+| Oral | **Mini-Superday n°1 (45 min enregistré).** 8 tech vanille + 4 teasers + fit « pourquoi le desk dérivés » + **trade idea oil 3 min**. |
+| Brain | inclus dans le Superday. |
+| Python | Ranger j01–j05. Fiche `livrables/trade_01_oil_timing.md` (vue, catalyseur, structure, grecs, stop, miss, provenance). |
 
 ---
 
@@ -330,9 +356,9 @@ Flashcards barrières (8 vocables) + 1 question actualité WORDS.
 | TD | Diagramme payoff convertible vs bond vs equity. 5 questions structurés WORDS chrono. |
 | Lab | exotic-desk : rejouer 1 journée de krach, lire le risk report. |
 | Marché | RAS. |
-| Oral | 15 questions structurés + exotiques, bilingue. |
-| Brain | 5 chrono mix. |
-| Python | `livrables/j12_convertible_decomposition.py` — schéma numérique toy (bond floor + option). |
+| Oral | **Mini-Superday n°2 (45 min enregistré).** 8 tech exo/structurés + 4 teasers + fit SG + **trade idea Phoenix/collar 3 min**. |
+| Brain | inclus dans le Superday. |
+| Python | `livrables/j12_convertible_decomposition.py` + `livrables/trade_02_structured.md`. |
 
 Le reste Convertible Arbitrage et Ramirez → **octobre**.
 
@@ -444,9 +470,9 @@ Pas Rejda, pas Solvency — **octobre**.
 | TD | Forward commo \(F=S e^{(r+u-y)T}\). Quand y > r+u → backwardation. |
 | Lab | ShockDesk `energy-shock` + rejouer le book pétrole. Dire en 4 phrases le trade : timing, pas niveau ; couverture S&P ; or n'est pas un miss ; amplitude ×3,68. |
 | Marché | Courbe Brent (1er vs 3e mois si dispo) + un chiffre WASDE / ICAC (stock / prod). |
-| Oral | FR/EN contango vs backwardation, *without mixing them*. Pitch pétrole 3 min. |
-| Brain | 3 mix. |
-| Python | `livrables/j18_forward_curve.py` — toy curve r,u,y → contango/backwardation. |
+| Oral | **Mini-Superday n°3 (45 min enregistré).** Mix taux/repo/commo + **trade idea n°3** (2s10s *ou* coton WASDE). Contango ≠ backwardation, sans les inverser. |
+| Brain | inclus dans le Superday. |
+| Python | `livrables/j18_forward_curve.py` + `livrables/trade_03_rates_or_cotton.md`. |
 
 Coton profond + WASDE série → **octobre** (desk commo).
 
