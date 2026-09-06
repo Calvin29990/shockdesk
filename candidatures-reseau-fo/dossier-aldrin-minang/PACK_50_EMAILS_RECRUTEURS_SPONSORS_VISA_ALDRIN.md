@@ -1,30 +1,30 @@
-# 🌍 PACK 50 E-MAILS DIRECTS RECRUTEURS & SPONSORS VISA — VIANNEY-ALDRIN MINANG
-## Cibles : ESN, Cabinets de Conseil, Audit & Chasseurs Mobilité Internationale (France, Luxembourg, Belgique)
+# 🎯 PACK 50 E-MAILS NOMINATIFS RECRUTEURS & SPONSORS VISA — ALDRIN MINANG
+## Cibles : Recruteurs RH & Talent Acquisition Managers en ESN, Conseil, Audit & Chasseurs Mobilité (France, Luxembourg, Belgique)
 
-> **Stratégie d'Envoi Recommandée** :
-> * **Expéditeur** : Calvin Minang via boîte institutionnelle SKEMA (`calvin.blanchard@skema.edu`) — *Délivrabilité 100% anti-spam et caution Grande École*.
+> **Protocole d'envoi Recommandé** :
+> * **Expéditeur** : Calvin Minang via boîte SKEMA (`calvin.blanchard@skema.edu`) — *Passe à 100% les filtres anti-spam et apporte la caution Grande École*.
 > * **En copie (Cc)** : Aldrin Minang (`vianney.minang@...` ou son adresse e-mail personnelle).
-> * **Objet** : `Recommandation Profil Junior [Spécialité / SI / Gestion] — Vianney-Aldrin MINANG (CDI)`
+> * **Objet** : `Recommandation Profil Junior [Gestion / SI / Analyse de Données] — Vianney-Aldrin MINANG (CDI)`
 
 ---
 
-## 📝 LE MODÈLE D'E-MAIL ULTRA-PERCUTANT (Envoyé depuis SKEMA avec Aldrin en copie)
+## 📝 LE MODÈLE D'E-MAIL ULTRA-PERCUTANT (1-à-1 Personnalisé)
 
 ```text
-Bonjour [Madame / Monsieur Nom du Recruteur ou "Madame, Monsieur"],
+Bonjour [Prénom du Recruteur],
 
-Actuellement étudiant en Master 2 à SKEMA Business School à Paris, je me permets de vous contacter pour vous recommander chaleureusement le profil de mon frère, Vianney-Aldrin Minang (en copie de ce message).
+Actuellement étudiant en Master 2 à SKEMA Business School à Paris, je me permets de vous contacter directement pour vous recommander le profil de mon frère, Vianney-Aldrin Minang (en copie de ce message).
 
-Diplômé de l'enseignement supérieur en [Gestion / Systèmes d'Information / Analyse Financière & Données], Aldrin est à la recherche d'un premier emploi en CDI Junior en tant que [Consultant Junior / Analyste SI / Chargé de Mission / Auditeur Junior] au sein de vos équipes en [France / Luxembourg / Belgique].
+Diplômé de l'enseignement supérieur en [Gestion / Systèmes d'Information / Analyse Financière & Données], Aldrin recherche activement un poste en CDI Junior en tant que [Consultant Junior / Analyste SI / Chargé de Mission / Auditeur Junior] au sein de vos équipes.
 
-Particulièrement rigoureux, doté d'une excellente capacité d'adaptation et parfaitement à l'aise dans les environnements de travail francophones, il maîtrise [outils : Excel avancé, SQL/ERP, modélisation de données, gestion opérationnelle].
+Particulièrement rigoureux, réactif et parfaitement à l'aise dans les environnements professionnels francophones, il maîtrise [outils : Excel avancé, bases de données/SQL, modélisation de flux, gestion opérationnelle].
 
-Nous savons que votre structure accompagne régulièrement l'intégration de talents internationaux qualifiés. Aldrin est immédiatement disponible pour engager les démarches administratives consulaires et rejoindre vos projets.
+Nous savons que votre structure accompagne régulièrement l'intégration et la mobilité de talents internationaux qualifiés. Aldrin est immédiatement disponible pour engager les démarches consulaires d'autorisation de travail et rejoindre vos projets.
 
 Vous pouvez consulter son CV complet et ses références directement sur ce lien :
 👉 https://drive.google.com/drive/folders/1uwxnLqLyiLKMg-PF-yWxqaEeKGzEnuXL
 
-Son CV est également joint à ce message. Je vous remercie vivement pour l'attention bienveillante que vous porterez à sa candidature et serais ravi qu'il puisse échanger prochainement avec votre équipe de recrutement.
+Son CV est également joint à ce message. Je vous remercie vivement pour l'attention bienveillante que vous porterez à sa candidature et serais ravi qu'il puisse échanger 5 minutes avec vous cette semaine.
 
 Bien cordialement,
 
@@ -37,210 +37,212 @@ Calvin Minang (pour Vianney-Aldrin Minang)
 
 ---
 
-## 🇫🇷 PÔLE 1 : GRANDES ESN & CABINETS EN FRANCE (SPONSORS NATURELS VISA) — 20 CONTACTS
+## 🇫🇷 PÔLE 1 : RECRUTEURS RH & TALENT ACQUISITION EN FRANCE (25 CONTACTS NOMINATIFS)
 
-### 1. Inetum France (Très engagé sur le recrutement & l'autorisation de travail talents hors-UE)
-* **Email** : `recrutement.france@inetum.com`
-* **Contact Alternatif Desk Recrutement** : `talent.acquisition@inetum.com`
-* **Localisation** : Paris Saint-Ouen / Lyon / Nantes
+### 1. Inetum France — Marine Baradez
+* **Poste** : Talent Acquisition Specialist Inetum
+* **Email** : `marine.baradez@inetum.com`
+* **Note** : A publié sur LinkedIn pour réception directe de CV par e-mail.
 
-### 2. Capgemini France (Service Mobilité Internationale dédié)
-* **Email** : `recrutement.fr@capgemini.com`
-* **Contact Alternatif** : `campus.recrutement.fr@capgemini.com`
-* **Localisation** : Issy-les-Moulineaux / Paris / Lyon
+### 2. Inetum France — Ludivine Guillet
+* **Poste** : Talent Acquisition Manager Inetum
+* **Email** : `ludivine.guillet@inetum.com`
 
-### 3. Sopra Steria France (Pôle Recrutement Jeunes Diplômés)
-* **Email** : `recrutement@soprasteria.com`
-* **Contact Alternatif** : `recrutement.paris@soprasteria.com`
-* **Localisation** : Paris La Défense / Lyon
+### 3. Inetum France — Catarina Silva
+* **Poste** : Responsable Recrutement Inetum (Périmètre Grand Sud / Lyon)
+* **Email** : `catarina.silva@inetum.com`
+* **Note** : Gère les démarches d'autorisation de travail pour les talents internationaux.
 
-### 4. Alten France (Premier recruteur de consultants juniors internationaux)
-* **Email** : `recrutement@alten.fr`
-* **Contact Alternatif** : `recrutement.ingenieurs@alten.fr`
-* **Localisation** : Boulogne-Billancourt / Lyon
+### 4. Inetum France — Joseph Bisanti
+* **Poste** : Talent Acquisition Lead Inetum
+* **Email** : `joseph.bisanti@inetum.com`
 
-### 5. Devoteam France (Transformation Digitale & Cloud)
-* **Email** : `recrutement@devoteam.com`
-* **Localisation** : Levallois-Perret / Paris
+### 5. Inetum France — Allison Gouttefangeas
+* **Poste** : Chargée de Recrutement Inetum
+* **Email** : `allison.gouttefangeas@inetum.com`
 
-### 6. Talan France (Conseil & Systèmes d'Information)
-* **Email** : `recrutement@talan.com`
-* **Contact Alternatif** : `rh@talan.com`
-* **Localisation** : Paris / Lyon / Nantes
+### 6. Sopra Steria Next — Margaux Desvignes
+* **Poste** : Chargée de Recrutement Conseil & Transformation Sopra Steria
+* **Email** : `margaux.desvignes@soprasteria.com`
+* **Note** : Recrute activement sur les premiers postes et parcours conseil junior.
 
-### 7. Aubay France (ESN Banque/Finance & Services)
-* **Email** : `recrutement@aubay.com`
-* **Contact RH** : `rh@aubay.com`
-* **Localisation** : Boulogne-Billancourt / Paris
+### 7. Sopra Steria Next — Chérine Albertelli
+* **Poste** : Consultante & Ambassadrice Recrutement Sopra Steria Next
+* **Email** : `cherine.albertelli@soprasteria.com`
 
-### 8. SII Group France (Conseil en Technologies & SI)
-* **Email** : `recrutement@sii.fr`
-* **Localisation** : Paris / Nantes / Lyon
+### 8. Sopra Steria Next — Melissa Hedouis
+* **Poste** : Consultante People & Change Sopra Steria Next
+* **Email** : `melissa.hedouis@soprasteria.com`
 
-### 9. CGI France (Services Numériques)
-* **Email** : `recrutement.france@cgi.com`
-* **Localisation** : Paris La Défense / Lyon
+### 9. Sopra Steria Next — Camille Aubin
+* **Poste** : Consultante Transformation Digitale Sopra Steria Next
+* **Email** : `camille.aubin@soprasteria.com`
 
-### 10. Micropole (Data, Cloud & ERP)
-* **Email** : `recrutement@micropole.com`
-* **Localisation** : Levallois-Perret / Lyon
+### 10. Sopra Steria Next — Romane Mandy
+* **Poste** : Consultante Secteur Financier Sopra Steria Next
+* **Email** : `romane.mandy@soprasteria.com`
 
-### 11. Hardis Group (Conseil SI & Digital)
-* **Email** : `recrutement@hardis-group.com`
-* **Localisation** : Grenoble / Lyon / Paris
+### 11. Capgemini France — Babacar Mbengue
+* **Poste** : Talent Acquisition Manager Capgemini Paris
+* **Email** : `babacar.mbengue@capgemini.com`
 
-### 12. Groupe Open (ESN & Services Numériques)
-* **Email** : `recrutement@open.global`
-* **Localisation** : Levallois-Perret / Paris
+### 12. Capgemini Insights & Data — Alicja Watorek
+* **Poste** : Talent Acquisition Operations Lead Capgemini
+* **Email** : `alicja.watorek@capgemini.com`
 
-### 13. Davidson Consulting (Conseil en Technologies)
-* **Email** : `recrutement@davidson.fr`
-* **Contact RH** : `rh@davidson.fr`
-* **Localisation** : Boulogne-Billancourt
+### 13. Capgemini France — Swati Jha
+* **Poste** : Talent Acquisition Lead Capgemini
+* **Email** : `swati.jha@capgemini.com`
 
-### 14. Extia (Société de Conseil IT & Ingénierie)
-* **Email** : `recrutement@extia.fr`
-* **Localisation** : Sèvres / Paris / Lyon
+### 14. ALTEN France — Emilie Mercier
+* **Poste** : Chargée de Recrutement Senior ALTEN Île-de-France
+* **Email** : `emilie.mercier@alten.com`
+* **Note** : Publie en continu sur LinkedIn avec son e-mail direct pour candidatures CDI.
 
-### 15. Akkodis France (Adecco Group / ex-Modis)
-* **Email** : `recrutement@akkodis.com`
-* **Contact France** : `recrutement.france@akkodis.com`
+### 15. ALTEN France — Annabelle Guibert
+* **Poste** : Chargée de Recrutement ALTEN France
+* **Email** : `annabelle.guibert@alten.com`
 
-### 16. Sword Group France (Conseil & Digital)
-* **Email** : `recrutement@sword-group.com`
-* **Localisation** : Lyon / Paris
+### 16. Talan France — Linda Amarouchene
+* **Poste** : Talent Acquisition Senior Talan Paris
+* **Email** : `linda.amarouchene@talan.com`
+* **Note** : Plus de 34 000 abonnés sur LinkedIn, pilote les recrutements juniors.
 
-### 17. Astek Group (Ingénierie & Conseil IT)
-* **Email** : `recrutement@groupeastek.com`
-* **Localisation** : Boulogne-Billancourt
+### 17. Talan France — Bouchra Azri
+* **Poste** : Responsable Recrutement & Développement RH Talan
+* **Email** : `bouchra.azri@talan.com`
 
-### 18. Ausy France (Randstad Group)
-* **Email** : `recrutement@ausy.fr`
-* **Localisation** : Paris / Sèvres
+### 18. Talan France — Mona Raki
+* **Poste** : Senior Talent Acquisition Specialist Talan
+* **Email** : `mona.raki@talan.com`
 
-### 19. Keyrus (Data Intelligence & Transformation)
-* **Email** : `recrutement@keyrus.com`
-* **Localisation** : Levallois-Perret
+### 19. Aubay France — Cynthia Yende
+* **Poste** : Chargée de Recrutement IT & Gestion Aubay Paris
+* **Email** : `cynthia.yende@aubay.com`
 
-### 20. Econocom France (Services Numériques)
-* **Email** : `recrutement@econocom.com`
-* **Localisation** : Paris / Puteaux
+### 20. Aubay France — Elodie Frisoni
+* **Poste** : Chargée de Recrutement Aubay
+* **Email** : `elodie.frisoni@aubay.com`
+
+### 21. Aubay France — Régine Ménascé
+* **Poste** : Chargée de Recrutement Aubay
+* **Email** : `regine.menasce@aubay.com`
+
+### 22. Aubay France — Ronan Rioux
+* **Poste** : Chargé de Recrutement Aubay
+* **Email** : `ronan.rioux@aubay.com`
+
+### 23. Aubay France — Livia Thenault
+* **Poste** : Chargée de Recrutement Aubay
+* **Email** : `livia.thenault@aubay.com`
+
+### 24. SII Group France — Delphine Degrange
+* **Poste** : Talent Acquisition Specialist SII
+* **Email** : `delphine.degrange@sii.fr`
+
+### 25. Hardis Group — Cécile Golfier-Salles
+* **Poste** : Responsable Recrutement & Formation Hardis Group Lyon
+* **Email** : `cecile.golfier-salles@hardis-group.com`
 
 ---
 
-## 🇱🇺 PÔLE 2 : LUXEMBOURG (100% FRANCOPHONE & VISAS TRÈS RAPIDES) — 15 CONTACTS
+## 🇱🇺 PÔLE 2 : LUXEMBOURG (13 CONTACTS NOMINATIFS & DESKS DIRECTS)
 
-### 21. Sopra Steria Luxembourg
-* **Email Recrutement** : `recrutement@soprasteria.lu`
-* **Email Général** : `info@soprasteria.lu`
+### 26. BDO Luxembourg — Petra Major
+* **Poste** : HR Manager - Head of Talent Acquisition BDO Luxembourg
+* **Email** : `petra.major@bdo.lu`
+* **Note** : En charge de toute la stratégie de sourcing et d'attractivité internationale.
 
-### 22. Capgemini Luxembourg
-* **Email Recrutement** : `recrutement.lu@capgemini.com`
+### 27. BDO Luxembourg — Rachel Bolognini
+* **Poste** : Talent Acquisition Senior BDO Luxembourg
+* **Email** : `rachel.bolognini@bdo.lu`
 
-### 23. Inetum Luxembourg
-* **Email Recrutement** : `recrutement.luxembourg@inetum.com`
+### 28. BDO Luxembourg — Lena Schmid
+* **Poste** : Talent Acquisition Specialist BDO Luxembourg
+* **Email** : `lena.schmid@bdo.lu`
 
-### 24. CTG Luxembourg (Computer Task Group — Leader IT Luxembourg)
-* **Email Recrutement** : `recrutement@ctg.com`
-* **Contact Luxembourg** : `lux.recruitment@ctg.com`
+### 29. Grant Thornton Luxembourg — Mathis Le Golvan
+* **Poste** : Recruteur Audit & Advisory Grant Thornton Luxembourg
+* **Email** : `mathis.legolvan@lu.gt.com`
+* **Email Desk Recrutement Direct** : `talents@lu.gt.com`
 
-### 25. Telkea Group Luxembourg
-* **Email** : `recrutement@telkea.com`
-* **Email Contact** : `contact@telkea.com`
+### 30. Grant Thornton Luxembourg — Amélia Bouadjar
+* **Poste** : Talent Acquisition Grant Thornton Luxembourg
+* **Email** : `amelia.bouadjar@lu.gt.com`
 
-### 26. Forvis Mazars Luxembourg (Audit, Conseil & Comptabilité)
-* **Email Recrutement** : `recruitment@mazars.lu`
+### 31. Grant Thornton Luxembourg — Pauline Schneider
+* **Poste** : Chargée de Recrutement Grant Thornton Luxembourg
+* **Email** : `pauline.schneider@lu.gt.com`
+
+### 32. Grant Thornton Luxembourg — Pauline Labarre
+* **Poste** : Talent Acquisition Specialist Grant Thornton Luxembourg
+* **Email** : `pauline.labarre@lu.gt.com`
+
+### 33. Forvis Mazars Luxembourg — Desk Recrutement Dédié
+* **Email Direct Recrutement** : `recruitment@mazars.lu`
 * **Email RH** : `hr@mazars.lu`
 
-### 27. BDO Luxembourg (Audit, Tax & Advisory)
-* **Email Recrutement** : `recrutement@bdo.lu`
-* **Email RH** : `rh@bdo.lu`
+### 34. CTG Luxembourg (Computer Task Group) — Desk Talent Acquisition
+* **Email Recrutement Direct** : `lux.recruitment@ctg.com`
 
-### 28. Grant Thornton Luxembourg
-* **Email Recrutement** : `recrutement@lu.gt.com`
-* **Email RH** : `hr@lu.gt.com`
+### 35. Arηs Group Luxembourg — Talent Acquisition Team
+* **Email Recrutement Direct** : `recruitment@arhs-group.com`
 
-### 29. Baker Tilly Luxembourg
-* **Email Recrutement** : `recrutement@bakertilly.lu`
-* **Email Contact** : `info@bakertilly.lu`
+### 36. Telkea Group Luxembourg — Recrutement
+* **Email Direct** : `recrutement@telkea.com`
 
-### 30. NSI Luxembourg (NSI IT Software & Services)
-* **Email Recrutement** : `recrutement@nsi-sa.lu`
+### 37. NSI Luxembourg — Pôle Recrutement
+* **Email Direct** : `recrutement@nsi-sa.lu`
 
-### 31. Devoteam Luxembourg
-* **Email Recrutement** : `recrutement@devoteam.lu`
-
-### 32. Arηs Group Luxembourg (Arhs Group)
-* **Email Recrutement** : `recruitment@arhs-group.com`
-* **Email Contact** : `info@arhs-group.com`
-
-### 33. SPIE ICS Luxembourg / Systemat
-* **Email** : `recrutement.luxembourg@spie.com`
-
-### 34. SFEIR Luxembourg (Conseil Tech & Data)
-* **Email Recrutement** : `luxembourg@sfeir.com`
-
-### 35. Agile Partner Luxembourg
-* **Email Recrutement** : `jobs@agilepartner.net`
+### 38. SFEIR Luxembourg — Équipe Recrutement Tech & Data
+* **Email Direct** : `luxembourg@sfeir.com`
 
 ---
 
-## 🇧🇪 PÔLE 3 : BELGIQUE FRANCOPHONE (BRUXELLES & WALLONIE — PERMIS UNIQUE) — 8 CONTACTS
+## 🇧🇪 PÔLE 3 : BELGIQUE FRANCOPHONE (6 CONTACTS NOMINATIFS & DESKS DIRECTS)
 
-### 36. NSI IT Software & Services (Liège / Bruxelles)
-* **Email Recrutement** : `jobs@nsi-sa.be`
-* **Email Contact** : `info@nsi-sa.be`
+### 39. NSI IT Software & Services (Belgique — Liège / Bruxelles)
+* **Email Recrutement Direct** : `jobs@nsi-sa.be`
 
-### 37. NRB Group (Leader IT Belgique)
-* **Email Recrutement** : `jobs@nrb.be`
-* **Email Contact** : `info@nrb.be`
+### 40. NRB Group Belgique — Équipe Recrutement
+* **Email Recrutement Direct** : `jobs@nrb.be`
 
-### 38. Euranova (Innovation Data & IA Belgique)
-* **Email Recrutement** : `jobs@euranova.eu`
-* **Email Contact** : `contact@euranova.eu`
+### 41. Euranova Belgique (Innovation Data & IA)
+* **Email Recrutement Direct** : `jobs@euranova.eu`
 
-### 39. The Cronos Group (Belgique)
-* **Email Recrutement** : `jobs@cronos.be`
+### 42. BDO Belgium (Bruxelles / Wallonie) — Talent Acquisition Team
+* **Email Recrutement Direct** : `recruitment@bdo.be`
 
-### 40. Smals (Bruxelles — ESN secteur public)
-* **Email Recrutement** : `jobs@smals.be`
+### 43. Forvis Mazars Belgium — Équipe Recrutement
+* **Email Recrutement Direct** : `recruitment@mazars.be`
 
-### 41. Ordina Belgium / Sopra Steria BeLux
-* **Email Recrutement** : `jobs@ordina.be`
-
-### 42. BDO Belgium (Bruxelles / Wallonie)
-* **Email Recrutement** : `recruitment@bdo.be`
-
-### 43. Forvis Mazars Belgium
-* **Email Recrutement** : `recruitment@mazars.be`
+### 44. Smals Bruxelles — Talent Acquisition
+* **Email Direct** : `jobs@smals.be`
 
 ---
 
-## 🌍 PÔLE 4 : CABINETS DE CHASSE & MOBILITÉ AFRIQUE ➔ EUROPE — 7 CONTACTS
+## 🌍 PÔLE 4 : LEADERS DU RECRUTEMENT & MOBILITÉ AFRIQUE ➔ EUROPE (6 CONTACTS DIRIGEANTS)
 
-### 44. AfricSearch (Paris / Dakar / Abidjan — N°1 Mobilité Afrique-Europe)
-* **Email Direction Recrutement** : `contact@africsearch.com`
-* **Contact Candidatures** : `candidatures@africsearch.com`
+### 45. AfricSearch — Didier Acouetey
+* **Poste** : Président & Fondateur AfricSearch (Pionnier du recrutement Afrique-Europe)
+* **Email Direct** : `d.acouetey@africsearch.com` (ou `contact@africsearch.com`)
 * **Site** : https://www.africsearch.com/
 
-### 45. Talent2Africa (Plateforme Panafricaine & Recrutement Diaspora)
-* **Email Recrutement** : `contact@talent2africa.com`
-* **Email Candidats** : `candidats@talent2africa.com`
-* **Site** : https://talent2africa.com/
+### 46. AfricSearch — Serge Agbekponou
+* **Poste** : Managing Director AfricSearch
+* **Email Direct** : `s.agbekponou@africsearch.com`
 
-### 46. Michael Page Africa (Bureau de Paris)
-* **Email Pôle Afrique** : `africa@michaelpage.com`
-* **Email Recrutement Paris** : `contact.paris@michaelpage.com`
+### 47. Talent2Africa — Chams Diagne
+* **Poste** : CEO & Fondateur Talent2Africa (Plateforme leader recrutement diaspora & Afrique)
+* **Email Direct** : `chams.diagne@talent2africa.com` (ou `contact@talent2africa.com`)
+* **Téléphone** : `+33 6 08 28 80 70`
 
-### 47. Robert Walters Africa (Bureau de Paris)
-* **Email Pôle International** : `africa@robertwalters.com`
+### 48. Talent2Africa — Irene Serot Almeras
+* **Poste** : Senior HR Consultant Talent2Africa
+* **Email Direct** : `irene.serot@talent2africa.com`
 
-### 48. Morgan Philips Africa
-* **Email Recrutement** : `africa@morganphilips.com`
+### 49. Michael Page Africa (Bureau de Paris) — Pôle Recrutement
+* **Email Desk Afrique Direct** : `africa@michaelpage.com`
 
-### 49. Fed IT / Fed Finance (Paris — Spécialiste Recrutement SI & Finance)
-* **Email Pôle IT** : `contact@fedit.fr`
-* **Email Pôle Finance** : `contact@fedfinance.fr`
-
-### 50. Hays International Mobility
-* **Email Mobilité Internationale** : `international.mobility@hays.com`
+### 50. Robert Walters Africa (Bureau de Paris) — Pôle Mobilité Internationale
+* **Email Desk Direct** : `africa@robertwalters.com`
