@@ -10,8 +10,8 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 
 # 📊 1. OPÉRATION CALVIN — FRONT OFFICE & MARCHÉS FINANCIERS
 
-## 🔴 A. PROFILS VERROUILLÉS / DÉJÀ CONTACTÉS (Vérifiés par Capture — EN PAUSE STRICTE)
-| Nom & Prénom | Titre / Desk | Date / Type d'échange | Statut |
+## 🔴 A. PROFILS VERROUILLÉS / DÉJÀ CONTACTÉS (100% Confirmés par Capture — EN PAUSE STRICTE)
+| Nom & Prénom | Titre / Desk | Date / Type d'échange constaté | Statut |
 | :--- | :--- | :--- | :--- |
 | **Karim FAYE** | FX Structuring @ Barclays | 27 août 2026 (Message Bankprep) | 🔒 Verrouillé |
 | **Abdellah El Omari** | MENA Fixed Income Sales @ Barclays | 27 août 2026 (Message Bankprep) | 🔒 Verrouillé |
@@ -20,6 +20,25 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 | **Lorenzo Mostarda** | Executive Director @ Morgan Stanley | 16 juillet 2026 | 🔒 Verrouillé |
 | **Lucas Sornin** | Head of Retail Equity Trading @ Euronext | Pavé CNAM | 🔒 Verrouillé |
 | **Mylène ROUCHOUSE-POUGET** | Responsable Salle des Marchés @ CIC | Pavé CNAM | 🔒 Verrouillé |
+| **Gopal Agarwal** | FX Options Trader @ Barclays | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
+| **Jasdeep Gahir** | Rates Exotics Trader @ Barclays | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
+| **Nathaniel OHAYON** | IR Options Trader @ J.P. Morgan | 11 août 2026 (DM) | 🔒 Verrouillé |
+| **Dean Fong, CFA** | Rates Trader @ J.P. Morgan | 13 août 2026 (DM) | 🔒 Verrouillé |
+| **Nick Coleman** | GBP STIR Trader @ J.P. Morgan | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
+| **Simon Dequidt** | STIR Trader @ Bank of America | 11 août 2026 (DM) | 🔒 Verrouillé |
+| **Baptiste Lotthé** | FX & e-FX Trader @ Natixis | 11 mars 2026 (Ancien DM) | 🔒 Verrouillé |
+| **Léa Dodet** | Trader USD Exotics @ J.P. Morgan | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
+| **Marc Blocher-Becker** | Repo & Collateral Trader @ CACIB | 11 août 2026 (DM) | 🔒 Verrouillé |
+| **Baptiste Ragu** | Gas & Power Trading @ Bank of America | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
+| **Gerard Morell Alegre** | Trader @ Bank of America | 17 août 2026 (Message Bankprep) | 🔒 Verrouillé |
+| **Yoen Corbel Vivas** | Flow Credit Trader @ Bank of America | 17 août 2026 (Échange terminé / Refus poli BofA) | 🔒 Verrouillé |
+| **Bastien Morandini** | Equity Derivatives Trader @ Leonteq | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
+| **Victor Baudoin** | Equity Derivatives Trader @ BofA HK | 20 août 2026 (Échange terminé sur Bankprep) | 🔒 Verrouillé |
+| **Wassim Seifo** | Equity Derivatives Trader | 7 avril + 19 août (Bankprep) | 🔒 Verrouillé |
+| **David Attar** | ETF Trader @ Société Générale | Pavé CNAM | 🔒 Verrouillé |
+| **Wael Sfar** | Prime Brokerage Sales Trader @ BNP Paribas | Pavé CNAM | 🔒 Verrouillé |
+| **Guillaume Bichat** | Equity, ETF, Listed Derivatives Trader | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
+| **Loïc de TREGLODE** | Senior Derivatives Sales @ BRED | 13 mars 2026 (Ancien DM mini-Bloomberg) | 🔒 Verrouillé |
 | **Iban Calbete** | Citi | Août 2026 | 🔒 Verrouillé |
 | **Matthieu Blatt** | CACIB | Août 2026 | 🔒 Verrouillé |
 | **Emile Abi Girges** | Edmond de Rothschild | Août 2026 | 🔒 Verrouillé |
@@ -46,8 +65,8 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 
 ---
 
-## 🟢 B. PROFILS CONFIRMÉS 100% VIERGES (Vérifiés par Capture d'Écran)
-| Nom & Prénom | Titre & Institution | Segment / Rôle | Statut |
+## 🟢 B. PROFILS CONFIRMÉS 100% VIERGES (Vérifiés Visuellement par Capture)
+| Nom & Prénom | Titre & Institution | Segment / Spécialité | Statut |
 | :--- | :--- | :--- | :--- |
 | **Raoul Salomon** | CEO France Barclays & Co-Head Markets Europe | Top Décideur Marchés Europe | 🟢 Vierge vérifié |
 | **Herve Alfon** | CEO Marex SA & Co-Head Capital Markets EMEA | Direction Courtage & Marchés | 🟢 Vierge vérifié |
@@ -57,7 +76,7 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 | **Tristan Yonace** | Executive Director @ Morgan Stanley | Bilateral & Cleared Deriv Risk | 🟢 Vierge vérifié |
 | **Michael Hart, CFA** | Executive Director – Credit Sales @ Morgan Stanley | Vente Crédit Londres | 🟢 Vierge vérifié |
 | **Veronique Sabbah** | Head EMEA Sales EQD @ HSBC | Direction Vente Dérivés Actions | 🟢 Vierge vérifié |
-| **Olivier Moser** | Sales Manager @ Barclays Private Bank Monaco | Wealth Management & Marchés | 🟢 Vierge vérifié |
+| **Olivier Moser** | Sales Manager @ Barclays Private Bank Monaco | Wealth Management & Marchés Monaco | 🟢 Vierge vérifié |
 | **Florent Thy-tine** | Head Equity Research @ TP ICAP | Recherche Actions & Dérivés | 🟢 Vierge vérifié |
 | **Márcio MARTINS** | Chief Financial Officer @ CMB Monaco | CFO Banque Privée Monaco | 🟢 Vierge vérifié |
 | **Romain Ciarlet** | Vice-Chairman & CEO @ Fondation Prince Albert II | Décideur Institutionnel Monaco | 🟢 Vierge vérifié |
@@ -82,50 +101,31 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 | **Laure DOSTERT** | Flow Rates Sales Associate @ NatWest | Vente Taux Flow (SKEMA) | 🟢 Vierge vérifié |
 | **Edwin Foyou** | Front Office Financial Engineer @ BNP Cardif | Ingénierie Financière Front Office | 🟢 Vierge vérifié |
 | **Paul Ativon** | FX Cash Trading Support @ UBP Genève | Trading Support FX Suisse | 🟢 Vierge vérifié |
+| **Donatien Hanna** | Exotic Forex Trader @ CACEIS Luxembourg | Trading Dérivés FX Luxembourg | 🟢 Vierge vérifié |
+| **Jiamin Liu** | G10 STIR Trader @ Bank of America | Short Term Interest Rates BofA | 🟢 Vierge vérifié |
+| **Luca Ciampriello** | Rates Trader @ Crédit Agricole CIB | Rates Trading CACIB Londres | 🟢 Vierge vérifié |
+| **Vishal Dixit** | Structured Credit Trading @ HSBC | Trading Crédit Structuré Londres | 🟢 Vierge vérifié |
+| **Pedro de Camargo Júnior** | Senior Trader @ Itaú USA | Senior Trader Miami / US | 🟢 Vierge vérifié |
+| **Yuxuan Liu** | Equity Derivatives Trader @ UBS | Trading Dérivés Actions Asie | 🟢 Vierge vérifié |
+| **Cantin Riche** | VP – Stock Exotic Trader @ BNP Paribas NY | Trading Exotiques Actions New York | 🟢 Vierge vérifié |
+| **Tomás Malón Melendo** | VP – Equity Derivatives Trader @ CaixaBank Madrid | Trading Dérivés Actions Madrid | 🟢 Vierge vérifié |
+| **Enzo Cordonnier** | Broker – Produits Structurés Monaco | Courtage Produits Structurés Monaco | 🟢 Vierge vérifié |
 
 ---
 
-## 🟡 C. PROFILS FO DU RÉSEAU RESTANT À VÉRIFIER (PROCHAINE SALVE DE CAPTURES)
-*Ces profils font partie de ton réseau 1er degré et n'ont pas encore fait l'objet d'une capture d'écran de vérification :*
+## 🟡 C. PROFILS FO RESTANT À VÉRIFIER (Batch suivant)
+*Il reste encore quelques profils spécifiques dans ton réseau à passer au crible :*
 
-### 1. Rates, FX, Commodities, Repo & Credit
-* [ ] **Donatien Hanna** — Exotic FX Trader @ CACEIS Luxembourg
-* [ ] **Gopal Agarwal** — FX Options Trader @ Barclays
-* [ ] **Jasdeep Gahir** — Rates Exotics Trader @ Barclays
-* [ ] **Jiamin Liu** — G10 STIR Trader @ Bank of America
-* [ ] **Nathaniel OHAYON** — IR Options Trader @ J.P. Morgan
-* [ ] **Dean Fong** — Rates Trader @ J.P. Morgan
-* [ ] **Nick Coleman** — GBP STIR Trader @ J.P. Morgan
-* [ ] **Luca Ciampriello** — Rates Trader @ CACIB
+### 1. Rates, FX & Exotics
 * [ ] **Wei Chia Chiu** — Rates Options & Exotics Trader
-* [ ] **Simon Dequidt** — STIR Trader @ Bank of America
-* [ ] **Baptiste Lotthé** — FX Trader
-* [ ] **Léa Dodet** — Trader USD Exotics
 * [ ] **Mathieu Agostini** — Exotic Rates Trader
 * [ ] **Francesco Ratto** — Rates Exotic Trader @ BNP Paribas CIB
-* [ ] **Marc Blocher-Becker** — Repo & Collateral Trader @ CACIB
-* [ ] **Baptiste Ragu** — Gas & Power Trading @ Bank of America
-* [ ] **Vishal Dixit** — Structured Credit @ HSBC
-* [ ] **Pedro de Camargo Júnior** — Senior Trader @ Itaú USA
-* [ ] **Gerard Morell Alegre** — Trader @ Bank of America
-* [ ] **Yoen Corbel Vivas** — Flow Credit Trader @ Bank of America
+* [ ] **Guillaume Salvador** — Rates Derivatives Trader @ HSBC Londres
 
 ### 2. Equity Derivatives (EQD) & Structuring
-* [ ] **Yuxuan Liu** — EQD Trader @ UBS
-* [ ] **Bastien Morandini** — EQD Trader
 * [ ] **Yassine Laabi** — Exotic Rates & Hybrids @ SGCIB
-* [ ] **Victor Baudoin** — EQD Trader @ Bank of America HK
-* [ ] **Wassim Seifo** — Equity Derivatives Trader
 * [ ] **Nicolas Dujardin** — Equity Derivatives Trader
 * [ ] **Théo Petrowski** — Equity Derivatives Trader
-* [ ] **Cantin Riche** — VP – Stock Exotic Trader @ BNP Paribas New York
-* [ ] **Tomás Malón Melendo** — VP – Equity Derivatives Trader @ CaixaBank Madrid
-* [ ] **David Attar** — ETF Trader @ Société Générale
-* [ ] **Wael Sfar** — Prime Brokerage Sales Trader @ BNP Paribas CIB
-* [ ] **Guillaume Bichat** — Equity, ETF, Listed Derivatives Trader
-* [ ] **Loïc de TREGLODE** — Senior Derivatives Sales (FX, IR, Equity, Commo)
-* [ ] **Enzo Cordonnier** — Broker Produits Structurés @ Monaco
-* [ ] **Guillaume Salvador** — Rates Derivatives Trader @ HSBC Londres
 * [ ] **Jules Wahiche** — Buy Side Index Structurer @ Euronext
 * [ ] **Yann LE HER** — Président 23IS (Ex-Head EQD Trading Americas @ HSBC)
 
@@ -138,7 +138,7 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 * [ ] **Badr Lahlou** — Vice President – Credit @ J.P. Morgan
 * [ ] **Tiphaine Savignoni** — Vice President – FX & IR Derivatives Sales
 
-### 4. Trésoriers Corporate Front Office (CAC40 / SBF120)
+### 4. Trésoriers Corporate Front Office
 * [ ] **Tomasz Hryniuk** — Corporate Treasurer @ Lesaffre (CTP)
 * [ ] **Maxime Fontaine** — Trésorier @ Decathlon SE
 * [ ] **Benjamin Pelletier** — Front Office Treasurer @ Bouygues Construction
@@ -146,8 +146,6 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 ---
 
 # 🎨 2. OPÉRATION YASMINE TOUIL — PISTES IMMOBILIER, ARCHITECTURE & DESIGN DANS TON RÉSEAU
-
-*Contacts de ton réseau direct travaillant dans l'aménagement, l'immobilier, le retail et la construction (potentiels relais d'alternance) :*
 * **Benjamin Pelletier** — *Front Office Treasurer @ Bouygues Construction* (Accès direct groupe Bouygues Immobilier / Construction)
 * **Michel Funk** — *ED Goldman Sachs* (Couvre spécifiquement le Real Estate & Wealth)
 * **Romain Ciarlet** — *CEO Fondation Prince Albert II Monaco* (Projets d'urbanisme durable & scénographie)
@@ -155,8 +153,6 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 ---
 
 # ⚙️ 3. OPÉRATION VIANNEY-ALDRIN MINANG — PISTES INDUSTRIE & SUPPLY CHAIN DANS TON RÉSEAU
-
-*Contacts de ton réseau direct travaillant dans l'industrie, la grande distribution et la logistique (potentiels relais d'embauche directe) :*
 * **Maxime Fontaine** — *Decathlon SE* (Supply chain internationale, retail logistique)
 * **Tomasz Hryniuk** — *Lesaffre* (Agro-industrie mondiale, usines de production)
 * **Sylvie Soundaravelou** — *TotalEnergies* (Grand groupe industriel mondial avec programme de sponsoring visa)
