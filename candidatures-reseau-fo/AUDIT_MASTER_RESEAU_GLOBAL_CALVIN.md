@@ -1,8 +1,8 @@
 # 🗂️ AUDIT & ARCHIVE GLOBALE DU RÉSEAU 1ER DEGRÉ CALVIN MINANG
-_Dernière mise à jour : 8 Septembre 2026_
+_Dernière mise à jour : 8 Septembre 2026 — 100% DU RÉSEAU AUDITÉ ET VÉRIFIÉ_
 
-Ce document centralise, catégorise et archive l'ensemble des relations de Calvin Minang pour les trois opérations :
-1. **Opération Calvin** : Front Office / Trading / Structuring / Quant / Sales / Direction Marchés.
+Ce document centralise, catégorise et archive l'intégralité du carnet d'adresses de Calvin Minang avec la preuve visuelle par capture d'écran pour les trois opérations :
+1. **Opération Calvin** : Front Office / Trading / Structuration / Quant / Sales / Direction Marchés.
 2. **Opération Yasmine Touil** : Architecture d'intérieur, Retail Design, Scénographie, Immobilier & Construction.
 3. **Opération Vianney-Aldrin Minang** : Génie Industriel, Supply Chain, Lean, Ingénierie & Opérations.
 
@@ -10,150 +10,172 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 
 # 📊 1. OPÉRATION CALVIN — FRONT OFFICE & MARCHÉS FINANCIERS
 
-## 🔴 A. PROFILS VERROUILLÉS / DÉJÀ CONTACTÉS (100% Confirmés par Capture — EN PAUSE STRICTE)
-| Nom & Prénom | Titre / Desk | Date / Type d'échange constaté | Statut |
-| :--- | :--- | :--- | :--- |
-| **Karim FAYE** | FX Structuring @ Barclays | 27 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Abdellah El Omari** | MENA Fixed Income Sales @ Barclays | 27 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Samuele Grosso** | EGB Trader @ Bank of America | 25 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Michel Funk** | Executive Director @ Goldman Sachs | 11 août 2026 | 🔒 Verrouillé |
-| **Lorenzo Mostarda** | Executive Director @ Morgan Stanley | 16 juillet 2026 | 🔒 Verrouillé |
-| **Lucas Sornin** | Head of Retail Equity Trading @ Euronext | Pavé CNAM | 🔒 Verrouillé |
-| **Mylène ROUCHOUSE-POUGET** | Responsable Salle des Marchés @ CIC | Pavé CNAM | 🔒 Verrouillé |
-| **Gopal Agarwal** | FX Options Trader @ Barclays | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Jasdeep Gahir** | Rates Exotics Trader @ Barclays | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Nathaniel OHAYON** | IR Options Trader @ J.P. Morgan | 11 août 2026 (DM) | 🔒 Verrouillé |
-| **Dean Fong, CFA** | Rates Trader @ J.P. Morgan | 13 août 2026 (DM) | 🔒 Verrouillé |
-| **Nick Coleman** | GBP STIR Trader @ J.P. Morgan | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Simon Dequidt** | STIR Trader @ Bank of America | 11 août 2026 (DM) | 🔒 Verrouillé |
-| **Baptiste Lotthé** | FX & e-FX Trader @ Natixis | 11 mars 2026 (Ancien DM) | 🔒 Verrouillé |
-| **Léa Dodet** | Trader USD Exotics @ J.P. Morgan | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Marc Blocher-Becker** | Repo & Collateral Trader @ CACIB | 11 août 2026 (DM) | 🔒 Verrouillé |
-| **Baptiste Ragu** | Gas & Power Trading @ Bank of America | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Gerard Morell Alegre** | Trader @ Bank of America | 17 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Yoen Corbel Vivas** | Flow Credit Trader @ Bank of America | 17 août 2026 (Échange terminé / Refus poli BofA) | 🔒 Verrouillé |
-| **Bastien Morandini** | Equity Derivatives Trader @ Leonteq | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Victor Baudoin** | Equity Derivatives Trader @ BofA HK | 20 août 2026 (Échange terminé sur Bankprep) | 🔒 Verrouillé |
-| **Wassim Seifo** | Equity Derivatives Trader | 7 avril + 19 août (Bankprep) | 🔒 Verrouillé |
-| **David Attar** | ETF Trader @ Société Générale | Pavé CNAM | 🔒 Verrouillé |
-| **Wael Sfar** | Prime Brokerage Sales Trader @ BNP Paribas | Pavé CNAM | 🔒 Verrouillé |
-| **Guillaume Bichat** | Equity, ETF, Listed Derivatives Trader | 19 août 2026 (Message Bankprep) | 🔒 Verrouillé |
-| **Loïc de TREGLODE** | Senior Derivatives Sales @ BRED | 13 mars 2026 (Ancien DM mini-Bloomberg) | 🔒 Verrouillé |
-| **Iban Calbete** | Citi | Août 2026 | 🔒 Verrouillé |
-| **Matthieu Blatt** | CACIB | Août 2026 | 🔒 Verrouillé |
-| **Emile Abi Girges** | Edmond de Rothschild | Août 2026 | 🔒 Verrouillé |
-| **Thomas Malaval** | Indosuez Wealth Management Lux | Août 2026 | 🔒 Verrouillé |
-| **Guillaume Rodrigues-Martin** | UBS | Août 2026 | 🔒 Verrouillé |
-| **Pierre Caze** | UBS Luxembourg | Août 2026 | 🔒 Verrouillé |
-| **Barbara Fischer** | Goldman Sachs | Août 2026 | 🔒 Verrouillé |
-| **Alexandre Briantais** | Barclays | Août 2026 | 🔒 Verrouillé |
-| **James Eardley** | Deutsche Bank | Août 2026 | 🔒 Verrouillé |
-| **Paul Deüs** | Citi | Août 2026 | 🔒 Verrouillé |
-| **Tom Cazoulat** | Morgan Stanley | Août 2026 | 🔒 Verrouillé |
-| **Daphnée Frontezak** | Morgan Stanley | Août 2026 | 🔒 Verrouillé |
-| **Florent Breemeersch** | Citi | Août 2026 | 🔒 Verrouillé |
-| **Jean Sayegh** | FO | Juillet 2026 (Pavé CNAM) | 🔒 Verrouillé |
-| **Antoine Hamel** | Bank of America | Juillet 2026 (Pavé CNAM) | 🔒 Verrouillé |
-| **Olivier Sotto** | CIC | Juillet 2026 (Pavé CNAM) | 🔒 Verrouillé |
-| **Theo Joignant** | BNP Paribas | Juillet 2026 (Pavé CNAM) | 🔒 Verrouillé |
-| **Theo Calmet** | Santander | Juillet 2026 (Pavé CNAM) | 🔒 Verrouillé |
-| **Lucas Besème** | Berenberg | Juillet 2026 (Pavé CNAM) | 🔒 Verrouillé |
-| **Anthony Rottino** | RBC | Juillet 2026 (Pavé CNAM) | 🔒 Verrouillé |
-| **François Auguet-Mancini** | BRED | Juillet 2026 (Pavé CNAM) | 🔒 Verrouillé |
-| **Piyush Pawar** | J.P. Morgan | Juillet 2026 (Pavé CNAM) | 🔒 Verrouillé |
-| **Caroline Souvigny** | UGP | Ancien échange 2023 | 🔒 Verrouillé |
+## 🟢 A. LES 54 DÉCIDEURS & TRADERS FO 100% VIERGES (Vérifiés Visuellement par Capture)
+*Ces 54 profils ont une fenêtre de messagerie totalement vierge. Ce sont tes cibles prioritaires d'élite.*
+
+### 👑 1. Grands Patrons, MD, ED, Desk Heads & Direction Marchés (14 décideurs)
+| Nom & Prénom | Titre & Institution | Métier / Desk |
+| :--- | :--- | :--- |
+| **Raoul Salomon** | **CEO France Barclays & Co-Head Markets Barclays Europe** 👑 | Direction Globale Marchés Europe |
+| **Herve Alfon** | **CEO Marex SA & Co-Head Capital Markets EMEA** | Courtage & Marchés de Capitaux |
+| **Francois Blanc** | **Executive Director, IRS Cross-market Trading (Natixis)** | IRS & Interest Rates Pricing |
+| **Sylvie Soundaravelou** | **Head of Financial Markets Trading @ TotalEnergies** | Trésorerie Front Office / FX & Taux |
+| **Rosnan Chotard** | **Head Cross-Asset Structuring @ TP ICAP** | Structuration Cross-Asset & Index |
+| **Tristan Yonace** | **Executive Director @ Morgan Stanley** | Bilateral & Cleared Derivatives Risk |
+| **Michael Hart, CFA** | **Executive Director – Credit Sales @ Morgan Stanley** | Vente Institutionnelle Crédit Londres |
+| **Veronique Sabbah** | **Head EMEA Sales - Equity Derivatives @ HSBC** | Direction Vente Dérivés Actions EMEA |
+| **Olivier Moser** | **Sales Manager @ Barclays Private Bank Monaco** | Wealth Management & Marchés Monaco |
+| **Florent Thy-tine** | **Head Equity Research @ TP ICAP** | Recherche Actions & Dérivés |
+| **Márcio MARTINS** | **Chief Financial Officer @ CMB Monaco** | Direction Financière & Trésorerie Monaco |
+| **Romain Ciarlet** | **Vice-Chairman & CEO @ Fondation Prince Albert II** | Décideur Institutionnel Monaco |
+| **Hervé Samour-Cachian, CFA** | **CIO / Dir. Gestions Multi-Assets @ APICIL** | Multi-Asset Portfolio Management |
+| **Yann LE HER** | **Président 23IS (Ex-Head EQD Trading Americas @ HSBC)** | Multi Family Office & Dérivés Actions |
 
 ---
 
-## 🟢 B. PROFILS CONFIRMÉS 100% VIERGES (Vérifiés Visuellement par Capture)
-| Nom & Prénom | Titre & Institution | Segment / Spécialité | Statut |
-| :--- | :--- | :--- | :--- |
-| **Raoul Salomon** | CEO France Barclays & Co-Head Markets Europe | Top Décideur Marchés Europe | 🟢 Vierge vérifié |
-| **Herve Alfon** | CEO Marex SA & Co-Head Capital Markets EMEA | Direction Courtage & Marchés | 🟢 Vierge vérifié |
-| **Francois Blanc** | Executive Director, IRS Trading (Natixis) | IRS & Interest Rates Pricing | 🟢 Vierge vérifié |
-| **Sylvie Soundaravelou** | Head of Financial Markets Trading @ TotalEnergies | Head FO FX / Rates Corporate | 🟢 Vierge vérifié |
-| **Rosnan Chotard** | Head Cross-Asset Structuring @ TP ICAP | Structuration Cross-Asset | 🟢 Vierge vérifié |
-| **Tristan Yonace** | Executive Director @ Morgan Stanley | Bilateral & Cleared Deriv Risk | 🟢 Vierge vérifié |
-| **Michael Hart, CFA** | Executive Director – Credit Sales @ Morgan Stanley | Vente Crédit Londres | 🟢 Vierge vérifié |
-| **Veronique Sabbah** | Head EMEA Sales EQD @ HSBC | Direction Vente Dérivés Actions | 🟢 Vierge vérifié |
-| **Olivier Moser** | Sales Manager @ Barclays Private Bank Monaco | Wealth Management & Marchés Monaco | 🟢 Vierge vérifié |
-| **Florent Thy-tine** | Head Equity Research @ TP ICAP | Recherche Actions & Dérivés | 🟢 Vierge vérifié |
-| **Márcio MARTINS** | Chief Financial Officer @ CMB Monaco | CFO Banque Privée Monaco | 🟢 Vierge vérifié |
-| **Romain Ciarlet** | Vice-Chairman & CEO @ Fondation Prince Albert II | Décideur Institutionnel Monaco | 🟢 Vierge vérifié |
-| **Hervé Samour-Cachian, CFA** | CIO / Dir. Gestions Multi-Assets @ APICIL | Multi-Asset Portfolio Manager | 🟢 Vierge vérifié |
-| **Simon Hervouët** | EQD Structurer @ Morgan Stanley | Structuration Dérivés Actions | 🟢 Vierge vérifié |
-| **Jean Saade** | Equity Derivatives Trader @ Morgan Stanley | Trading Dérivés Actions | 🟢 Vierge vérifié |
-| **Cédric Viot** | EGB Trader @ J.P. Morgan | Trading Obligations Souveraines | 🟢 Vierge vérifié |
-| **Thibault Duhamel** | Exotic FX Option Trader @ Barclays | Trading Options FX Exotiques | 🟢 Vierge vérifié |
-| **Clément Massabo** | Structured Credit Trader @ BNP Paribas | Trading Crédit Structuré (SKEMA) | 🟢 Vierge vérifié |
-| **Adrien Verdolini** | Exotics Structurer FX & IR @ BNP Paribas CIB | Structuration Exotiques FX/Taux | 🟢 Vierge vérifié |
-| **Bernard Gadelle** | Trader @ BRED BPCE Group | Dérivés Actions, Volatilité, Repo | 🟢 Vierge vérifié |
-| **Thomas Orbolato** | Cross-Asset Structurer @ SILEX Genève | Structuration AMCs/SPVs Genève | 🟢 Vierge vérifié |
-| **Jason Kong** | FX & Rates Trader @ Deutsche Bank | Trading FX & Taux | 🟢 Vierge vérifié |
-| **Maxime Fauchere--Collin** | EQD Exotic Trading @ BNP Paribas CIB | Trading Exotiques Actions | 🟢 Vierge vérifié |
-| **Louis Brun** | eFX & Precious Metals Trader | Trading eFX & Métaux Précieux | 🟢 Vierge vérifié |
-| **François MASSARD** | Equity Derivatives Trading Analyst @ SGCIB | Trading Dérivés Actions | 🟢 Vierge vérifié |
-| **Aydan Ali** | Rates Sales @ Morgan Stanley | Vente Dérivés de Taux | 🟢 Vierge vérifié |
-| **Alexis Bouvet** | Structured Products Specialist @ DB Genève | Produits Structurés Genève | 🟢 Vierge vérifié |
-| **Antony Pini** | FX & EM Rates Sales @ HSBC | Vente FX & Taux Émergents | 🟢 Vierge vérifié |
-| **Thomas Bensen** | Cross-Asset Sales @ ING | Vente Cross-Asset | 🟢 Vierge vérifié |
-| **Romain Guéroult** | eFX Sales @ CACIB | Vente Électronique FX (SKEMA) | 🟢 Vierge vérifié |
-| **Laure DOSTERT** | Flow Rates Sales Associate @ NatWest | Vente Taux Flow (SKEMA) | 🟢 Vierge vérifié |
-| **Edwin Foyou** | Front Office Financial Engineer @ BNP Cardif | Ingénierie Financière Front Office | 🟢 Vierge vérifié |
-| **Paul Ativon** | FX Cash Trading Support @ UBP Genève | Trading Support FX Suisse | 🟢 Vierge vérifié |
-| **Donatien Hanna** | Exotic Forex Trader @ CACEIS Luxembourg | Trading Dérivés FX Luxembourg | 🟢 Vierge vérifié |
-| **Jiamin Liu** | G10 STIR Trader @ Bank of America | Short Term Interest Rates BofA | 🟢 Vierge vérifié |
-| **Luca Ciampriello** | Rates Trader @ Crédit Agricole CIB | Rates Trading CACIB Londres | 🟢 Vierge vérifié |
-| **Vishal Dixit** | Structured Credit Trading @ HSBC | Trading Crédit Structuré Londres | 🟢 Vierge vérifié |
-| **Pedro de Camargo Júnior** | Senior Trader @ Itaú USA | Senior Trader Miami / US | 🟢 Vierge vérifié |
-| **Yuxuan Liu** | Equity Derivatives Trader @ UBS | Trading Dérivés Actions Asie | 🟢 Vierge vérifié |
-| **Cantin Riche** | VP – Stock Exotic Trader @ BNP Paribas NY | Trading Exotiques Actions New York | 🟢 Vierge vérifié |
-| **Tomás Malón Melendo** | VP – Equity Derivatives Trader @ CaixaBank Madrid | Trading Dérivés Actions Madrid | 🟢 Vierge vérifié |
-| **Enzo Cordonnier** | Broker – Produits Structurés Monaco | Courtage Produits Structurés Monaco | 🟢 Vierge vérifié |
+### ⚡ 2. Traders & Structureurs Dérivés / Fixed Income / FX / Exotiques (21 traders)
+| Nom & Prénom | Titre & Institution | Desk / Spécialité |
+| :--- | :--- | :--- |
+| **Simon Hervouët** | **EQD Structurer @ Morgan Stanley** | Structuration Dérivés Actions |
+| **Jean Saade** | **Equity Derivatives Trader @ Morgan Stanley** | Trading Dérivés Actions |
+| **Cédric Viot** | **EGB Trader @ J.P. Morgan** | Trading Obligations Souveraines (Taux) |
+| **Thibault Duhamel** | **Exotic FX Option Trader @ Barclays** | Trading Options FX Exotiques |
+| **Clément Massabo** | **Structured Credit Trader @ BNP Paribas** | Trading Crédit Structuré (SKEMA) |
+| **Adrien Verdolini** | **Exotics Structurer FX & IR @ BNP Paribas CIB** | Structuration Exotiques FX & Taux |
+| **Bernard Gadelle** | **Trader @ BRED BPCE Group** | Dérivés Actions, Volatilité & Repo |
+| **Thomas Orbolato** | **Cross-Asset Structurer @ SILEX Genève** | Structuration AMCs & SPVs (Suisse) |
+| **Jason Kong** | **FX & Rates Trader @ Deutsche Bank** | Trading FX & Taux |
+| **Maxime Fauchere--Collin** | **EQD Exotic Trading @ BNP Paribas CIB** | Trading Exotiques Actions |
+| **Louis Brun** | **eFX & Precious Metals Trader** | Trading eFX & Métaux Précieux |
+| **Donatien Hanna** | **Exotic Forex Trader @ CACEIS Luxembourg** | Trading Dérivés FX Luxembourg |
+| **Jiamin Liu** | **G10 STIR Trader @ Bank of America** | Short Term Interest Rates BofA |
+| **Luca Ciampriello** | **Rates Trader @ Crédit Agricole CIB Londres** | Rates Trading CACIB Londres |
+| **Vishal Dixit** | **Structured Credit Trading @ HSBC Londres** | Trading Crédit Structuré Londres |
+| **Pedro de Camargo Júnior** | **Senior Trader @ Itaú USA Miami** | Senior Trader Miami / US |
+| **Yuxuan Liu** | **Equity Derivatives Trader @ UBS Hong Kong** | Trading Dérivés Actions Asie |
+| **Cantin Riche** | **VP – Stock Exotic Trader @ BNP Paribas New York** | Trading Exotiques Actions New York |
+| **Tomás Malón Melendo** | **VP – Equity Derivatives Trader @ CaixaBank Madrid** | Trading Dérivés Actions Madrid |
+| **Enzo Cordonnier** | **Broker – Produits Structurés Monaco** | Courtage Produits Structurés Monaco |
+| **Wei Chia Chiu** | **Rates Options & Exotics Trader @ Barclays** | Trading Options & Exotiques Taux |
+| **Guillaume Salvador** | **Rates Derivatives Trader @ HSBC Londres** | Market Making IRS G10 & Swaps |
+| **Yassine Laabi** | **Exotic Rates & Hybrids Trading @ Société Générale CIB**| Trading Taux Exotiques & Hybrides |
+| **Nicolas Dujardin** | **Equity Derivatives Trader** | Trading Dérivés Actions (SKEMA) |
+| **Jules Wahiche** | **Buy Side Index Structurer @ Euronext** | Structuration Indices Buy-Side |
 
 ---
 
-## 🟡 C. PROFILS FO RESTANT À VÉRIFIER (Batch suivant)
-*Il reste encore quelques profils spécifiques dans ton réseau à passer au crible :*
-
-### 1. Rates, FX & Exotics
-* [ ] **Wei Chia Chiu** — Rates Options & Exotics Trader
-* [ ] **Mathieu Agostini** — Exotic Rates Trader
-* [ ] **Francesco Ratto** — Rates Exotic Trader @ BNP Paribas CIB
-* [ ] **Guillaume Salvador** — Rates Derivatives Trader @ HSBC Londres
-
-### 2. Equity Derivatives (EQD) & Structuring
-* [ ] **Yassine Laabi** — Exotic Rates & Hybrids @ SGCIB
-* [ ] **Nicolas Dujardin** — Equity Derivatives Trader
-* [ ] **Théo Petrowski** — Equity Derivatives Trader
-* [ ] **Jules Wahiche** — Buy Side Index Structurer @ Euronext
-* [ ] **Yann LE HER** — Président 23IS (Ex-Head EQD Trading Americas @ HSBC)
-
-### 3. Quants, PMs & VPs Senior
-* [ ] **Augustin Boissier** — Quantitative Research @ Millennium (Hedge Fund)
-* [ ] **Paul Pelletier** — Quant Engineer @ BNP Paribas (CFA Level 3)
-* [ ] **François Jordan** — Quantitative Analyst
-* [ ] **Maxime Dumortier** — Global Macro Portfolio Manager
-* [ ] **Yann Simo** — Vice President – Rates Trader @ Deutsche Bank
-* [ ] **Badr Lahlou** — Vice President – Credit @ J.P. Morgan
-* [ ] **Tiphaine Savignoni** — Vice President – FX & IR Derivatives Sales
-
-### 4. Trésoriers Corporate Front Office
-* [ ] **Tomasz Hryniuk** — Corporate Treasurer @ Lesaffre (CTP)
-* [ ] **Maxime Fontaine** — Trésorier @ Decathlon SE
-* [ ] **Benjamin Pelletier** — Front Office Treasurer @ Bouygues Construction
+### 🔬 3. Recherche Quantitative, Quants & Portfolio Managers (5 profils)
+| Nom & Prénom | Titre & Institution | Spécialité |
+| :--- | :--- | :--- |
+| **Augustin Boissier** | **Quantitative Research @ Millennium (Hedge Fund)** | Modélisation & Alpha Research |
+| **Paul Pelletier** | **Quant Engineer @ BNP Paribas (CFA Level 3)** | Recherche Quantitative & AI/ML |
+| **François Jordan** | **Quantitative Analyst** | Modélisation Quantitative |
+| **Maxime Dumortier** | **Global Macro Portfolio Manager** | Gestion Macroéconomique Globale |
 
 ---
 
-# 🎨 2. OPÉRATION YASMINE TOUIL — PISTES IMMOBILIER, ARCHITECTURE & DESIGN DANS TON RÉSEAU
-* **Benjamin Pelletier** — *Front Office Treasurer @ Bouygues Construction* (Accès direct groupe Bouygues Immobilier / Construction)
-* **Michel Funk** — *ED Goldman Sachs* (Couvre spécifiquement le Real Estate & Wealth)
-* **Romain Ciarlet** — *CEO Fondation Prince Albert II Monaco* (Projets d'urbanisme durable & scénographie)
+### 📈 4. Sales, Analysts & Ingénieurs Financiers Front Office (9 profils)
+| Nom & Prénom | Titre & Institution | Spécialité |
+| :--- | :--- | :--- |
+| **François MASSARD** | **Equity Derivatives Trading Analyst @ SGCIB** | Trading Dérivés Actions |
+| **Aydan Ali** | **Rates Sales @ Morgan Stanley** | Vente Dérivés de Taux |
+| **Alexis Bouvet** | **Structured Products Specialist @ DB Genève** | Produits Structurés Genève |
+| **Antony Pini** | **FX & EM Rates Sales @ HSBC** | Vente FX & Taux Émergents |
+| **Thomas Bensen** | **Cross-Asset Sales @ ING** | Vente Cross-Asset |
+| **Romain Guéroult** | **eFX Sales @ CACIB** | Vente Électronique FX (SKEMA) |
+| **Laure DOSTERT** | **Flow Rates Sales Associate @ NatWest** | Vente Taux Flow (SKEMA) |
+| **Edwin Foyou** | **Front Office Financial Engineer @ BNP Cardif** | Ingénierie Financière Front Office |
+| **Paul Ativon** | **FX Cash Trading Support @ UBP Genève** | Trading Support FX Suisse |
 
 ---
 
-# ⚙️ 3. OPÉRATION VIANNEY-ALDRIN MINANG — PISTES INDUSTRIE & SUPPLY CHAIN DANS TON RÉSEAU
-* **Maxime Fontaine** — *Decathlon SE* (Supply chain internationale, retail logistique)
-* **Tomasz Hryniuk** — *Lesaffre* (Agro-industrie mondiale, usines de production)
-* **Sylvie Soundaravelou** — *TotalEnergies* (Grand groupe industriel mondial avec programme de sponsoring visa)
+### 🏢 5. Trésoriers Corporate Front Office (2 profils 100% vierges)
+| Nom & Prénom | Titre & Entreprise | Spécialité |
+| :--- | :--- | :--- |
+| **Tomasz Hryniuk** | **Corporate Treasurer @ Lesaffre (CTP)** | Gestion Taux & FX Groupe Agro-Industriel |
+| **Benjamin Pelletier** | **Front Office Treasurer @ Bouygues Construction** | Couverture FX/Taux & Financements (SKEMA) |
+
+---
+
+## 🔴 B. LES 54 PROFILS VERROUILLÉS / DÉJÀ CONTACTÉS (100% Confirmés — EN PAUSE STRICTE)
+*Ces profils ont un historique de messages (Bankprep, DMs passés, pavés CNAM ou vieux messages 2023/2026). On ne leur écrit pas.*
+
+1. **Karim FAYE** *(Barclays)* — Message Bankprep (27 août 2026)
+2. **Abdellah El Omari** *(Barclays)* — Message Bankprep (27 août 2026)
+3. **Samuele Grosso** *(BofA)* — Message Bankprep (25 août 2026)
+4. **Michel Funk** *(Goldman Sachs)* — DM (11 août 2026)
+5. **Lorenzo Mostarda** *(Morgan Stanley)* — DM (16 juillet 2026)
+6. **Lucas Sornin** *(Euronext)* — Pavé CNAM
+7. **Mylène ROUCHOUSE-POUGET** *(CIC)* — Pavé CNAM
+8. **Gopal Agarwal** *(Barclays)* — Message Bankprep (19 août 2026)
+9. **Jasdeep Gahir** *(Barclays)* — Message Bankprep (19 août 2026)
+10. **Nathaniel OHAYON** *(J.P. Morgan)* — DM (11 août 2026)
+11. **Dean Fong, CFA** *(J.P. Morgan)* — DM (13 août 2026)
+12. **Nick Coleman** *(J.P. Morgan)* — Message Bankprep (19 août 2026)
+13. **Simon Dequidt** *(BofA)* — DM (11 août 2026)
+14. **Baptiste Lotthé** *(Natixis)* — Ancien DM (11 mars 2026)
+15. **Léa Dodet** *(J.P. Morgan)* — Message Bankprep (19 août 2026)
+16. **Marc Blocher-Becker** *(CACIB)* — DM (11 août 2026)
+17. **Baptiste Ragu** *(BofA)* — Message Bankprep (19 août 2026)
+18. **Gerard Morell Alegre** *(BofA)* — Message Bankprep (17 août 2026)
+19. **Yoen Corbel Vivas** *(BofA)* — Échange terminé (Refus poli BofA)
+20. **Bastien Morandini** *(Leonteq)* — Message Bankprep (19 août 2026)
+21. **Victor Baudoin** *(BofA)* — Échange terminé (Conseil reçu)
+22. **Wassim Seifo** — Messages 7 avril & 19 août (Bankprep)
+23. **David Attar** *(Société Générale)* — Pavé CNAM
+24. **Wael Sfar** *(BNP Paribas)* — Pavé CNAM
+25. **Guillaume Bichat** — Message Bankprep (19 août 2026)
+26. **Loïc de TREGLODE** *(BRED)* — Ancien DM (13 mars 2026)
+27. **Mathieu Agostini** *(SGCIB)* — Message Bankprep (19 août 2026)
+28. **Francesco Ratto** *(BNP Paribas)* — Message Bankprep (19 août 2026)
+29. **Théo PETROWSKI** *(BNP Paribas)* — Ancien DM (3 mars 2026)
+30. **Yann Simo** *(Deutsche Bank)* — DM (11 août 2026)
+31. **Badr Lahlou** *(J.P. Morgan)* — Ancien DM (26 février 2026)
+32. **Tiphaine Savignoni** *(ING)* — Ancien DM (21 février 2026)
+33. **Iban Calbete** *(Citi)* — DM août 2026
+34. **Matthieu Blatt** *(CACIB)* — DM août 2026
+35. **Emile Abi Girges** *(EdR)* — DM août 2026
+36. **Thomas Malaval** *(Indosuez Lux)* — DM août 2026
+37. **Guillaume Rodrigues-Martin** *(UBS)* — DM août 2026
+38. **Pierre Caze** *(UBS Lux)* — DM août 2026
+39. **Barbara Fischer** *(Goldman Sachs)* — DM août 2026
+40. **Alexandre Briantais** *(Barclays)* — DM août 2026
+41. **James Eardley** *(Deutsche Bank)* — DM août 2026
+42. **Paul Deüs** *(Citi)* — DM août 2026
+43. **Tom Cazoulat** *(Morgan Stanley)* — DM août 2026
+44. **Daphnée Frontezak** *(Morgan Stanley)* — DM août 2026
+45. **Florent Breemeersch** *(Citi)* — DM août 2026
+46. **Jean Sayegh** — Pavé CNAM juillet 2026
+47. **Antoine Hamel** *(BofA)* — Pavé CNAM juillet 2026
+48. **Olivier Sotto** *(CIC)* — Pavé CNAM juillet 2026
+49. **Theo Joignant** *(BNP Paribas)* — Pavé CNAM juillet 2026
+50. **Theo Calmet** *(Santander)* — Pavé CNAM juillet 2026
+51. **Lucas Besème** *(Berenberg)* — Pavé CNAM juillet 2026
+52. **Anthony Rottino** *(RBC)* — Pavé CNAM juillet 2026
+53. **François Auguet-Mancini** *(BRED)* — Pavé CNAM juillet 2026
+54. **Piyush Pawar** *(J.P. Morgan)* — Pavé CNAM juillet 2026
+55. **Caroline Souvigny** *(UGP)* — Ancien échange 2023
+
+---
+
+## 🟡 C. LES PISTES CHAUDES À RÉVEILLER
+1. **Maxime Fontaine** *(Trésorier @ Decathlon SE)* : Échange en cours sur les besoins de renfort en Janvier 2027 (gros volumes de change et financements).
+2. **Yannick Leite Velho, CFA** *(Global Macro PM @ Arrowpoint)* : A explicitement demandé ton CV (*« Bonjour Calvin, oui bien sûr, je veux bien ton CV... »*).
+3. **Nicolas Couturaud** *(FX Derivatives Trader @ BNP CIB)* : Échange cordial de fin août.
+4. **Alexandre Chanet** *(Delta 1 Trader)* : T'a répondu *« Hello oui je suis dispo »*.
+5. **Yoann Woignier** *(Execution Trader @ Julius Baer Monaco)* : Échange bienveillant en 2023.
+
+---
+
+# 🎨 2. OPÉRATION YASMINE TOUIL — PISTES CLÉS DANS TON RÉSEAU
+* **Benjamin Pelletier** — *Front Office Treasurer @ Bouygues Construction* (Contact direct au sein de la maison mère Bouygues Construction & Immobilier).
+* **Michel Funk** — *Executive Director @ Goldman Sachs* (Spécialisé Real Estate / Immobilier institutionnel).
+* **Romain Ciarlet** — *CEO Fondation Prince Albert II Monaco* (Projets d'urbanisme durable, expositions & scénographie).
+
+---
+
+# ⚙️ 3. OPÉRATION VIANNEY-ALDRIN MINANG — PISTES CLÉS DANS TON RÉSEAU
+* **Maxime Fontaine** — *Trésorier @ Decathlon SE* (Accès direct à la direction logistique et supply chain industrielle Decathlon).
+* **Tomasz Hryniuk** — *Corporate Treasurer @ Lesaffre* (Accès à la direction des opérations industrielles et usines agro-alimentaires).
+* **Sylvie Soundaravelou** — *Head of FO Trading @ TotalEnergies* (Accès direct aux programmes de mobilité internationale et sponsoring visa TotalEnergies).
 
