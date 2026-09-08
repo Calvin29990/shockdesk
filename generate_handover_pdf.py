@@ -1,226 +1,211 @@
-import sys
-from reportlab.lib.pagesizes import letter, A4
+import os
+from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
-from reportlab.platypus import (
-    SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, PageBreak, KeepTogether, HRFlowable
-)
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, PageBreak, KeepTogether, HRFlowable
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
-from reportlab.lib.units import inch, cm
+from reportlab.pdfgen import canvas
 
-def build_pdf(filename="candidatures-reseau-fo/DOSSIER_DE_REPRISE_CHASSE_FO_CALVIN_MINANG.pdf"):
-    doc = SimpleDocTemplate(
-        filename,
-        pagesize=A4,
-        rightMargin=1.5*cm,
-        leftMargin=1.5*cm,
-        topMargin=1.5*cm,
-        bottomMargin=1.5*cm
-    )
+pdf_path = "candidatures-reseau-fo/DOSSIER_DE_REPRISE_CHASSE_FO_CALVIN_MINANG.pdf"
 
-    styles = getSampleStyleSheet()
-    
-    # Custom styles
-    primary_color = colors.HexColor("#0f2b48")
-    accent_color = colors.HexColor("#1b6ca8")
-    dark_gray = colors.HexColor("#222222")
-    light_bg = colors.HexColor("#f4f7f9")
-    
-    title_style = ParagraphStyle(
-        'DocTitle',
-        parent=styles['Heading1'],
-        fontName='Helvetica-Bold',
-        fontSize=20,
-        leading=24,
-        textColor=primary_color,
-        spaceAfter=6
-    )
-    
-    subtitle_style = ParagraphStyle(
-        'DocSubTitle',
-        parent=styles['Normal'],
-        fontName='Helvetica-Bold',
-        fontSize=11,
-        leading=15,
-        textColor=accent_color,
-        spaceAfter=12
-    )
+class NumberedCanvas(canvas.Canvas):
+    def __init__(self, *args, **kwargs):
+        super(NumberedCanvas, self).__init__(*args, **kwargs)
+        self._saved_page_states = []
 
-    h1_style = ParagraphStyle(
-        'Heading1_Custom',
-        parent=styles['Heading2'],
-        fontName='Helvetica-Bold',
-        fontSize=13,
-        leading=17,
-        textColor=primary_color,
-        spaceBefore=12,
-        spaceAfter=6
-    )
+    def showPage(self):
+        self._saved_page_states.append(dict(self.__dict__))
+        self._startPage()
 
-    h2_style = ParagraphStyle(
-        'Heading2_Custom',
-        parent=styles['Heading3'],
-        fontName='Helvetica-Bold',
-        fontSize=10.5,
-        leading=14,
-        textColor=accent_color,
-        spaceBefore=8,
-        spaceAfter=4
-    )
+    def save(self):
+        num_pages = len(self._saved_page_states)
+        for state in self._saved_page_states:
+            self.__dict__.update(state)
+            self.draw_header_footer(num_pages)
+            super(NumberedCanvas, self).showPage()
+        super(NumberedCanvas, self).save()
 
-    body_style = ParagraphStyle(
-        'Body_Custom',
-        parent=styles['Normal'],
-        fontName='Helvetica',
-        fontSize=9,
-        leading=13,
-        textColor=dark_gray,
-        spaceAfter=4
-    )
+    def draw_header_footer(self, page_count):
+        self.saveState()
+        self.setFont("Helvetica-Bold", 8)
+        self.setFillColor(colors.HexColor("#0f172a"))
+        self.drawString(40, 810, "CALVIN MINANG — DOSSIER DE PASSATION & AUDIT RÉSEAU GLOBAL")
+        self.setFont("Helvetica", 8)
+        self.setFillColor(colors.HexColor("#64748b"))
+        self.drawRightString(555, 810, "Septembre 2026 | Confidentiel")
+        self.setStrokeColor(colors.HexColor("#cbd5e1"))
+        self.setLineWidth(0.75)
+        self.line(40, 802, 555, 802)
+        
+        # Footer
+        self.line(40, 45, 555, 45)
+        self.setFont("Helvetica", 8)
+        self.setFillColor(colors.HexColor("#64748b"))
+        self.drawString(40, 32, "Opérations : Calvin (Front Office Janv 2027) | Yasmine (Alternance M2) | Aldrin (Génie Industriel)")
+        self.drawRightString(555, 32, f"Page {self._pageNumber} / {page_count}")
+        self.restoreState()
 
-    bold_body_style = ParagraphStyle(
-        'Bold_Body_Custom',
-        parent=styles['Normal'],
-        fontName='Helvetica-Bold',
-        fontSize=9,
-        leading=13,
-        textColor=dark_gray,
-        spaceAfter=4
-    )
+doc = SimpleDocTemplate(
+    pdf_path,
+    pagesize=A4,
+    leftMargin=40,
+    rightMargin=40,
+    topMargin=50,
+    bottomMargin=55
+)
 
-    code_style = ParagraphStyle(
-        'Code_Custom',
-        parent=styles['Normal'],
-        fontName='Courier',
-        fontSize=8,
-        leading=11,
-        textColor=colors.HexColor("#1a252f"),
-        spaceAfter=3
-    )
+styles = getSampleStyleSheet()
+primary = colors.HexColor("#0f172a")
+accent = colors.HexColor("#1e3a8a")
+success = colors.HexColor("#065f46")
+warning = colors.HexColor("#92400e")
+danger = colors.HexColor("#991b1b")
 
-    story = []
+title_style = ParagraphStyle(
+    'DocTitle',
+    parent=styles['Normal'],
+    fontName='Helvetica-Bold',
+    fontSize=18,
+    leading=22,
+    textColor=primary,
+    spaceAfter=6
+)
 
-    # Title & Metadata
-    story.append(Paragraph("🎯 DOSSIER DE REPRISE STRATÉGIQUE — CHASSE FRONT OFFICE", title_style))
-    story.append(Paragraph("GUIDE MAÎTRE HANDOVER POUR PROCHAINE SESSION ARENA / AGENT IA", subtitle_style))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=primary_color, spaceBefore=2, spaceAfter=10))
+subtitle_style = ParagraphStyle(
+    'DocSubTitle',
+    parent=styles['Normal'],
+    fontName='Helvetica',
+    fontSize=10,
+    leading=14,
+    textColor=colors.HexColor("#475569"),
+    spaceAfter=12
+)
 
-    # Profile Box
-    profile_data = [
-        [
-            Paragraph("<b>Candidat :</b> Calvin Minang", body_style),
-            Paragraph("<b>Formation :</b> SKEMA BS — M2 Finance de Marché (Bac+5)", body_style)
-        ],
-        [
-            Paragraph("<b>Recherche :</b> Stage Fin d'Études FO (Janvier 2027, 6 mois)", body_style),
-            Paragraph("<b>Contact :</b> +33 7 52 97 58 09 (WhatsApp/Tel)", body_style)
-        ],
-        [
-            Paragraph("<b>Disponibilité :</b> Hors France jusqu'au 9 sept / À Paris dès le 10 sept 2026", body_style),
-            Paragraph("<b>GitHub / Projets :</b> https://github.com/Calvin29990", body_style)
-        ],
-        [
-            Paragraph("<b>Compétences Clés :</b> Bilingue FR/ES, Anglais pro, Python (Pricers Autocall/Monte-Carlo/Grecs temps réel, Terminal), VBA", body_style),
-            Paragraph("<b>Cibles Prioritaires :</b> Structuration Dérivés, Trading/Market Making, Sales Cross-Asset, Quant", body_style)
-        ]
-    ]
-    t_profile = Table(profile_data, colWidths=[8.5*cm, 8.5*cm])
-    t_profile.setStyle(TableStyle([
-        ('BACKGROUND', (0,0), (-1,-1), light_bg),
-        ('BOX', (0,0), (-1,-1), 1, accent_color),
-        ('PADDING', (0,0), (-1,-1), 5),
-        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
-    ]))
-    story.append(t_profile)
-    story.append(Spacer(1, 10))
+h1_style = ParagraphStyle(
+    'SectionH1',
+    parent=styles['Normal'],
+    fontName='Helvetica-Bold',
+    fontSize=12,
+    leading=16,
+    textColor=accent,
+    spaceBefore=10,
+    spaceAfter=6
+)
 
-    # SECTION 1
-    story.append(Paragraph("1. DIRECTIVES IMPÉRATIVES POUR LE PROCHAIN AGENT IA", h1_style))
-    story.append(Paragraph("Toute future IA reprenant ce projet DOIT respecter strictement les règles opérationnelles suivantes :", body_style))
-    
-    rules = [
-        "<b>1. ZÉRO BANQUE FRANÇAISE CLASSIQUE :</b> Les banques françaises (BNP, SG, CACIB, Natixis) ont déjà été intensivement contactées lors des premières vagues. Ne plus les cibler SAUF en cas de post LinkedIn ultra-récent (< 24-48h).",
-        "<b>2. PRIORITÉ ABSOLUE AUX BANQUES INTERNATIONALES TIER-1 (PARIS) :</b> Cibler exclusivement Goldman Sachs, Morgan Stanley, Bank of America, Barclays, Deutsche Bank, JPMorgan, Citi, UBS, Nomura à Paris.",
-        "<b>3. INTERDICTION STRICTE DE KEPLER CHEUVREUX :</b> Retirer définitivement tout contact chez Kepler Cheuvreux (expérience décourageante signalée).",
-        "<b>4. FOCUS FRANCE / PARIS :</b> Mettre en pause l'Espagne et la Suisse tant que la place de Paris n'a pas été saturée.",
-        "<b>5. ENVOIS STRICTEMENT 1-À-1 :</b> Ne jamais regrouper plusieurs adresses dans un même mail (protection anti-spam bancaire). Format individuel systématique.",
-        "<b>6. ACCROCHE LÉGITIME ET POLIE :</b> Mentionner la déduction de l'adresse professionnelle suite à leur rôle à la tête du desk, présenter directement le projet GitHub/Python et attacher le CV PDF."
-    ]
-    for r in rules:
-        story.append(Paragraph(f"• {r}", body_style))
-    story.append(Spacer(1, 8))
+h2_style = ParagraphStyle(
+    'SectionH2',
+    parent=styles['Normal'],
+    fontName='Helvetica-Bold',
+    fontSize=10,
+    leading=14,
+    textColor=colors.HexColor("#1e293b"),
+    spaceBefore=6,
+    spaceAfter=4
+)
 
-    # SECTION 2
-    story.append(Paragraph("2. BILAN DES CONTACTS & HISTORIQUE DES ENVOIS EFFECTUÉS (SEPT 2026)", h1_style))
-    story.append(Paragraph("Plus de 35 e-mails individuels ont été envoyés avec succès aujourd'hui. Ne JAMAIS re-contacter les personnes suivantes :", body_style))
+body_style = ParagraphStyle(
+    'DocBody',
+    parent=styles['Normal'],
+    fontName='Helvetica',
+    fontSize=8.5,
+    leading=11.5,
+    textColor=colors.HexColor("#1e293b")
+)
 
-    contacts_data = [
-        ["Institution", "Décideurs & Desks Contactés (Délivrés avec succès)", "Statut"],
-        ["Bank of America Paris", "Leonard Fienberg (MD Head Structuring), Amaury Gosselin (MD), Blaise Prévoteau (MD EGB Trading), Barbara Duval (Sales EQD)", "Envoyé"],
-        ["Goldman Sachs Paris", "Guillaume Tropenat (ED Senior Sales Trader), Alberto Ricci (Global Markets)", "Envoyé"],
-        ["Morgan Stanley Paris", "Antoine Varennes (ED Rates Sales), Megan Roland (ED Equity Sales Trader)", "Envoyé"],
-        ["Deutsche Bank Paris", "Jean-Benoît Bouges (MD DCM), Fabrice Haffner (Director Fixed Income Sales)", "Envoyé"],
-        ["Barclays Paris", "Guillaume Chouabi (Sales Structurés), Audrey Berthe (Sales FX & Rates)", "Envoyé"],
-        ["UBS Paris", "Jérémy Bracci (Director Structured Products Solutions)", "Envoyé"],
-        ["Citi Paris", "Matthieu Boistard (Global Markets Front Office)", "Envoyé"],
-        ["HSBC Paris", "Jérôme Lemue (Head of Corporate Equity Derivatives)", "Envoyé"],
-        ["Amundi Paris", "Paul Guiraud (Derivatives Pricing), Maamoun Mekki (Quant), PENG Yao (Structuration)", "Envoyé"],
-        ["BRED Salle Marchés", "Benjamin Dussault (Senior Structurer EQD), Joël Pacevicius (Trader EQD), Desk FO", "Envoyé"],
-        ["SGCIB / Natixis / CACIB", "David Attar (ETF Trading), Quentin Sattler (Risk Vol), Anastasia Ifergan (Convertibles), etc.", "Envoyé"]
-    ]
-    t_contacts = Table(contacts_data, colWidths=[4*cm, 11*cm, 2*cm])
-    t_contacts.setStyle(TableStyle([
-        ('BACKGROUND', (0,0), (-1,0), primary_color),
-        ('TEXTCOLOR', (0,0), (-1,0), colors.white),
-        ('FONTNAME', (0,0), (-1,0), 'Helvetica-Bold'),
-        ('FONTSIZE', (0,0), (-1,-1), 7.5),
-        ('LEADING', (0,0), (-1,-1), 9.5),
-        ('BACKGROUND', (0,1), (-1,-1), colors.white),
-        ('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#dcdcdc")),
-        ('PADDING', (0,0), (-1,-1), 3),
-        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
-    ]))
-    story.append(t_contacts)
-    story.append(Spacer(1, 8))
+bold_body = ParagraphStyle(
+    'DocBodyBold',
+    parent=body_style,
+    fontName='Helvetica-Bold'
+)
 
-    # SECTION 3 : Bounces
-    story.append(Paragraph("3. LISTE NOIRE DES ADRESSES AYANT REJETÉ LES MAILS (BOUNCES)", h1_style))
-    story.append(Paragraph("Les adresses suivantes sont rejetées par les serveurs bancaires (alias masqués ou blocage externe) — <b>NE PLUS UTILISER</b> :", body_style))
-    story.append(Paragraph("<code>jean-loic.beibro@socgen.com</code>, <code>mathis.postec@ca-cib.com</code>, <code>arsene.delpierre@ca-cib.com</code>, <code>theodore.rousseau@ca-cib.com</code>, <code>luca.ciampi-ruiz@gs.com</code>, <code>mikael.aboucaya@cic.fr</code>, <code>hamza.belkouch@sgcib.com</code>, <code>matthieu.boisot@jpmorgan.com</code>, <code>sophie.farivarz@jpmorgan.com</code>, <code>anne-helene.illich@gs.com</code>.", code_style))
-    story.append(Spacer(1, 8))
+callout_style = ParagraphStyle(
+    'CalloutText',
+    parent=styles['Normal'],
+    fontName='Helvetica',
+    fontSize=8.5,
+    leading=12,
+    textColor=colors.HexColor("#0f172a")
+)
 
-    # SECTION 4 : Master Snipping Template
-    story.append(Paragraph("4. FORMAT DU PROMPT DE SORTIE ATTENDU DE L'IA (EXEMPLE TYPE)", h1_style))
-    story.append(Paragraph("Lorsque l'utilisateur demande de nouvelles cibles, la future IA doit fournir directement le bloc prêt au copier-coller avec l'e-mail, l'objet et le corps personnalisé valorisant Python/GitHub et la logistique du candidat :", body_style))
+story = []
 
-    sample_box = [
-        [Paragraph("<b>🔹 Destinataire :</b> <code>prenom.nom@domaine.com</code><br/>"
-                   "<b>🔹 Objet :</b> <code>Candidature Stage Front Office / [Nom du Desk] — Calvin Minang (Janvier 2027)</code><br/>"
-                   "<b>🔹 Corps :</b><br/>"
-                   "<i>Bonjour [Prénom],<br/>"
-                   "Je me permets de vous contacter directement ayant déduit votre adresse suite à la découverte de vos responsabilités à la tête de [Nom du Desk] chez [Banque] à Paris.<br/>"
-                   "En dernière année de Bac+5 en finance de marché à SKEMA Business School, je développe en Python mes propres outils quantitatifs de desk : simulateur de valorisation d'options et structures à barrières (Autocalls Athena/Phoenix, Monte-Carlo, grecs en temps réel) et terminal de marché (https://github.com/Calvin29990).<br/>"
-                   "Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol. Je serais honoré d'apporter ma rigueur et ma réactivité au service de votre desk.<br/>"
-                   "Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.<br/>"
-                   "Mon CV est joint à ce mail. Merci pour votre temps et excellente journée.<br/>"
-                   "Bien cordialement, Calvin Minang</i>", body_style)]
-    ]
-    t_sample = Table(sample_box, colWidths=[17*cm])
-    t_sample.setStyle(TableStyle([
-        ('BACKGROUND', (0,0), (-1,-1), light_bg),
-        ('BOX', (0,0), (-1,-1), 1, accent_color),
-        ('PADDING', (0,0), (-1,-1), 6),
-    ]))
-    story.append(t_sample)
-    story.append(Spacer(1, 8))
+story.append(Paragraph("DOSSIER DE PASSATION & AUDIT GLOBAL DU RÉSEAU", title_style))
+story.append(Paragraph("<b>Candidat</b> : Calvin Minang — SKEMA Business School (PGE & Double Diplôme MSc Corporate Financial Management / CFM)<br/><b>Opérations actives</b> : Calvin FO Janvier 2027 | Yasmine Touil (Alternance M2) | Vianney-Aldrin Minang (Génie Industriel)", subtitle_style))
+story.append(HRFlowable(width="100%", thickness=1, color=colors.HexColor("#e2e8f0"), spaceAfter=10))
 
-    # SECTION 5 : Next Steps
-    story.append(Paragraph("5. CALENDRIER D'ACTION & ÉVÉNEMENTS CLÉS (SEPTEMBRE 2026)", h1_style))
-    story.append(Paragraph("• <b>Jeudi 3 - Vendredi 4 Septembre :</b> Surveillance des retours d'e-mails (créneaux 7h30-8h30 et 18h30-20h00).<br/>"
-                           "• <b>Mardi 8 - Mercredi 9 Septembre :</b> Lancement des relances douces à J+6 / J+7 pour les décideurs n'ayant pas encore répondu.<br/>"
-                           "• <b>Mardi 15 Septembre 2026 :</b> <b>SKEMA Finance Day 2026</b> en présentiel au Campus Grand Paris (5 quai Marcel Dassault, Suresnes) — Job-dating avec 30+ institutions, sessions de recrutement direct et Golden Tickets.", body_style))
+# Section 1
+story.append(Paragraph("1. PROFIL OFFICIEL & CADRE DU CANDIDAT (CALVIN MINANG)", h1_style))
+prof_text = """
+<b>• Formation :</b> Master 2 Finance @ <b>SKEMA Business School</b> (Programme Grande École + Double Diplôme MSc Corporate Financial Management - CFM, 2022-2026). Classe Prépa IPESUP ECE (2021-2022), Bac S Spé Maths.<br/>
+<b>• Certifications :</b> Candidat FRM (GARP), AMF en cours, Certifications QuantInsti (Python, ML & Options for Trading), Citi Forage Markets.<br/>
+<b>• Expérience Clé :</b> BPCE Assurances — Reporting multi-actifs (FX, Taux, Actions, Indices), Bloomberg BQL, Excel/VBA.<br/>
+<b>• Projets Desk :</b> ShockLab (Stress-testing ML/Python), CalvinX Market Terminal, Options Pricing & Greeks (BSM/VBA).<br/>
+<b>• Statut Actuel FO :</b> En pause temporaire pendant la finalisation de sa préparation technique avec masterclass.
+"""
+story.append(Paragraph(prof_text, body_style))
+story.append(Spacer(1, 8))
 
-    doc.build(story)
-    print("PDF generated successfully:", filename)
+# Section 2
+story.append(Paragraph("2. AUDIT VISUEL À 100% DU RÉSEAU 1ER DEGRÉ CALVIN (PROUVE PAR CAPTURE)", h1_style))
+story.append(Paragraph("<b>A. Top 14 Grands Patrons, MD & Desk Heads FO (100% Vierges Vérifiés) :</b>", h2_style))
 
-if __name__ == "__main__":
-    build_pdf()
+top_heads_data = [
+    [Paragraph("<b>Nom & Prénom</b>", bold_body), Paragraph("<b>Titre & Institution</b>", bold_body), Paragraph("<b>Périmètre / Métier</b>", bold_body)],
+    [Paragraph("Raoul Salomon", body_style), Paragraph("CEO France Barclays & Co-Head Markets Europe", body_style), Paragraph("Global Markets Direction", body_style)],
+    [Paragraph("Herve Alfon", body_style), Paragraph("CEO Marex SA & Co-Head Capital Markets EMEA", body_style), Paragraph("Fixed Income & FX Courtage", body_style)],
+    [Paragraph("Francois Blanc", body_style), Paragraph("Executive Director, IRS Cross-market Trading (Natixis)", body_style), Paragraph("IRS & Rates Pricing", body_style)],
+    [Paragraph("Sylvie Soundaravelou", body_style), Paragraph("Head of Financial Markets Trading @ TotalEnergies", body_style), Paragraph("Trésorerie FO FX / Rates", body_style)],
+    [Paragraph("Rosnan Chotard", body_style), Paragraph("Head Cross-Asset Structuring @ TP ICAP", body_style), Paragraph("Structuration Cross-Asset", body_style)],
+    [Paragraph("Tristan Yonace", body_style), Paragraph("Executive Director @ Morgan Stanley", body_style), Paragraph("Derivatives Risk & Clearing", body_style)],
+    [Paragraph("Michael Hart, CFA", body_style), Paragraph("Executive Director – Credit Sales @ Morgan Stanley", body_style), Paragraph("Vente Crédit Londres", body_style)],
+    [Paragraph("Veronique Sabbah", body_style), Paragraph("Head EMEA Sales - Equity Derivatives @ HSBC", body_style), Paragraph("Direction Vente EQD EMEA", body_style)],
+    [Paragraph("Olivier Moser", body_style), Paragraph("Sales Manager @ Barclays Private Bank Monaco", body_style), Paragraph("Wealth & Markets Monaco", body_style)],
+    [Paragraph("Florent Thy-tine", body_style), Paragraph("Head Equity Research @ TP ICAP", body_style), Paragraph("Recherche Actions & Dérivés", body_style)],
+    [Paragraph("Márcio MARTINS", body_style), Paragraph("Chief Financial Officer @ CMB Monaco", body_style), Paragraph("CFO & Trésorerie Monaco", body_style)],
+    [Paragraph("Romain Ciarlet", body_style), Paragraph("Vice-Chairman & CEO @ Fondation Prince Albert II", body_style), Paragraph("Décideur Monaco", body_style)],
+    [Paragraph("Hervé Samour-Cachian", body_style), Paragraph("CIO / Dir. Gestions Multi-Assets @ APICIL", body_style), Paragraph("Multi-Asset PM", body_style)],
+    [Paragraph("Yann LE HER", body_style), Paragraph("Président 23IS (Ex-Head EQD Americas HSBC)", body_style), Paragraph("Family Office & Dérivés", body_style)],
+]
+t_heads = Table(top_heads_data, colWidths=[110, 240, 165])
+t_heads.setStyle(TableStyle([
+    ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#f1f5f9")),
+    ('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#cbd5e1")),
+    ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
+    ('TOPPADDING', (0,0), (-1,-1), 3),
+    ('BOTTOMPADDING', (0,0), (-1,-1), 3),
+]))
+story.append(t_heads)
+story.append(Spacer(1, 8))
+
+# Section 3
+story.append(Paragraph("3. PISTES CHAUDES & RECOMMANDATIONS DIRECTES DISPONIBLES", h1_style))
+pistes_text = """
+<b>1. Brahim Louati (LCL SDM) :</b> Recommandation directe et email fourni par <b>Ali Megarni</b> (Deutsche Bank) : <code>brahim.louati@lcl-sdm.fr</code>.<br/>
+<b>2. Yannick Leite Velho, CFA (Arrowpoint) :</b> Global Macro PM ayant formellement demandé le CV de Calvin.<br/>
+<b>3. Florence Oudin (FinStart) :</b> Référence professionnelle senior formellement accordée pour les process de recrutement.<br/>
+<b>4. Échéances Octobre 2026 (Janvier 2027) :</b> Manon Giorgi, Matthieu Mugler (CA IDF), Nicolas Ruiz (BNP CIB), Maxime Fontaine (Decathlon SE).
+"""
+story.append(Paragraph(pistes_text, body_style))
+story.append(Spacer(1, 8))
+
+# Section 4
+story.append(Paragraph("4. DOSSIER YASMINE TOUIL — ALTERNANCE M2 ARCHITECTURE / DESIGN", h1_style))
+yas_text = """
+<b>• Objectif :</b> Alternance Master 2 Architecture d'intérieur / Scénographie / Retail Luxe (Région Auvergne-Rhône-Alpes & Paris).<br/>
+<b>• Stratégie :</b> Double recommandation Calvin Minang & Marc-Aurèle Lerno (Crédit Agricole CIB) sans Yasmine en copie.<br/>
+<b>• Packs Prêts :</b> Vague 1 (50 agences Lyon intra-muros archivée) | Vague 2 (50 nouvelles agences réparties par villes : Annecy, Chambéry, Grenoble, Saint-Étienne, Grand Lyon, Scéno/Retail).<br/>
+<b>• Fichier maître :</b> <code>candidatures-reseau-fo/dossier-yasmine-touil/PACK_VAGUE_2_50_MAILS_VILLE_PAR_VILLE_YASMINE.md</code>.
+"""
+story.append(Paragraph(yas_text, body_style))
+story.append(Spacer(1, 8))
+
+# Section 5
+story.append(Paragraph("5. DOSSIER VIANNEY-ALDRIN MINANG — CDI JUNIOR GÉNIE INDUSTRIEL", h1_style))
+ald_text = """
+<b>• Objectif :</b> CDI Junior Mobilité Europe (France, Luxembourg, Belgique) avec sponsoring visa (ANEF, AST, Permis Unique).<br/>
+<b>• Contact direct :</b> <code>via.minang@gmail.com</code> | Tél : <b>+33 7 52 97 58 09</b> / <b>+241 62 20 81 40</b>.<br/>
+<b>• Packs Prêts :</b> 20 emails recruteurs spécialisés génie industriel avec sources + guide légal des visas.
+"""
+story.append(Paragraph(ald_text, body_style))
+
+doc.build(story, canvasmaker=NumberedCanvas)
+print("PDF generated successfully:", pdf_path)
