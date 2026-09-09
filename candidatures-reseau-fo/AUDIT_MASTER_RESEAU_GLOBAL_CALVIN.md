@@ -94,3 +94,16 @@ Ce document centralise, catégorise et archive l'ensemble des relations de Calvi
 # ⚙️ 4. OPÉRATION VIANNEY-ALDRIN MINANG (FRÈRE DE CALVIN)
 * Cibles ingénieurs directes : **Jean-François Massard** (SNCF Matériel), **Antoine Gibert** (CentraleSupélec), **Maxime Fontaine** (Decathlon SE), **Tomasz Hryniuk** (Lesaffre), **Sylvie Soundaravelou** (TotalEnergies).
 
+
+---
+
+# 📅 POINT D'ÉTAPE & DÉCISION STRATÉGIQUE (8/9 SEPTEMBRE 2026 - 23H55)
+* **Dossier Yasmine Touil** : Post officiel publié dans le groupe Facebook Entraide SKEMA.
+* **Levier Mickael Dos Santos (Santander CIB RH)** : 5 permissions envoyées à Florence Oudin, Juliette Siméon, Solène Beneteau, Amira Azaiez, Marie-Vanessa Florentin.
+* **Dossier Calvin Front Office** :
+  * **Décision validée** : **PAUSE STRATÉGIQUE jusqu'au 16 Septembre 2026**.
+  * **Priorités 9-15 Septembre** :
+    1. Finalisation de la masterclass desk et révision technique (fiches Christian Buciulica, Grecs, chocs macro, Python/VBA).
+    2. Récupération de l'e-mail RH Santander CIB via Mickael Dos Santos.
+    3. Événement **Deutsche Bank FIC Virtual Spotlight** (Mardi 15 Septembre à 18h00).
+  * **Lancement de l'offensive en masse (54 Top Décideurs & Traders vierges)** : **Dès le 16 Septembre 2026**.
