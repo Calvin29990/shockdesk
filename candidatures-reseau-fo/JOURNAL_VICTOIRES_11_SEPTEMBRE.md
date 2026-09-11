@@ -9,12 +9,14 @@
 * **Interlocuteur** : **Antony Pini**, FX & EM Rates Sales @ HSBC (ESCP Alumni).
 * **Bilan** : Échange direct par téléphone, décryptage du quotidien en FX & EM Rates Sales et partage des questions types d'entretien.
 
-### 📝 3. CANDIDATURE EN COURS D'INSTRUCTION CHEZ SGCIB
-* **Interlocuteur** : **Oussama Salem**, Hybrid Equity Derivatives Analyst @ SGCIB Paris.
-* **Poste** : Assistant Trader Produits Dérivés Structurés / Risques Exotiques.
-* **Statut** : CV transmis, accusé de réception formel reçu le 10/09 à 22h14.
+### 🏛️ 3. DEUTSCHE BANK & BNP PARIBAS : COACHING DES INSIDERS
+* **Ali Megarni (Deutsche Bank)** : **Coach principal & mentor clé**. Prépare Calvin pour le **FIC Spotlight du 15 Septembre**, a transmis le contact de **Natalja Zvonarjova** (Recruteuse DB FIC Londres) et orienté vers **Brahim Louati** (LCL SDM). Les autres contacts DB (Viraj Aggarwal, etc.) sont connectés dans le réseau en veille passive.
+* **Trader BNP Paribas** : **Mentor technique FO**. Sparring-partner sur les Grecs, la vol, les swaps et le stress-testing ShockDesk.
 
-### 📊 4. BILAN DE DIFFUSION LINKEDIN
+### 📝 4. PERCÉES & RETOURS SOCIÉTÉ GÉNÉRALE CIB (PARIS)
+* **Oussama Salem** (Hybrid Equity Derivatives Analyst) : CV transmis, accusé de réception formel reçu.
+* **Hicham Bougri** (Market Risk Analyst) : Réponse bienveillante à 14h18 proposant de transmettre toute opportunité au sein du département Risques de Marché.
+
+### 📊 5. BILAN DE DIFFUSION LINKEDIN
 * **Total Front Office contactés & verrouillés** : **62 décideurs & traders** (BNP, SG, CACIB, Natixis, DB, Barclays, Morgan Stanley, Citi, BofA, Nomura, TotalEnergies Trading).
 * **Solde de réserve 100% vierge** : **113 profils FO restants**.
-
