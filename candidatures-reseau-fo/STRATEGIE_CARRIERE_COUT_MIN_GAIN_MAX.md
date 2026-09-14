@@ -72,3 +72,10 @@
 2. Calendrier hebdo : chasse (priorité) + 2 soirées note LatAm + WhatsApp/mails SKEMA (10 min/jour max, pas plus : l'école ne consomme plus d'énergie au-delà).
 3. CIC 23/09 : le prêt couvre 16 k€ **+ 4 k€ de vie** → aucune branche ne doit être bloquée par le cash ; c'est le prix de la loyauté, financé, pas subi.
 4. Toutes les candidatures futures : postuler en ligne uniquement ; n'accepter un présentiel qu'au stade final, à Paris.
+
+---
+
+## 🌍 POSITIONNEMENT EM PARIS — CADRE VALIDÉ (14/09)
+**Thèse de positionnement** : à Paris, le trading EM n'existe quasi pas (Londres/Madrid) ; le siège juste = **sales / structuring / coverage FX & taux corporate avec spécialisation EM** + coverage souverain/DCM Afrique-LatAm + banques africaines/marocaines de Paris + développement (AFD/Proparco). Exotic = évité (profils maths). Le trio LatAm / islamique / CFA = **UNE niche de coverage** (« flux entre Paris et les sphères émergentes francophones & latines »), pas trois fronts.
+**Mémoire** : SKEMA le fait — **Dhafer Saidane lui-même** (Islamic finance, finance Afrique, intégration monétaire Maghreb ; campus Lille) → le sujet de mémoire est proposé comme paragraphe final du mail Saidane (levier de réponse). Voie académique pure (Strasbourg, PhD) = non choisie. Credential cheap optionnel : certificat Financia/Al-Ghazali 1 800 € week-ends, session 2027.
+**Cibles Paris du positionnement (vague 2 / slots)** : SG Coverage Afrique/CIB · BNP Paribas Coverage Africa-MENA · CACIB (Afrique + sukuk) · Natixis Coverage EM · Attijariwafa Bank Paris · Bank of Africa Paris · AFD/Proparco · Ecobank bureau Paris · Santander (pont LatAm, déjà en vague 1).

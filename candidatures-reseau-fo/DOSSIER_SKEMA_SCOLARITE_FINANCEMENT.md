@@ -80,6 +80,8 @@ L'année ayant commencé, je vous sollicite sur trois points précis, nécessair
 2) Le maintien de mes accès pédagogiques (Canvas, cours modulaires, examens, validation du mémoire) pendant l'instruction bancaire ;
 3) Une attestation de scolarité à jour précisant ma date prévisionnelle de diplomation et le calendrier de mon stage de fin d'études (décembre 2026 / janvier 2027), pièce exigée par mon dossier de prêt.
 
+Enfin, Monsieur le Professeur, si mon statut le permet, je souhaiterais placer mon mémoire sous votre direction : vos travaux sur la finance islamique et sur les acteurs bancaires africains de l'émergence sont exactement le terrain que je veux documenter — les flux FX et taux entre Paris et la zone CFA et le Maghreb, et la manière dont corporates et banques de la zone se couvrent. Mon parcours (Gabon, prépa au Maroc, six mois au Brésil, campus de Chine) et mon espagnol professionnel nourriraient ce sujet ; mon moteur de stress-test (ShockLab, Python/SQL) peut en constituer la base empirique.
+
 Je réitère mon engagement total à terminer ce M2 au sein de SKEMA et à honorer mes obligations : il ne me manque qu'un cadre clair et un interlocuteur pour le suivre. Je suis joignable à tout moment au +33 7 52 97 58 09 pour un échange téléphonique ou un rendez-vous à Lille.
 
 Respectueusement,
