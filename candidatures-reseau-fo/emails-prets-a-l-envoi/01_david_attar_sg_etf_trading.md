@@ -25,7 +25,7 @@ Actuellement en Bac+5 en finance de marché à SKEMA Business School, je suis pa
 
 Je maîtrise Python et Excel/VBA, je suis bilingue français / espagnol courant avec un bon niveau d'anglais opérationnel. Ce qui m'anime, c'est de m'investir pleinement sur le desk, d'apprendre la gestion quotidienne du book de market making et de contribuer activement à l'automatisation de vos flux.
 
-Petite précision logistique : je suis actuellement hors de France jusqu'au 9 septembre — joignable facilement par WhatsApp, e-mail ou visio au +33 7 52 97 58 09 — et pleinement disponible sur site à La Défense dès le 10 septembre. Pour un premier échange, je m'adapte avec grand plaisir à vos disponibilités.
+Petite précision logistique : je suis de retour à Paris depuis le 10 septembre — joignable facilement par WhatsApp, e-mail ou visio au +33 7 52 97 58 09 — et pleinement disponible sur site à La Défense cette semaine. Pour un premier échange, je m'adapte avec grand plaisir à vos disponibilités.
 
 Mon CV est joint à ce mail. Merci encore pour votre temps et belle journée à vous.
 

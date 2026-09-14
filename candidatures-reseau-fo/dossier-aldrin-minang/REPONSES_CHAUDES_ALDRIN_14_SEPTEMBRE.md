@@ -121,3 +121,16 @@ Vianney-Aldrin Minang · via.minang@gmail.com · WhatsApp uniquement : +33 7 45 
 - **Registre** : 100/100 messages marqués ✅ Envoyé ; lignes 34, 70, 73 marquées 💬 réponse 14/09 ; bloc « STATUT CAMPAGNE » + charte ajoutés en tête.
 - **Inès Touflet** : employeur corrigé Cartier → **Richemont (ex-Cartier)** dans le Pack réseau direct.
 - ⚠️ **Reste à faire avant prochaine salve** : ~27 templates « conseil / Consultant Junior » des autres packs (75, matrice, chasse 50…) sont encore en posture « je cible le conseil » — à réécrire en posture découverte **avant tout envoi** (me les demander, je le fais en lot).
+
+---
+
+## 🌙 CLÔTURE — VOLET ALDRIN MIS EN PAUSE (14/09 au soir)
+> Bascule sur le volet Calvin (stratégie Santander). Aldrin se reprend via CE fichier + le registre (bloc STATUT CAMPAGNE) + `MESSAGES_WHATSAPP_ALDRIN_OFFRES_14_SEPT.md`. Rien d'autre à relire.
+
+**En cours, avec dates :**
+- **14/09 soir** : envoyer les 4 réponses LinkedIn (Laure, Caroline, Anna, Inès) + transférer les 4 messages WhatsApp offres à Aldrin.
+- **15/09** : call Laure Peng (créneaux à confirmer par Aldrin) · postuler Safran réf 2026-186417 · envoyer à Anna 1-2 réfés SAE Gennevilliers/Colombes.
+- **15-16/09** : caler l'échange Caroline Guénard (Bengs).
+- **16/09** : relance douce Nohaila El Ouakily si silence.
+- **16/10** : jobdating Safran Gennevilliers (si candidature retenue).
+- **En attente de reprise** : lot de réécriture des ~27 templates « conseil » (avant toute nouvelle salve) · pack « propres relations » de Cléanne (même modèle qu'Aldrin, plus tard).

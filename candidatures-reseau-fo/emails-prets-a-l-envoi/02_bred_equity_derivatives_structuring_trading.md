@@ -21,7 +21,7 @@ Actuellement étudiant en Bac+5 en finance de marché à SKEMA Business School, 
 
 Je maîtrise Python et Excel/VBA, avec une solide rigueur mathématique, un français natif, un espagnol courant et un bon niveau d'anglais opérationnel. Mon objectif est d'apporter une aide concrète au desk (pricing, automatisation de pricers, term sheets, suivi des positions et de la volatilité) tout en apprenant aux côtés d'une équipe experte.
 
-Petite précision logistique : je suis actuellement hors de France jusqu'au 9 septembre — joignable facilement par WhatsApp, e-mail ou visio au +33 7 52 97 58 09 — et pleinement disponible sur site à Paris dès le 10 septembre. Pour un premier échange téléphonique ou vidéo, je m'adapte à votre planning.
+Petite précision logistique : je suis de retour à Paris depuis le 10 septembre — joignable facilement par WhatsApp, e-mail ou visio au +33 7 52 97 58 09 — et pleinement disponible sur site à Paris cette semaine. Pour un premier échange téléphonique ou vidéo, je m'adapte à votre planning.
 
 Je vous joins mon CV et reste à votre entière disposition. Merci pour votre temps et belle journée.
 
@@ -55,7 +55,7 @@ En dernière année de Bac+5 en finance de marché à SKEMA Business School, je 
 
 Autonome sur Python et VBA, rigoureux et bilingue français / espagnol (avec un bon niveau d'anglais), je serais ravi de vous assister au quotidien : conception de pricers, rédaction de term sheets commerciales, études de payoff et support direct à la vente et au trading.
 
-Petite précision : je suis actuellement hors de France jusqu'au 9 septembre — joignable à tout moment via WhatsApp, visio ou mail au +33 7 52 97 58 09 — et disponible sur site à Paris dès le 10 septembre.
+Petite précision : je suis de retour à Paris depuis le 10 septembre — joignable à tout moment via WhatsApp, visio ou mail au +33 7 52 97 58 09 — et disponible sur site à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Merci infiniment pour votre temps et excellente journée.
 
@@ -86,7 +86,7 @@ Je vous contacte avec un grand enthousiasme afin de vous proposer ma candidature
 
 Très à l'aise avec Python, Excel/VBA et les flux de marché, je souhaite mettre mon énergie et ma rigueur au service de votre trading : suivi des positions, calcul d'explications de P&L, automatisation des outils de desk et exécution.
 
-Précision logistique : je suis hors de France jusqu'au 9 septembre (joignable par WhatsApp, e-mail et visio au +33 7 52 97 58 09) et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis de retour à Paris depuis le 10 septembre (joignable par WhatsApp, e-mail et visio au +33 7 52 97 58 09) et disponible en présentiel à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre écoute et très bonne journée.
 

@@ -65,7 +65,7 @@ En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je me 
 
 Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite apporter mon soutien à votre équipe : tarification et pricing indicatif, rédaction des propositions commerciales pour la clientèle institutionnelle et corporate, et suivi pré/post-trade.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -94,7 +94,7 @@ Actuellement en Bac+5 en finance de marché à SKEMA Business School, je me pass
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol. Je serais honoré de mettre ma rigueur technique et ma motivation au service de votre table de négociation régionale pour l'assistance à la cotation, le suivi des positions et l'optimisation des outils de desk.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
+Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine pour un stage de 6 mois à partir de janvier 2027.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -152,7 +152,7 @@ Je me permets de vous contacter directement concernant les activités de marché
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais ravi de mettre ma motivation au service de votre desk régional pour l'aide aux cotations, le suivi des flux de marché et l'automatisation des outils de reporting.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -181,7 +181,7 @@ Actuellement en Bac+5 finance de marché à SKEMA Business School, je combine un
 
 Rigoureux, bilingue français / espagnol et réactif, je souhaite mettre ma motivation au service de vos équipes pour l'analyse des opérations de marché et l'accompagnement des financements structurés.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -239,7 +239,7 @@ Je me permets de vous contacter avec un grand intérêt concernant les opportuni
 
 Rigoureux, bilingue français / espagnol et à l'aise sur Excel/VBA et Python, je souhaite mettre mes compétences au service de vos équipes pour la préparation des dossiers et le support aux opérations.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -268,7 +268,7 @@ Actuellement en fin d'études de Bac+5 finance de marché à SKEMA Business Scho
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol. Je serais ravi de mettre ma rigueur au service de votre table de négociation : assistance à la cotation des opérations de change et taux, gestion des flux et automatisation des reportings.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel cette semaine.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -297,7 +297,7 @@ En dernière année de Bac+5 en finance de marché à SKEMA Business School, je 
 
 À l'aise sur Python, Excel/VBA et les plateformes de cotation, et bilingue français / espagnol, je souhaite apporter ma réactivité à votre table de marché pour l'assistance aux opérations de change, taux et placements.
 
-Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -326,7 +326,7 @@ Je me permets de vous contacter directement ayant déduit votre adresse suite à
 
 Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais honoré de mettre ma rigueur au service de votre table de négociation à Lille : suivi des flux de clientèle, cotations et automatisation des outils de desk.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine pour un stage de 6 mois à partir de janvier 2027.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -355,7 +355,7 @@ Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Busines
 
 Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais ravi de mettre ma rigueur technique et mon sens relationnel au service de votre desk : pricing indicatif, rédaction de term sheets et suivi des transactions pour la clientèle internationale.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine pour un stage de 6 mois à partir de janvier 2027.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -388,7 +388,7 @@ En fin d'études de Bac+5 finance de marché à SKEMA Business School, je me pas
 
 Rigoureux et autonome, je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais très honoré d'apporter mon enthousiasme et ma rigueur mathématique au service de vos équipes pour le traitement de datasets de marché, le backtesting de modèles et le suivi de production.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -417,7 +417,7 @@ Je me permets de vous contacter avec un grand enthousiasme suite à mes études 
 
 Autonome sur Python (numpy, pandas, scipy) et Excel/VBA, et bilingue français / espagnol, je souhaite mettre ma rigueur technique au service de votre équipe de recherche quantitative pour le backtesting de stratégies systématiques et l'analyse des facteurs de risque.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -446,7 +446,7 @@ Actuellement en Bac+5 finance de marché à SKEMA Business School, je me passion
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais très honoré de mettre ma rigueur analytique au service de votre équipe pour l'analyse de performance, le suivi des risques et le backtesting de signaux quantitatifs.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris cette semaine.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -475,7 +475,7 @@ En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je sui
 
 Rigoureux, autonome sur Python et Excel/VBA, et bilingue français / espagnol, je souhaite mettre ma motivation et ma capacité d'analyse au service de votre équipe pour l'étude des opportunités de marché et le suivi des portefeuilles.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
@@ -504,7 +504,7 @@ C'est avec beaucoup d'intérêt que je me permets de vous contacter suite au for
 
 Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais très honoré d'apporter ma rigueur à vos équipes d'investissement pour l'analyse des transactions, la modélisation financière et la préparation des comités.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -533,7 +533,7 @@ En dernière année de Bac+5 finance de marché à SKEMA Business School, je sui
 
 Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite apporter mon soutien à vos équipes de trading pour l'analyse des flux, le suivi des exécutions et l'optimisation des outils de desk.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -562,7 +562,7 @@ Actuellement en Bac+5 finance de marché à SKEMA Business School, je me consacr
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol. Je serais très honoré de mettre ma rigueur au service de vos gérants pour l'analyse des courbes, le suivi des sensibilités et la préparation des comités d'investissement.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -591,7 +591,7 @@ En dernière année de Bac+5 en finance de marché à SKEMA Business School (M2)
 
 Autonome sur Python et Excel/VBA, et bilingue français / espagnol avec un bon niveau d'anglais professionnel, je souhaite mettre ma réactivité au service de votre équipe : rédaction de pitchs commerciaux, élaboration de term sheets et analyse des opportunités de sous-jacents.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci infiniment pour votre temps et très bonne journée.
 
@@ -620,7 +620,7 @@ Je me permets de vous adresser ma candidature suite à vos publications concerna
 
 Rigoureux, bilingue français / espagnol et à l'aise sur Python et Excel/VBA, je serais honoré d'apporter mon soutien à vos gérants pour le suivi des allocations, la gestion des ordres de souscription/rachat et le contrôle des contreparties de swaps.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible à Paris dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -649,7 +649,7 @@ En fin d'études de Bac+5 finance de marché à SKEMA Business School, je suis p
 
 Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite mettre ma rigueur technique au service de vos traders pour le suivi des positions de trésorerie, la réconciliation des opérations et l'automatisation des contrôles de table.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
@@ -682,7 +682,7 @@ Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Busines
 
 Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais très honoré de mettre ma rigueur technique et ma réactivité au service de vos équipes pour l'analyse des fondamentaux de marché, le pricing de structures d'origination et le suivi des positions de trading.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris/La Défense dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris/La Défense cette semaine pour un stage de 6 mois à partir de janvier 2027.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -711,7 +711,7 @@ En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je sui
 
 Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite apporter ma rigueur à votre table de trading pour l'analyse des flux de production/consommation, le suivi des positions et l'optimisation des outils de desk.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site dès le 10 septembre.
+Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -740,7 +740,7 @@ Je me permets de vous adresser ma candidature suite à vos travaux dans la gesti
 
 Rigoureux, bilingue français / espagnol et à l'aise en anglais, je souhaite mettre mes compétences au service de votre équipe pour la modélisation des risques de volume/prix et l'aide à la décision sur les actifs d'énergie.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -769,7 +769,7 @@ Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Busines
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais opérationnel. Je serais très honoré de mettre ma réactivité et ma rigueur technique au service de votre équipe de trading pour le suivi des marchés européens de l'électricité et l'optimisation des actifs flexibles (BESS, CCGT, renouvelables).
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris cette semaine.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -798,7 +798,7 @@ En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je sui
 
 Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite apporter ma motivation à votre équipe pour le monitoring des positions, l'analyse des spreads et l'amélioration des outils de reporting.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
@@ -827,7 +827,7 @@ En dernière année de Bac+5 en finance de marché à SKEMA Business School, je 
 
 À l'aise sur Python (pandas, numpy, scipy) et Excel/VBA, et bilingue français / espagnol, je souhaite mettre ma réactivité au service de votre table de négociation pour l'analyse des fondamentaux et le développement d'outils d'aide à la décision.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre temps et vous souhaite une excellente journée.
 
@@ -856,7 +856,7 @@ Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Busines
 
 Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais honoré de mettre ma rigueur technique et ma réactivité au service de votre équipe : aide à l'exécution des ordres FX/Taux, suivi des positions de couverture et automatisation des reportings financiers.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -885,7 +885,7 @@ En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je me 
 
 Rigoureux, autonome sur Python et Excel/VBA, et bilingue français / espagnol, je souhaite mettre mon énergie au service de votre table de négociation pour l'assistance aux opérations de couverture, la réconciliation des positions et l'optimisation des outils de reporting.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible à Paris dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -914,7 +914,7 @@ Actuellement en Bac+5 finance de marché à SKEMA Business School, je suis parti
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais opérationnel. Je serais très honoré d'apporter ma rigueur mathématique et ma réactivité au service de vos équipes pour le monitoring de l'exposition globale et l'évaluation des instruments de couverture.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -943,7 +943,7 @@ Je me permets de vous contacter afin de vous présenter ma candidature pour un s
 
 Autonome sur Python et Excel/VBA, et bilingue français / espagnol, je souhaite mettre ma réactivité au service de vos opérateurs pour le suivi des positions d'exposition, l'aide à l'exécution et l'automatisation des reportings.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
@@ -976,7 +976,7 @@ Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Busines
 
 Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais très honoré de mettre ma réactivité, mon énergie et ma rigueur au service de vos courtiers : assistance à l'exécution des ordres, saisie des opérations de marché et suivi des flux interbancaires.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris cette semaine pour un stage de 6 mois à partir de janvier 2027.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -1005,7 +1005,7 @@ En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je sui
 
 Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite mettre ma rigueur technique et ma motivation au service de votre table pour l'assistance aux opérations quotidiennes et le suivi des contreparties institutionnelles.
 
-Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site dès le 10 septembre.
+Précision utile : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -1034,7 +1034,7 @@ Je me permets de vous soumettre ma candidature pour un stage de 6 mois à compte
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais très heureux d'apporter ma réactivité et mon enthousiasme à votre table de courtage : pricing indicatif, suivi des intérêts acheteurs/vendeurs et support à l'exécution.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -1063,7 +1063,7 @@ Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Busines
 
 Rigoureux, bilingue français / espagnol et à l'aise sur Python et Excel/VBA, je souhaite mettre ma réactivité au service de vos courtiers pour l'assistance à l'exécution des ordres, le suivi des positions et l'analyse de flux.
 
-Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible à Paris dès le 10 septembre.
+Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
@@ -1092,7 +1092,7 @@ En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je sui
 
 Autonome sur Python et Excel/VBA, et bilingue français / espagnol, je serais très motivé à l'idée de mettre mon dynamisme et ma rigueur au service de votre table de négociation pour l'assistance aux courtiers et la confirmation des opérations.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel cette semaine.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre temps et vous souhaite une excellente journée.
 
@@ -1121,7 +1121,7 @@ Je me permets de vous contacter avec un vif intérêt concernant les opportunit�
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je souhaite apporter ma réactivité et mon enthousiasme à vos équipes pour l'assistance aux ventes et le suivi des ordres clients.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -1150,7 +1150,7 @@ Actuellement en fin d'études de Bac+5 en finance de marché à SKEMA Business S
 
 Rigoureux, bilingue français / espagnol et à l'aise sur Python et Excel/VBA, je serais honoré d'apporter mon soutien à votre table de courtage pour l'animation des flux et le suivi des exécutions.
 
-Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -1179,7 +1179,7 @@ Je me permets de vous contacter concernant les opportunités de stage au sein du
 
 Bilingue français / espagnol avec un bon niveau d'anglais professionnel, je souhaite mettre ma rigueur technique au service de votre équipe pour l'analyse des véhicules d'investissement et le suivi des mandats complexes.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
@@ -1212,7 +1212,7 @@ Actuellement en dernière année de Bac+5 en finance de marché à SKEMA Busines
 
 Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol (atout direct pour échanger avec les équipes de Madrid, Paris et Londres) avec un bon niveau d'anglais professionnel. Je serais ravi de mettre ma rigueur technique et ma motivation au service de votre desk pour le pricing de structures, la préparation des term sheets et le suivi des flux de marché.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris cette semaine pour un stage de 6 mois à partir de janvier 2027.
 
 Mon CV est joint à ce message. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -1241,7 +1241,7 @@ En fin d'études de Bac+5 en finance de marché à SKEMA Business School, je sui
 
 Autonome sur Python et Excel/VBA, et bilingue français / espagnol (avec une excellente maîtrise de la terminologie financière espagnole), je serais très honoré de mettre mes compétences au service de votre desk pour le pricing indicatif et le support aux opérations transfrontalières France/Espagne.
 
-Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -1270,7 +1270,7 @@ Je me permets de vous adresser ma candidature pour un stage de 6 mois à compter
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je souhaite mettre ma rigueur au service de vos équipes pour la préparation des term sheets et l'analyse de marché.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -1299,7 +1299,7 @@ En dernière année de Bac+5 en finance de marché à SKEMA Business School, je 
 
 Autonome sur Python et Excel/VBA, rigoureux et bilingue français / espagnol avec un bon niveau d'anglais opérationnel, je souhaite apporter mon soutien à vos traders et sales pour le suivi quotidien des positions et l'exécution des ordres clients.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible sur site à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
@@ -1328,7 +1328,7 @@ Actuellement en Bac+5 finance de marché à SKEMA Business School, je me passion
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un solide niveau d'anglais. Je serais honoré de mettre ma réactivité et mes compétences quantitatives au service de votre desk de négociation.
 
-Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision utile : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -1357,7 +1357,7 @@ Je me permets de vous contacter avec un grand intérêt concernant les opportuni
 
 Rigoureux, à l'aise sur Python et Excel/VBA, et bilingue français / espagnol, je souhaite mettre ma motivation au service de votre équipe pour la préparation des term sheets et le support aux opérations.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci pour votre temps et très belle journée.
 
@@ -1386,7 +1386,7 @@ En dernière année de Bac+5 en finance de marché à SKEMA Business School, je 
 
 Je maîtrise parfaitement Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais ravi de mettre ma rigueur au service de votre table de négociation pour l'aide aux cotations et le suivi des spreads.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel à Paris cette semaine.
 
 Mon CV est joint à ce message. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -1415,7 +1415,7 @@ Actuellement en Bac+5 finance de marché à SKEMA Business School, je me consacr
 
 Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je souhaite mettre ma rigueur au service de vos équipes pour l'analyse des transactions et le support au trading/origination.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel dès le 10 septembre.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible en présentiel cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre temps et très belle journée.
 
@@ -1444,7 +1444,7 @@ Je me permets de vous adresser ma candidature pour un stage de 6 mois à compter
 
 Je maîtrise Python et Excel/VBA, et je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais très honoré d'apporter ma rigueur et ma réactivité à vos équipes de vente et de structuration.
 
-Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible dès le 10 septembre.
+Précision logistique : je suis joignable au +33 7 52 97 58 09 jusqu'au 9 septembre et disponible cette semaine.
 
 Mon CV est joint à cet e-mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 
@@ -1473,7 +1473,7 @@ En dernière année de Bac+5 en finance de marché à SKEMA Business School (M2)
 
 Autonome sur Python et Excel/VBA, réactif et bilingue français / espagnol, je serais ravi de mettre ma rigueur technique au service de votre desk de trading : assistance aux opérations de repo, suivi des positions de collatéral et automatisation des outils de pricing.
 
-Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris dès le 10 septembre pour un stage de 6 mois à partir de janvier 2027.
+Précision logistique : je suis joignable via WhatsApp au +33 7 52 97 58 09 jusqu'au 9 septembre et pleinement disponible en présentiel à Paris cette semaine pour un stage de 6 mois à partir de janvier 2027.
 
 Mon CV est joint à ce mail. Je vous remercie pour votre attention et vous souhaite une excellente journée.
 

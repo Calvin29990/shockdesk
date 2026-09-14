@@ -29,7 +29,7 @@ Je recherche mon stage de fin d'études de 6 mois en Front Office / Marchés de 
 
 Je serais très honoré de recueillir votre retour d'expérience et d'échanger 10 minutes avec vous si une opportunité de stage est à pourvoir au sein de votre équipe ou d'un desk confrère chez Deutsche Bank.
 
-Petite précision logistique : je suis actuellement hors de France jusqu'au 9 septembre (joignable via WhatsApp, mail ou visio au +33 7 52 97 58 09) et pleinement disponible sur site à Paris dès le 10 septembre.
+Petite précision logistique : je suis de retour à Paris depuis le 10 septembre (joignable via WhatsApp, mail ou visio au +33 7 52 97 58 09) et pleinement disponible sur site à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Merci infiniment pour votre temps et belle journée à vous !
 
@@ -57,7 +57,7 @@ Actuellement en Bac+5 finance de marché à SKEMA Business School, je suis vivem
 
 Autonome sur Python et Excel/VBA, et bilingue français / espagnol (avec un bon niveau d'anglais), je serais ravi d'échanger avec vous si votre équipe accueille un stagiaire pour la session de janvier.
 
-Précision logistique : je suis à l'étranger jusqu'au 9 septembre (joignable sur WhatsApp, mail ou visio au +33 7 52 97 58 09) et pleinement disponible à Paris dès le 10 septembre.
+Précision logistique : je suis de retour à Paris depuis le 10 septembre (joignable sur WhatsApp, mail ou visio au +33 7 52 97 58 09) et pleinement disponible à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Merci pour votre temps et bonne journée.
 
@@ -84,7 +84,7 @@ Actuellement étudiant en Bac+5 finance de marché à SKEMA Business School, je 
 
 Rigoureux, autonome sur Python et Excel/VBA, je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je serais honoré d'apporter mon soutien à vos équipes de vente pour l'analyse des flux de marché, la rédaction de notes stratégiques et le suivi des clients.
 
-Petite précision : je suis hors de France jusqu'au 9 septembre (joignable par WhatsApp, mail ou visio au +33 7 52 97 58 09) et disponible en présentiel à Paris dès le 10 septembre.
+Petite précision : je suis de retour à Paris depuis le 10 septembre (joignable par WhatsApp, mail ou visio au +33 7 52 97 58 09) et disponible en présentiel à Paris cette semaine.
 
 Mon CV est joint à cet e-mail. Merci pour votre temps et très belle journée.
 
@@ -114,7 +114,7 @@ Je me permets de vous contacter avec un vif intérêt afin de vous soumettre ma 
 
 Très à l'aise avec Python et Excel/VBA, je suis bilingue français / espagnol avec un bon niveau d'anglais professionnel. Je souhaite mettre ma rigueur et mon enthousiasme au service de vos équipes de marchés pour le pricing, la réalisation de term sheets et le suivi quotidien des opérations.
 
-Précision logistique : je suis hors de France jusqu'au 9 septembre (joignable via WhatsApp, mail ou visio au +33 7 52 97 58 09) et disponible en présentiel à Paris dès le 10 septembre.
+Précision logistique : je suis de retour à Paris depuis le 10 septembre (joignable via WhatsApp, mail ou visio au +33 7 52 97 58 09) et disponible en présentiel à Paris cette semaine.
 
 Vous trouverez mon CV ci-joint. Merci beaucoup pour votre attention et belle journée.
 
@@ -141,7 +141,7 @@ Actuellement en fin d'études de Bac+5 en finance de marché à SKEMA Business S
 
 Je suis **bilingue français et espagnol courant** (langue maternelle / d'usage), avec un bon niveau d'anglais professionnel et une solide maîtrise de Python et Excel/VBA. Mon objectif professionnel à court et moyen terme est de construire ma carrière en banque d'investissement entre Paris et l'Espagne (Madrid / Barcelone). Je serais donc ravi de rejoindre votre équipe.
 
-Petite précision logistique : je suis actuellement hors de France jusqu'au 9 septembre — joignable facilement par WhatsApp, mail ou visio au +33 7 52 97 58 09 — et disponible à votre convenance pour échanger.
+Petite précision logistique : je suis de retour à Paris depuis le 10 septembre — joignable facilement par WhatsApp, mail ou visio au +33 7 52 97 58 09 — et disponible à votre convenance pour échanger.
 
 Vous trouverez mon CV ci-joint. Merci infiniment pour votre temps et belle journée.
 
@@ -224,7 +224,7 @@ Je recherche mon stage de fin d'études de 6 mois en Front Office / Produits Str
 
 Je serais très honoré de recueillir vos précieux conseils lors d'un court échange de 10 minutes à votre convenance.
 
-Petite précision logistique : je suis actuellement à l'étranger jusqu'au 9 septembre (joignable facilement via WhatsApp ou visio au +33 7 52 97 58 09).
+Petite précision logistique : je suis de retour à Paris depuis le 10 septembre (joignable facilement via WhatsApp ou visio au +33 7 52 97 58 09).
 
 Mon CV est joint à cet e-mail. Merci infiniment pour votre temps et belle journée à vous !
 
