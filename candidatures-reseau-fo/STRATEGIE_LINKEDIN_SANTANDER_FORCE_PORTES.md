@@ -27,7 +27,7 @@ Bonjour Elodie,
 
 Merci pour l'acceptation ! Comme indiqué, Mickael Dos Santos (RH CIB Paris) m'a orienté vers les desks après étude de mon profil.
 
-En 3 lignes : SKEMA M2 finance de marché ; j'ai programmé en Python un simulateur de book de dérivés avec calcul de sensibilités en temps réel (github.com/Calvin29990) ; bilingue français-espagnol avec la terminologie financière des deux côtés. Titre de séjour français : droit de travailler immédiat, aucune démarche employeur.
+En 3 lignes : SKEMA M2 (PGE + MSc Corporate Financial Management), candidat FRM ; auteur de CalvinX Market Terminal (terminal cross-asset, démo publique) et de ShockLab (stress-test de portefeuille en Python/ML, github.com/Calvin29990) ; bilingue français-espagnol avec la terminologie financière des deux côtés. Titre de séjour français : droit de travailler immédiat, aucune démarche employeur.
 
 Je vise un stage FO janvier 2027 (structuration / produits structurés) puis un poste junior. Deux questions seulement : (1) votre desk prend-il des stagiaires sur le cycle janvier 2027 ? (2) sinon, qui serait la bonne personne à qui parler ?
 
@@ -93,7 +93,7 @@ Bonjour [Prénom], Calvin Minang (SKEMA M2 finance de marché). Orienté par M. 
 - **Relance J+6 (prête)** :
 ```text
 Bonjour Théo, je me permets une relance courte et respectueuse.
-Nouveau depuis mon message : je finalise mon dashboard cross-asset (pricing + sensibilités) et valide mes UE CNAM finance stochastique/ML — je vous le montre en 10 min si ça a du sens pour votre desk FI Sales.
+Nouveau depuis mon message : je finalise CalvinX Market Terminal (terminal cross-asset : pricing, sensibilités, régime risk-on/off, démo publique) et valide mes UE CNAM finance stochastique/ML — candidat FRM — je vous le montre en 10 min si ça a du sens pour votre desk FI Sales.
 Sinon, une seule question : à qui dois-je adresser ma candidature pour le cycle janvier 2027 chez Santander Paris ? Je ne vous sollicite pas plus. Merci, Calvin Minang · +33 7 52 97 58 09
 ```
 
@@ -106,7 +106,7 @@ Bonjour Gauthier, Calvin Minang — SKEMA même promo (2024-2025), track corpora
 ```
 - **Message 1 post-acceptation (sans parler de Théo)** :
 ```text
-Merci Gauthier ! Contexte rapide : M2 SKEMA track corporate, orienté produits dérivés par choix (stage reporting multi-actifs FX/taux/indices chez BPCE, Bloomberg BQL, dashboard cross-asset en Python, UE CNAM finance stochastique & ML en cours). Titre de séjour français = droit de travailler immédiat.
+Merci Gauthier ! Contexte rapide : M2 SKEMA (PGE + double diplôme MSc Corporate Financial Management), orienté produits dérivés par choix : stage reporting multi-actifs FX/taux/indices chez BPCE Assurances, Bloomberg BQL, terminal cross-asset CalvinX Market Terminal, UE CNAM finance stochastique & ML en cours, candidat FRM. Titre de séjour français = droit de travailler immédiat.
 Deux questions, réponses courtes bienvenues :
 1) Comment tu as atterri sur le desk Structured Products Sales (canal, timing, entretiens) ?
 2) Le desk prend-il des stagiaires pour janvier 2027, et qui décide ?
@@ -126,3 +126,10 @@ Merci pour ton temps, je rends l'ascenseur dès que je peux. Calvin · +33 7 52 
 - **Règle** : zéro claim « FMI », zéro claim de programme non vérifié dans tout message/template. Le récit corporate→marchés est un ATOUT (choix délibéré, preuve par le code), pas un handicap.
 - **Nuance actée** : « les FMI sont parfois arrogants » ≠ tous — approche peer factuelle, sans flatterie ni défensive.
 - **À synchroniser dès réception du CV/Portfolio** (fichiers non parvenus au workspace le 14/09) : intitulé exact du M2, dates de stages, intitulés de postes — puis aligner hub README (« M2 FINANCE DE MARCHÉ SKEMA »), templates emails et notes LinkedIn sur le CV réel.
+- **✅ REÇU & LU LE 14/09 (Drive)** — fiche d'identité factuelle de référence (CV + Portfolio + cours ShockDesk) :
+  - **Programme** : SKEMA PGE (grade Master, M2) + double diplôme **MSc Corporate Financial Management** · IPESUP ECE 2021-22 · dispo **déc. 2026** (→ stage janv. 2027 cohérent).
+  - **Stages** : BPCE Assurances — Analyste Reporting Multi-Actifs (01-05/2024) · FinStart — Analyste Sales & Recrutement (06-08/2023).
+  - **Projets nommés** : **CalvinX Market Terminal** (JS/Python, démo calvin-minibloomberg.netlify.app) · **Greeks au Max** (pricer Black-Scholes VBA, cas Petrobras/krach mars 2020) · **ShockLab** (stress-test Python/SQL/ML, 25 événements × 8 actifs, fade vs cascade) · ShockDesk (repo + cours 19 modules).
+  - **Certifs** : FRM candidat (GARP) · AMF en cours · Citi Markets S&T (Forage) · QuantInsti ×3 · CNAM (UE finance stochastique & ML, en cours d'inscription).
+  - **Langues** : FR natif · EN B2/C1 · **ES B2** · tech : Excel/VBA, Bloomberg BQL, Python (pandas, scikit-learn), SQL BigQuery, R, JS.
+  - **Formules autorisées** : « M2 SKEMA (PGE + MSc Corporate Financial Management) » · « candidat FRM » · jamais « FMI », jamais « M2 finance de marché » comme intitulé de diplôme (c'est l'orientation, pas le programme).

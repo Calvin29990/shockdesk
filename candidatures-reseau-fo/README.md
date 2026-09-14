@@ -1,4 +1,4 @@
-# 🎯 HUB DE CHASSE FRONT OFFICE — CALVIN MINANG (M2 FINANCE DE MARCHÉ SKEMA)
+# 🎯 HUB DE CHASSE FRONT OFFICE — CALVIN MINANG (M2 SKEMA — PGE + MSc Corporate Financial Management, orientation marchés)
 
 Bienvenue dans le centre de commande de la chasse réseau Front Office (Structuration Dérivés, Trading, Sales Marchés/Structurés, Quant).
 
