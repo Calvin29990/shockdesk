@@ -58,13 +58,14 @@
 
 ---
 
-## ✂️ WHATSAPP MME GENEVIÈVE — v2 (14/09)
+## ✂️ WHATSAPP MME GENEVIÈVE — v3 (14/09, ton WhatsApp naturel, pas de formule littéraire)
 ```text
-Bonjour Madame Geneviève, j'espère que vous allez bien.
-Petit point d'avancement : le service financement m'a répondu — une bourse d'urgence est possible, mais la décision tombe en novembre et le montant restera modeste : le prêt bancaire reste ma voie principale, et mon rendez-vous au CIC le 23 septembre est maintenu.
-Là où je ne suis plus accompagné du tout, c'est le volet scolaire : le responsable de programme ne répond pas, l'année a commencé, et j'ignore encore mon statut exact (matières à rattraper, critères, calendrier), si mes accès pédagogiques sont maintenus, et je n'ai pas l'attestation de scolarité que ma banque me demandera le 23.
-Auriez-vous la bonté de me recommander un contact à Lille — scolarité ou programme — qui accepterait 10 à 15 minutes au téléphone pour faire le point de façon personnalisée ? Je reste loyal à SKEMA et je veux finir ce M2 dans la maison : il ne me manque qu'un interlocuteur humain.
-Merci infiniment pour votre écoute. Calvin
+Bonjour Madame Geneviève, j'espère que vous allez bien 🙂
+Je reviens vers vous parce que je suis bloqué : le contact que vous m'aviez donné (M. Saidane, responsable du programme) ne répond pas, et malgré mes relances à la scolarité, à KARE et sur Onestop, personne ne me répond non plus.
+L'année a commencé et j'ignore toujours mon statut exact (rattrapages, calendrier), si mes accès aux cours sont maintenus, et je n'ai pas l'attestation de scolarité que le CIC va me demander le 23 septembre pour mon prêt.
+Est-ce que vous connaîtriez quelqu'un à Lille — scolarité ou programme — qui accepterait de m'accorder 10-15 min au téléphone pour faire le point ? C'est vraiment ce qui me débloquerait.
+Merci encore pour tout 🙏
+Calvin
 ```
 
 ## ✂️ MAIL PROGRAMME — SAIDANE (cc Marino, financialaid) — 14/09
