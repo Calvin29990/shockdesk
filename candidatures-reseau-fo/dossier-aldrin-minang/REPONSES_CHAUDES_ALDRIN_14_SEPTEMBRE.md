@@ -71,7 +71,7 @@ Merci encore pour ton aide !
 Bien à toi,
 Vianney-Aldrin Minang · via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
 ```
-> ✅ **Action immédiate derrière** : relevé des offres SAE Gennevilliers/Colombes (méthodes / industrialisation / production) avec leurs références `SAFR-xxxxx`, puis 2e message à Anna : « voici les 2 références qui me correspondent : … ». Ne pas citer d'offre dont la fiche est centrée CAO/dessin industriel (charte §2).
+> ✅ **Action immédiate derrière** : offre réelle trouvée le 14/09 — **« Ingénieur-e Méthodes — Jobdating SAE 16 octobre 2026 Gennevilliers » (réf 2026-186417, CDI Colombes)** : https://www.safran-group.com/jobs/france/colombes/ingenieur-e-methodes-jobdating-sae-16-octobre-2026-gennevilliers-fh-186417 → postuler + envoyer la réf à Anna (+ 1-2 autres réfés SAE Gennevilliers/Colombes si besoin). Le jobdating du 16/10 compense le « 3 ans d'expérience » de la fiche. Contexte site : 150 M€ d'investissement, 130 postes créés dès 2026. Salaire visé : 36-42 k€ + 13e mois + intéressement/participation. Message WhatsApp pour Aldrin : `MESSAGES_WHATSAPP_ALDRIN_OFFRES_14_SEPT.md` (message 2).
 
 ### 4. Inès Touflet (Richemont) — postuler à son offre
 ```text
@@ -84,7 +84,11 @@ Et c'est noté pour le site carrières Richemont, je le suivrai régulièrement.
 Merci encore !
 Vianney-Aldrin Minang · via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
 ```
-> ⚠️ **Avant de postuler** : lire la fiche jr133216. Si la CAO / le dessin industriel y sont centraux, postuler quand même mais en cadrant honnêtement dans la lettre : « notions de CAO, pratique limitée — ma valeur ajoutée est sur les méthodes, le Lean et l'amélioration continue ». Jamais de claim CAO.
+> ⚠️ **Fiche jr133216 lue le 14/09 — 3 vrais points de vigilance** :
+> 1. **Cœur de poste = dessin technique / CAO** (CFC dessinateur exigé, plans de phase, outillages, PLM) = zone faible d'Aldrin → postuler en se positionnant méthodes/process/amélioration continue, transparence CAO (« notions, pratique limitée »), zéro bluff.
+> 2. **Poste à COUVET (Suisse), CDD** → permis de travail suisse hors-UE très restrictif pour un Gabonais : ne pas mettre tous les œufs dans ce panier ; scanner en parallèle careers.richemont.com (postes France/UE).
+> 3. Attractif malgré tout : salaire méthodes horlogerie CH ≈ 60-70 k CHF (≈ 56-65 k€) et Inès est DANS l'équipe → postuler coûte zéro, recommandation possible.
+> Détail complet + message WhatsApp pour Aldrin dans `MESSAGES_WHATSAPP_ALDRIN_OFFRES_14_SEPT.md` (message 1).
 
 ### 5. Nohaila El Ouakily — relance douce J+2 (si silence au 16/09)
 ```text
