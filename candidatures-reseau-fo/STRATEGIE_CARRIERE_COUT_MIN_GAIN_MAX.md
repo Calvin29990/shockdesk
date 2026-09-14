@@ -79,3 +79,17 @@
 **Thèse de positionnement** : à Paris, le trading EM n'existe quasi pas (Londres/Madrid) ; le siège juste = **sales / structuring / coverage FX & taux corporate avec spécialisation EM** + coverage souverain/DCM Afrique-LatAm + banques africaines/marocaines de Paris + développement (AFD/Proparco). Exotic = évité (profils maths). Le trio LatAm / islamique / CFA = **UNE niche de coverage** (« flux entre Paris et les sphères émergentes francophones & latines »), pas trois fronts.
 **Mémoire** : SKEMA le fait — **Dhafer Saidane lui-même** (Islamic finance, finance Afrique, intégration monétaire Maghreb ; campus Lille) → le sujet de mémoire est proposé comme paragraphe final du mail Saidane (levier de réponse). Voie académique pure (Strasbourg, PhD) = non choisie. Credential cheap optionnel : certificat Financia/Al-Ghazali 1 800 € week-ends, session 2027.
 **Cibles Paris du positionnement (vague 2 / slots)** : SG Coverage Afrique/CIB · BNP Paribas Coverage Africa-MENA · CACIB (Afrique + sukuk) · Natixis Coverage EM · Attijariwafa Bank Paris · Bank of Africa Paris · AFD/Proparco · Ecobank bureau Paris · Santander (pont LatAm, déjà en vague 1).
+
+---
+
+## 🎯 CAP TRADER — AVANTAGE COMPARATIF & PORTES (14/09, remplace le cadrage "coverage" pour le JOB)
+**Positionnement job** : FX & taux, spécialité LatAm, **preuve par le code**. Afrique/CFA + islamique = couleur du mémoire (Saidane) UNIQUEMENT, pas du positionnement de chasse (décision Calvin 14/09).
+**Vérité de desk actée** : (a) l'année assistant convertit plus souvent vers sales que vers trading → 3 portes en parallèle ; (b) sales → structuring = progression COMMUNE (upside probable) ; assistant → trader flow tier-1 <3 ans sans pedigree quant = improbable → le trading s'obtient par les portes 2/3 ou un move an 2-3 ; (c) « personne ne peut me tester sur BRL » = FAUX : on teste plus dur ce qu'on revendique → l'edge LatAm n'existe que testable (cahier + niveaux + noms de corporates).
+**Portes** :
+1. Banque Paris : assistant sales/trading FX & taux corporate-EM — Santander FI sales (Théo), BNP/SG/CACIB/Natixis corporate FX, MS/GS/JPM Paris post-Brexit.
+2. Broker Paris : TP ICAP, Marex, CFT — FX EM voice/e-broking, zéro filtre école, switch broker→trader classique.
+3. Market making crypto/numérique Paris : Flowdesk, Wintermute — meritocratique, code = diplôme.
+Madrid/Londres (book FX LatAm Santander = Madrid) : branche conditionnelle SI offre trading + sponsorship (titre de séjour FR ≠ droit de travail ES/UK).
+**Rendus qui fabriquent l'edge testable** : cahier LatAm v1 au 15/10 (BRL/MXN : Selic-DI-NDF basis, carry financé EUR, 3 cas hedging nommés : Carrefour Brésil, Engie Brésil, Renault/Michelin, 1 scénario à niveaux) ; démo ShockLab 90 s en entretien ; registre de chasse raconté comme journal de trading.
+**Edges réels** : ① code comme preuve ② LatAm vécu + ES B2 quantifié ③ process/journalisation. **Non-edges** : marque SKEMA en trading, Afrique/CFA/islamique côté job.
+**Cibles vague 2 ajoutées** : TP ICAP Paris · Marex Paris · CFT Paris · Flowdesk · Wintermute (Paris/Londres).
