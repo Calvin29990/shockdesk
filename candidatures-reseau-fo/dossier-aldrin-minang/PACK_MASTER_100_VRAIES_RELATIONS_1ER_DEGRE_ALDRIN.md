@@ -16,7 +16,7 @@ Bonjour Gabriel,
 
 J'espère que tes opérations chez Amazon se passent pour le mieux !
 
-Diplômé en Génie Industriel de l'UTT, je recherche activement un poste d'Area Manager / Shift Manager en logistique de distribution. J'ai une solide pratique du management de la performance terrain, du Lean et de la fluidification des flux.
+Ex-UTT, diplômé en Génie Industriel, je recherche activement un poste d'Area Manager / Shift Manager en logistique de distribution. J'ai une solide pratique du management de la performance terrain, du Lean et de la fluidification des flux.
 
 Aurais-tu des conseils sur les recrutements actuels ou la possibilité de pousser mon profil pour les besoins de ton site ?
 
@@ -32,7 +32,7 @@ Salut Mohamad,
 
 J'espère que tout se passe super bien pour toi chez Amazon !
 
-En tant qu'ingénieur Génie Industriel issu de l'UTT, je prépare activement mon intégration en logistique industrielle / e-commerce sur des postes de Shift Manager / Operations Lead.
+En tant qu'ingénieur Génie Industriel ex-UTT, je prépare activement mon intégration en logistique industrielle / e-commerce sur des postes de Shift Manager / Operations Lead.
 
 Aurais-tu un créneau pour échanger sur ton retour d'expérience et les ouvertures de postes chez Amazon ?
 
@@ -80,7 +80,7 @@ Salut Adrien,
 
 J'espère que tout se passe pour le mieux pour toi chez Mondelēz !
 
-Ingénieur Génie Industriel diplômé de l'UTT, je suis axé sur la modélisation de la demande, la gestion des stocks de sécurité et l'alignement usine-marché. Je recherche un poste de Demand / Supply Planner Junior en CDI.
+Ingénieur Génie Industriel ex-UTT, je suis axé sur la modélisation de la demande, la gestion des stocks de sécurité et l'alignement usine-marché. Je recherche un poste de Demand / Supply Planner Junior en CDI.
 
 Aurais-tu quelques minutes pour échanger sur la dynamique Supply Chain dans ton groupe ?
 
@@ -224,7 +224,7 @@ Bonjour Eloi,
 
 J'espère que la coordination des flux fournisseurs et de la Supply Chain amont se déroule au top !
 
-Diplômé en Génie Industriel de l'UTT, j'ai une solide compétence dans la sécurisation des approvisionnements, le respect des délais de livraison et le suivi de performance. Je recherche un poste d'Ingénieur Supply Chain Amont Junior.
+Ex-UTT, diplômé en Génie Industriel, j'ai une solide compétence dans la sécurisation des approvisionnements, le respect des délais de livraison et le suivi de performance. Je recherche un poste d'Ingénieur Supply Chain Amont Junior.
 
 Penses-tu que nous pourrions échanger quelques instants sur les perspectives au sein de ton entreprise ?
 
@@ -272,7 +272,7 @@ Salut Ludovic,
 
 J'espère que tes opérations logistiques et le pilotage fournisseurs se passent très bien !
 
-En tant qu'ingénieur Génie Industriel diplômé de l'UTT, je cible un poste d'Ingénieur Supply Chain / Approvisionnements en milieu industriel exigeant.
+En tant qu'ingénieur Génie Industriel ex-UTT, je cible un poste d'Ingénieur Supply Chain / Approvisionnements en milieu industriel exigeant.
 
 Aurais-tu quelques minutes pour me partager ton retour d'expérience et d'éventuelles opportunités ?
 
@@ -354,7 +354,7 @@ Bonjour Rémi,
 
 J'espère que tes chantiers d'industrialisation chez GE Vernova se déroulent avec grand succès !
 
-Diplômé en Génie Industriel de l'UTT, je possède une solide formation en méthodes de fabrication haute tension, outillages spécifiques et amélioration continue. Je recherche activement un poste d'Ingénieur Méthodes / Industrialisation Junior.
+Ex-UTT, diplômé en Génie Industriel, je possède une solide formation en méthodes de fabrication haute tension, outillages spécifiques et amélioration continue. Je recherche activement un poste d'Ingénieur Méthodes / Industrialisation Junior.
 
 Aurais-tu quelques minutes pour m'aiguiller sur les opportunités chez GE Vernova ?
 
@@ -370,7 +370,7 @@ Bonjour Quentin,
 
 J'espère que les projets d'industrialisation chez Liebherr en Suisse progressent parfaitement !
 
-Ingénieur en Génie Industriel issu de l'UTT, je suis axé sur l'industrialisation mécanique, la validation des gammes de montage et le suivi de production série. Je recherche un CDI Junior en Ingénierie Méthodes / Industrialisation.
+Ingénieur en Génie Industriel ex-UTT, je suis axé sur l'industrialisation mécanique, la validation des gammes de montage et le suivi de production série. Je recherche un CDI Junior en Ingénierie Méthodes / Industrialisation.
 
 Serais-tu disponible pour me partager ton retour sur les opportunités au sein de Liebherr ?
 
@@ -514,7 +514,7 @@ Bonjour Lauriane,
 
 J'espère que tes démarches d'excellence opérationnelle chez VINCI Facilities progressent avec succès !
 
-Diplômée en Génie Industriel de l'UTT, je possède une solide expertise dans le diagnostic de processus, la fluidification des interventions et l'animation de chantiers de progrès. Je recherche un CDI Junior en Performance Opérationnelle / Méthodes.
+Ex-UTT, diplômé en Génie Industriel, je possède une solide expertise dans le diagnostic de processus, la fluidification des interventions et l'animation de chantiers de progrès. Je recherche un CDI Junior en Performance Opérationnelle / Méthodes.
 
 Penses-tu qu'il y ait des opportunités ouvertes pour un jeune ingénieur dans ton pôle ?
 
@@ -610,7 +610,7 @@ Salut Mattéo,
 
 J'espère que tes activités en études et méthodes industrielles avancent à merveille !
 
-En tant qu'ingénieur Génie Industriel issu de l'UTT, je recherche un CDI Junior en tant qu'Ingénieur Méthodes / Industrialisation.
+En tant qu'ingénieur Génie Industriel ex-UTT, je recherche un CDI Junior en tant qu'Ingénieur Méthodes / Industrialisation.
 
 Aurais-tu quelques minutes pour échanger sur vos projets actuels et les besoins de ton bureau d'études ?
 
@@ -660,7 +660,7 @@ Bonjour William,
 
 J'espère que tes projets d'ingénierie au sein de la Maison Hermès se développent à merveille !
 
-Diplômé en Génie Industriel de l'UTT, je suis passionné par l'excellence manufacturière du luxe, la précision des gammes opératoires et l'optimisation des ateliers artisanaux. Je recherche un CDI Junior en Ingénierie Méthodes / Industrialisation.
+Ex-UTT, diplômé en Génie Industriel, je suis passionné par l'excellence manufacturière du luxe, la précision des gammes opératoires et l'optimisation des ateliers artisanaux. Je recherche un CDI Junior en Ingénierie Méthodes / Industrialisation.
 
 Aurais-tu des conseils sur la meilleure façon de postuler auprès des manufactures Hermès ?
 
@@ -692,7 +692,7 @@ Bonjour Clément,
 
 J'espère que les ouvertures et projets de store planning chez CELINE avancent à un excellent rythme !
 
-Ingénieur Génie Industriel issu de l'UTT, j'ai une solide compétence dans le pilotage des approvisionnements, la coordination de chantiers de prestige et la relation fournisseurs. Je recherche un poste en Achats / Supply Chain Junior.
+Ingénieur Génie Industriel ex-UTT, j'ai une solide compétence dans le pilotage des approvisionnements, la coordination de chantiers de prestige et la relation fournisseurs. Je recherche un poste en Achats / Supply Chain Junior.
 
 Penses-tu qu'il y ait des opportunités au sein des équipes opérations de CELINE ?
 
@@ -708,7 +708,7 @@ Bonjour Thibault,
 
 J'espère que les développements horlogers à La Fabrique du Temps se passent magnifiquement bien !
 
-Diplômé en Génie Industriel de l'UTT, je me passionne pour la gestion des composants de haute horlogerie, l'industrialisation des pièces et le suivi de production d'exception. Je recherche un poste d'Ingénieur Méthodes / Industrialisation Junior.
+Ex-UTT, diplômé en Génie Industriel, je me passionne pour la gestion des composants de haute horlogerie, l'industrialisation des pièces et le suivi de production d'exception. Je recherche un poste d'Ingénieur Méthodes / Industrialisation Junior.
 
 Aurais-tu un moment pour me partager ton retour sur ton expérience dans la Maison ?
 
@@ -772,7 +772,7 @@ Salut Jingyi,
 
 J'espère que tout se passe au mieux dans tes projets merchandising !
 
-En tant qu'alumni UTT en Génie Industriel, je m'intéresse de très près à la Supply Chain et aux opérations des Maisons de luxe. Je recherche activement mon premier CDI en gestion des opérations / Supply Chain.
+En tant qu'ingénieur Génie Industriel ex-UTT, je m'intéresse de très près à la Supply Chain et aux opérations des Maisons de luxe. Je recherche activement mon premier CDI en gestion des opérations / Supply Chain.
 
 Aurais-tu quelques minutes pour me donner ton éclairage sur les meilleures portes d'entrée dans les grands groupes de luxe ?
 
@@ -788,7 +788,7 @@ Bonjour Romain,
 
 J'espère que tes projets de sûreté et systèmes chez Hermès se déroulent avec grand succès !
 
-Diplômé en Génie Industriel de l'UTT, je cible des postes d'ingénieur méthodes, process et opérations au sein des manufactures et directions techniques de prestige.
+Ex-UTT, diplômé en Génie Industriel, je cible des postes d'ingénieur méthodes, process et opérations au sein des manufactures et directions techniques de prestige.
 
 Aurais-tu la gentillesse de m'orienter vers les équipes recrutement de la Maison Hermès ?
 
@@ -804,7 +804,7 @@ Bonjour Mathéo,
 
 J'espère que tes déploiements applicatifs chez Hublot en Suisse progressent parfaitement !
 
-Ingénieur Génie Industriel diplômé de l'UTT, je suis passionné par l'industrie horlogère de précision, la gestion des flux de composants et l'optimisation des processus de manufacture. Je recherche un CDI Junior en Opérations / Méthodes Horlogères.
+Ingénieur Génie Industriel ex-UTT, je suis passionné par l'industrie horlogère de précision, la gestion des flux de composants et l'optimisation des processus de manufacture. Je recherche un CDI Junior en Opérations / Méthodes Horlogères.
 
 Aurais-tu de la visibilité sur les besoins actuels au sein de la manufacture Hublot ?
 
@@ -838,7 +838,7 @@ Salut Maël,
 
 J'espère que tes projets matériaux chez Safran avancent à grand pas !
 
-Diplômé en Génie Industriel de l'UTT, je recherche un CDI Junior en tant qu'Ingénieur Méthodes / Procédés Aéronautiques chez Safran (gammes d'usinage, industrialisation et Lean).
+Ex-UTT, diplômé en Génie Industriel, je recherche un CDI Junior en tant qu'Ingénieur Méthodes / Procédés Aéronautiques chez Safran (gammes d'usinage, industrialisation et Lean).
 
 Aurais-tu la possibilité de pousser ma candidature ou de m'indiquer les équipes qui recrutent actuellement ?
 
@@ -918,7 +918,7 @@ Bonjour Mélanie,
 
 J'espère que les opérations de distribution et services chez Air Liquide se portent au mieux !
 
-Ingénieur en Génie Industriel diplômé de l'UTT, je me concentre sur la fiabilité d'exploitation, l'optimisation des tournées et la sécurité des procédés. Je recherche un CDI Junior en tant qu'Ingénieur Méthodes / Exploitation.
+Ingénieur en Génie Industriel ex-UTT, je me concentre sur la fiabilité d'exploitation, l'optimisation des tournées et la sécurité des procédés. Je recherche un CDI Junior en tant qu'Ingénieur Méthodes / Exploitation.
 
 Penses-tu qu'il y ait des ouvertures de postes pour un profil junior chez Air Liquide ?
 
@@ -934,7 +934,7 @@ Bonjour Sufyan,
 
 J'espère que tes projets d'analyse et de transformation technique chez TotalEnergies OneTech avancent à grand pas !
 
-Ingénieur Génie Industriel de l'UTT, je suis spécialisé dans la modélisation de la performance industrielle et le suivi de projets énergétiques. Je recherche un CDI Junior en Gestion de Projets Industriels / Opérations.
+Ingénieur Génie Industriel ex-UTT, je suis spécialisé dans la modélisation de la performance industrielle et le suivi de projets énergétiques. Je recherche un CDI Junior en Gestion de Projets Industriels / Opérations.
 
 Aurais-tu quelques minutes pour échanger sur les perspectives au sein de OneTech ?
 
@@ -950,7 +950,7 @@ Salut Alexis,
 
 J'espère que tes affaires et projets chez EDF se déroulent parfaitement !
 
-En tant qu'ingénieur Génie Industriel issu de l'UTT, je cible des postes d'ingénieur méthodes, grands projets ou coordination de travaux dans le secteur énergétique.
+En tant qu'ingénieur Génie Industriel ex-UTT, je cible des postes d'ingénieur méthodes, grands projets ou coordination de travaux dans le secteur énergétique.
 
 Saurais-tu m'indiquer les bons relais recrutement au sein d'EDF pour jeunes diplômés ?
 
@@ -966,7 +966,7 @@ Bonjour Floriane,
 
 J'espère que tes études de chiffrage et conception chez Bouygues Energies & Services avancent bien !
 
-Diplômé en Génie Industriel de l'UTT, je maîtrise le calcul des coûts industriels (Should-Cost), l'optimisation des processus de réponse à appel d'offres et la coordination de chantiers. Je recherche un CDI Junior en Méthodes / Chiffrage.
+Ex-UTT, diplômé en Génie Industriel, je maîtrise le calcul des coûts industriels (Should-Cost), l'optimisation des processus de réponse à appel d'offres et la coordination de chantiers. Je recherche un CDI Junior en Méthodes / Chiffrage.
 
 Penses-tu qu'il y ait des postes juniors à pourvoir dans ton agence ?
 
@@ -1000,7 +1000,7 @@ Bonjour Pierre,
 
 J'espère que tes missions de conseil en stratégie opérationnelle chez Cylad avancent avec brio !
 
-Diplômé en Génie Industriel de l'UTT, je me passionne pour la compétitivité industrielle, le pilotage de grands programmes et la performance de production. Je recherche un poste de Consultant Junior en Opérations.
+Ex-UTT, diplômé en Génie Industriel, je me passionne pour la compétitivité industrielle, le pilotage de grands programmes et la performance de production. Je recherche un poste de Consultant Junior en Opérations.
 
 Aurais-tu 5 minutes pour me partager ton retour d'expérience sur ton intégration chez Cylad ?
 
@@ -1016,7 +1016,7 @@ Salut Guillaume,
 
 J'espère que tes projets de conseil en opérations chez KPMG se déroulent au top !
 
-En tant qu'ingénieur Génie Industriel diplômé de l'UTT, je cible le conseil en transformation des opérations, Lean et performance de chaîne de valeur. Je recherche un poste de Consultant Junior.
+En tant qu'ingénieur Génie Industriel ex-UTT, je cible le conseil en transformation des opérations, Lean et performance de chaîne de valeur. Je recherche un poste de Consultant Junior.
 
 Penses-tu qu'il soit possible d'échanger brièvement sur les critères de recrutement de ta practice ?
 
@@ -1048,7 +1048,7 @@ Bonjour Laure,
 
 J'espère que tes interventions de conseil en Supply Chain se déroulent pour le mieux !
 
-Diplômée en Génie Industriel de l'UTT, je combine modélisation de flux, optimisation des stocks et digitalisation des processus logistiques. Je recherche activement un poste de Consultante Junior Supply Chain.
+Ex-UTT, diplômé en Génie Industriel, je combine modélisation de flux, optimisation des stocks et digitalisation des processus logistiques. Je recherche activement un poste de Consultante Junior Supply Chain.
 
 Aurais-tu quelques minutes pour me faire part de ton retour d'expérience en cabinet ?
 
@@ -1064,7 +1064,7 @@ Salut Mateo,
 
 J'espère que ta mission chez BearingPoint et ton master à l'ESSEC se passent super bien !
 
-En tant qu'ingénieur issu de l'UTT, je me tourne activement vers le conseil en stratégie industrielle et transformation des opérations.
+En tant qu'ingénieur Génie Industriel ex-UTT, je me tourne activement vers le conseil en stratégie industrielle et transformation des opérations.
 
 Aurais-tu un moment pour me partager tes conseils sur les process de recrutement chez BearingPoint ?
 
@@ -1096,7 +1096,7 @@ Bonjour Christina,
 
 J'espère que tes missions de conseil et d'intégration PLM progressent au mieux !
 
-Diplômée en Génie Industriel de l'UTT, je m'intéresse tout particulièrement à la digitalisation des bureaux d'études et des ateliers de fabrication. Je cible un poste de Consultante PLM / Industrie 4.0 Junior.
+Ex-UTT, diplômé en Génie Industriel, je m'intéresse tout particulièrement à la digitalisation des bureaux d'études et des ateliers de fabrication. Je cible un poste de Consultante PLM / Industrie 4.0 Junior.
 
 Penses-tu que nous pourrions échanger brièvement sur les opportunités dans ton cabinet ?
 
@@ -1112,7 +1112,7 @@ Salut Julien,
 
 J'espère que tout se passe pour le mieux sur tes missions PLM chez Capgemini !
 
-Diplômé en Génie Industriel de l'UTT, je souhaite intégrer une practice PLM / Industrie du futur en tant qu'Ingénieur Consultant Junior.
+Ex-UTT, diplômé en Génie Industriel, je souhaite intégrer une practice PLM / Industrie du futur en tant qu'Ingénieur Consultant Junior.
 
 Aurais-tu la possibilité de transmettre ma candidature aux managers de ton pôle ?
 
@@ -1128,7 +1128,7 @@ Bonjour Laure,
 
 J'espère que tes projets de conseil technologique chez Wavestone avancent à merveille !
 
-Ingénieur Génie Industriel diplômé de l'UTT, je cible le conseil en architecture industrielle et transformation numérique des opérations. Je recherche un poste d'Analyste / Consultant Junior.
+Ingénieur Génie Industriel ex-UTT (Lean, production, supply chain), je découvre encore l'univers du conseil : c'est justement pour comprendre ce monde et la façon dont un profil opérations junior peut y contribuer que je vise un poste d'Analyste / Consultant Junior.
 
 Aurais-tu quelques minutes pour me donner ton ressenti sur la vie au sein du cabinet ?
 
@@ -1144,7 +1144,7 @@ Salut Louis,
 
 J'espère que tes missions alliant data et optimisation des processus industriels se portent au mieux !
 
-En tant qu'ingénieur Génie Industriel de l'UTT, je partage ton approche orientée solutions concrètes pour résoudre les problèmes d'usine et de flux. Je cherche activement mon premier poste de Consultant Industriel Junior.
+En tant qu'ingénieur Génie Industriel ex-UTT, je partage ton approche orientée solutions concrètes pour résoudre les problèmes d'usine et de flux. Je cherche activement mon premier poste de Consultant Industriel Junior.
 
 Aurais-tu un créneau pour échanger sur vos projets actuels ?
 
@@ -1176,7 +1176,7 @@ Bonjour Caroline,
 
 J'espère que tes missions de digitalisation des achats chez Bengs se déroulent au top !
 
-Ingénieur en Génie Industriel de l'UTT, j'ai développé une solide expertise en optimisation des processus d'approvisionnement et outils digitaux. Je recherche un poste de Consultant Junior en Achats & Supply Chain.
+Ingénieur en Génie Industriel ex-UTT, axé sur l'optimisation des processus d'approvisionnement et l'amélioration continue. Je découvre le conseil et serais preneur de ton regard : je recherche un poste junior en Achats & Supply Chain, en cabinet ou en industrie.
 
 Penses-tu qu'il soit possible d'échanger brièvement sur les recrutements de ton cabinet ?
 
@@ -1208,7 +1208,7 @@ Bonjour Julien,
 
 J'espère que tes projets d'automatisation et de stratégie Supply Chain avancent parfaitement !
 
-Ingénieur Génie Industriel de l'UTT, je combine modélisation des flux, data analytics et automatisation logistique. Je suis activement en quête d'un poste d'Ingénieur Supply Chain / Transformation Digitale Junior.
+Ingénieur Génie Industriel ex-UTT, je combine modélisation des flux, data analytics et automatisation logistique. Je suis activement en quête d'un poste d'Ingénieur Supply Chain / Transformation Digitale Junior.
 
 Serais-tu disponible pour échanger sur les méthodologies et opportunités dans ton secteur ?
 
@@ -1292,7 +1292,7 @@ Bonjour Camille,
 
 J'espère que tes recrutements de talents techniques chez atryon se portent à merveille !
 
-Ingénieur Génie Industriel diplômé de l'UTT, je suis disponible pour des opportunités en CDI Junior en Ingénierie Méthodes, Industrialisation ou Supply Chain.
+Ingénieur Génie Industriel ex-UTT, je suis disponible pour des opportunités en CDI Junior en Ingénierie Méthodes, Industrialisation ou Supply Chain.
 
 Aurais-tu des mandats industriels confiés par vos clients correspondant à mon profil technique ?
 
@@ -1340,9 +1340,9 @@ Bonjour Marion,
 
 J'espère que vous allez très bien !
 
-En tant que jeune diplômé en Génie Industriel de l'UTT, je suis activement en recherche de mon premier poste en CDI Junior en France / Europe (Ingénieur Méthodes / Lean / Supply Chain).
+En tant que jeune diplômé en Génie Industriel ex-UTT, je suis activement en recherche de mon premier poste en CDI Junior en France / Europe (Ingénieur Méthodes / Lean / Supply Chain).
 
-Auriez-vous connaissance d'entreprises partenaires de l'UTT recrutant actuellement nos jeunes diplômés sur ces profils ?
+Auriez-vous connaissance d'entreprises partenaires de l'UTT recrutant actuellement des jeunes diplômés sur ces profils ?
 
 Merci infiniment pour votre soutien continu aux alumni,
 Vianney-Aldrin Minang · via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
@@ -1356,7 +1356,7 @@ Bonjour Lucie,
 
 J'espère que tout se passe pour le mieux à l'UTT !
 
-Diplômé de la filière Génie Industriel de l'UTT, je finalise mes démarches pour décrocher mon premier emploi en CDI Junior en Ingénierie des Opérations / Supply Chain.
+Ex-UTT, diplômé de la filière Génie Industriel, je finalise mes démarches pour décrocher mon premier emploi en CDI Junior en Ingénierie des Opérations / Supply Chain.
 
 Auriez-vous des contacts d'entreprises ou de recruteurs sollicitant régulièrement l'école à me partager ?
 
@@ -1406,7 +1406,7 @@ Salut Adélie,
 
 J'espère que tout se passe au mieux pour toi dans tes missions Supply Chain et Amélioration Continue !
 
-Diplômé comme toi en Génie Industriel de l'UTT, je suis en recherche active d'un premier poste en CDI Junior.
+Passé par l'UTT comme toi, diplômé en Génie Industriel, je suis en recherche active d'un premier poste en CDI Junior.
 
 Aurais-tu des pistes ou le contact de managers dans ton entreprise ouverts aux profils UTT ?
 
@@ -1438,7 +1438,7 @@ Bonjour Céline,
 
 J'espère que tout va pour le mieux pour toi !
 
-Diplômé en Génie Industriel de l'UTT, je suis axé sur l'optimisation des flux, le dimensionnement des lignes et la performance d'atelier. Je recherche un CDI Junior en méthodes industrielles.
+Ex-UTT, diplômé en Génie Industriel, je suis axé sur l'optimisation des flux, le dimensionnement des lignes et la performance d'atelier. Je recherche un CDI Junior en méthodes industrielles.
 
 Ravi de pouvoir échanger sur nos retours d'expérience et les opportunités du secteur !
 
@@ -1470,7 +1470,7 @@ Bonjour Charlotte,
 
 J'espère que tes missions d'ingénierie industrielle progressent à merveille !
 
-Diplômé en Génie Industriel de l'UTT, je suis spécialisé dans le déploiement des outils Lean, l'équilibrage de poste et la robustesse des opérations. Je cible un poste d'Ingénieur Industrialisation / Lean Junior.
+Ex-UTT, diplômé en Génie Industriel, je suis spécialisé dans le déploiement des outils Lean, l'équilibrage de poste et la robustesse des opérations. Je cible un poste d'Ingénieur Industrialisation / Lean Junior.
 
 Penses-tu qu'il soit possible d'échanger brièvement sur les opportunités dans ton groupe ?
 
@@ -1518,7 +1518,7 @@ Bonjour Lisa,
 
 J'espère que tes activités industrielles se passent à merveille !
 
-En tant qu'ingénieur diplômé en Génie Industriel de l'UTT, je recherche un CDI Junior en tant qu'Ingénieur Méthodes / Lean / Amélioration Continue.
+En tant qu'ingénieur Génie Industriel ex-UTT, je recherche un CDI Junior en tant qu'Ingénieur Méthodes / Lean / Amélioration Continue.
 
 Penses-tu qu'il y ait des opportunités au sein de ton entreprise pour un jeune profil UTT ?
 
@@ -1550,7 +1550,7 @@ Salut Selma,
 
 J'espère que tes projets d'ingénierie se passent au top !
 
-Diplômé de l'UTT en Génie Industriel, je recherche activement une opportunité en CDI Junior en méthodes industrielles et gestion de production.
+Ex-UTT, diplômé en Génie Industriel, je recherche activement une opportunité en CDI Junior en méthodes industrielles et gestion de production.
 
 Aurais-tu des conseils ou une recommandation à me partager pour des postes ouverts ?
 
@@ -1566,7 +1566,7 @@ Salut Simon,
 
 J'espère que tes missions en génie industriel progressent avec succès !
 
-En tant qu'ingénieur issu de l'UTT, je suis axé sur la performance de fabrication, la standardisation et les méthodes Lean. Je cherche un CDI Junior.
+En tant qu'ingénieur Génie Industriel ex-UTT, je suis axé sur la performance de fabrication, la standardisation et les méthodes Lean. Je cherche un CDI Junior.
 
 Saurais-tu s'il existe des recrutements dans ton entreprise ?
 
@@ -1582,7 +1582,7 @@ Bonjour Amandine,
 
 J'espère que tout se passe parfaitement dans tes missions d'ingénierie !
 
-Diplômé en Génie Industriel de l'UTT, je recherche un premier poste en CDI Junior en tant qu'Ingénieur Méthodes / Industrialisation / Supply Chain.
+Ex-UTT, diplômé en Génie Industriel, je recherche un premier poste en CDI Junior en tant qu'Ingénieur Méthodes / Industrialisation / Supply Chain.
 
 Penses-tu qu'il y ait des opportunités au sein de ta structure ?
 
@@ -1614,7 +1614,7 @@ Salut Bastien,
 
 J'espère que tes chantiers d'ingénierie mécanique et industrielle se déroulent avec grand succès !
 
-Ingénieur diplômé de l'UTT, je suis disponible pour des opportunités en CDI Junior en tant qu'Ingénieur Méthodes, Industrialisation ou Gestion de Production.
+Ingénieur Génie Industriel ex-UTT, je suis disponible pour des opportunités en CDI Junior en tant qu'Ingénieur Méthodes, Industrialisation ou Gestion de Production.
 
 Saurais-tu s'il existe des postes ouverts au sein de ton entreprise pour lesquels mon profil serait pertinent ?
 

@@ -399,7 +399,7 @@ Salut [Prénom],
 
 J'espère que tout se passe super bien pour toi chez [Entreprise] !
 
-En tant qu'alumni UTT en Génie Industriel, je prépare activement mon intégration en entreprise en CDI Junior sur des postes d'Ingénieur Méthodes / Amélioration Continue / Supply Chain.
+En tant qu'ingénieur Génie Industriel ex-UTT, je prépare activement mon intégration en entreprise en CDI Junior sur des postes d'Ingénieur Méthodes / Amélioration Continue / Supply Chain.
 
 Saurais-tu s'il existe des opportunités d'embauche ou un programme de cooptation interne chez [Entreprise] ?
 

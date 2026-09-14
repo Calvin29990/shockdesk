@@ -49,7 +49,7 @@ Salut Julien,
 
 J'espère que ton Graduate Program chez Amazon se passe super bien !
 
-En tant qu'ingénieur en Génie Industriel issu de l'UTT, je prépare activement mes candidatures pour intégrer le Graduate Program Operations / Area Manager chez Amazon.
+En tant qu'ingénieur en Génie Industriel ex-UTT, je prépare activement mes candidatures pour intégrer le Graduate Program Operations / Area Manager chez Amazon.
 
 Aurais-tu 5 minutes pour me partager ton retour d'expérience sur le process et les clés pour réussir l'intégration ?
 
@@ -77,7 +77,7 @@ Vianney-Aldrin Minang · via.minang@gmail.com
 
 # 💎 CLUSTER 2 : LUXE & INDUSTRIALISATION (Cartier, Louis Vuitton, CELINE, Hermès, L'Oréal)
 
-### 5. [Inès Touflet](https://www.linkedin.com/in/ines-touflet/) — Chargée d’Industrialisation @ Cartier
+### 5. [Inès Touflet](https://www.linkedin.com/in/ines-touflet/) — Chargée d’Industrialisation @ Richemont (ex-Cartier)
 ```text
 Bonjour Inès,
 
@@ -231,7 +231,7 @@ Salut Mathis,
 
 J'espère que tes missions d'optimisation des achats et de la Supply Chain chez BCG INVERTO se passent super bien !
 
-En tant qu'ingénieur Génie Industriel issu de l'UTT, je m'intéresse de très près aux méthodologies d'INVERTO sur l'excellence opérationnelle et la compétitivité industrielle.
+En tant qu'ingénieur Génie Industriel ex-UTT, je m'intéresse de très près aux méthodologies d'INVERTO sur l'excellence opérationnelle et la compétitivité industrielle.
 
 Aurais-tu un moment pour échanger sur ton parcours et sur les opportunités de recrutement junior au sein du cabinet ?
 
