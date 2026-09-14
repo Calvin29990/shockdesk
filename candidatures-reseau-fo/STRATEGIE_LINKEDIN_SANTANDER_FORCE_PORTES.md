@@ -133,3 +133,8 @@ Merci pour ton temps, je rends l'ascenseur dès que je peux. Calvin · +33 7 52 
   - **Certifs** : FRM candidat (GARP) · AMF en cours · Citi Markets S&T (Forage) · QuantInsti ×3 · CNAM (UE finance stochastique & ML, en cours d'inscription).
   - **Langues** : FR natif · EN B2/C1 · **ES B2** · tech : Excel/VBA, Bloomberg BQL, Python (pandas, scikit-learn), SQL BigQuery, R, JS.
   - **Formules autorisées** : « M2 SKEMA (PGE + MSc Corporate Financial Management) » · « candidat FRM » · jamais « FMI », jamais « M2 finance de marché » comme intitulé de diplôme (c'est l'orientation, pas le programme).
+
+### ⚖️ ARBITRAGE VP THÉO — 14/09 : « AUJOURD'HUI ON LAISSE »
+- Pitch lu (Théo actif en ligne) + silence délibéré → aucun 2e message sans élément nouveau.
+- Ordre : **Gauthier ce soir** (intelligence desk) → relance Théo à **J+5/J+6 du pitch** (texte ci-dessus, une seule fois) → si muet +7 j : intro chaude via 1 des 85 communs, puis gate D+7.
+- À compléter : date exacte d'envoi du pitch Théo (pour caler J+6).
