@@ -88,3 +88,35 @@ Respectueusement,
 Calvin MINANG — M2 PGE / CFM, campus de Lille
 Candidat FRM (GARP) & AMF
 ```
+
+
+---
+
+##  CONTACT DÉBLOQUÉ PAR MME GENEVIÈVE (14/09, 21:08) — SANDRINE CHARRON
+- **Canal** : WhatsApp Geneviève v3 envoyé 20:41 → réponse 21:08 : « Bonsoir Calvin, Essayez sandrine.charron@skema.edu »
+- **Rôle présumé** : scolarité ou programme, campus Lille (à confirmer par signature/fonction dans sa réponse)
+- **Règle** : premier contact 1:1, AUCUN cc ; relance J+2 avec cc Marino + financialaid si silence
+- **Statut** : mail rédigé (ci-dessous), à envoyer le 14/09 au soir ou le 15/09 avant 9h00
+
+### ✂️ MAIL SANDRINE CHARRON (objet inclus)
+**Objet** : Point scolarité M2 — Calvin MINANG (PGE / CFM, campus Lille) — recommandation de Mme Geneviève — échéance bancaire 23/09
+```text
+Madame Charron,
+
+Je me permets de vous écrire sur la recommandation de Mme Geneviève, que je remercie.
+
+Étudiant en M2 PGE / double diplôme MSc Corporate Financial Management sur le campus de Lille, je suis dans une situation bloquée : l'année a commencé et je ne connais ni mon statut scolaire exact (matières à rattraper, critères, calendrier), ni l'état de mes accès pédagogiques (Canvas, examens, mémoire), et je n'ai pas d'attestation de scolarité à jour. Or ma banque (CIC Lille Euraflandres) m'en exigera une le mercredi 23 septembre à 10h00 pour l'instruction de mon prêt étudiant, qui finance ma dernière année.
+
+Mes relances au responsable de programme et aux services scolarité, KARE et Onestop étant restées sans réponse, Mme Geneviève m'a orienté vers vous.
+
+Auriez-vous la possibilité de m'accorder 10 à 15 minutes au téléphone cette semaine — je suis joignable en continu au +33 7 52 97 58 09 — ou, à défaut, de me répondre par écrit sur ces trois points :
+1) mon statut scolaire 2026-2027 et le calendrier des rattrapages éventuels ;
+2) le maintien de mes accès pédagogiques pendant l'instruction bancaire ;
+3) la délivrance d'une attestation de scolarité datée, précisant ma date prévisionnelle de diplomation et mon stage de fin d'études (décembre 2026 / janvier 2027).
+
+Je veux terminer ce M2 à SKEMA et honorer toutes mes obligations ; il ne me manque qu'un interlocuteur pour cadrer la dernière ligne droite.
+
+Respectueusement,
+Calvin MINANG — M2 PGE / CFM, campus de Lille
++33 7 52 97 58 09 — calvin.minang@skema.edu
+```
