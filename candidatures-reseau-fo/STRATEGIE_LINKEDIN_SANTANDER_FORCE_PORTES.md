@@ -100,13 +100,13 @@ Sinon, une seule question : à qui dois-je adresser ma candidature pour le cycle
 ### #10bis — Gauthier DUCROCQ · Structured Products Sales Assistant @ Santander CIB Paris · **peer SKEMA FMI (2024-2025)**
 - **Pourquoi lui** : stagiaire du desk Structured Products Sales depuis janv. 2026 (ex-HSBC structured products sales) · même programme SKEMA · proche du cercle Théo (commentaire sous son post) · desk DIFFÉRENT de Théo → isolation OK.
 - **Rôle dans la stratégie** : intelligence officer + cooptation possible : (1) le desk prend-il un stagiaire janv 2027 et qui décide ? (2) comment relancer Théo proprement ? (3) mot en interne éventuel.
-- **Note d'invitation (297 car., aujourd'hui)** :
+- **Note d'invitation (286 car., aujourd'hui)** — ⚠️ version corrigée 14/09 : Calvin est track **CORPORATE**, pas FMI ; ne JAMAIS claimer FMI :
 ```text
-Bonjour Gauthier, Calvin Minang — SKEMA FMI comme toi (promo 2024-2025). Félicitations pour ton stage Structured Products Sales chez Santander CIB, c'est exactement le parcours que je vise. Je prépare mon cycle janvier 2027 : aurais-tu 10 min pour me raconter comment tu as décroché le tien ? Merci !
+Bonjour Gauthier, Calvin Minang — SKEMA même promo (2024-2025), track corporate, bascule marchés via mes projets Python (dashboard dérivés). Félicitations pour ton stage Structured Products Sales : c'est ma cible janv. 2027. 10 min pour me raconter comment tu l'as décroché ? Merci !
 ```
 - **Message 1 post-acceptation (sans parler de Théo)** :
 ```text
-Merci Gauthier ! Contexte rapide : M2 SKEMA FMI, orienté produits dérivés (stage reporting multi-actifs FX/taux/indices chez BPCE, Bloomberg BQL, dashboard cross-asset en Python, UE CNAM finance stochastique & ML en cours). Titre de séjour français = droit de travailler immédiat.
+Merci Gauthier ! Contexte rapide : M2 SKEMA track corporate, orienté produits dérivés par choix (stage reporting multi-actifs FX/taux/indices chez BPCE, Bloomberg BQL, dashboard cross-asset en Python, UE CNAM finance stochastique & ML en cours). Titre de séjour français = droit de travailler immédiat.
 Deux questions, réponses courtes bienvenues :
 1) Comment tu as atterri sur le desk Structured Products Sales (canal, timing, entretiens) ?
 2) Le desk prend-il des stagiaires pour janvier 2027, et qui décide ?
@@ -118,3 +118,11 @@ Merci pour ton temps, je rends l'ascenseur dès que je peux. Calvin · +33 7 52 
 - **D0 (ce soir)** : invitation Gauthier (+ remplissage slots 4-9 via Q1-Q3 ; tab « Stéphanie Ley… » ouvert chez Calvin : si = Santander FX Paris → slot Q1, coller le profil pour message personnalisé).
 - **J+6 du pitch Théo** : relance #0 ci-dessus.
 - **D+4** : Boone si Roux/Devevey muets · **16-17/09** relance Dos Santos · **D+7 gate** inchangé (21-22/09) : les réponses de Gauthier/Théo comptent comme signaux positifs (RDV, intel nominative, cooptation).
+
+---
+
+## 🪪 PROFIL CALVIN — VERROU FACTUEL (correction 14/09, ne jamais redériver)
+- **Programme SKEMA : track CORPORATE** (pas FMI). Gauthier Ducrocq = FMI ; Calvin = corporate avec **bascule marchés auto-formée** : dashboard dérivés Python (ShockDesk), UE CNAM finance stochastique & ML, stage BPCE reporting multi-actifs (FX, taux, indices), Bloomberg BQL.
+- **Règle** : zéro claim « FMI », zéro claim de programme non vérifié dans tout message/template. Le récit corporate→marchés est un ATOUT (choix délibéré, preuve par le code), pas un handicap.
+- **Nuance actée** : « les FMI sont parfois arrogants » ≠ tous — approche peer factuelle, sans flatterie ni défensive.
+- **À synchroniser dès réception du CV/Portfolio** (fichiers non parvenus au workspace le 14/09) : intitulé exact du M2, dates de stages, intitulés de postes — puis aligner hub README (« M2 FINANCE DE MARCHÉ SKEMA »), templates emails et notes LinkedIn sur le CV réel.
