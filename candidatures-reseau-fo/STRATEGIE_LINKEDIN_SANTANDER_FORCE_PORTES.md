@@ -81,3 +81,40 @@ Bonjour [Prénom], Calvin Minang (SKEMA M2 finance de marché). Orienté par M. 
 | **D+7 (21-22/09)** | **GATE** : ≥1 réponse positive (RDV, orientation nominative, cooptation) → on continue Santander à fond. **0 réponse positive sur les 10 + relance RH → décision « SANTANDER = NON »** : statuts registre + CSV marqués ⛔ clos, effort réalloué sur les 113 cibles vierges / autres Tier 1. Sans regret ni relance supplémentaire. |
 
 **Traçabilité** : chaque invitation envoyée = ligne ajoutée au `REGISTRE_MASTER_VERROUILLAGE_TOTAL.md` (section salves) + statut CSV `base-contacts-chasse-fo.csv`. Zéro doublon, zéro deuxième message au même desk.
+
+---
+
+## 🔄 MISE À JOUR 14/09 SOIR — THÉO CALMET & GAUTHIER DUCROCQ ENTRÉS DANS LA VAGUE
+
+### #0 — Théo CALMET · VP Fixed Income Sales @ Santander Paris · **1er degré** (déjà contacté, ghosté)
+- **Desk** : Fixed Income Sales (taux/crédit/FX flow) · Dauphine, quant finance · Paris/Amsterdam/NY/Madrid · 85 relations en commun (Othmane, Tom…).
+- **État** : pitch complet envoyé (M2 SKEMA, BPCE reporting multi-actifs, BQL, dashboard cross-asset, CNAM stochastique/ML, stage 6 mois dispo now, janv. 2027) · lu/sans réponse.
+- **Règle relance** : **1 relance J+6** (message ci-dessous), puis **stop** → si muet, intro chaude via un des 85 communs (jamais de 3e message direct).
+- **Relance J+6 (prête)** :
+```text
+Bonjour Théo, je me permets une relance courte et respectueuse.
+Nouveau depuis mon message : je finalise mon dashboard cross-asset (pricing + sensibilités) et valide mes UE CNAM finance stochastique/ML — je vous le montre en 10 min si ça a du sens pour votre desk FI Sales.
+Sinon, une seule question : à qui dois-je adresser ma candidature pour le cycle janvier 2027 chez Santander Paris ? Je ne vous sollicite pas plus. Merci, Calvin Minang · +33 7 52 97 58 09
+```
+
+### #10bis — Gauthier DUCROCQ · Structured Products Sales Assistant @ Santander CIB Paris · **peer SKEMA FMI (2024-2025)**
+- **Pourquoi lui** : stagiaire du desk Structured Products Sales depuis janv. 2026 (ex-HSBC structured products sales) · même programme SKEMA · proche du cercle Théo (commentaire sous son post) · desk DIFFÉRENT de Théo → isolation OK.
+- **Rôle dans la stratégie** : intelligence officer + cooptation possible : (1) le desk prend-il un stagiaire janv 2027 et qui décide ? (2) comment relancer Théo proprement ? (3) mot en interne éventuel.
+- **Note d'invitation (297 car., aujourd'hui)** :
+```text
+Bonjour Gauthier, Calvin Minang — SKEMA FMI comme toi (promo 2024-2025). Félicitations pour ton stage Structured Products Sales chez Santander CIB, c'est exactement le parcours que je vise. Je prépare mon cycle janvier 2027 : aurais-tu 10 min pour me raconter comment tu as décroché le tien ? Merci !
+```
+- **Message 1 post-acceptation (sans parler de Théo)** :
+```text
+Merci Gauthier ! Contexte rapide : M2 SKEMA FMI, orienté produits dérivés (stage reporting multi-actifs FX/taux/indices chez BPCE, Bloomberg BQL, dashboard cross-asset en Python, UE CNAM finance stochastique & ML en cours). Titre de séjour français = droit de travailler immédiat.
+Deux questions, réponses courtes bienvenues :
+1) Comment tu as atterri sur le desk Structured Products Sales (canal, timing, entretiens) ?
+2) Le desk prend-il des stagiaires pour janvier 2027, et qui décide ?
+Merci pour ton temps, je rends l'ascenseur dès que je peux. Calvin · +33 7 52 97 58 09
+```
+- **Message 2 (seulement s'il répond)** : angle Théo : « conseil franc : je suis en contact avec Théo Calmet (FI Sales), relancer ou attendre ? » + demande de cooptation si feu vert.
+
+### Séquence mise à jour
+- **D0 (ce soir)** : invitation Gauthier (+ remplissage slots 4-9 via Q1-Q3 ; tab « Stéphanie Ley… » ouvert chez Calvin : si = Santander FX Paris → slot Q1, coller le profil pour message personnalisé).
+- **J+6 du pitch Théo** : relance #0 ci-dessus.
+- **D+4** : Boone si Roux/Devevey muets · **16-17/09** relance Dos Santos · **D+7 gate** inchangé (21-22/09) : les réponses de Gauthier/Théo comptent comme signaux positifs (RDV, intel nominative, cooptation).
