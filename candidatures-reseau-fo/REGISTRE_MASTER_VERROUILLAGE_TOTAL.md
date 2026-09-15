@@ -99,3 +99,10 @@
 * ❌ **Alexandre Chanet** (Exclu)
 * ❌ **Natalja Zvonarjova** (Traitée séparément DB Recruiter)
 
+
+---
+
+## 🧭 CHECKPOINT 15 SEPTEMBRE 2026 (reprise de session)
+- Aucun envoi FO entre le 11/09 09h15 et le 15/09 : **soldes inchangés = 62 envoyés · 10 exclus · 113 vierges**.
+- Dernier message LinkedIn envoyé confirmé : **n°62 Lutèce Boussin (Natixis CIB), salve 3 du 11/09 matin** (texte = modèle 46 de PACK_50_MESSAGES_OFFENSIFS_VAGUE_2).
+- Prochaine salve = n°63 et suivants, à puiser dans les 113 vierges. Dossiers Aldrin & Cléanne refermés le 15/09 (leurs files restent tracées dans leurs dossiers respectifs).
