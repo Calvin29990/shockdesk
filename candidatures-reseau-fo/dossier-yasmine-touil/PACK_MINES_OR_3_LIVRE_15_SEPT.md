@@ -2,7 +2,7 @@
 
 > **Cible** : Yasmine Touil — M2 Architecture d'Intérieur, Scénographie, Design d'Espace & Visual Merchandising
 > **Objectif** : alternance M2 rentrée 2026 · Reco : Calvin Minang + Marc-Aurèle Lerno (CACIB) · PJ : CV + portfolio
-> **Statut** : livrés en chat le 15/09, NON scellés (scellage sur confirmation d'envoi). Vérifiés vierges (jamais messagés) et absents des packs précédents.
+> **Statut** : ENVOYÉES & SCELLÉES le 15/09 (confirmation Calvin « c'est ok »). Vérifiés vierges (jamais messagés) et absents des packs précédents.
 
 ---
 

@@ -198,4 +198,17 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 ## ⛏️ MINES D'OR — LIVRAISONS DESKS 15/09 (hors chasse FO)
 - **Yasmine (3/3 livrées en chat, non scellées)** : Chloé Monira, Tim Torres, Margot Schneider → pack écrit dans `dossier-yasmine-touil/PACK_MINES_OR_3_LIVRE_15_SEPT.md`. Voix = Calvin (recommandation), tutoiement, pièces = CV + portfolio Yasmine. Yasmine Touil : M2 Architecture d'Intérieur, Scénographie, Design d'Espace & Visual Merchandising ; alternance M2 rentrée 2026 ; reco Calvin + Marc-Aurèle Lerno (CACIB) ; AutoCAD/SketchUp/Adobe/3D.
 - **Cléanne (11/11 livrées en chat, non scellées — HORS repo, règle confidentialité 15/09)** : 9 inédits (Dupuy Olléon, Laurinaitis, Planque, Oherne, Ivory, Rebelo, Yu, F. Stephan, Payen) + 2 déjà présents dans `PACK_MASTER_NOUVEAUX_CONTACTS_1ER_DEGRE_CLEANNE.md` (Auffret #19, Lebarbier #18) = recollés tels quels, pas de doublon de rédaction. Voix = Calvin (« ma sœur ») ; L3 Éco-Gestion Lille (ex-prépa ECG), AST Top 5 → conseil ; mission 20-25 h/sem, 800-900 €/mois net, hybride/remote ; vouvoiement pour MD/Head/DG.
-- Scellage desk Yasmine/Cléanne : sur confirmation « envoyés » de Calvin, comme la chasse FO. Streams restent refermés par ailleurs (pas de relance proactive).
+
+
+### ✅ ENVOIS CONFIRMÉS 15/09 (Calvin : « c'est ok, celles propres, les deux »)
+- **Yasmine : 3/3 ENVOYÉES → SCELLÉES** (Monira, Torres, Schneider).
+- **Cléanne : 9/9 inédites ENVOYÉES → SCELLÉES** (Dupuy Olléon, Laurinaitis, Planque, Oherne, Ivory, Rebelo, Yu, F. Stephan, Payen). Auffret & Lebarbier NON renvoyés (doublons PACK_MASTER existant) → restent au statut de l'ancien pack.
+- Solde vierges 1er degré : 968 − 12 scellés = **956**.
+- Desks Yasmine & Cléanne **refermés** derrière ces envois (aucune relance proactive).
+
+## ⛏️ MINES ALDRIN — BASCULE CANAL CALVIN 15/09 (livrées en chat, NON scellées)
+- Consigne Calvin : messages **depuis son compte** (voix Calvin, « mon frère »), comme les messages directs chez Aldrin mais chez Calvin cette fois ; **ask = possibilité de transmettre les coordonnées si CDI possible**.
+- **8 livrées** : Rodrigue Niamien (Energy/Data IFP-Polytechnique), Daoud Sylla (Chef Projets Industriels), Steve De Valère (EDF DirIN-CNEPE EPR2), Antoine Cockenpot (Total EP Angola — hook Gabon), Robin Gervais (Supply Chain Melho), Angel Martin (MSc SC SKEMA — hook école), Mathieu Guilleminot (recruiter industrie — question sponsoring ANEF posée), Armel de la Bourdonnaye (IGPEF — vouvoiement).
+- Faits posés : « ex-UTT, diplômé en génie industriel » (jamais « diplômé de l'UTT ») · stage de fin d'études au Gabon jusqu'à clôture → CDI junior Europe (méthodes, industrialisation, supply chain, Lean) · jamais CAO/DAO · coordonnées Aldrin NON incluses dans les messages (transmises seulement après accord).
+- **1 personne = 1 canal** : Sylla, Gervais, Guilleminot avaient des brouillons voix-Aldrin (PACK_2 / PACK_NOUVELLES_RELATIONS) **jamais envoyés ni scellés** → supplantés par le canal Calvin, brouillons caducs.
+- Scellage sur confirmation « envoyés ».
