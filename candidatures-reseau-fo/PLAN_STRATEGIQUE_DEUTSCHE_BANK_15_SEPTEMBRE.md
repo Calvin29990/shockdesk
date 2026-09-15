@@ -35,3 +35,16 @@
 > *Actuellement en Master 2 Finance à SKEMA Business School (candidat FRM), je vise un stage Front Office FIC pour janvier 2027 et serais honoré d'échanger 5 minutes avec vous si votre emploi du temps le permet.*
 > *Bien à vous, Calvin Minang »*
 
+
+## 📄 DEBRIEF « Deutsche bank Meeting.pdf » (lu 15/09, 14 p., commit main a47080d)
+- **Format réel** : session insight Deutsche Bank **en groupe** sur Teams — 135 participants (122 étudiants + présentateurs), 3 présentateurs en salle à Londres (MTR UK London 21M 07 03 Tooling), organisatrices Mary-Claire Taduyo [External] & Natalja Zvonarjova, durée 1h42. Calvin présent **caméra ouverte**, question posée au micro en Q&A live.
+- **Slide finale** : « Your journey with Deutsche Bank — 2027 IB opportunities live on career.db.com » : Spring Insight Week (spring, 1re-2e année licence 4 ans) · Summer Internship (penultimate year) · Graduate Programme (final year) + QR « Register Your Attendance » + ressources careers.db.com/students-graduates & unofficialguidetobanking.com.
+- **Lecture stratégique** : les programmes présentés ciblent le pipeline UK undergrad → le sentiment « pas ma place » vient de l'**éligibilité des programmes**, PAS du niveau d'anglais. La voie Calvin = **off-cycle internship 6 mois Paris** (ex. Structured Products Sales Intern, DB Paris, Wealth Investor Solutions, juillet 2026, réf R0431014 vue sur welcome to the jungle) via career.db.com — pas le pipeline UK montré en session.
+- **Verdict anglais (sur pièces)** : B2 confirmé, A2 écarté. Preuves : (1) question posée = structure complexe + vocabulaire desk exact (« given your emerging market work, move from London to Singapore in 2021, what is the feedback on desk activity and client coverage after 5 years ») ; (2) 1h43 de session EN tenue + prise de parole au micro devant 135 personnes ; (3) seuls micro-trous = disfluences sous stress (article « the move », tournure « what feedback have you had »), pas des fautes de structure A2.
+- **Décision Ali** : PAS de retrait (« c'est pas pour moi ») — la session n'était pas un entretien et le mismatch = format de programme, pas fit personnel. Message envoyé = compte-rendu + question + orientation vers off-cycle Paris (brouillon A ajusté ci-dessous).
+- **Next steps DB** : (1) scan QR / register attendance si pas fait ; (2) career.db.com → filtre Paris + internships off-cycle 2026/2027 (FI/structured products/sales) ; (3) follow-up email présentatrices (Zvonarjova/Taduyo) avec remerciement + question Singapore follow-up + intérêt off-cycle Paris, si Calvin valide.
+
+### Brouillon A ajusté — WhatsApp Ali (15/09, livré)
+```text
+Salut Ali, compte-rendu DB : session insight Londres en groupe (135 étudiants), j'ai posé ma question au desk au micro — anglais correct mais stressé, un peu de fluidité mangée. Les programmes présentés (summer/insight UK) ne sont pas mon format ; ce qui me matche = off-cycle 6 mois Paris en fixed income/produits structurés. C'est jouable d'orienter vers ça ? Merci encore.
+```
