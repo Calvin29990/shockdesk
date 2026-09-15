@@ -139,3 +139,11 @@ La JR127118 semble fermée côté site, donc je viens de postuler en ligne sur l
 Merci encore pour ton accueil,
 Vianney-Aldrin
 ```
+
+---
+
+## 9. MÀJ 15/09 (fin de journée) — WAVESTONE ENVOYÉE + JR127118 OUVERTE
+- **Wavestone CDI Consultant.e TIME : candidature ENVOYÉE** (page de confirmation SmartRecruiters « Votre candidature a bien été envoyée ! », Terrasse Boieldieu 92800 Paris). → Samedi 19/09 call Laure : annoncer que la candidature TIME est partie et demander vers qui la pousser.
+- **JR127118 OUVERTE** : Aldrin est dans le formulaire de candidature (onglet « JR127118 (CDD…) ») → **variant A du message Inès** dès soumission.
+- Formulaire bloquant « Mon expérience » débloqué par valeurs exactes fournies : Établissement = Université Mundiapolis Casablanca ; Langue = Français / Dans l'ensemble = Langue maternelle ; Anglais / Professionnel ; 2 entrées d'expérience = SEEG (juin 2026-aujourd'hui, Libreville) + Groupe des Boissons du Maroc (juil-sept 2024, Tit Mellil).
+- **Score candidatures 15/09 : Safran 186417 ✅ · Wavestone TIME ✅ · Richemont JR127118 (en cours → ✅ à confirmer).** Restent à envoyer : message Anna (post-candidature, prêt), variant A Inès (post-soumission, prête), message Caroline (caler week-end), relance Nohaila (16/09).
