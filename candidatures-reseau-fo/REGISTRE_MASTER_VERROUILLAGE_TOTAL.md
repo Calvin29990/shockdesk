@@ -173,3 +173,11 @@ Signaux langue retenus : headline en français (« chez X ») ; école français
 | 74 | Louis Riou | CACIB \| Market Finance \| Paris Panthéon-Assas |
 | 75 | Robin Dangoise | Sales & Trader Cash Equity \| ESCP PGE |
 Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben White, Kelvin Wong, Mathias Paladino, Wissam Bridi, Benjamin Messas, Hugo Forni.
+
+## 🔢 AUDIT VIERGES AU 15/09 (croisement PDF Relations 1er degré × messagerie LinkedIn exhaustive × verrous)
+- Relations 1er degré (PDF affiché) : **1 449** (1 413 entrées parsées correctement ; ~36 illisibles layout).
+- Déjà messagés sur LinkedIn (conversations existantes) : **433**.
+- Verrouillés jamais messagés LinkedIn : **2** (Pedro de Camargo Júnior, Yann Le Her).
+- **CONTACTS VIERGES LinkedIn (1er degré, jamais messagé, non verrouillé) : 977** (borné par le parsing ; salve 4 v3 = 13 inclus dedans, à déduire à l'envoi).
+- Le ancien solde « 113 » est définitivement remplacé par ce chiffre : il mesurait le pool CSV, pas le réseau 1er degré réel.
+- Salve 4 v3 (63-75) : vérifiés vierges ✅ avant envoi.
