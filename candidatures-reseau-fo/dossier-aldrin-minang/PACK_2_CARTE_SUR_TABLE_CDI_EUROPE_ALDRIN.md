@@ -37,7 +37,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Inetum France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist Inetum chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que a publié sur LinkedIn pour réception directe de CV par e-mail — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -46,9 +46,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 2. Ludivine Guillet — Talent Acquisition Manager Inetum @ Inetum France
@@ -62,7 +60,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Inetum France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Manager Inetum chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -71,9 +69,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 3. Catarina Silva — Responsable Recrutement Inetum (Périmètre Grand Sud / Lyon) @ Inetum France
@@ -87,7 +83,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Inetum France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Responsable Recrutement Inetum (Périmètre Grand Sud / Lyon) chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que gère les démarches d'autorisation de travail pour les talents internationaux — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -96,9 +92,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 4. Joseph Bisanti — Talent Acquisition Lead Inetum @ Inetum France
@@ -112,7 +106,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Inetum France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Lead Inetum chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -121,9 +115,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 5. Allison Gouttefangeas — Chargée de Recrutement Inetum @ Inetum France
@@ -137,7 +129,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Inetum France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Inetum chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -146,9 +138,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 6. Margaux Desvignes — Chargée de Recrutement Conseil & Transformation Sopra Steria @ Sopra Steria Next
@@ -162,7 +152,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Sopra Steria Next, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Conseil & Transformation Sopra Steria chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que recrute activement sur les premiers postes et parcours conseil junior — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -171,9 +161,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 7. Chérine Albertelli — Consultante & Ambassadrice Recrutement Sopra Steria Next @ Sopra Steria Next
@@ -187,7 +175,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Sopra Steria Next, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Consultante & Ambassadrice Recrutement Sopra Steria Next chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -196,9 +184,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 8. Melissa Hedouis — Consultante People & Change Sopra Steria Next @ Sopra Steria Next
@@ -212,7 +198,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Sopra Steria Next, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Consultante People & Change Sopra Steria Next chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -221,9 +207,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 9. Camille Aubin — Consultante Transformation Digitale Sopra Steria Next @ Sopra Steria Next
@@ -237,7 +221,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Sopra Steria Next, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Consultante Transformation Digitale Sopra Steria Next chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -246,9 +230,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 10. Romane Mandy — Consultante Secteur Financier Sopra Steria Next @ Sopra Steria Next
@@ -262,7 +244,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Sopra Steria Next, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Consultante Secteur Financier Sopra Steria Next chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -271,9 +253,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 11. Babacar Mbengue — Talent Acquisition Manager Capgemini Paris @ Capgemini France
@@ -287,7 +267,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Capgemini France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Capgemini France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Manager Capgemini Paris chez Capgemini France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -296,9 +276,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 12. Alicja Watorek — Talent Acquisition Operations Lead Capgemini @ Capgemini Insights & Data
@@ -312,7 +290,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Capgemini Insights & Data, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Capgemini Insights & Data est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Operations Lead Capgemini chez Capgemini Insights & Data est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -321,9 +299,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 13. Swati Jha — Talent Acquisition Lead Capgemini @ Capgemini France
@@ -337,7 +313,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Capgemini France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Capgemini France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Lead Capgemini chez Capgemini France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -346,9 +322,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 14. Emilie Mercier — Chargée de Recrutement Senior ALTEN Île-de-France @ ALTEN France
@@ -362,7 +336,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme ALTEN France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez ALTEN France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Senior ALTEN Île-de-France chez ALTEN France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que publie en continu sur LinkedIn avec son e-mail direct pour candidatures CDI — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -371,9 +345,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 15. Annabelle Guibert — Chargée de Recrutement ALTEN France @ ALTEN France
@@ -387,7 +359,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme ALTEN France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez ALTEN France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement ALTEN France chez ALTEN France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -396,9 +368,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 16. Linda Amarouchene — Talent Acquisition Senior Talan Paris @ Talan France
@@ -412,7 +382,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Talan France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Talan France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Senior Talan Paris chez Talan France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que plus de 34 000 abonnés sur LinkedIn, pilote les recrutements juniors — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -421,9 +391,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 17. Bouchra Azri — Responsable Recrutement & Développement RH Talan @ Talan France
@@ -437,7 +405,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Talan France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Talan France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Responsable Recrutement & Développement RH Talan chez Talan France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -446,9 +414,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 18. Mona Raki — Senior Talent Acquisition Specialist Talan @ Talan France
@@ -462,7 +428,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Talan France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Talan France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Senior Talent Acquisition Specialist Talan chez Talan France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -471,9 +437,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 19. Cynthia Yende — Chargée de Recrutement IT & Gestion Aubay Paris @ Aubay France
@@ -487,7 +451,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Aubay France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement IT & Gestion Aubay Paris chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -496,9 +460,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 20. Elodie Frisoni — Chargée de Recrutement Aubay @ Aubay France
@@ -512,7 +474,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Aubay France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Aubay chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -521,9 +483,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 21. Régine Ménascé — Chargée de Recrutement Aubay @ Aubay France
@@ -537,7 +497,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Aubay France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Aubay chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -546,9 +506,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 22. Ronan Rioux — Chargé de Recrutement Aubay @ Aubay France
@@ -562,7 +520,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Aubay France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargé de Recrutement Aubay chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -571,9 +529,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 23. Livia Thenault — Chargée de Recrutement Aubay @ Aubay France
@@ -587,7 +543,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Aubay France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Aubay chez Aubay France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -596,9 +552,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 24. Delphine Degrange — Talent Acquisition Specialist SII @ SII Group France
@@ -612,7 +566,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme SII Group France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist SII chez SII Group France est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist SII chez SII Group France est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -621,9 +575,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 25. Cécile Golfier-Salles — Responsable Recrutement & Formation Hardis Group Lyon @ Hardis Group
@@ -637,7 +589,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Hardis Group, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Hardis Group est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Responsable Recrutement & Formation Hardis Group Lyon chez Hardis Group est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -646,9 +598,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 26. Petra Major — HR Manager - Head of Talent Acquisition BDO Luxembourg @ BDO Luxembourg
@@ -662,7 +612,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme BDO Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de HR Manager - Head of Talent Acquisition BDO Luxembourg chez BDO Luxembourg est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de HR Manager - Head of Talent Acquisition BDO Luxembourg chez BDO Luxembourg est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe. J'ai vu que en charge de toute la stratégie de sourcing et d'attractivité internationale — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -671,9 +621,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 27. Rachel Bolognini — Talent Acquisition Senior BDO Luxembourg @ BDO Luxembourg
@@ -687,7 +635,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme BDO Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Senior BDO Luxembourg chez BDO Luxembourg est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Senior BDO Luxembourg chez BDO Luxembourg est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -696,9 +644,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 28. Lena Schmid — Talent Acquisition Specialist BDO Luxembourg @ BDO Luxembourg
@@ -712,7 +658,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme BDO Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist BDO Luxembourg chez BDO Luxembourg est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist BDO Luxembourg chez BDO Luxembourg est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -721,9 +667,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 29. Mathis Le Golvan — Recruteur Audit & Advisory Grant Thornton Luxembourg @ Grant Thornton Luxembourg
@@ -737,7 +681,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Grant Thornton Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Grant Thornton Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recruteur Audit & Advisory Grant Thornton Luxembourg chez Grant Thornton Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -746,9 +690,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 30. Amélia Bouadjar — Talent Acquisition Grant Thornton Luxembourg @ Grant Thornton Luxembourg
@@ -762,7 +704,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Grant Thornton Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Grant Thornton Luxembourg chez Grant Thornton Luxembourg est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Grant Thornton Luxembourg chez Grant Thornton Luxembourg est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -771,9 +713,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 31. Pauline Schneider — Chargée de Recrutement Grant Thornton Luxembourg @ Grant Thornton Luxembourg
@@ -787,7 +727,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Grant Thornton Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Grant Thornton Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Grant Thornton Luxembourg chez Grant Thornton Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -796,9 +736,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 32. Pauline Labarre — Talent Acquisition Specialist Grant Thornton Luxembourg @ Grant Thornton Luxembourg
@@ -812,7 +750,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Grant Thornton Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist Grant Thornton Luxembourg chez Grant Thornton Luxembourg est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist Grant Thornton Luxembourg chez Grant Thornton Luxembourg est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -821,16 +759,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 33. Desk Recrutement Dédié — Recrutement / Talent Acquisition @ Forvis Mazars Luxembourg
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Desk,
 
@@ -838,7 +774,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Forvis Mazars Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Forvis Mazars Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez Forvis Mazars Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -847,16 +783,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 34. Desk Talent Acquisition — Recrutement / Talent Acquisition @ CTG Luxembourg (Computer Task Group)
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Desk,
 
@@ -864,7 +798,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme CTG Luxembourg (Computer Task Group), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez CTG Luxembourg (Computer Task Group) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez CTG Luxembourg (Computer Task Group) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -873,16 +807,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 35. Talent Acquisition Team — Recrutement / Talent Acquisition @ Arηs Group Luxembourg
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Talent,
 
@@ -890,7 +822,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Arηs Group Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Arηs Group Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez Arηs Group Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -899,16 +831,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 36. Recrutement — Recrutement / Talent Acquisition @ Telkea Group Luxembourg
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Recrutement,
 
@@ -916,7 +846,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Telkea Group Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Telkea Group Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez Telkea Group Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -925,16 +855,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 37. Pôle Recrutement — Recrutement / Talent Acquisition @ NSI Luxembourg
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Pôle,
 
@@ -942,7 +870,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme NSI Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez NSI Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez NSI Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -951,16 +879,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 38. Équipe Recrutement Tech & Data — Recrutement / Talent Acquisition @ SFEIR Luxembourg
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Équipe,
 
@@ -968,7 +894,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme SFEIR Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez SFEIR Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez SFEIR Luxembourg est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -977,16 +903,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 39. Liège / Bruxelles) — Recrutement / Talent Acquisition @ NSI IT Software & Services (Belgique
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Liège,
 
@@ -994,7 +918,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme NSI IT Software & Services (Belgique, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez NSI IT Software & Services (Belgique est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez NSI IT Software & Services (Belgique est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1003,16 +927,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 40. Équipe Recrutement — Recrutement / Talent Acquisition @ NRB Group Belgique
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Équipe,
 
@@ -1020,7 +942,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme NRB Group Belgique, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez NRB Group Belgique est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez NRB Group Belgique est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1029,16 +951,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 41. Talent Acquisition — Recrutement / Talent Acquisition @ Smals Bruxelles
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Talent,
 
@@ -1046,7 +966,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Smals Bruxelles, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Smals Bruxelles est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez Smals Bruxelles est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1055,16 +975,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 42. Didier Acouetey — Président & Fondateur AfricSearch (Pionnier du recrutement Afrique-Europe) @ AfricSearch
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Didier,
 
@@ -1072,7 +990,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme AfricSearch, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez AfricSearch est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Président & Fondateur AfricSearch (Pionnier du recrutement Afrique-Europe) chez AfricSearch est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1081,16 +999,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 43. Serge Agbekponou — Managing Director AfricSearch @ AfricSearch
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Serge,
 
@@ -1098,7 +1014,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme AfricSearch, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Managing Director AfricSearch chez AfricSearch est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Managing Director AfricSearch chez AfricSearch est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1107,16 +1023,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 44. Chams Diagne — CEO & Fondateur Talent2Africa (Plateforme leader recrutement diaspora & Afrique) @ Talent2Africa
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Chams,
 
@@ -1124,7 +1038,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Talent2Africa, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Talent2Africa est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de CEO & Fondateur Talent2Africa (Plateforme leader recrutement diaspora & Afrique) chez Talent2Africa est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1133,16 +1047,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 45. Irene Serot Almeras — Senior HR Consultant Talent2Africa @ Talent2Africa
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Irene,
 
@@ -1150,7 +1062,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Talent2Africa, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Senior HR Consultant Talent2Africa chez Talent2Africa est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Senior HR Consultant Talent2Africa chez Talent2Africa est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1159,16 +1071,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 46. Pôle Mobilité Internationale — Recrutement / Talent Acquisition @ Robert Walters Africa (Bureau de Paris)
-*Source : PACK_50_EMAILS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_50_EMAILS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Pôle,
 
@@ -1176,7 +1086,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Robert Walters Africa (Bureau de Paris), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Robert Walters Africa (Bureau de Paris) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recrutement / Talent Acquisition chez Robert Walters Africa (Bureau de Paris) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1185,16 +1095,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 47. Simon Guindon-Saliba — Talent Acquisition Specialist Engineering & IT ALTEN @ ALTEN Group
-*Source : PACK_20_RECRUTEURS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_20_RECRUTEURS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Simon,
 
@@ -1202,7 +1110,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme ALTEN Group, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez ALTEN Group est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist Engineering & IT ALTEN chez ALTEN Group est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1211,16 +1119,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 48. Nicolas Pittau — Talent Acquisition Lead Assystem @ Assystem (Pôle Énergie & Industrie)
-*Source : PACK_20_RECRUTEURS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_20_RECRUTEURS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Nicolas,
 
@@ -1228,7 +1134,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Assystem (Pôle Énergie & Industrie), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Assystem (Pôle Énergie & Industrie) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Lead Assystem chez Assystem (Pôle Énergie & Industrie) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1237,16 +1143,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 49. Anne Domange — Recruteuse Spécialiste Projets Industriels & Sûreté @ Assystem (France)
-*Source : PACK_20_RECRUTEURS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_20_RECRUTEURS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Anne,
 
@@ -1254,7 +1158,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Assystem (France), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Assystem (France) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Recruteuse Spécialiste Projets Industriels & Sûreté chez Assystem (France) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1263,16 +1167,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 50. Binti M. — Chargée de Recrutement Ingénierie & Industrie Assystem @ Assystem (Aix / Marseille / France)
-*Source : PACK_20_RECRUTEURS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_20_RECRUTEURS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Binti,
 
@@ -1280,7 +1182,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Assystem (Aix / Marseille / France), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Assystem (Aix / Marseille / France) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Ingénierie & Industrie Assystem chez Assystem (Aix / Marseille / France) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1289,16 +1191,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 51. Hélène P. — Talent Acquisition Specialist Capgemini Engineering @ Capgemini Engineering (Issy-les-Moulineaux / France)
-*Source : PACK_20_RECRUTEURS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_20_RECRUTEURS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Hélène,
 
@@ -1306,7 +1206,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Capgemini Engineering (Issy-les-Moulineaux / France), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Capgemini Engineering (Issy-les-Moulineaux / France) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist Capgemini Engineering chez Capgemini Engineering (Issy-les-Moulineaux / France) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1315,16 +1215,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 52. Thibaut Ritorto — Business Manager / Recrutement Supply Chain & Industrie @ Capgemini Engineering
-*Source : PACK_20_RECRUTEURS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_20_RECRUTEURS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Thibaut,
 
@@ -1332,7 +1230,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Capgemini Engineering, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Capgemini Engineering est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Business Manager / Recrutement Supply Chain & Industrie chez Capgemini Engineering est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1341,16 +1239,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 53. Katia Zennouche — Talent Acquisition Specialist Capgemini Engineering @ Capgemini Engineering (Paris)
-*Source : PACK_20_RECRUTEURS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_20_RECRUTEURS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Katia,
 
@@ -1358,7 +1254,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Capgemini Engineering (Paris), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Capgemini Engineering (Paris) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist Capgemini Engineering chez Capgemini Engineering (Paris) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1367,16 +1263,14 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 54. Clémentine Voisin — Chargée de Recrutement Ingénierie Industrielle Akkodis @ Akkodis France (ex-AKKA Technologies / Adecco)
-*Source : PACK_20_RECRUTEURS · Canal : email/LinkedIn à qualifier*
+*Source : PACK_20_RECRUTEURS · Canal : LinkedIn*
 *LinkedIn : *
-**Étape 1 — note d'invitation** : template partagé ci-dessus.
-**Étape 2 — message dès acceptation** :
+**Note d'invitation (<300 car.)** : template partagé en tête de pack.
+**Message dès acceptation** :
 ```text
 Bonjour Clémentine,
 
@@ -1384,7 +1278,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Akkodis France (ex-AKKA Technologies / Adecco), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Akkodis France (ex-AKKA Technologies / Adecco) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Ingénierie Industrielle Akkodis chez Akkodis France (ex-AKKA Technologies / Adecco) est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1393,18 +1287,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 55. Jean-François MASSARD — Ops @ e.SNCF Solutions / DSM Matériel @ SNCF Voyageurs / Matériel Industriel
-*Source : RESEAU_CALVIN · Canal : email/LinkedIn à qualifier*
+*Source : RESEAU_CALVIN · Canal : LinkedIn*
+*LinkedIn : *
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Jean-François, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez SNCF Voyageurs / Matériel Industriel, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Jean-François,
@@ -1413,7 +1306,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme SNCF Voyageurs / Matériel Industriel, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Ops @ e.SNCF Solutions / DSM Matériel chez SNCF Voyageurs / Matériel Industriel est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Ops @ e.SNCF Solutions / DSM Matériel chez SNCF Voyageurs / Matériel Industriel est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1422,18 +1315,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 56. Antoine GIBERT — Ingénieur CentraleSupélec @ Ingénieur CentraleSupélec
-*Source : RESEAU_CALVIN · Canal : email/LinkedIn à qualifier*
+*Source : RESEAU_CALVIN · Canal : LinkedIn*
+*LinkedIn : *
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Antoine, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Ingénieur CentraleSupélec, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Antoine,
@@ -1442,7 +1334,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Ingénieur CentraleSupélec, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Ingénieur CentraleSupélec chez Ingénieur CentraleSupélec est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Ingénieur CentraleSupélec chez Ingénieur CentraleSupélec est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1451,18 +1343,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 57. Samuele ABAGNATO — PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment @ PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment
-*Source : RESEAU_CALVIN · Canal : email/LinkedIn à qualifier*
+*Source : RESEAU_CALVIN · Canal : LinkedIn*
+*LinkedIn : *
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Samuele, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Samuele,
@@ -1471,7 +1362,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment chez PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment chez PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1480,18 +1371,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 58. Maxime FONTAINE — Relais réseau Calvin @ Decathlon SE (Lille / International)
-*Source : RESEAU_CALVIN · Canal : email/LinkedIn à qualifier*
+*Source : RESEAU_CALVIN · Canal : LinkedIn*
+*LinkedIn : *
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Maxime, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Decathlon SE (Lille / International), il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Maxime,
@@ -1500,7 +1390,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Decathlon SE (Lille / International), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos flux et opérations warehouse chez Decathlon SE (Lille / International) correspondent à mon profil supply chain.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Relais réseau Calvin chez Decathlon SE (Lille / International) est exactement le canal : flux, ops warehouse, supply chain — mon profil exact.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1509,18 +1399,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 59. Tomasz HRYNIUK — Relais réseau Calvin @ Lesaffre (Leader mondial des levures & fermentation industrielle)
-*Source : RESEAU_CALVIN · Canal : email/LinkedIn à qualifier*
+*Source : RESEAU_CALVIN · Canal : LinkedIn*
+*LinkedIn : *
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Tomasz, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Lesaffre (Leader mondial des levures & fermentation industrielle), il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Tomasz,
@@ -1529,7 +1418,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Lesaffre (Leader mondial des levures & fermentation industrielle), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Relais réseau Calvin chez Lesaffre (Leader mondial des levures & fermentation industrielle) est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Relais réseau Calvin chez Lesaffre (Leader mondial des levures & fermentation industrielle) est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1538,18 +1427,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 60. Sylvie SOUNDARAVELOU — Relais réseau Calvin @ TotalEnergies
-*Source : RESEAU_CALVIN · Canal : email/LinkedIn à qualifier*
+*Source : RESEAU_CALVIN · Canal : LinkedIn*
+*LinkedIn : *
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Sylvie, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez TotalEnergies, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Sylvie,
@@ -1558,7 +1446,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme TotalEnergies, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos projets industriels et votre maintenance chez TotalEnergies correspondent à mon profil process et méthodes.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Relais réseau Calvin chez TotalEnergies est exactement le canal : projets industriels, maintenance, process — mon profil exact.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1567,18 +1455,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 61. Benjamin PELLETIER — Relais réseau Calvin @ Bouygues Construction
-*Source : RESEAU_CALVIN · Canal : email/LinkedIn à qualifier*
+*Source : RESEAU_CALVIN · Canal : LinkedIn*
+*LinkedIn : *
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Benjamin, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Bouygues Construction, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Benjamin,
@@ -1587,7 +1474,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Bouygues Construction, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Relais réseau Calvin chez Bouygues Construction est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Relais réseau Calvin chez Bouygues Construction est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1596,18 +1483,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 62. Martin Meurin — Digital Analytics Engineer @ DHL (Ex-Consultant Transformation Digitale & Agile EY) @ DHL (Ex-Consultant Transformation Digitale & Agile EY)
 *Source : NOUVELLES_CALVIN · Canal : LinkedIn*
+*LinkedIn : https://www.linkedin.com/in/meurin-martin/*
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Martin, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez DHL (Ex-Consultant Transformation Digitale & Agile EY), il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Martin,
@@ -1616,7 +1502,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme DHL (Ex-Consultant Transformation Digitale & Agile EY), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos flux et opérations warehouse chez DHL (Ex-Consultant Transformation Digitale & Agile EY) correspondent à mon profil supply chain.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Digital Analytics Engineer @ DHL (Ex-Consultant Transformation Digitale & Agile EY) chez DHL (Ex-Consultant Transformation Digitale & Agile EY) est exactement le canal : flux, ops warehouse, supply chain — mon profil exact.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1625,18 +1511,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 63. Robin Gervais — Analyste Chaîne Logistique chez Melho (Lille) @ Analyste Chaîne Logistique chez Melho (Lille)
 *Source : NOUVELLES_CALVIN · Canal : LinkedIn*
+*LinkedIn : https://www.linkedin.com/in/robin-gervais-4b5ba9212/*
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Robin, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Analyste Chaîne Logistique chez Melho (Lille), il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Robin,
@@ -1645,7 +1530,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Analyste Chaîne Logistique chez Melho (Lille), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos flux et opérations warehouse chez Analyste Chaîne Logistique chez Melho (Lille) correspondent à mon profil supply chain.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Analyste Chaîne Logistique chez Melho (Lille) chez Analyste Chaîne Logistique chez Melho (Lille) est exactement le canal : flux, ops warehouse, supply chain — mon profil exact.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1654,18 +1539,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 64. Simon Gotthardt — Supply Chain Strategy & Transformation @ Miebach Consulting @ Miebach Consulting
 *Source : NOUVELLES_CALVIN · Canal : LinkedIn*
+*LinkedIn : https://www.linkedin.com/in/simongotthardt/*
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Simon, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Miebach Consulting, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Simon,
@@ -1674,7 +1558,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Miebach Consulting, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos flux et opérations warehouse chez Miebach Consulting correspondent à mon profil supply chain.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Supply Chain Strategy & Transformation @ Miebach Consulting chez Miebach Consulting est exactement le canal : flux, ops warehouse, supply chain — mon profil exact.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1683,18 +1567,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 65. Noemie Caron — MSc Global Supply Chain & Procurement (SKEMA x MIT) @ MSc Global Supply Chain & Procurement (SKEMA x MIT)
 *Source : NOUVELLES_CALVIN · Canal : LinkedIn*
+*LinkedIn : https://www.linkedin.com/in/noemie-caron/fr/*
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Noemie, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez MSc Global Supply Chain & Procurement (SKEMA x MIT), il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Noemie,
@@ -1703,7 +1586,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme MSc Global Supply Chain & Procurement (SKEMA x MIT), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos flux et opérations warehouse chez MSc Global Supply Chain & Procurement (SKEMA x MIT) correspondent à mon profil supply chain.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de MSc Global Supply Chain & Procurement (SKEMA x MIT) chez MSc Global Supply Chain & Procurement (SKEMA x MIT) est exactement le canal : flux, ops warehouse, supply chain — mon profil exact.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1712,18 +1595,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 66. Daoud Sylla — Chef de Projets Industriels | Ingénierie Process & HSE @ Chef de Projets Industriels | Ingénierie Process & HSE
 *Source : NOUVELLES_CALVIN · Canal : LinkedIn*
+*LinkedIn : https://www.linkedin.com/in/daoud-sylla/*
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Daoud, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Chef de Projets Industriels | Ingénierie Process & HSE, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Daoud,
@@ -1732,7 +1614,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Chef de Projets Industriels | Ingénierie Process & HSE, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chef de Projets Industriels | Ingénierie Process & HSE chez Chef de Projets Industriels | Ingénierie Process & HSE est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chef de Projets Industriels | Ingénierie Process & HSE chez Chef de Projets Industriels | Ingénierie Process & HSE est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1741,18 +1623,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 67. Etienne Vial — Responsable d’Exploitation chez Groupe Keolis @ Responsable d’Exploitation chez Groupe Keolis
 *Source : NOUVELLES_CALVIN · Canal : LinkedIn*
+*LinkedIn : https://www.linkedin.com/in/etienne-vial/*
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Etienne, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Responsable d’Exploitation chez Groupe Keolis, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Etienne,
@@ -1761,7 +1642,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Responsable d’Exploitation chez Groupe Keolis, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos flux et opérations warehouse chez Responsable d’Exploitation chez Groupe Keolis correspondent à mon profil supply chain.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Responsable d’Exploitation chez Groupe Keolis chez Responsable d’Exploitation chez Groupe Keolis est exactement le canal : flux, ops warehouse, supply chain — mon profil exact.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1770,18 +1651,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 68. Thomas Le Roy — Capgemini Engineering pour Airbus Helicopters @ Capgemini Engineering pour Airbus Helicopters
 *Source : NOUVELLES_CALVIN · Canal : LinkedIn*
+*LinkedIn : https://www.linkedin.com/in/thomas-le-roy2002/*
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Thomas, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Capgemini Engineering pour Airbus Helicopters, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Thomas,
@@ -1790,7 +1670,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Capgemini Engineering pour Airbus Helicopters, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Capgemini Engineering pour Airbus Helicopters est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Capgemini Engineering pour Airbus Helicopters chez Capgemini Engineering pour Airbus Helicopters est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1799,18 +1679,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 69. Gabriel SOUMBO — Talent Acquisition Specialist @ Capgemini Engineering R&D @ Capgemini Engineering R&D
 *Source : NOUVELLES_CALVIN · Canal : LinkedIn*
+*LinkedIn : https://www.linkedin.com/in/gabriel-soumbo-342585178/*
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Gabriel, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Capgemini Engineering R&D, il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Gabriel,
@@ -1819,7 +1698,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Capgemini Engineering R&D, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre rôle chez Capgemini Engineering R&D est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) recrutent ce profil en continu.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist @ Capgemini Engineering R&D chez Capgemini Engineering R&D est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1828,18 +1707,17 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ## 70. Mathieu Guilleminot — Talent Recruiter Freelance (Industrie, Mécanique, Énergies) @ Talent Recruiter Freelance (Industrie, Mécanique, Énergies)
 *Source : NOUVELLES_CALVIN · Canal : LinkedIn*
+*LinkedIn : https://www.linkedin.com/in/mathieu-guilleminot-%F0%9F%93%9D-5a5119115/*
 **Voix 1 — intro Calvin** :
 ```text
 Bonjour Mathieu, petit mot franc avant celui de mon frère : Aldrin (ci-dessous) joue carte sur table — stage de fin d'études au Gabon, soutenance en préparation (disponible week-ends après-midi uniquement), et une question directe sur le sponsoring. Si une offre correspond chez Talent Recruiter Freelance (Industrie, Mécanique, Énergies), il vous écrit lui-même ci-dessous ; sinon il ne vous fera pas perdre un aller-retour. Merci pour lui. Calvin
 ```
-**Voix 2 — email Aldrin (carte sur table)** :
+**Voix 2 — email Aldrin** :
 *Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
 ```text
 Bonjour Mathieu,
@@ -1848,7 +1726,7 @@ Je fais suite au mot de mon frère Calvin ; je préfère vous parler moi-même, 
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Talent Recruiter Freelance (Industrie, Mécanique, Énergies), en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Recruiter Freelance (Industrie, Mécanique, Énergies) chez Talent Recruiter Freelance (Industrie, Mécanique, Énergies) est exactement le canal que je vise pour un premier CDI en Europe.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Recruiter Freelance (Industrie, Mécanique, Énergies) chez Talent Recruiter Freelance (Industrie, Mécanique, Énergies) est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -1857,9 +1735,7 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
-via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
-LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+{SIGN}
 ```
 
 ---
