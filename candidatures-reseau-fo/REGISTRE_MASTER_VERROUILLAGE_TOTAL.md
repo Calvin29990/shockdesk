@@ -230,3 +230,7 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 
 ## 👥 AUDIT 135 PARTICIPANTS DB FIC (15/09, consigne Ali)
 - `AUDIT_PARTICIPANTS_DB_FIC_135.md` : ~93 noms lisibles ; **10 déjà connectés** (Zvonarjova, Farges, Simo, Kabbaj, Zhang, Megarni, Aggarwal, Bouvet, Kong, Asare) ; **~82 non connectés** → invitations + notes session ; 8 illisibles écartés ; perle = Marion Creusy (SKEMA MSc FMI). URLs exactes = vagues web sur demande ; liens recherche 1 clic fournis.
+
+## 🌸 RETOUR MINE YASMINE #1 (15/09 17:50) — Chloé Monira RÉPOND
+- Monira (scellée envoyée) transmet un contact chaud : **Charlotte Delcroix — charlotte.delcroix@chanel.com** (« la personne avec qui j'avais échangé »). Réponse Calvin 17:52 : contact demain matin.
+- Mail type livré en chat 15/09 (voix Calvin, objet recommandation Monira, PJ CV + portfolio Yasmine). Mine #1 = convertie en lead Chanel ; scellage Monira inchangé.
