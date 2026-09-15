@@ -151,3 +151,6 @@ Vianney-Aldrin
 ### 9.1 RICHEMONT : SOUMISSION CONFIRMÉE (capture Workday 15/09)
 Modal « Candidature soumise — Vous n'avez plus de tâches » + checklist « À faire (0) · Terminée(s) (1) » + URL /jobTasks/completed/application, compte via.minang@gmail.com. **Intitulé du poste soumis à confirmer** par Aldrin via l'onglet « Terminée(s) (1) » ou l'email de confirmation : JR127118 → variant A Inès ; jr133563 → variant B.
 **Score candidatures 15/09 : Safran 186417 ✅ · Wavestone TIME ✅ · Richemont ✅.** Envois messages restants : Anna (prêt), Inès variant A/B (prêtes), Caroline (caler week-end), Nohaila (16/09).
+
+### 9.2 INTITULÉ CONFIRMÉ = JR133563 (capture Workday « Terminée(s) »)
+Ligne Terminée(s) (1) : Tâche « Envoyer une demande de soutien de candidature » · Désignation **CDD Coordinateur Logistique H/F** · Demande **JR133563** · 15/09/2026 · Mes candidatures Actives (1). → **JR127118 fermée** (non trouvée à la recherche par réf) ; candidature soumise = jr133563 Paris. → **Message Inès = VARIANT B** (envoi 15/09). Mapping profil : approvisionnements / suivi fournisseurs SEEG-SBM ; logique CDD→CDI confirmée par Inès.
