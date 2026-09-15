@@ -95,6 +95,7 @@ Méthode : noms extraits des captures du PDF « Deutsche bank Meeting.pdf » (li
 | Yusuf Saleem | NON connecté | [recherche 1 clic](https://www.linkedin.com/search/results/people/?keywords=%22Yusuf%20Saleem%22) | invitation + note session |
 | Jehoiady Brown | NON connecté | [recherche 1 clic](https://www.linkedin.com/search/results/people/?keywords=%22Jehoiady%20Brown%22) | invitation + note session |
 | Yvann Deschenaux | NON connecté | [recherche 1 clic](https://www.linkedin.com/search/results/people/?keywords=%22Yvann%20Deschenaux%22) | invitation + note session |
+| Marion Creusy | NON connecté | https://fr.linkedin.com/in/marion-creusy-59a743224 (URL exacte : SKEMA MSc FMI) | invitation + note session prioritaire |
 | James Sardiley | NON connecté | [recherche 1 clic](https://www.linkedin.com/search/results/people/?keywords=%22James%20Sardiley%22) | invitation + note session |
 
 ## Notes
