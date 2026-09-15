@@ -48,3 +48,20 @@
 ```text
 Salut Ali, compte-rendu DB : session insight Londres en groupe (135 étudiants), j'ai posé ma question au desk au micro — anglais correct mais stressé, un peu de fluidité mangée. Les programmes présentés (summer/insight UK) ne sont pas mon format ; ce qui me matche = off-cycle 6 mois Paris en fixed income/produits structurés. C'est jouable d'orienter vers ça ? Merci encore.
 ```
+
+## 👥 SUITE ALI 15/09 — PARTICIPANTS DB FIC SESSION (liste + liens + statuts)
+Consigne Ali : contacter chaque participant + remercier la recruteuse. Vérif PDF : **tous déjà relations 1er degré SAUF James Sardiley** (0 occurrence) → bouton « Message » du screenshot = preuves de connexion existante.
+| Participant | Rôle (screenshot) | Lien | Statut |
+|---|---|---|---|
+| Natalja Zvonarjova | Early Careers Recruiter DB FIC (organisatrice) | https://www.linkedin.com/in/natalja-zvonarjova-7b445abb/ | déjà connecté → REMERCIEMENT (brouillon livré 15/09) |
+| Ali Megarni | Sales & Trading DB | CA (donneur de consigne) | https://fr.linkedin.com/in/ali-megarni-42a200253 | déjà connecté → remerciement (brouillon livré) |
+| Eddy Farges | DB \| SGCIB \| ESSEC MIF \| ESILV | https://www.linkedin.com/in/eddy-farges/ | déjà connecté → note session (template) |
+| Yann Simo | VP Rates Trader DB Paris | https://www.linkedin.com/in/yann-simo-62b71479/ | déjà connecté → note session |
+| Othmane Kabbaj | DB \| SGCIB \| Tikehau | recherche nom en session | déjà connecté → note session |
+| Mian ZHANG | Strat, Londres | recherche nom en session (homonymes) | déjà connecté → note session |
+| Viraj Aggarwal | Credit Trader DB Londres | https://www.linkedin.com/in/viraj-aggarwal/ ⚠️ vérifier | déjà connecté → note session |
+| Jason Kong | FX & Rates Trader DB Hong Kong (HEC) | https://www.linkedin.com/in/jasonkong0609/ | déjà connecté → note session |
+| Alexis Bouvet | Structured Products Specialist DB Genève | https://www.linkedin.com/in/alexis-bouvet-a8270b175/ | déjà connecté + message salve 1 ENVOYÉ 10/09 (scellé) → relance J+5 optionnelle (hook session), sinon rien |
+| Kelvin-A Asare | EM Sales DB Londres | recherche nom en session | déjà connecté + salve 1 10/09 → **NE PAS RELANCER** (consigne Calvin : il ne répond pas, on laisse) |
+| James Sardiley | Director, STIR Trader DB (US) | recherche nom en session | **PAS connecté** → invitation + note ≤300 (brouillon livré) |
+- Imposteur-syndrome acté au dossier : paradoxe humble/compétitif = profil desk standard ; intimidation Kelvin = bon référentiel, pas une preuve ; épisode prononciation-rires = lien social créé ; pattern BCE/SKEMA/BPCE = stress d'évaluation ≠ niveau (preuves : M2 SKEMA+MSc CFM, BPCE multi-actifs, ShockDesk, FRM cand.).
