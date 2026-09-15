@@ -106,3 +106,24 @@
 - Aucun envoi FO entre le 11/09 09h15 et le 15/09 : **soldes inchangés = 62 envoyés · 10 exclus · 113 vierges**.
 - Dernier message LinkedIn envoyé confirmé : **n°62 Lutèce Boussin (Natixis CIB), salve 3 du 11/09 matin** (texte = modèle 46 de PACK_50_MESSAGES_OFFENSIFS_VAGUE_2).
 - Prochaine salve = n°63 et suivants, à puiser dans les 113 vierges. Dossiers Aldrin & Cléanne refermés le 15/09 (leurs files restent tracées dans leurs dossiers respectifs).
+
+---
+
+## 📨 SALVE 4 — PRÉPARÉE LE 15/09 (13 contacts, n°63-75) — NON SCELLÉS TANT QUE NON ENVOYÉS
+| # | Contact | Entreprise / accroche |
+| :---: | :--- | :--- |
+| 63 | Zoé Rodriguez Peinturier | BNP CIB Cross Asset Structured Products — alum SKEMA sur le desk |
+| 64 | Selma Mamouri | Deutsche Bank Paris Credit Sales — alum SKEMA M2 FMI |
+| 65 | Charles Fourquin | Julius Baer Wealth & Markets — alum SKEMA, ex-VP SKEMA Finance |
+| 66 | Elodie Roux | Banco Santander Structured Solutions & Markets — cible Espagne/Barcelone |
+| 67 | Brendan Smart | Natixis CIB — équipe ayant publié pour stagiaire |
+| 68 | Yanis Zakhama | SG CIB Global Markets — équipe ayant publié pour stagiaire |
+| 69 | Baptiste Allaire | BNP CIB — équipe ayant publié pour stagiaire |
+| 70 | Alexandra Locchi | CACIB Capital Markets — équipe ayant publié pour stagiaire |
+| 71 | Benjamin Dussault | BRED FO Equity Derivatives Structuring — démo Autocall/Phoenix |
+| 72 | Louan Hurault | BNP CIB Cross Asset Solutions & Flow Sales — fit simulateur |
+| 73 | Arsene Delpierre | CACIB Equity Derivatives Structuring — fit simulateur exotique |
+| 74 | Jérôme Lemue | HSBC Paris Head of European Corporate EQD — vouvoiement, aiguillage |
+| 75 | Thouraya Jarray | Kepler Cheuvreux Solutions MD Head of Structuring — vouvoiement, aiguillage |
+
+→ Une fois les 13 envoyés et confirmés « envoyés » : scellage définitif + **solde vierges = 100** pour les salves suivantes.
