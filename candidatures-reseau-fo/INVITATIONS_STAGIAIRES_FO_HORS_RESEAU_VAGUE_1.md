@@ -24,3 +24,12 @@ Critère Calvin : max 3 mois de desk au 15/09/2026 (début ≥ mi-juin 2026). �
 
 ## Vague 2 (à lancer sur « continue »)
 Requêtes restantes : HSBC/Goldman/Morgan Stanley/Exane/ODDO/BRYO/Leonteq Monaco septembre 2026 ; villes province (Nantes CACIB, Lille CIC, Lyon, Bordeaux, Rennes, Strasbourg, Brest Arkéa) ; annonces FR « je rejoins / j'intègre » sept. 2026 ; alternants exclus.
+
+## ➕ VAGUE 2 (même session, jusqu'épuisement)
+| 10 | Sarah Desbas | Credit Broker Assistant, Aurel BGC (annonce ≤ 4 j au crawl sept. 2026) | Paris | sept. 2026 | https://fr.linkedin.com/in/sarah-desbas-7184a8329 | ✅ ≤3 mois (headline profil « HSBC · Lille » = ancien, faire foi à l'annonce) |
+
+## 🛑 ÉPUISEMENT MÉTHODE (15/09, ~27 requêtes)
+- Rounds 2-5 (intitulés exacts, annonces FR/EN, brokers, Monaco PB, écoles, site:linkedin.com/posts & /in) : zéro profil neuf — uniquement offres d'emploi, posts >6 mois, seekers, alternants, homonymes.
+- Rejets vague 2 : Léana Ravier Goncalves (déjà relation + cohorte Louis), Noa Charaf (rôle/date ambigus), Andrea Ferrant (2023), Alexandre Albertini (début mars 2026 = >3 mois), Maxime Clément (seeker/alternance), Corentin Riyahi (TS, pas FO), Louis Racaud (annonces 2024-25), Mehdi Boisdur & Ilyes Dijon (1 449).
+- Total exploitable hors réseau : **10 profils** (9 Paris/plafond 25 OK, 1 Monaco, 0 province).
+- Pour dépasser : (a) Calvin colle ses résultats de recherche en session (je dédoublonne + compile sans limite) ; (b) ré-indexation des annonces = relancer la méthode dans 2-4 semaines ; (c) province FO = quasi inexistante en annonces publiques (desks hors Paris rares : CACIB/Natixis Nantes, brokers régionaux).

@@ -226,3 +226,4 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Méthode annonce-publique indexée (comme l'arena précédente) : 9 profils hors réseau livrés avec liens + preuve de date de début dans `INVITATIONS_STAGIAIRES_FO_HORS_RESEAU_VAGUE_1.md` (Pouillaude, Pilon, Wehbe, Benyamina, Moutal, Hely, Foucré Monaco, Anract, Gaudefroy) ; Boisdur & Dijon exclus (déjà 1 449).
 - Aucune invitation envoyée par l'agent : Calvin invite depuis sa session ; vérif ⚠️ (date de début) sur profil avant invitation.
 - Vague 2 sur « continue » : province + Monaco supplément + banques restantes.
+- Vague 2 : + Sarah Desbas (Aurel BGC, sept. 2026) = **10 profils hors réseau au total** ; méthode annonces indexées ÉPUISÉE le 15/09 (~27 requêtes, rounds 2-5 = 0 neuf) ; relais = résultats de recherche collés par Calvin ou ré-indexation dans 2-4 semaines.
