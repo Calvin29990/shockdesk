@@ -147,3 +147,7 @@ Vianney-Aldrin
 - **JR127118 OUVERTE** : Aldrin est dans le formulaire de candidature (onglet « JR127118 (CDD…) ») → **variant A du message Inès** dès soumission.
 - Formulaire bloquant « Mon expérience » débloqué par valeurs exactes fournies : Établissement = Université Mundiapolis Casablanca ; Langue = Français / Dans l'ensemble = Langue maternelle ; Anglais / Professionnel ; 2 entrées d'expérience = SEEG (juin 2026-aujourd'hui, Libreville) + Groupe des Boissons du Maroc (juil-sept 2024, Tit Mellil).
 - **Score candidatures 15/09 : Safran 186417 ✅ · Wavestone TIME ✅ · Richemont JR127118 (en cours → ✅ à confirmer).** Restent à envoyer : message Anna (post-candidature, prêt), variant A Inès (post-soumission, prête), message Caroline (caler week-end), relance Nohaila (16/09).
+
+### 9.1 RICHEMONT : SOUMISSION CONFIRMÉE (capture Workday 15/09)
+Modal « Candidature soumise — Vous n'avez plus de tâches » + checklist « À faire (0) · Terminée(s) (1) » + URL /jobTasks/completed/application, compte via.minang@gmail.com. **Intitulé du poste soumis à confirmer** par Aldrin via l'onglet « Terminée(s) (1) » ou l'email de confirmation : JR127118 → variant A Inès ; jr133563 → variant B.
+**Score candidatures 15/09 : Safran 186417 ✅ · Wavestone TIME ✅ · Richemont ✅.** Envois messages restants : Anna (prêt), Inès variant A/B (prêtes), Caroline (caler week-end), Nohaila (16/09).
