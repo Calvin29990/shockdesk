@@ -133,4 +133,4 @@ Vianney-Aldrin Minang · via.minang@gmail.com · WhatsApp uniquement : +33 7 45 
 - **15-16/09** : caler l'échange Caroline Guénard (Bengs).
 - **16/09** : relance douce Nohaila El Ouakily si silence.
 - **16/10** : jobdating Safran Gennevilliers (si candidature retenue).
-- **En attente de reprise** : lot de réécriture des ~27 templates « conseil » (avant toute nouvelle salve) · pack « propres relations » de Cléanne (même modèle qu'Aldrin, plus tard).
+- **En attente de reprise** : lot de réécriture des ~27 templates « conseil » (avant toute nouvelle salve).

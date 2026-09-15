@@ -1,5 +1,5 @@
 # 🎯 GUIDE STRATÉGIQUE DES FILTRES & REQUÊTES LINKEDIN
-## Maximiser l'Extraction Réseau (1er et 2e Degré) pour Yasmine, Cléanne et Aldrin
+## Maximiser l'Extraction Réseau (1er et 2e Degré) pour Yasmine et Aldrin
 
 Ce guide liste les **requêtes booléennes exactes**, les **filtres de titres**, de **lieux** et d'**entreprises cibles** à copier-coller directement dans la barre de recherche LinkedIn pour révéler l'ensemble des décideurs cachés dans ton réseau.
 
@@ -32,37 +32,6 @@ Ce guide liste les **requêtes booléennes exactes**, les **filtres de titres**,
 
 ---
 
-# 👭 2. PÔLE RETAIL / SIÈGES NORD / RH / CONSEIL / EDTECH (Pour Cléanne Minang)
-
-### 🔍 A. Requêtes Booléennes à copier dans la barre de recherche LinkedIn :
-* **Requête 1 — Les Géants du Retail & Sièges de la Métropole Lilloise (Hauts-de-France) :**
-  ```text
-  ("Decathlon" OR "Auchan" OR "Leroy Merlin" OR "Lesaffre" OR "Roquette" OR "Bonduelle" OR "Damartex" OR "Kiabi" OR "Boulanger" OR "Mulliez" OR "Mobivia" OR "Nocibé" OR "Castorama")
-  ```
-  *(Avec Filtre Lieu = `Lille et périphérie` ou `Hauts-de-France`)*
-* **Requête 2 — Recruteurs, Campus Managers & Directions RH :**
-  ```text
-  "Campus Manager" OR "Relations Écoles" OR "Talent Acquisition" OR "Responsable Recrutement" OR "Chargée de recrutement" OR "HRBP" OR "Ressources Humaines" OR "DRH"
-  ```
-* **Requête 3 — Cabinets de Conseil en Management & Stratégie (Prépa AST Top 5) :**
-  ```text
-  ("Wavestone" OR "Sia Partners" OR "Mazars" OR "Deloitte" OR "PwC" OR "KPMG" OR "EY" OR "BearingPoint" OR "Capgemini Invent" OR "McKinsey" OR "BCG" OR "Bain") AND ("Consultant" OR "Manager" OR "PMO" OR "Recrutement")
-  ```
-* **Requête 4 — Écosystème Prépa, EdTech, Concours & Orientation :**
-  ```text
-  "Mister Prépa" OR "Planète Grandes Ecoles" OR "EdTech" OR "Orientation" OR "Prépa" OR "Concours" OR "E-learning" OR "Formation" OR "LiveMentor" OR "Major Prépa"
-  ```
-* **Requête 5 — Startups & Scale-ups EuraTechnologies (Lille) :**
-  ```text
-  ("EuraTechnologies" OR "Startup" OR "Scale-up" OR "Bras droit" OR "Customer Care" OR "Operations") AND ("Lille" OR "Hauts-de-France")
-  ```
-
-### ⚙️ Filtres LinkedIn à cocher :
-* **Relations** : **`1er`** puis **`2e`**.
-* **Lieux** : `Lille et périphérie`, `Hauts-de-France`, `France` (pour le remote 800-900 €/m).
-* **Secteurs** : *Conseil en management*, *Enseignement supérieur*, *Commerce de détail*, *Services de recrutement*, *Technologies et services de l'information*.
-
----
 
 # 🏭 3. PÔLE INGÉNIEUR / GÉNIE INDUSTRIEL / SUPPLY CHAIN / LEAN (Pour Aldrin Minang)
 

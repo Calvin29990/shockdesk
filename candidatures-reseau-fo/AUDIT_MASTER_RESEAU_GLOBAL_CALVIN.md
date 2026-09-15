@@ -1,11 +1,10 @@
 # 🗂️ AUDIT & ARCHIVE GLOBALE DU RÉSEAU 1ER DEGRÉ CALVIN MINANG
 _Dernière consolidation : 12 Septembre 2026 — 1 428+ RELATIONS ANALYSÉES & CATÉGORISÉES_
 
-Ce document centralise, catégorise et archive l'ensemble des relations directes au 1er degré de Calvin Minang, réparties selon 4 dossiers hermétiques :
+Ce document centralise, catégorise et archive l'ensemble des relations directes au 1er degré de Calvin Minang, réparties selon 3 dossiers hermétiques :
 1. **Opération Calvin Minang** : Front Office / Trading / Structuration / Quant / Sales / Direction Marchés (Stage 6 mois Janvier 2027 — Paris, Monaco, Suisse, Luxembourg, Londres).
-2. **Opération Cléanne Minang** : Job étudiant / Stage / CDD / Temps Partiel (20h-25h/semaine, 800-900 €/mois, Lille ou Remote) — Prépa AST Top 5 & Conseil.
-3. **Opération Yasmine Touil** : Alternance M2 Architecture d'Intérieur, Retail Design & Scénographie (Luxe, Chanel, LVMH, Retail & Agences).
-4. **Opération Vianney-Aldrin Minang** : CDI Junior Mobilité Afrique (Gabon) ➔ Europe en **Génie Industriel** / Supply Chain / Process / Lean avec Sponsorship Visa.
+2. **Opération Yasmine Touil** : Alternance M2 Architecture d'Intérieur, Retail Design & Scénographie (Luxe, Chanel, LVMH, Retail & Agences).
+3. **Opération Vianney-Aldrin Minang** : CDI Junior Mobilité Afrique (Gabon) ➔ Europe en **Génie Industriel** / Supply Chain / Process / Lean avec Sponsorship Visa.
 
 ---
 
