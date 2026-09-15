@@ -217,3 +217,7 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Thread Louis Riou (scellé #74) : call = échange métier, pas un entretien ; Louis prévient Calvin sur ce qui est évalué au moment des entretiens ; **Louis pose l'annonce de son desk (Nantes) pour janvier sur son compte**.
 - Stratégie validée par Calvin : cibler les stagiaires recrutés à la même période que Louis (en desk 2-3 mois, clôture déc.-févr. → successeur janv. pas encore trouvé = fenêtre en avance) ; province prioritaire, Paris accepté.
 - **50 profils livrés** dans `SALVE_LOUIS_COHORTE_50_STAGIAIRES.md` (source : PDF 1 449 ; tiers A intern explicite / B assistant desk) — **vérification un par un par Calvin (stage ≤ 5 mois) avant tout message**. Rien n'est scellé.
+
+## 🔍 RECHERCHE LINKEDIN STAGIAIRES FO HORS RÉSEAU (consigne 15/09, suite cohorte Louis)
+- Consigne Calvin : 50-100+ stagiaires FO **hors ses relations** (invitations à venir), max 3 mois de desk, France seule (Monaco inclus), Paris max 25, ville par ville, pas de limite globale.
+- LinkedIn inaccessible depuis le sandbox (réseau bloqué sauf GitHub) → recherche par Calvin avec `KIT_RECHERCHE_LINKEDIN_STAGIAIRES_FO_VILLE_PAR_VILLE.md` (strings booléennes, filtres 2e/3e degré, villes) ; agent = dédoublonnage strict + vérif critères + table + notes d'invitation.
