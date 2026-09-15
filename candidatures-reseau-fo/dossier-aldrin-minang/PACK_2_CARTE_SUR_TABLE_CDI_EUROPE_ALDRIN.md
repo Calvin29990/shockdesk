@@ -37,7 +37,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Inetum France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist Inetum chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que a publié sur LinkedIn pour réception directe de CV par e-mail — d'où ce message sans détour.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Specialist Inetum chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. Votre profil indique : « a publié sur LinkedIn pour réception directe de CV par e-mail » — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -46,7 +46,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 2. Ludivine Guillet — Talent Acquisition Manager Inetum @ Inetum France
@@ -69,7 +71,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 3. Catarina Silva — Responsable Recrutement Inetum (Périmètre Grand Sud / Lyon) @ Inetum France
@@ -83,7 +87,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Inetum France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Responsable Recrutement Inetum (Périmètre Grand Sud / Lyon) chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que gère les démarches d'autorisation de travail pour les talents internationaux — d'où ce message sans détour.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Responsable Recrutement Inetum (Périmètre Grand Sud / Lyon) chez Inetum France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. Votre profil indique : « gère les démarches d'autorisation de travail pour les talents internationaux » — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -92,7 +96,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 4. Joseph Bisanti — Talent Acquisition Lead Inetum @ Inetum France
@@ -115,7 +121,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 5. Allison Gouttefangeas — Chargée de Recrutement Inetum @ Inetum France
@@ -138,7 +146,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 6. Margaux Desvignes — Chargée de Recrutement Conseil & Transformation Sopra Steria @ Sopra Steria Next
@@ -152,7 +162,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Sopra Steria Next, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Conseil & Transformation Sopra Steria chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que recrute activement sur les premiers postes et parcours conseil junior — d'où ce message sans détour.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Conseil & Transformation Sopra Steria chez Sopra Steria Next est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. Votre profil indique : « recrute activement sur les premiers postes et parcours conseil junior » — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -161,7 +171,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 7. Chérine Albertelli — Consultante & Ambassadrice Recrutement Sopra Steria Next @ Sopra Steria Next
@@ -184,7 +196,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 8. Melissa Hedouis — Consultante People & Change Sopra Steria Next @ Sopra Steria Next
@@ -207,7 +221,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 9. Camille Aubin — Consultante Transformation Digitale Sopra Steria Next @ Sopra Steria Next
@@ -230,7 +246,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 10. Romane Mandy — Consultante Secteur Financier Sopra Steria Next @ Sopra Steria Next
@@ -253,7 +271,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 11. Babacar Mbengue — Talent Acquisition Manager Capgemini Paris @ Capgemini France
@@ -276,7 +296,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 12. Alicja Watorek — Talent Acquisition Operations Lead Capgemini @ Capgemini Insights & Data
@@ -299,7 +321,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 13. Swati Jha — Talent Acquisition Lead Capgemini @ Capgemini France
@@ -322,7 +346,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 14. Emilie Mercier — Chargée de Recrutement Senior ALTEN Île-de-France @ ALTEN France
@@ -336,7 +362,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme ALTEN France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Senior ALTEN Île-de-France chez ALTEN France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que publie en continu sur LinkedIn avec son e-mail direct pour candidatures CDI — d'où ce message sans détour.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Chargée de Recrutement Senior ALTEN Île-de-France chez ALTEN France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. Votre profil indique : « publie en continu sur LinkedIn avec son e-mail direct pour candidatures CDI » — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -345,7 +371,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 15. Annabelle Guibert — Chargée de Recrutement ALTEN France @ ALTEN France
@@ -368,7 +396,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 16. Linda Amarouchene — Talent Acquisition Senior Talan Paris @ Talan France
@@ -382,7 +412,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Talan France, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Senior Talan Paris chez Talan France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. J'ai vu que plus de 34 000 abonnés sur LinkedIn, pilote les recrutements juniors — d'où ce message sans détour.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de Talent Acquisition Senior Talan Paris chez Talan France est exactement le canal : vos missions industrielles chez vos clients (aéro, auto, énergie, pharma) tournent sur ce profil en continu. Votre profil indique : « plus de 34 000 abonnés sur LinkedIn, pilote les recrutements juniors » — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -391,7 +421,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 17. Bouchra Azri — Responsable Recrutement & Développement RH Talan @ Talan France
@@ -414,7 +446,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 18. Mona Raki — Senior Talent Acquisition Specialist Talan @ Talan France
@@ -437,7 +471,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 19. Cynthia Yende — Chargée de Recrutement IT & Gestion Aubay Paris @ Aubay France
@@ -460,7 +496,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 20. Elodie Frisoni — Chargée de Recrutement Aubay @ Aubay France
@@ -483,7 +521,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 21. Régine Ménascé — Chargée de Recrutement Aubay @ Aubay France
@@ -506,7 +546,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 22. Ronan Rioux — Chargé de Recrutement Aubay @ Aubay France
@@ -529,7 +571,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 23. Livia Thenault — Chargée de Recrutement Aubay @ Aubay France
@@ -552,7 +596,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 24. Delphine Degrange — Talent Acquisition Specialist SII @ SII Group France
@@ -575,7 +621,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 25. Cécile Golfier-Salles — Responsable Recrutement & Formation Hardis Group Lyon @ Hardis Group
@@ -598,7 +646,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 26. Petra Major — HR Manager - Head of Talent Acquisition BDO Luxembourg @ BDO Luxembourg
@@ -612,7 +662,7 @@ Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
 
 Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme BDO Luxembourg, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
 
-Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de HR Manager - Head of Talent Acquisition BDO Luxembourg chez BDO Luxembourg est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe. J'ai vu que en charge de toute la stratégie de sourcing et d'attractivité internationale — d'où ce message sans détour.
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Votre poste de HR Manager - Head of Talent Acquisition BDO Luxembourg chez BDO Luxembourg est exactement le canal : ce poste est le canal que je vise pour un premier CDI en Europe. Votre profil indique : « en charge de toute la stratégie de sourcing et d'attractivité internationale » — d'où ce message sans détour.
 
 Deux contraintes que je pose explicitement :
 1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
@@ -621,7 +671,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 27. Rachel Bolognini — Talent Acquisition Senior BDO Luxembourg @ BDO Luxembourg
@@ -644,7 +696,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 28. Lena Schmid — Talent Acquisition Specialist BDO Luxembourg @ BDO Luxembourg
@@ -667,7 +721,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 29. Mathis Le Golvan — Recruteur Audit & Advisory Grant Thornton Luxembourg @ Grant Thornton Luxembourg
@@ -690,7 +746,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 30. Amélia Bouadjar — Talent Acquisition Grant Thornton Luxembourg @ Grant Thornton Luxembourg
@@ -713,7 +771,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 31. Pauline Schneider — Chargée de Recrutement Grant Thornton Luxembourg @ Grant Thornton Luxembourg
@@ -736,7 +796,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 32. Pauline Labarre — Talent Acquisition Specialist Grant Thornton Luxembourg @ Grant Thornton Luxembourg
@@ -759,7 +821,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 33. Desk Recrutement Dédié — Recrutement / Talent Acquisition @ Forvis Mazars Luxembourg
@@ -783,7 +847,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 34. Desk Talent Acquisition — Recrutement / Talent Acquisition @ CTG Luxembourg (Computer Task Group)
@@ -807,7 +873,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 35. Talent Acquisition Team — Recrutement / Talent Acquisition @ Arηs Group Luxembourg
@@ -831,7 +899,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 36. Recrutement — Recrutement / Talent Acquisition @ Telkea Group Luxembourg
@@ -855,7 +925,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 37. Pôle Recrutement — Recrutement / Talent Acquisition @ NSI Luxembourg
@@ -879,7 +951,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 38. Équipe Recrutement Tech & Data — Recrutement / Talent Acquisition @ SFEIR Luxembourg
@@ -903,7 +977,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 39. Liège / Bruxelles) — Recrutement / Talent Acquisition @ NSI IT Software & Services (Belgique
@@ -927,7 +1003,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 40. Équipe Recrutement — Recrutement / Talent Acquisition @ NRB Group Belgique
@@ -951,7 +1029,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 41. Talent Acquisition — Recrutement / Talent Acquisition @ Smals Bruxelles
@@ -975,7 +1055,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 42. Didier Acouetey — Président & Fondateur AfricSearch (Pionnier du recrutement Afrique-Europe) @ AfricSearch
@@ -999,7 +1081,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 43. Serge Agbekponou — Managing Director AfricSearch @ AfricSearch
@@ -1023,7 +1107,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 44. Chams Diagne — CEO & Fondateur Talent2Africa (Plateforme leader recrutement diaspora & Afrique) @ Talent2Africa
@@ -1047,7 +1133,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 45. Irene Serot Almeras — Senior HR Consultant Talent2Africa @ Talent2Africa
@@ -1071,7 +1159,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 46. Pôle Mobilité Internationale — Recrutement / Talent Acquisition @ Robert Walters Africa (Bureau de Paris)
@@ -1095,7 +1185,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 47. Simon Guindon-Saliba — Talent Acquisition Specialist Engineering & IT ALTEN @ ALTEN Group
@@ -1119,7 +1211,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 48. Nicolas Pittau — Talent Acquisition Lead Assystem @ Assystem (Pôle Énergie & Industrie)
@@ -1143,7 +1237,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 49. Anne Domange — Recruteuse Spécialiste Projets Industriels & Sûreté @ Assystem (France)
@@ -1167,7 +1263,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 50. Binti M. — Chargée de Recrutement Ingénierie & Industrie Assystem @ Assystem (Aix / Marseille / France)
@@ -1191,7 +1289,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 51. Hélène P. — Talent Acquisition Specialist Capgemini Engineering @ Capgemini Engineering (Issy-les-Moulineaux / France)
@@ -1215,7 +1315,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 52. Thibaut Ritorto — Business Manager / Recrutement Supply Chain & Industrie @ Capgemini Engineering
@@ -1239,7 +1341,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 53. Katia Zennouche — Talent Acquisition Specialist Capgemini Engineering @ Capgemini Engineering (Paris)
@@ -1263,7 +1367,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 54. Clémentine Voisin — Chargée de Recrutement Ingénierie Industrielle Akkodis @ Akkodis France (ex-AKKA Technologies / Adecco)
@@ -1287,7 +1393,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 55. Jean-François MASSARD — Ops @ e.SNCF Solutions / DSM Matériel @ SNCF Voyageurs / Matériel Industriel
@@ -1315,7 +1423,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 56. Antoine GIBERT — Ingénieur CentraleSupélec @ Ingénieur CentraleSupélec
@@ -1343,7 +1453,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 57. Samuele ABAGNATO — PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment @ PhD Ingegneria Ambientale / Material Flow Analysis & Life Cycle Assessment
@@ -1371,7 +1483,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 58. Maxime FONTAINE — Relais réseau Calvin @ Decathlon SE (Lille / International)
@@ -1399,7 +1513,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 59. Tomasz HRYNIUK — Relais réseau Calvin @ Lesaffre (Leader mondial des levures & fermentation industrielle)
@@ -1427,7 +1543,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 60. Sylvie SOUNDARAVELOU — Relais réseau Calvin @ TotalEnergies
@@ -1455,7 +1573,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 61. Benjamin PELLETIER — Relais réseau Calvin @ Bouygues Construction
@@ -1483,7 +1603,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 62. Martin Meurin — Digital Analytics Engineer @ DHL (Ex-Consultant Transformation Digitale & Agile EY) @ DHL (Ex-Consultant Transformation Digitale & Agile EY)
@@ -1511,7 +1633,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 63. Robin Gervais — Analyste Chaîne Logistique chez Melho (Lille) @ Analyste Chaîne Logistique chez Melho (Lille)
@@ -1539,7 +1663,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 64. Simon Gotthardt — Supply Chain Strategy & Transformation @ Miebach Consulting @ Miebach Consulting
@@ -1567,7 +1693,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 65. Noemie Caron — MSc Global Supply Chain & Procurement (SKEMA x MIT) @ MSc Global Supply Chain & Procurement (SKEMA x MIT)
@@ -1595,7 +1723,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 66. Daoud Sylla — Chef de Projets Industriels | Ingénierie Process & HSE @ Chef de Projets Industriels | Ingénierie Process & HSE
@@ -1623,7 +1753,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 67. Etienne Vial — Responsable d’Exploitation chez Groupe Keolis @ Responsable d’Exploitation chez Groupe Keolis
@@ -1651,7 +1783,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 68. Thomas Le Roy — Capgemini Engineering pour Airbus Helicopters @ Capgemini Engineering pour Airbus Helicopters
@@ -1679,7 +1813,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 69. Gabriel SOUMBO — Talent Acquisition Specialist @ Capgemini Engineering R&D @ Capgemini Engineering R&D
@@ -1707,7 +1843,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ## 70. Mathieu Guilleminot — Talent Recruiter Freelance (Industrie, Mécanique, Énergies) @ Talent Recruiter Freelance (Industrie, Mécanique, Énergies)
@@ -1735,7 +1873,9 @@ Deux contraintes que je pose explicitement :
 La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
 
 Respectueusement,
-{SIGN}
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 ```
 
 ---
