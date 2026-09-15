@@ -2721,5 +2721,18 @@ LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 | 85 | Talent Acquisition / Recrutement @ Ordina Belgium / Sopra Steria BeLux | email/LinkedIn | PRÊT |  |
 | 86 | Talent Acquisition / Recrutement @ Michael Page Africa | email/LinkedIn | PRÊT |  |
 | 87 | Talent Acquisition / Recrutement @ Morgan Philips Africa | email/LinkedIn | PRÊT |  |
+| 88 | Talent Acquisition Ingénierie @ Thales | email/LinkedIn | PRÊT |  |
+| 89 | Recrutement Ingénierie @ Dassault Aviation | email/LinkedIn | PRÊT |  |
+| 90 | Talent Acquisition @ ArianeGroup | email/LinkedIn | PRÊT |  |
+| 91 | Recrutement Ingénierie @ Naval Group | email/LinkedIn | PRÊT |  |
+| 92 | Talent Acquisition Manufacturing @ Stellantis | email/LinkedIn | PRÊT |  |
+| 93 | Recrutement Ingénierie @ Renault Group | email/LinkedIn | PRÊT |  |
+| 94 | Talent Acquisition @ Valeo | email/LinkedIn | PRÊT |  |
+| 95 | Recrutement Ingénierie @ Forvia | email/LinkedIn | PRÊT |  |
+| 96 | Talent Acquisition @ Michelin | email/LinkedIn | PRÊT |  |
+| 97 | Recrutement Ingénierie @ Sanofi | email/LinkedIn | PRÊT |  |
+| 98 | Talent Acquisition Operations @ Danone | email/LinkedIn | PRÊT |  |
+| 99 | Recrutement Ingénierie @ Engie | email/LinkedIn | PRÊT |  |
+| 100 | Talent Acquisition @ Framatome | email/LinkedIn | PRÊT |  |
 
 **Total pack 2 : 100 messages, 1 par cible, aucune déjà contactée, aucun chevauchement avec les 100 scellés.**
