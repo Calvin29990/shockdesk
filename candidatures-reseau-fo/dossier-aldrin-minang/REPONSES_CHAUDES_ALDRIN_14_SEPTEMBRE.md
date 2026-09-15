@@ -174,3 +174,30 @@ Précision utile : je suis actuellement hors de France (stage de fin d'études a
 Merci encore pour ton aide 🙂
 Vianney-Aldrin
 ```
+
+---
+
+## 🔄 ANNA CORNILLARD — échange du 15/09 (sa réponse de 10:50) + réponse Aldrin
+
+**Son message (15/09, 10:50) :**
+> Hello Viannay-Aldrin
+> Je vais voir ce que je peux faire ! Tu as postulé sur ces offres ?
+> Aucune idée, je n'ai pas de retour d'expérience par rapport à un statut hors de France désolée 😔
+
+**Consigne avant envoi :** si les candidatures en ligne ne sont pas encore faites, les faire d'abord (règle : candidature en ligne uniquement) — le « Oui, j'ai postulé » doit être vrai au moment où le message part. Signature : « Vianney-Aldrin » (orthographe exacte ; le message précédent était parti signé « Viannay-Aldrin », faute de frappe reprise par Anna).
+
+**Réponse Aldrin (ton naturel, tutvoiement) :**
+```text
+Hello Anna,
+
+Merci pour ton retour !
+
+Oui, j'ai postulé en ligne sur les offres méthodes dont on a parlé (réf. 2026-186417, celle du jobdating du 16/10 à Gennevilliers). Si tu peux voir quelque chose de ton côté, le plus simple est de transmettre mon CV au manager méthodes ou aux RH : ça suffira.
+
+Pour le statut hors de France, ne t'excuse pas : ce n'est pas grave si tu n'as pas de retour d'expérience. La procédure (ANEF) se fait entièrement en ligne, en 3 à 6 semaines, une fois que l'entreprise est d'accord pour sponsoriser. Je me renseigne de mon côté en parallèle.
+
+Je reste joignable le week-end après-midi si tu veux qu'on en parle cinq minutes.
+
+Merci encore,
+Vianney-Aldrin
+```
