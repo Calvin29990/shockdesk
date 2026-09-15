@@ -153,3 +153,23 @@
 | 74 | Victor Baudart | Cross Asset Structured Products Sales, Kepler Cheuvreux (9/09) |
 | 75 | Frédéric Goulipian | MD Head of Euro Swaps Trading (8/07) — vouvoiement |
 Remplaçants vérifiés 1er degré si désistement : Benjamin Messas (MD Global Head EQD Trading), Hugo Forni (Investment Associate JPM), Wissam Bridi (Energy Research & Trading), Robin Dangoise (Sales & Trader Cash Equity).
+
+## 🗣️ RÈGLE LANGUE (15/09, consigne Calvin) : vérifier la langue du contact (FR/EN/ES) avant message ; À CE STADE PRIVILÉGIER LES FRANCOPHONES. Messages salve 4 non envoyés → refondus en v3.
+Signaux langue retenus : headline en français (« chez X ») ; école française (ESSEC, ESCP, Assas, CY Tech) ; maison parisienne (Kepler Cheuvreux, Natixis, SGCIB, CACIB) ; prénom/nom francophone.
+## 📨 SALVE 4 v3 — 13 FRANCOPHONES 1er degré vérifiés PDF, vierges (n°63-75), messages EN FRANÇAIS
+| # | Contact | Preuve francophone |
+| :---: | :--- | :--- |
+| 63 | Laurent Esposito | Head of Trading **chez** HSBC (headline FR) — vouvoiement |
+| 64 | Jordan Vidal | FX & IRD Sales SGCIB Paris |
+| 65 | Edouard Guillez | Structured Products Sales, Kepler Cheuvreux (Paris) |
+| 66 | Jihane bouyacoub | Market Risk Manager FX/Hybrids/Rates Exotics, SGCIB — vouvoiement |
+| 67 | Jules Juncker | BA Structured Products, Natixis CIB Paris |
+| 68 | El Yazid SAAD | EQD Sales Barclays (nom francophone, Barclays Paris) |
+| 69 | Victor Baudart | Cross Asset Structured Products Sales, Kepler Cheuvreux (Paris) |
+| 70 | Frédéric Goulipian | MD Head of Euro Swaps Trading, Natixis Paris — vouvoiement |
+| 71 | Germain Evrard | Quant Trading VP, BofA (nom francophone) — vouvoiement |
+| 72 | Idriss Moulaï | Director Exotic Derivatives Trader (nom francophone) — vouvoiement |
+| 73 | Martin de Virieu | CACIB \| ESSEC MiF \| MEng CY Tech |
+| 74 | Louis Riou | CACIB \| Market Finance \| Paris Panthéon-Assas |
+| 75 | Robin Dangoise | Sales & Trader Cash Equity \| ESCP PGE |
+Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben White, Kelvin Wong, Mathias Paladino, Wissam Bridi, Benjamin Messas, Hugo Forni.
