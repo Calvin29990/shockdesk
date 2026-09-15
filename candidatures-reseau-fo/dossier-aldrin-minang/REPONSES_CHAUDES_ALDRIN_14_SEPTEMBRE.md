@@ -134,3 +134,43 @@ Vianney-Aldrin Minang · via.minang@gmail.com · WhatsApp uniquement : +33 7 45 
 - **16/09** : relance douce Nohaila El Ouakily si silence.
 - **16/10** : jobdating Safran Gennevilliers (si candidature retenue).
 - **En attente de reprise** : lot de réécriture des ~27 templates « conseil » (avant toute nouvelle salve).
+
+
+---
+
+## 🚨 15/09 — URGENT : 3 RÉPONSES NOUVELLES (Laure, Anna, Inès) — offres checkées sur sites
+> **Vérif faite** : jr133216 (offre Inès) = Technicien méthodes **Couvet (Suisse), CDD, cœur CAO/dessin** → NON ADAPTÉE (ligne rouge CAO + permis suisse quasi fermé aux Gabonais). **L'ancien brouillon §4 « je postule jr133216 » est ABANDONNÉ.** Référence Richemont qui colle : **JR127118 — CDD Data Analyst Méthodes Industrielles, Paris** (Bac+3→+5 génie industriel, process, sans CAO).
+> **Safran SAE (demande d'Anna)** : réf vivante = **2026-186417 — Ingénieur-e Méthodes, Jobdating 16/10 Gennevilliers (CDI, Colombes, Bac+5 génie industriel, >3 ans à assumer frontalement)** + vague jeunes diplômés (stages acceptés) : Ingénieur support produit – Colombes · Approvisionneur supply chain – Vichy.
+
+### ✂️ 1. Laure Peng (Wavestone) — report week-end + check offres
+```text
+Hello Laure !
+Petit point avant notre échange : je suis en pleine préparation de ma soutenance (période un peu stressante) et pleinement pris par mon stage de fin d'études au Gabon — je ne suis désormais joignable pour un call que les week-ends en après-midi. Désolé pour le contretemps : est-ce que ce week-end (samedi ou dimanche après-midi) t'irait ?
+En attendant, une demande directe pour ne pas te faire perdre ton temps : pourrais-tu checker sur le site de Wavestone (ou me dire où chercher) les offres ou missions ouvertes correspondant à mon profil — diplômé en génie industriel (ex-UTT), méthodes / industrialisation / supply chain / Lean, en recherche de CDI junior en Europe ? Si rien, dis-le moi franchement, ça me va très bien — et si ça bouge plus tard, je prends.
+Je t'envoie ma synthèse une page juste après ce message.
+Merci encore, et à ce week-end si tu peux !
+Vianney-Aldrin
+```
+
+### ✂️ 2. Anna CORNILLARD (Safran) — merci + références checkées + push
+```text
+Bonjour Anna,
+Merci infiniment pour ton jeu sincère — c'est rare et ça aide énormément.
+J'ai checké le site SAE comme tu me l'as proposé. Voici ce qui colle à mon profil :
+1. Réf 2026-186417 — Ingénieur-e Méthodes, Jobdating SAE du 16/10 à Gennevilliers (CDI, Colombes) : c'est mon cœur de cible (industrialisation, optimisation des processus, support production, amélioration continue). L'annonce demande plus de 3 ans d'expérience : j'ai des stages de fin d'études et des projets industriels, pas davantage — je préfère te le dire franchement : si tu penses que mon profil peut être poussé malgré ça, je suis preneur à 100 % ; sinon je comprendrai parfaitement.
+2. La vague jeunes diplômés évoquée sur le site (Ingénieur support produit – Colombes ; Approvisionneur supply chain – Vichy ; stages acceptés) : si ces deux-là sont encore ouvertes, elles collent encore mieux à mon statut junior — peux-tu vérifier de ton côté ?
+Mes deux contraintes, carte sur table : stage de fin d'études au Gabon jusqu'à sa clôture (CDI en Europe possible dès son terme), et disponibilité pour les échanges uniquement les week-ends en après-midi (préparation de ma soutenance, période un peu stressante). Et une question directe : ma nationalité gabonaise / l'autorisation de travail est-elle un blocage pour ce type de poste chez SAE ?
+Je t'envoie mon CV dans la foulée, et merci encore de proposer de pousser ma candidature.
+Vianney-Aldrin Minang · via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+```
+
+### ✂️ 3. Inès Touflet (Richemont) — franchise jr133216 + JR127118 + offres équipe
+```text
+Hello Inès,
+Merci pour ton lien et pour ta pensée 🙏
+J'ai checké l'offre de ton équipe (jr133216, Technicien méthodes à Couvet) en détail, et je préfère jouer carte sur table : son cœur est le dessin / CAO (plans de fabrication, outillages) — un périmètre que je ne revendique pas et ne maîtrise pas ; et Couvet = Suisse, où le permis de travail pour ma nationalité gabonaise est quasi inaccessible. Je ne postulerai donc pas : ce serait te faire perdre ton temps et le mien.
+En revanche j'ai trouvé sur votre site la JR127118 — CDD Data Analyst Méthodes Industrielles, Paris (support aux équipes Méthodes & Industrialisation, processus industriels, Bac+3 à +5 génie industriel) : celle-là colle exactement à mon profil, sans CAO. Est-elle encore ouverte ? Et dans ton équipe ou au sein du Manufacturing, y a-t-il des versions CDI ou ouvertes au sponsoring (procédure ANEF, 3 à 6 semaines) ?
+Je suis en stage de fin d'études au Gabon jusqu'à sa clôture, joignable pour un call les week-ends en après-midi (préparation de soutenance). Si tu as deux minutes pour checker de ton côté, ça m'aiderait énormément.
+Merci encore,
+Vianney-Aldrin
+```

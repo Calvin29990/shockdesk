@@ -15,6 +15,7 @@
   1. Diplôme : **« ex-UTT, diplômé en génie industriel »** (diplôme Mundiapolis, UTT non terminé). Jamais « diplômé de l'UTT ».
   2. **Jamais** de revendication CAO / DAO / dessin industriel (manque de pratique — hors périmètre).
   3. Conseil : **posture découverte uniquement** (Aldrin ne connaît pas le conseil) — jamais « je cible le conseil », jamais « solide expertise ».
+  4. **UTT : jamais cibler les simples étudiants UTT ni l'administration UTT** (départ en termes moyens avec l'école). Le levier = **les alumni et les liens faibles, qui ne posent pas de questions**.
 
 ### 🛡️ INVENTAIRE COMPLET DES RELATIONS 1ER DEGRÉ DU PACK 100
 

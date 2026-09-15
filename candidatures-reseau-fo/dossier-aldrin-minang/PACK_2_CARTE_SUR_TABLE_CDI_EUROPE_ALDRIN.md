@@ -7,6 +7,7 @@
 > 1. Diplôme : **« ex-UTT, diplômé en génie industriel »** — jamais « diplômé de l'UTT ».
 > 2. Jamais de CAO / DAO / dessin industriel.
 > 3. Conseil : posture découverte uniquement — jamais « je cible le conseil », jamais « solide expertise ».
+> 4. **UTT : jamais cibler les simples étudiants UTT ni l'administration UTT** (départ en termes moyens) — levier = **alumni & liens faibles, qui ne posent pas de questions**.
 >
 > **CONTRAINTES ACTÉES PAR ALDRIN (15/09, présentes dans CHAQUE message)** :
 > * Stage de fin d'études **au Gabon** (hors de France) jusqu'à sa clôture → CDI Europe dès son terme ;
