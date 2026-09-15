@@ -102,3 +102,40 @@ Vianney-Aldrin
 2. **16/09** : envoyer 5.3 Nohaila (si toujours silence).
 3. **19/09 14h** : call Laure (prép §6).
 4. Règle permanente : candidature **en ligne uniquement** ; tout process final à Paris ; jamais CAO ; jamais « diplômé de l'UTT ».
+
+---
+
+## 8. MÀJ 15/09 (après-midi) — retours écran Aldrin
+
+### 8.1 SAFRAN : CANDIDATURE 186417 CONFIRMÉE
+Capture du portail Safran : « Ingénieur-e Méthodes - Jobdating SAE 16 Octobre 2026 Gennevilliers F/H — **You've already applied for this job opening** ». → Le « Oui, j'ai postulé » du message Anna est VRAI : **envoyer le message Anna (§🔄 REPONSES_CHAUDES) immédiatement**. Jobdating 16/10 = échéance à suivre au registre.
+
+### 8.2 WAVESTONE : OFFRE CIBLE TROUVÉE = CDI Consultant.e TIME
+**CDI - Consultant.e Transport, Infrastructure, Manufacturing & Energy** — Terr. Boieldieu, 92800 (Paris/La Défense), hybride, temps complet. BU **TIME** = Transport, Infrastructure, Manufacturing, **Energy**.
+- Pourquoi c'est LE match : domaine « **Excellence industrielle** » = « optimiser la gestion des actifs et de la maintenance » + schémas directeurs industriels = le PFE SEEG mot pour mot ; qualifications = « expérience **idéalement** en conseil ou **dans le secteur de l'énergie ou des utilities** » → SEEG = utilities, donc le "idéalement" est rempli sans expérience conseil.
+- **Choix de formulaire (règles, quels que soient les libellés exacts)** :
+  - Business unit / practice : **TIME (Transport, Infrastructure, Manufacturing & Energy)**.
+  - Domaine parmi les 5 listés : **Excellence industrielle** en 1er ; si multi-choix, ajouter Conception/Ingénierie.
+  - Employment type : CDI / Permanent / Full-time. Location : Paris / Île-de-France / La Défense.
+  - Professional category / experience : Consultant / Analyst / **Entry level / Junior / 0-2 ans**.
+  - Champ « recommandé par / referrer » si présent : **Laure Peng** (à confirmer de vive voix au call de samedi).
+- **Pitch 3 phrases pour champ motivation** : ex-UTT, diplômé en génie industriel (Mundiapolis) ; PFE à la SEEG (Gabon) = fiabilité d'un réseau électrique 90/225 kV pilotée par la donnée (MTBF/MTTR, AMDEC, plan RCM/TPM, dashboards Power BI/Python) ; cible = excellence industrielle / gestion d'actifs et maintenance au sein de la BU TIME, CDI en Europe à la clôture du stage.
+- Samedi 19/09 : dire à Laure que cette candidature TIME est partie — elle saura vers qui la pousser.
+
+### 8.3 RICHEMONT : BONNE MÉTHODE DE RECHERCHE + CIBLE n°2
+- Erreur constatée : la phrase entière « CDD Data Analyst Méthodes Industrielles Paris, sans CAO » collée dans Keywords → 146 résultats non filtrés. **Workday ne cherche pas une phrase : chercher la RÉF seule.**
+- Procédure : Keywords = `JR127118` seul → Start search. Si 0 résultat = offre fermée → variant B message Inès (§8.4).
+- Sinon filtres : Location = France → City = Paris ; Job Function = Manufacturing puis Supply Chain and Logistics ; Job Type = Fixed Term ; Experience Level = Entry Level.
+- **Cible n°2 relevée dans sa page 1** : **jr133563 — CDD Coordinateur Logistique H/F, Paris, Supply Chain and Logistics** (`careers.richemont.com/en/jobs/jr133563/cdd-coordinateur-logistique-h-f/`) = supply chain Paris CDD, compatible profil approvisionnements SEEG/SBM. À postuler si JR127118 fermée (ou en plus, si JR127118 ouverte et temps disponible).
+- Hors cible par règle France/Paris : tout ce qui est Moscavide PT, Villars Sur Glâne CH, Bellevue CH, Seoul, Dubai, US.
+
+### 8.4 MESSAGE INÈS — VARIANT B (si JR127118 fermée, après candidature jr133563)
+```text
+Hello Inès,
+
+Merci pour ta réponse claire. C'est noté pour la logique CDD puis CDI : ça me va.
+La JR127118 semble fermée côté site, donc je viens de postuler en ligne sur le CDD Coordinateur Logistique Paris (jr133563), toujours dans cette logique CDD d'entrée. Si tu entends parler d'une ouverture méthodes/industrialisation côté Paris, je suis preneur — sinon je te tiens au courant moi-même.
+
+Merci encore pour ton accueil,
+Vianney-Aldrin
+```
