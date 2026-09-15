@@ -227,3 +227,6 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Aucune invitation envoyée par l'agent : Calvin invite depuis sa session ; vérif ⚠️ (date de début) sur profil avant invitation.
 - Vague 2 sur « continue » : province + Monaco supplément + banques restantes.
 - Vague 2 : Sarah Desbas (Aurel BGC) livrée puis EXCLUE (dans les 1 449) = **9 profils hors réseau au total** ; méthode annonces indexées ÉPUISÉE le 15/09 (~27 requêtes, rounds 2-5 = 0 neuf) ; relais = résultats de recherche collés par Calvin ou ré-indexation dans 2-4 semaines.
+
+## 👥 AUDIT 135 PARTICIPANTS DB FIC (15/09, consigne Ali)
+- `AUDIT_PARTICIPANTS_DB_FIC_135.md` : ~93 noms lisibles ; **10 déjà connectés** (Zvonarjova, Farges, Simo, Kabbaj, Zhang, Megarni, Aggarwal, Bouvet, Kong, Asare) ; **~82 non connectés** → invitations + notes session ; 8 illisibles écartés ; perle = Marion Creusy (SKEMA MSc FMI). URLs exactes = vagues web sur demande ; liens recherche 1 clic fournis.
