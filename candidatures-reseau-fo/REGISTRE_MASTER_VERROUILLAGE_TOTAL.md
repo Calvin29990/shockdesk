@@ -240,3 +240,13 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Profil Kelvin (vérifié screen) : EM Sales Deutsche Bank Londres ; IB Associate mars 2026-aujourd'hui ; IB Analyst juil. 2023-mars 2026 ; DB Summer Analyst 2022 ; TwentyFour AM 2022 ; Disney Finance Intern 2020-21.
 - Lecture Calvin actée : premier contact en 7 ans combinant maîtrise + reconnaissance + humilité → **contact mentor long terme, indépendamment du stage DB** ; desk EM Sales Londres = aligné avec la thèse EM/LatAm de Calvin.
 - Réponse livrée 15/09 : zéro demande (relation d'abord), remerciement + rester en contact + suivre son parcours. Prochain geste Kelvin : aucun avant sa relance à lui ou un élément neuf (réponse DB, question EM précise).
+
+## 🔐 CLÔTURE GÉNÉRALE 15/09 (Calvin : « tt est envoyé, tu peux cloturer »)
+- **SAAD Barclays v2 ENVOYÉ → SCELLÉ** (#68) : salve 4 = 11/11 scellés, flux fermé.
+- **Mines Aldrin 8 ENVOYÉES (canal Calvin) → SCELLÉES** : Niamien, Sylla, De Valère, Cockenpot, Gervais, Martin, Guilleminot, Bourdonnaye. Desk Aldrin refermé.
+- **Lead Delcroix (Chanel) : mail ENVOYÉ → SCELLÉ** au desk Yasmine (desk refermé derrière).
+- **Invitations hors réseau 9 ENVOYÉES** + **invitations DB 80 ENVOYÉES** (sans note) : actées envoyées, hors pool 1er degré (aucun impact solde).
+- **Follow-up DB envoyés** : remerciement Natalja, remerciement Ali, message Matthieu Elias, réponse zéro-ask Kelvin Asare.
+- **Solde vierges 1er degré après scellages : 947** (968 − 12 desks − 1 SAAD − 8 Aldrin).
+- **Reste OUVERT (non clôturable ce soir)** : cohorte Louis 50 = vérification un-par-un par Calvin puis rédaction salve ; Kelvin Asare = contact mentor long terme (prochain geste = lui ou élément neuf) ; relances standards (Théo J+5/J+6, Gauthier, etc.) inchangées.
+- Tout le reste est FERMÉ au 15/09 : Yasmine, Cléanne, Aldrin, salve 4 FO, follow-up DB, mines desks.
