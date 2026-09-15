@@ -106,3 +106,15 @@ Méthode : noms extraits des captures du PDF « Deutsche bank Meeting.pdf » (li
 
 ## 🔗 LIVRAISON CHAT 15/09 — 82 NOMS + LIENS (invitations SANS note, consigne Calvin)
 Liste collée en chat un par un avec lien recherche 1 clic (ou URL exacte quand trouvée : Creusy). Calvin invite sans note ; aucun message envoyé → rien à sceller.
+
+## 🎯 TRI FO FRANCE/LONDRES SUR LES 80 (15/09, consigne Calvin : « un contact = un bon stagiaire ou un senior bienveillant et je signe »)
+**T1 — utiles directs (5)** :
+1. Matthieu Elias — Natixis CIB Paris (gap year EQD/Advanced FI/FX, ESILV) = pair en desk Paris — https://www.linkedin.com/in/matthieu-elias-eng-finance/
+2. Marion Creusy — SKEMA MSc FMI + HypoVereinsbank Munich + SEO London = pair FR formation FO — https://fr.linkedin.com/in/marion-creusy-59a743224
+3. Sacha Olry de Labry (écran « Oury ») — AXA IM Alts Analyst | SKEMA MiF | Paris = pair FR Paris (adjacent AM) — recherche session « Sacha Olry de Labry »
+4. Yvann Deschenaux — Edmond de Rothschild AM Luxembourg, RM Intern PE desk, EDHEC = pair FR Lux — https://lu.linkedin.com/in/yvanndeschenaux
+5. Mary-Claire Taduyo — organisatrice session [External] = gatekeeper recrutement early careers DB (2e porte après Natalja) — recherche session.
+**T2 — réseau Londres 2027 (étudiants FIC UK non tagués, ~60)** : invitations consigne Ali, yield FO = réseau futur, pas signature (sponsorship intern UK = exceptionnel).
+**T2 senior** : James Sardiley (Director STIR DB, US) = senior bienveillant possible mais marché US ≠ Paris/Londres.
+**T3 — exclus FO FR/Londres** : Antoine Vicario (biochimie Bruxelles) ; Roussaux & F.E. Doyle (prénom/manque → invitation seulement si Ali insiste) ; homonymes non finance confirmés.
+**Reco « un contact »** : parmi les 80 = Matthieu Elias (pair desk Paris). Senior bienveillant déjà dans le réseau (connecté) = Yann Simo (VP Rates DB Paris) → note session = déblocage offre Paris. Fait visa : Paris = titre étudiant couvre le stage (signature sans sponsor) ; Londres = sponsorship intern rare → Londres = réseau, Paris = signature.
