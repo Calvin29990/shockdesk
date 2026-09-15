@@ -1,7 +1,7 @@
 # 🃏 PACK 2 — CARTE SUR TABLE — CDI EUROPE (ALDRIN MINANG)
 ## Les 100 premiers envoyés & scellés → voici les 100 suivants, 1 par cible, jamais contactée : contraintes posées noir sur blanc
 
-> **Contexte 15/09/2026** : Pack 100 = 100/100 envoyés (registre scellé), 5 réponses chaudes traitées dans `REPONSES_CHAUDES_ALDRIN_14_SEPTEMBRE.md`. Ce pack 2 couvre 100 cibles jamais contactées : partie A = 70 nominatifs dédupliqués (recruteurs ESN/conseil/audit FR-LU-BE, recruteurs génie industriel vérifiés, relais réseau Calvin, nouvelles relations 1er degré Calvin) ; partie B = 30 slots entreprises (ESN/audit/Luxembourg/Belgique) non couvertes par un nominatif.
+> **Contexte 15/09/2026** : Pack 100 = 100/100 envoyés (registre scellé), 5 réponses chaudes traitées dans `REPONSES_CHAUDES_ALDRIN_14_SEPTEMBRE.md`. Ce pack 2 couvre 100 cibles jamais contactées : partie A = 70 nominatifs dédupliqués (recruteurs ESN/conseil/audit FR-LU-BE, recruteurs génie industriel vérifiés, relais réseau Calvin, nouvelles relations 1er degré Calvin) ; partie B = 17 slots entreprises (ESN/audit/Luxembourg/Belgique) non couvertes par un nominatif ; partie C = 13 slots grands groupes industriels français/européens absents de tout pack précédent.
 >
 > **CHARTE (lignes rouges, jamais négociables)** :
 > 1. Diplôme : **« ex-UTT, diplômé en génie industriel »** — jamais « diplômé de l'UTT ».
@@ -2314,6 +2314,323 @@ LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 
 ---
 
+# 🏭 PARTIE C — GRANDS GROUPES INDUSTRIELS (88 → 100) : jamais contactés, 1 message par groupe
+> Canal : LinkedIn company → chercher le rôle indiqué dans l'équipe recrutement ingénierie ; ou portail carrières du groupe (réponse via le message ci-dessous au TA identifié).
+
+## 88. Talent Acquisition Ingénierie @ Thales
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Thales, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Défense et aéronautique : industrialisation, procédés, qualité série — le terrain où je veux signer mon premier CDI.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 89. Recrutement Ingénierie @ Dassault Aviation
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Dassault Aviation, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Défense et aéronautique : industrialisation, procédés, qualité série — le terrain où je veux signer mon premier CDI.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 90. Talent Acquisition @ ArianeGroup
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme ArianeGroup, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Défense et aéronautique : industrialisation, procédés, qualité série — le terrain où je veux signer mon premier CDI.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 91. Recrutement Ingénierie @ Naval Group
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Naval Group, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Défense et aéronautique : industrialisation, procédés, qualité série — le terrain où je veux signer mon premier CDI.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 92. Talent Acquisition Manufacturing @ Stellantis
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Stellantis, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Flux série, Lean et industrialisation : vos usines européennes sont ma cible de premier choix.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 93. Recrutement Ingénierie @ Renault Group
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Renault, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Flux série, Lean et industrialisation : vos usines européennes sont ma cible de premier choix.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 94. Talent Acquisition @ Valeo
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Valeo, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Flux série, Lean et industrialisation : vos usines européennes sont ma cible de premier choix.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 95. Recrutement Ingénierie @ Forvia
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Forvia, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Flux série, Lean et industrialisation : vos usines européennes sont ma cible de premier choix.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 96. Talent Acquisition @ Michelin
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Michelin, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Flux série, Lean et industrialisation : vos usines européennes sont ma cible de premier choix.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 97. Recrutement Ingénierie @ Sanofi
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Sanofi, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos exigences process et qualité en production correspondent exactement à ma recherche.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 98. Talent Acquisition Operations @ Danone
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Danone, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos exigences process et qualité en production correspondent exactement à ma recherche.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 99. Recrutement Ingénierie @ Engie
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Engie, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos projets industriels et votre maintenance correspondent à mon profil process & méthodes.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+## 100. Talent Acquisition @ Framatome
+*Source : slot grands groupes 15/09 · Canal : LinkedIn company / portail carrières*
+*Objet : Carte sur table — ex-UTT diplômé génie industriel, CDI Europe — Vianney-Aldrin MINANG*
+```text
+Bonjour,
+
+Je joue carte sur table pour ne vous faire perdre ni temps ni contact.
+
+Qui je suis : Vianney-Aldrin Minang, ex-UTT, diplômé en génie industriel. Je suis actuellement en stage de fin d'études au Gabon — donc hors de France — et je consacre mon temps de recherche aux sites d'entreprises comme Framatome, en parallèle de la préparation de ma soutenance, qui me stresse un peu, je l'avoue.
+
+Ce que je cherche : un CDI junior en Europe (France, Luxembourg, Belgique) en génie industriel — méthodes, industrialisation, supply chain, Lean. Vos projets industriels et votre maintenance correspondent à mon profil process & méthodes.
+
+Deux contraintes que je pose explicitement :
+1. Stage de fin d'études : je suis engagé au Gabon jusqu'à sa clôture ; mobilisable pour un CDI en Europe dès son terme, et disponible pour tout échange ou RDV uniquement les week-ends en après-midi (préparation de la soutenance oblige).
+2. Nationalité : je suis gabonais. Est-ce que ma nationalité et l'autorisation de travail posent problème pour vos postes ouverts ? Si le sponsoring n'est pas envisageable chez vous, dites-le moi franchement et je n'insisterai pas ; si c'est envisageable (procédure ANEF en France : 3 à 6 semaines, 100 % dématérialisée), j'entame les démarches immédiatement.
+
+La question directe : avez-vous aujourd'hui une offre ouverte correspondant à ce profil ? Si oui, je vous transmets mon CV dans l'heure et je suis joignable ce week-end. Si non, un « non » clair me sera tout aussi utile — cela m'évitera de gâcher un contact que je respecte.
+
+Respectueusement,
+Vianney-Aldrin Minang — ex-UTT, diplômé en génie industriel
+via.minang@gmail.com · WhatsApp uniquement : +33 7 45 63 11 82
+LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
+```
+
+---
+
 ## 🔒 SUIVI PACK 2 — 100 CIBLES (sceller à l'envoi)
 | N° | Cible | Canal | Statut | Date envoi |
 |:---|:---|:---|:---|:---|
@@ -2387,29 +2704,22 @@ LinkedIn : https://www.linkedin.com/in/vianney-aldrin-minang/
 | 68 | Thomas Le Roy — Capgemini Engineering pour Airbus Helicopters @ Capgemini Engineering pour Airbus Helicopters | email/LinkedIn | PRÊT |  |
 | 69 | Gabriel SOUMBO — Talent Acquisition Specialist @ Capgemini Engineering R&D @ Capgemini Engineering R&D | email/LinkedIn | PRÊT |  |
 | 70 | Mathieu Guilleminot — Talent Recruiter Freelance (Industrie, Mécanique, Énergies) @ Talent Recruiter Freelance (Industrie, Mécanique, Énergies) | email/LinkedIn | PRÊT |  |
-| 71 | Talent Acquisition Specialist @ Sopra Steria France | email | PRÊT |  |
-| 72 | Recruteur Consultant Junior Digital @ Devoteam France | LinkedIn | PRÊT |  |
-| 73 | Recruteur Campus & Junior CGI France @ CGI France | LinkedIn | PRÊT |  |
-| 74 | Talent Acquisition Micropole Paris/Lyon/Nantes @ Micropole | LinkedIn | PRÊT |  |
-| 75 | Chargé(e) de Recrutement Open @ Groupe Open | LinkedIn | PRÊT |  |
-| 76 | Talent Manager Davidson @ Davidson Consulting | LinkedIn | PRÊT |  |
-| 77 | Recruteur RH Extia @ Extia | LinkedIn | PRÊT |  |
-| 78 | Responsable Recrutement Sword Group @ Sword Group France | LinkedIn | PRÊT |  |
-| 79 | Recruteur Astek France @ Astek Group | LinkedIn | PRÊT |  |
-| 80 | Chargé de Sourcing Ausy @ Ausy | LinkedIn | PRÊT |  |
-| 81 | Talent Acquisition Keyrus @ Keyrus | LinkedIn | PRÊT |  |
-| 82 | Recruteur Econocom France @ Econocom France | LinkedIn | PRÊT |  |
-| 83 | Talent Acquisition / Recrutement @ Euranova | LinkedIn | PRÊT |  |
-| 84 | Talent Acquisition / Recrutement @ Cronos Group | LinkedIn | PRÊT |  |
-| 85 | Talent Acquisition / Recrutement @ Ordina Belgium / Sopra Steria BeLux
-* **LinkedIn** : https://www.linkedin.com/company/ordina-belgium/
-
-### 42. BDO Belgium | LinkedIn | PRÊT |  |
-| 86 | Talent Acquisition / Recrutement @ Michael Page Africa | LinkedIn | PRÊT |  |
-| 87 | Talent Acquisition / Recrutement @ Morgan Philips Africa
-* **Spécialité** : Conseil en recrutement international & executive search
-* **LinkedIn** : https://www.linkedin.com/company/morgan-philips-africa/
-
-### 49. Fed IT / Fed Finance | LinkedIn | PRÊT |  |
+| 71 | Talent Acquisition Specialist @ Sopra Steria France | email/LinkedIn | PRÊT |  |
+| 72 | Recruteur Consultant Junior Digital @ Devoteam France | email/LinkedIn | PRÊT |  |
+| 73 | Recruteur Campus & Junior CGI France @ CGI France | email/LinkedIn | PRÊT |  |
+| 74 | Talent Acquisition Micropole Paris/Lyon/Nantes @ Micropole | email/LinkedIn | PRÊT |  |
+| 75 | Chargé(e) de Recrutement Open @ Groupe Open | email/LinkedIn | PRÊT |  |
+| 76 | Talent Manager Davidson @ Davidson Consulting | email/LinkedIn | PRÊT |  |
+| 77 | Recruteur RH Extia @ Extia | email/LinkedIn | PRÊT |  |
+| 78 | Responsable Recrutement Sword Group @ Sword Group France | email/LinkedIn | PRÊT |  |
+| 79 | Recruteur Astek France @ Astek Group | email/LinkedIn | PRÊT |  |
+| 80 | Chargé de Sourcing Ausy @ Ausy | email/LinkedIn | PRÊT |  |
+| 81 | Talent Acquisition Keyrus @ Keyrus | email/LinkedIn | PRÊT |  |
+| 82 | Recruteur Econocom France @ Econocom France | email/LinkedIn | PRÊT |  |
+| 83 | Talent Acquisition / Recrutement @ Euranova | email/LinkedIn | PRÊT |  |
+| 84 | Talent Acquisition / Recrutement @ Cronos Group | email/LinkedIn | PRÊT |  |
+| 85 | Talent Acquisition / Recrutement @ Ordina Belgium / Sopra Steria BeLux | email/LinkedIn | PRÊT |  |
+| 86 | Talent Acquisition / Recrutement @ Michael Page Africa | email/LinkedIn | PRÊT |  |
+| 87 | Talent Acquisition / Recrutement @ Morgan Philips Africa | email/LinkedIn | PRÊT |  |
 
 **Total pack 2 : 100 messages, 1 par cible, aucune déjà contactée, aucun chevauchement avec les 100 scellés.**
