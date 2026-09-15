@@ -221,3 +221,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 ## 🔍 RECHERCHE LINKEDIN STAGIAIRES FO HORS RÉSEAU (consigne 15/09, suite cohorte Louis)
 - Consigne Calvin : 50-100+ stagiaires FO **hors ses relations** (invitations à venir), max 3 mois de desk, France seule (Monaco inclus), Paris max 25, ville par ville, pas de limite globale.
 - LinkedIn inaccessible depuis le sandbox (réseau bloqué sauf GitHub) → recherche par Calvin avec `KIT_RECHERCHE_LINKEDIN_STAGIAIRES_FO_VILLE_PAR_VILLE.md` (strings booléennes, filtres 2e/3e degré, villes) ; agent = dédoublonnage strict + vérif critères + table + notes d'invitation.
+
+## 📨 INVITATIONS STAGIAIRES FO HORS RÉSEAU — VAGUE 1 (15/09)
+- Méthode annonce-publique indexée (comme l'arena précédente) : 9 profils hors réseau livrés avec liens + preuve de date de début dans `INVITATIONS_STAGIAIRES_FO_HORS_RESEAU_VAGUE_1.md` (Pouillaude, Pilon, Wehbe, Benyamina, Moutal, Hely, Foucré Monaco, Anract, Gaudefroy) ; Boisdur & Dijon exclus (déjà 1 449).
+- Aucune invitation envoyée par l'agent : Calvin invite depuis sa session ; vérif ⚠️ (date de début) sur profil avant invitation.
+- Vague 2 sur « continue » : province + Monaco supplément + banques restantes.
