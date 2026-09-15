@@ -102,3 +102,6 @@ Méthode : noms extraits des captures du PDF « Deutsche bank Meeting.pdf » (li
 - Marion Creusy = perle : SKEMA MSc FMI + SEO London + HypoVereinsbank Munich → note session prioritaire.
 - Homonymes fréquents (Tom Zheng, Matthew Lam, Antoine Vicario, Anna Fedoseeva...) : vérifier headline DB/finance avant invitation.
 - Kelvvin/Kelvin Asare & Alexis Bouvet : salve 1 du 10/09 scellée → Asare NE PAS relancer ; Bouvet relance J+5 optionnelle hook session.
+
+## 🔗 LIVRAISON CHAT 15/09 — 82 NOMS + LIENS (invitations SANS note, consigne Calvin)
+Liste collée en chat un par un avec lien recherche 1 clic (ou URL exacte quand trouvée : Creusy). Calvin invite sans note ; aucun message envoyé → rien à sceller.
