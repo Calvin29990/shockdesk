@@ -234,3 +234,9 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 ## 🌸 RETOUR MINE YASMINE #1 (15/09 17:50) — Chloé Monira RÉPOND
 - Monira (scellée envoyée) transmet un contact chaud : **Charlotte Delcroix — charlotte.delcroix@chanel.com** (« la personne avec qui j'avais échangé »). Réponse Calvin 17:52 : contact demain matin.
 - Mail type livré en chat 15/09 (voix Calvin, objet recommandation Monira, PJ CV + portfolio Yasmine). Mine #1 = convertie en lead Chanel ; scellage Monira inchangé.
+
+## 🤝 KELVIN ASARE RÉPOND (15/09 22:52) — RÈGLE « NE PAS RELANCER » LEVÉE
+- Thread : message Calvin 10/09 (salve 1) sans réponse → message 15/09 18:32 (capture meeting « we are in same meeting :) ») → **réponse Kelvin 22:52 chaleureuse** : remercie pour la question posée en session, confirme dbENRICH + Black Leadership Forum = ressources réelles, encouragé par son desk à y aller.
+- Profil Kelvin (vérifié screen) : EM Sales Deutsche Bank Londres ; IB Associate mars 2026-aujourd'hui ; IB Analyst juil. 2023-mars 2026 ; DB Summer Analyst 2022 ; TwentyFour AM 2022 ; Disney Finance Intern 2020-21.
+- Lecture Calvin actée : premier contact en 7 ans combinant maîtrise + reconnaissance + humilité → **contact mentor long terme, indépendamment du stage DB** ; desk EM Sales Londres = aligné avec la thèse EM/LatAm de Calvin.
+- Réponse livrée 15/09 : zéro demande (relation d'abord), remerciement + rester en contact + suivre son parcours. Prochain geste Kelvin : aucun avant sa relance à lui ou un élément neuf (réponse DB, question EM précise).
