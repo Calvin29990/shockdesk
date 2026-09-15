@@ -127,3 +127,29 @@
 | 75 | Thouraya Jarray | Kepler Cheuvreux Solutions MD Head of Structuring — vouvoiement, aiguillage |
 
 → Une fois les 13 envoyés et confirmés « envoyés » : scellage définitif + **solde vierges = 100** pour les salves suivantes.
+
+---
+
+## 🛠️ CORRECTION MÉTHODE 15/09 (source : « Relations _ LinkedIn.pdf », commit 7a1194e, 1 449 relations 1er degré)
+- **Règle désormais absolue** : un contact n'est messaging LinkedIn gratuit que s'il figure dans le PDF Relations (1er degré). Le CSV seul ne prouvait PAS le degré.
+- Audit de la salve 4 v1 : **12 des 13 choisi étaient 2e degré** (Rodriguez Peinturier, Mamouri, Fourquin, Smart, Zakhama, Allaire, Locchi, Dussault, Hurault, Delpierre, Lemue, Jarray) + faux positifs CSV (Roux, Duval, Schneider, Valenti, Pelletier, Cutajar, Manuel, Dijon, Bernard, Roche, Delattre, Girod, Roger) → **EXCLUS du canal LinkedIn**, réservées au canal EMAIL (pas de contrainte de degré).
+- **Elodie Roux (Santander)** : 2e degré → passer par l'EMAIL transmis par Mickael Dos Santos (« le contact d'Élodie et l'adresse », message du 14/09), pas par message LinkedIn.
+- Le solde « 113 vierges » est SUSPENDU comme chiffre messaging : le vivier messaging = intersections PDF ∩ jamais messagé ; recalcul complet à faire à la prochaine salve.
+
+## 📨 SALVE 4 v2 — 13 contacts 1er DEGRÉ VÉRIFIÉS PDF, vierges (n°63-75)
+| # | Contact | Desk (PDF, connexion) |
+| :---: | :--- | :--- |
+| 63 | Ben White | eFX Sales, Morgan Stanley (14/09) |
+| 64 | Kelvin Wong | Equity Derivatives Trader, Bank of America (11/09) |
+| 65 | Laurent Esposito | Head of Trading, HSBC (11/09) — vouvoiement |
+| 66 | Jordan Vidal | FX & IRD Sales, Société Générale CIB (11/09) |
+| 67 | Idriss Moulaï | Director, Exotic Derivatives Trader (11/09) — vouvoiement |
+| 68 | Mathias Paladino | Equity Research, TP ICAP (11/09) |
+| 69 | Edouard Guillez | Structured Products Sales, Kepler Cheuvreux (11/09) |
+| 70 | Jihane bouyacoub | Market Risk Manager FX/Hybrids/Rates Exotics, SGCIB (11/09) — vouvoiement |
+| 71 | Jules Juncker | BA Structured Products, Natixis CIB (10/09) |
+| 72 | El Yazid SAAD | Equity Derivatives Sales, Barclays (10/09) |
+| 73 | Germain Evrard | Quant Trading VP, Bank of America (10/09) — vouvoiement |
+| 74 | Victor Baudart | Cross Asset Structured Products Sales, Kepler Cheuvreux (9/09) |
+| 75 | Frédéric Goulipian | MD Head of Euro Swaps Trading (8/07) — vouvoiement |
+Remplaçants vérifiés 1er degré si désistement : Benjamin Messas (MD Global Head EQD Trading), Hugo Forni (Investment Associate JPM), Wissam Bridi (Energy Research & Trading), Robin Dangoise (Sales & Trader Cash Equity).
