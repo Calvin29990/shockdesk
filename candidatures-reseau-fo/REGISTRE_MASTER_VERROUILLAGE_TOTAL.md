@@ -181,3 +181,16 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **CONTACTS VIERGES LinkedIn (1er degré, jamais messagé, non verrouillé) : 977** (borné par le parsing ; salve 4 v3 = 13 inclus dedans, à déduire à l'envoi).
 - Le ancien solde « 113 » est définitivement remplacé par ce chiffre : il mesurait le pool CSV, pas le réseau 1er degré réel.
 - Salve 4 v3 (63-75) : vérifiés vierges ✅ avant envoi.
+
+## 🔒 SALVE 4 v3 — ENVOIS & VERROUS 15/09 (consigne Calvin)
+- **Scellés envoyés (10)** : 63 Esposito · 64 Vidal · 66 bouyacoub · 67 Juncker · 70 Goulipian · 71 Evrard · 72 Moulaï · 73 de Virieu · 74 Riou · 75 Dangoise.
+- **Retirés (flemme Kepler) → réserve, non scellés** : Edouard Guillez, Victor Baudart (Kepler Cheuvreux).
+- **Barclays = message refait (v2, quasi-reco Olivier Moser)** : El Yazid SAAD — NON scellé tant que la v2 n'est pas envoyée. Moser (Sales Manager Barclays Monaco) a transmis le CV de Calvin au RH Barclays le 15/09 à 12h00 = quasi-recommandation à mentionner.
+## 🔢 ZONES & MINES D'OR (audit 15/09 sur 1 449 relations 1er degré)
+- Vierges restants après scellage salve 4 : **968**.
+- **Zone Front Office vierge : ~270** (filtre desks trading/sales/structuration/quant/risk/research).
+- **Mines d'or hors zone front oubliées par les packs précédents** (les packs tournaient sur CSV/sous-listes, pas sur les 1 449) :
+  - **Yasmine ≈ 3** : Chloé Monira (Retail Development @Chanel, MSc Global Luxury), Tim Torres (Sales Luxury Hospitality), Margot Schneider (Junior Brand Manager @Reckitt).
+  - **Cléanne ≈ 65 (dont 11 en or)** : Nicolas Auffret (Resp. Recrutement BRED), Dominique Lebarbier (Resp. Relations Universités/Écoles), Camille Dupuy Olléon (DRH France & Europe Continentale HSBC), Tracie Laurinaitis (Head of HR France JPM), Alexis Planque (International Campus Manager), Claire Oherne (Global HR Business Partner), Mike Ivory (Talent Acquisition EMEA Goldman Sachs), Victor Rebelo (Recruitment Lead HSBC Lux), Ambre Yu (Digital Marketing & Brand), François Stéphan (DG ECE), Déborah Payen (TA Cybersécurité).
+  - **Aldrin ≈ 23 (dont 8 solides)** : Rodrigue Niamien (Energy Data & Analytics, IFP/Polytechnique), Daoud Sylla (Chef de Projets Industriels), Steve De Valère (Ingénieur études EDF EPR2), Antoine Cockenpot (Support Engineer CFR & Production Total EP Angola), Robin Gervais (Analyste chaîne logistique), Angel Martin (MSc Supply Chain & Procurement SKEMA), Mathieu Guilleminot (Recruiter industrie/énergies), Armel de la Bourdonnaye (Ingénieur général ponts-eaux-forêts).
+→ Ces mines seront traitées par desk (Yasmine/Cléanne/Aldrin) sur demande, jamais mélangées à la chasse FO.
