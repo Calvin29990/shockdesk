@@ -139,7 +139,7 @@ Vianney-Aldrin Minang · via.minang@gmail.com · WhatsApp uniquement : +33 7 45 
 ---
 
 ## 🚨 15/09 — URGENT : 3 RÉPONSES (Laure, Anna, Inès) — v2 NATURELLES (v1 rejetée : ton trop IA)
-> **Consignes ton (15/09)** : phrases simples, zéro lyrisme ; déroulé imposé : « j'ai pris le temps de chercher » + « la soutenance m'a fait oublier/retarder » + « voici l'offre qui m'intéresse : … » + call demandé le week-end + « je suis actuellement hors de France, est-ce que ça bloque pour la boîte ? ».
+> **Consignes ton (15/09, règle absolue)** : phrases simples, zéro lyrisme, JAMAIS de formule « carte sur table », rien d'alarmiste ; déroulé : faits (recherche sur les sites faite, soutenance = délai) + « voici l'offre qui m'intéresse : … » + call week-end + « je suis actuellement hors de France, est-ce que ça bloque pour la boîte ? » posé calmement.
 > **Vérifs sites faites** : jr133216 (équipe Inès) = Couvet/Suisse, CDD, cœur CAO/dessin → KO (ligne rouge CAO + permis suisse) ; bonne réf Richemont = **JR127118** (CDD Data Analyst Méthodes Industrielles, Paris, sans CAO). Safran SAE = **2026-186417** (Ingénieur-e Méthodes, jobdating 16/10 Gennevilliers, >3 ans à assumer) + vague jeunes diplômés (support produit Colombes / approvisionneur supply chain Vichy).
 > ⚠️ **Rappel charter violé dans les envois du lundi (non rattrapable)** : message Laure disait « diplômé de l'UTT » + « je cible le conseil » ; la v2 Laure recadre en douceur (« ex-UTT, diplômé en génie industriel »). Ne jamais reproduire.
 
@@ -168,7 +168,7 @@ Vianney-Aldrin
 ```text
 Hello Inès,
 Merci pour ton message et pour l'offre de ton équipe ! J'ai pris le temps de tout checker sur le site Richemont — désolé du délai, la soutenance m'a fait oublier de te répondre plus tôt.
-Sur la jr133216 de ton équipe : je t'avoue que le cœur du poste (plans, CAO, outillages dessin) n'est pas mon terrain — je ne maîtrise pas la CAO et je préfère te le dire plutôt que de postuler pour rien. Et Couvet = Suisse : je suis gabonais, donc permis de travail compliqué là-bas.
+Sur la jr133216 de ton équipe : pour être précis, le cœur du poste (plans, CAO, outillages dessin) n'est pas mon terrain — je ne maîtrise pas la CAO et je préfère te le dire plutôt que de postuler pour rien. Et Couvet = Suisse : je suis gabonais, donc permis de travail compliqué là-bas.
 Par contre voici l'offre qui m'intéresse : la JR127118, CDD Data Analyst Méthodes Industrielles à Paris (support équipes méthodes & industrialisation, sans CAO). Est-ce qu'elle est toujours ouverte ? Et est-ce qu'il en existe des versions CDI, ou quelque chose dans ton équipe ?
 Précision utile : je suis actuellement hors de France (stage de fin d'études au Gabon), dispo pour un call le week-end après-midi — est-ce que ça bloque quelque chose pour la boîte ?
 Merci encore pour ton aide 🙂
