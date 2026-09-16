@@ -395,3 +395,17 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Principe : mail = trace opposable (toujours premier, déjà fait) ; téléphone = déblocage le plus rapide (prouvé par son appel SKEMA) via numéros PUBLICS admissions/standard ; LinkedIn = relationnel sur personne NOMMÉE uniquement (référencer le mail, 1 question) ; attente = disciplinée uniquement parce que ses lettres posent elles-mêmes des deadlines J+7.
 - Séquences : SKEMA = mail trace → rappel tel J+3 si silence (canal déjà connu), pas de LinkedIn (politique interne, canal Geneviève/Saidane discret préservé) · Néel/ESILV = mail v2 → tel admissions public OU LinkedIn Néel à J+2 (micro-message livré) · Top 5 + Centrale Lille = mail → J+5-7 ouvrés tel ligne admissions publique (script 30 s livré, 2 questions : éligibilité bac+5 FO + MS apprentissage/professionnalisation) → LinkedIn seulement si personne nommée identifiée (micro-message type livré).
 - Règles : jamais 3 canaux le même jour ; chaque touch apporte une info neuve (jamais « juste un suivi ») ; numéros personnels/mobiles = JAMAIS (publics/annuaire uniquement).
+
+## ☎️ TOP 10 INGÉ (≥ SKEMA + ALTERNANCE) NUMÉROS ADMISSIONS (16/09, sources sites officiels/annuaire service-public/ONISEP 2025-26)
+1. CentraleSupélec : +33 1 75 31 63 23 (admissions/AST ; admissions@centralesupelec.fr, admission-sur-titres@supelec.fr).
+2. Ponts ParisTech : 01 64 15 30 00 (standard, demander Département formation alternée ; directe indiquée 01 64 15 39 91 à confirmer).
+3. Télécom Paris : 01 75 31 92 00 (standard Palaiseau).
+4. ENSAE Paris : 01 70 26 67 00 (standard) ; directeur des études Frédéric Loss 01 70 26 67 72 (annuaire officiel).
+5. ENSIIE : 01 69 36 73 50 (accueil) ; admissions Christophe Mouilleron 01 69 36 73 89 ; alternance FIP Yvette Gaie 01 69 36 73 23.
+6. Centrale Lille : 03 20 33 53 53 (contact@centralelille.fr).
+7. ENSTA Paris : 01 81 87 17 40 (campus Paris-Saclay, site officiel).
+8. IMT Atlantique : Nantes 02 51 85 81 00 / Brest 02 29 00 11 11 ; apprentissage formation-fip@imt-atlantique.fr (plateforme dossier-apprentissage.imt.fr).
+9. Centrale Lyon : 04 72 18 60 00.
+10. Arts et Métiers : 01 44 24 62 76 (standard, annuaire officiel 2026) ; admissions@ensam.eu.
+- X et Mines Paris = HORS top 10 alternance (pas d'apprentissage) : restent cibles marque via MS/temps plein.
+- Usage : script 30 s du registre (bac+5 FO + 2 questions éligibilité MS/apprentissage) ; numéros publics uniquement ; si standard changé → demander service admissions/apprentissage.
