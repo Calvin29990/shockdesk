@@ -554,3 +554,10 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 ## 💬 LUCAS v2 = TEXTE CALVIN (chaud, humain) NETTOYÉ (16/09)
 - **Règle renforcée** : mes messages « contexte structuré » = bizarres pour des threads chauds ; sur thread déjà vivant = voix Calvin : chaleur d'abord (journée, anecdote), puis UNE question nue. Le contexte complet se donne à l'oral au call, pas par écrit.
 - **Lucas v2 livré** : hello + journée stressante + anecdote + question unique = ENSAE MS 2j/3j sous réserve critères + boîte → rythme recevable en salle ? · questions CY Tech / HSBC rare ou mal vu = À L'ORAL au call.
+
+## ⚖️ ARBITRAGE LUCAS vs ARTHUR (16/09 soir) — OLIVIER DÉGELÉ
+- **Lucas (stagiaire DANS une salle HSBC/CACIB, call 16/09)** : « 2j/3j = rythme normal en salle » = fait DESCRIPTIF (les alternants/apprentis tournent à ce rythme dans les salles bancaires) → cru sur le fait.
+- **Arthur (sales Euronext, pas une salle bancaire)** : « ça passera pas pour un desk en front » = avis PRÉDICTIF sur la volonté d'embauche, hors salle bancaire, et il doute lui-même → pris comme signal faible, pas comme verdict.
+- **Réconciliation** : les deux répondent à des questions différentes (le rythme existe-t-il ? vs le desk te voudra-t-il assez ?). Vraie question = le desk signera-t-il le contrat pro/convention = le rythme n'est pas un défaut à pardonner, c'est un format de contrat connu d'avance → juge de paix = le stage janv-juin 2027 (niveau technique + preuves).
+- **Conséquence** : piste ENSAE maintenue sans doute sur le format ; doute restant = volonté du desk = travaillé via stage + 3e voix.
+- **Olivier DÉGELÉ** (contradiction Lucas OK / Arthur non = condition « si les autres disent ok » non unanime → arbitre nécessaire) : WhatsApp v3 livré = 2 lectures exposées + question « laquelle est vraie pour un junior converti après stage, vu de JPM ? » + volet séjour + demande call week-end. Christian = 3e voix en attente.
