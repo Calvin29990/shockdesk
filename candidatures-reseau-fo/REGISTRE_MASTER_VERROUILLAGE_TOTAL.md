@@ -600,3 +600,13 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Leonardo Delbis de Lacerda** (screenshot) = 1er degré · Prof finances SKEMA Belo Horizonte (cours **cambio/dérivés/banques** = matières FO exactes) + Superintendent financier BDMG = prof ET praticien · communs Geneviève + Ilona → **meilleure carte académique matière-fit** (Aronne = meilleure carte lien humain/hôpital).
 - **Strège lettres** : Florence = hiérarchique verrouillée · académique = demander MAINTENANT Aronne ET Delbis (2 demandes indépendantes, coût zéro) = celui qui répond chaud et précis écrit, l'autre = repli · Thiago = repli 2 · **Aureliano Bressan** (Full Prof UFMG, FRM, commun = Leonardo) = repli 3 via Leonardo, pas de message maintenant.
 - **Message Delbis livré** (~75 mots, chaud, modèle + CV joints, FR ou EN).
+
+## 🇧🇷 RECOS 16/09 (REPRISE) — FLORENCE WORD + ARONNE/DELBIS EN + PRODUITS B3
+- **FinStart = stage Sales** (juin–août 2023). Interdit : « recrutement », compétences trading inventées. Florence = supérieure hiérarchique de ce stage sales (prise de références déjà oui, 22/07/2026).
+- **BH = anglais** (Aronne, Delbis). Florence = français, tutoiement, thread chaud.
+- **Lettres = neutres, zéro ENSAE/MS/école.** « À qui de droit / To whom it may concern ». Recyclables stage janv. 2027 **et** CDI junior.
+- **Méthode** : LinkedIn = demander l’e-mail (LinkedIn n’attache pas bien un .docx) → Word + CV en mail dès le « ok ».
+- **Aronne** : une ligne vraie = exam aménagé depuis l’hôpital + il a continué à travailler. Paragraphe dans le Word, à lui de garder/adoucir/biffer.
+- **Delbis** : reco d’abord, seule. **Mail produits Brésil = APRÈS sa réponse reco** (pas deux asks dans le 1er LinkedIn). 3 questions praticien : CDI vs Selic · cupom cambial vs NDF USD/BRL · 5 produits B3 à connaître froid. Pas de job BDMG.
+- **Fichiers** : `candidatures-reseau-fo/recos-lettres/` — 3 Word + `MESSAGES_RECOS_FLORENCE_ARONNE_DELBIS.md`. Rien scellé tant que non envoyé.
+- Bressan = toujours repli via Leonardo, pas de message maintenant.
