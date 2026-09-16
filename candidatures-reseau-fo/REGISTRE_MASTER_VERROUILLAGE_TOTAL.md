@@ -289,3 +289,10 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Les 5 EN ne sont plus gelés : envoi OK mais **ask unique = un contact/pointer vers Paris** (pas de demande de stage sur leur desk local).
 - Blocs v2 livrés : Eardley (Director STIR), Zhang (Strat), Kong (FX&rates HK), Aggarwal (credit London), Natalja (recruiter → owner des reqs off-cycle Paris ; envoi demain, merci déjà parti ce jour).
 - Round complet actif : FR = Kabbaj, Bouvet, Agard · EN-Paris-redirect = Eardley, Zhang, Kong, Aggarwal, Natalja.
+
+## 🌍 VAGUE QUASI-RECOS INTERNATIONALDES (16/09, Calvin : DB clôturé à ce stade ; lever les quasi-recos par banque ; réseau anglophone non contacté, purement anglophone)
+- **Barclays (quasi-reco Moser, CV transmis RH 15/09)** : Jasdeep Gahir (Rates Exotics Trader IB) + Gopal Agarwal (FX Options Trader, NTU Singapour) — vierges, 1er degré, EN.
+- **Santander (quasi-reco Mickael Dos Santos, contact Élodie Roux 14/09)** : Luis Berlioz (IB Analyst Santander CIB Energy/Infra) — vierge, 1er degré, EN. Règle France-only = track candidatures seulement ; vague réseau anglophone autorisée par Calvin 16/09.
+- **BNP Paribas (mentor trader BNP = parrain technique Grecs/vol/P&L + calibrage ShockDesk, nom non documenté → hook anonyme vrai)** : Esmee Pierrot (G10 Rates Sales Netherlands) + Ryan Ho CFA (Fixed Income Syndicate) — vierges, 1er degré, EN.
+- **Exclus de la vague** : Cutajar (2e degré, canal email uniquement) ; profils à nom francophone (Briantais, Uhring, Couturaud, Frappé, Calmet, etc.) = pas « purement anglophones » ; francophones à Londres type Ali = hors vague.
+- Ask unique des 5 blocs = pointer/contact vers Paris + conseils (confort EN Calvin).
