@@ -272,3 +272,10 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Farges RETIRÉ définitivement** : ghosté 2 fois → ne plus contacter (consigne Calvin).
 - **Round = francophones desk uniquement** (simple) : Simo (vous), Kabbaj (vous), Bouvet (tu, relance J+5). Anglophones (Zhang, Aggarwal, Kong, Natalja) = EN en attente du go Calvin.
 - **Anecdote v2 (version vraie, corrigée par Calvin)** : Natalja appelait les participants un par un ; Calvin 5e de passage ; confusion Calvin/Kelvin en direct ; Calvin coupe son micro et laisse Kelvin répondre ; s'excuse avec autodérision ; pose sa question (différence Londres vs Singapour) ; réponse de Kelvin magistrale. Wording messages = cette version, sans attribuer qui a dit quel nom.
+
+## 🎯 VERDICTS RELANCES + 3 NOUVEAUX DB (16/09, historique conversations collé par Calvin)
+- **Historique révélé** : Simo = 2 messages (15/07 13:48 + 11/08 19:49) sans réponse ; Kabbaj = 1 message (11/08 19:50, template) ; Bouvet = 1 message (jeudi 10/09 21:18, prep forum).
+- **Simo STOP** (ghost ×2, règle 2 touches) ; **Kabbaj relance v2 GO** (neuf réel après 5 semaines) ; **Bouvet relance J+6 GO**.
+- **3 nouveaux DB 1er degré jamais contactés** : Simon Agard (DB Paris vérifié, emlyon PGE, coursework FI/Greeks/SP/Python = pair technique, FR tu) · James Eardley CFA (Director STIR Trader DB, EN, le plus senior DB du réseau ; **correctif : « Sardiley » de l'audit = James Eardley**) · Mian ZHANG (Strat DB, connecté 11/08, EN).
+- Recherche externe « DB Paris » = vide → aucune invitation à l'aveugle ; nouveaux = pool 1er degré uniquement.
+- Farges confirmé retiré (ghost ×2). Round francophone = Kabbaj + Bouvet + Agard ; EN = Eardley + Zhang (+ Kong/Aggarwal/Natalja toujours en attente go).
