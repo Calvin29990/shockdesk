@@ -513,3 +513,10 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Signal vs compétences** : signal ouvre la porte (offers ingé sans compétences = preuve), compétence signe l'offre en S&T ; paire = label ENSAE + grind technique.
 - **Règle** : le « sans filtre » (niveau technique short post-DB, pattern audit, offre ENSAE) = UNIQUEMENT à l'oral au call Olivier ; jamais par écrit.
 - **Livrés** : WhatsApp Olivier unique (milestones + porte ENSAE + 2 questions + demande call 20 min — remplace/absorbe le keep-warm, évite 2 touches) + trame call 6 points.
+
+## 🔧 RECTIF RYTHME ENSAE (16/09) — 2 J ENTREPRISE, PAS 4
+- **Erreur agent corrigée** : « lundis et jeudis libres » = **2 j/semaine en entreprise (lun+jeu) + 3 j école (mar, mer, ven)** dès octobre ; septembre = bloc plein école. Ma lecture « 4 j entreprise » était fausse ; blocs Fortier v2 et Olivier v1 contenaient « quatre jours » = retirés.
+- **Conséquence stratégique** : à 2 j/sem, le montage employeur = format contrat de professionnalisation (rythme école imposé, employeur s'adapte) ou employeur qui verrouille un junior à temps partiel 1 an avant temps plein ; un desk n'embauche pas ce rythme en plein temps → lecture positive = 2 j/sem EN salle pendant 12 mois = pied dans la porte + preuve + conversion temps plein post-MS (fenêtre F3 renforcée) ; cible équipes = sales/strats/risk support autant que trading.
+- **Séjour + temps partiel** = question ajoutée au call Olivier : rémunération à temps partiel et changement de statut = ressources suffisantes ? son vécu.
+- **MS identifié** : Fortier a donné le lien du MS correspondant au profil → question « quel MS ? » supprimée ; email Fortier v3 = 2 questions (montage pro/convention au rythme lun+jeu recevable ? calendrier/procédure 2027).
+- **Livrés v3** : email Fortier corrigé + WhatsApp Olivier v2 (rythme 3 j école/2 j entreprise + séjour temps partiel).
