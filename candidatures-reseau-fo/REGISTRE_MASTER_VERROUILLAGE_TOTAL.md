@@ -284,3 +284,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **GELÉS (ne pas envoyer)** : Eardley, Zhang, Kong, Aggarwal, Natalja = blocs EN conservés prêts, envoi uniquement sur go Calvin.
 - **Round actif = francophones/Paris uniquement** : Kabbaj (relance v2), Bouvet (relance J+6), Agard (DB Paris vierge).
 - Déblocage EN plus tard = au choix Calvin ; le thread Kelvin (EN, vivant) sert d'entraînement réel à risque zéro en attendant.
+
+## 🔓 DEGEL PARTIEL ANGLOPHONE = REDIRECTION PARIS (16/09, Calvin : « demande des contacts à Paris, ça coûte rien »)
+- Les 5 EN ne sont plus gelés : envoi OK mais **ask unique = un contact/pointer vers Paris** (pas de demande de stage sur leur desk local).
+- Blocs v2 livrés : Eardley (Director STIR), Zhang (Strat), Kong (FX&rates HK), Aggarwal (credit London), Natalja (recruiter → owner des reqs off-cycle Paris ; envoi demain, merci déjà parti ce jour).
+- Round complet actif : FR = Kabbaj, Bouvet, Agard · EN-Paris-redirect = Eardley, Zhang, Kong, Aggarwal, Natalja.
