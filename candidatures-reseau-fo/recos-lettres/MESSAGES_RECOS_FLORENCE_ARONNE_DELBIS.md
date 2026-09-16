@@ -1,5 +1,5 @@
 # Recos — Florence / Aronne / Delbis
-_16 septembre 2026. Rien n’est scellé tant que Calvin n’a pas confirmé « envoyé »._
+_16 septembre 2026. **GELÉ** — ne pas envoyer. Go au plus tôt début octobre ; deadline Aronne/Delbis = 20 novembre (été BH). Rien n’est scellé tant que Calvin n’a pas confirmé « envoyé »._
 
 Règles actées :
 - **Zéro mention ENSAE / MS / école** dans les messages et dans les lettres.

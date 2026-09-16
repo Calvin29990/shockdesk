@@ -610,3 +610,9 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Delbis** : reco d’abord, seule. **Mail produits Brésil = APRÈS sa réponse reco** (pas deux asks dans le 1er LinkedIn). 3 questions praticien : CDI vs Selic · cupom cambial vs NDF USD/BRL · 5 produits B3 à connaître froid. Pas de job BDMG.
 - **Fichiers** : `candidatures-reseau-fo/recos-lettres/` — 3 Word + `MESSAGES_RECOS_FLORENCE_ARONNE_DELBIS.md`. Rien scellé tant que non envoyé.
 - Bressan = toujours repli via Leonardo, pas de message maintenant.
+
+## ⏸️ RECOS GELÉES 16/09 (Calvin : rien ne presse)
+- **Décision** : ne PAS envoyer maintenant. Drafts au frigo. Stage FO janv. 2027 n’exige PAS de lettre écrite (prise de références Florence déjà oui, 22/07). Lettres = pièce ENSAE / dossier école, pas le process desks.
+- **Fenêtre** : début octobre = confort. **Fin novembre = dernière fenêtre sûre pour Aronne + Delbis** (été brésilien mi-déc. → févr. : profs BH lents ou absents ; demander en janv. 2027 quand le portail ENSAE ouvre = trop tard côté Brésil). Florence (France) peut attendre nov. sans le même risque.
+- **Pas pendant le stage** : Session 1 ENSAE clôture ~fin févr. 2027 = 1 mois de desk seulement → le manager de stage ne peut pas encore écrire une lettre forte. Recos utiles pour S1 = Florence + Aronne/Delbis, demandées AVANT l’été BH.
+- Relance calendrier : 1er oct. = go ou reporter à nov. ; 20 nov. = deadline d’envoi Aronne/Delbis.
