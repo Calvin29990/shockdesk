@@ -250,3 +250,9 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Solde vierges 1er degré après scellages : 947** (968 − 12 desks − 1 SAAD − 8 Aldrin).
 - **Reste OUVERT (non clôturable ce soir)** : cohorte Louis 50 = vérification un-par-un par Calvin puis rédaction salve ; Kelvin Asare = contact mentor long terme (prochain geste = lui ou élément neuf) ; relances standards (Théo J+5/J+6, Gauthier, etc.) inchangées.
 - Tout le reste est FERMÉ au 15/09 : Yasmine, Cléanne, Aldrin, salve 4 FO, follow-up DB, mines desks.
+
+## 🔁 RELANCES DB + INVITATION STRATÉGIQUE (15/09, consigne Calvin : capture meeting jointe = preuve de présence, effet Kelvin)
+- **Relances livrées (7, hors Ali exclu, hors Kelvin thread vivant, hors Natalja active ce jour → relance J+2 si silence)** : Farges, Simo, Kabbaj (FR) · Zhang, Aggarwal, Kong (EN) · Bouvet (relance J+5 conforme, hook session). PJ = capture grille meeting (tile Calvin + salle MTR London + slide Fixed Income).
+- **Invitation avec note (≤300) + capture = Matthieu Elias** (Natixis CIB Paris, EQD/FI, participant session, NON connecté) = cible stratégique desk Paris (le « bon stagiaire » du tri T1).
+- Règle actée : toute relance DB/ session = capture meeting jointe (taux de réponse prouvé par Kelvin 22:52).
+- **OUVERT** : réponse Aldrin reçue → à traiter prochain tour (consigne Calvin « on s'en occupera » avant/après relances DB faites).
