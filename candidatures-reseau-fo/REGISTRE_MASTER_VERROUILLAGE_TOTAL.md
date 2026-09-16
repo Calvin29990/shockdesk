@@ -539,3 +539,7 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 ## ✂️ CHRISTIAN v4 COURT (16/09, « c'est un pavé »)
 - **Règle pavé** : message LinkedIn chaud = ~100 mots max, 3 paragraphes courts ; v3 (~180 mots) retiré.
 - **v4** : merci fiches (1 ligne) · pros DB/JPM/banque FR = même conseil expérience longue + M2 déc. + fit SKEMA limité → scénario stage front puis contrat pro 2j/3j (1 para) · ENSAE porte MS rien d'officiel sept. plein puis lun+jeu + 2 questions (rythme aberrant ? juniors autour de toi ?) (1 para).
+
+## 🧮 COHORTE LOUIS v2 — PRÉ-VÉRIFICATION AGENT + BATCH 1 PRÊT (16/09)
+- Fichier `SALVE_COHORTE_LOUIS_V2_BATCH1.md` : batch 1 = 11 messages Tier A FO récents prêts (Zouga, Tarrazi, Ativon, Bourscheidt, Fauquié, Pouyet, Crepin, Money, Mas, Loumé, Loiseau) · batch 2 = 22 Tier B en attente check Calvin « alternance ou stage 6 mois » · flags 3 (Costanza, Graa, Goetgheluck) · écartés 14 (non-FO ou démarrage ≤04/26).
+- Vérification Calvin réduite de 50 checks à 22 checks binaires + 3 arbitrages.
