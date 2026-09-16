@@ -543,3 +543,6 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 ## 🧮 COHORTE LOUIS v2 — PRÉ-VÉRIFICATION AGENT + BATCH 1 PRÊT (16/09)
 - Fichier `SALVE_COHORTE_LOUIS_V2_BATCH1.md` : batch 1 = 11 messages Tier A FO récents prêts (Zouga, Tarrazi, Ativon, Bourscheidt, Fauquié, Pouyet, Crepin, Money, Mas, Loumé, Loiseau) · batch 2 = 22 Tier B en attente check Calvin « alternance ou stage 6 mois » · flags 3 (Costanza, Graa, Goetgheluck) · écartés 14 (non-FO ou démarrage ≤04/26).
 - Vérification Calvin réduite de 50 checks à 22 checks binaires + 3 arbitrages.
+
+## ✍️ ARTHUR v3 = MÊME CONTEXTE QUE CHRISTIAN v4 (16/09)
+- Arthur v3 : contexte complet identique Christian v4 (pros DB/JPM/banque FR = expérience longue type alternance · M2 déc. · fit SKEMA limité · scénario stage front puis contrat pro 2j/3j · ENSAE porte MS rien d'officiel sept. plein puis lun+jeu) + question rythme vue sales + libération dette bankprep ; ~115 mots, v2 retirée.
