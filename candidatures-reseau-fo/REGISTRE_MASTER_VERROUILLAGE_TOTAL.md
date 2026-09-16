@@ -588,3 +588,9 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Combo libellé ENSAE exact** = 1 professeur (Aronne) + 1 supérieur hiérarchique (Florence) ; recos FR ou EN ; nom/qualité/téléphone requis ; modèle officiel ENSAE à joindre.
 - **Flags CV (3)** : (1) objet périmé « stages/graduate 2026, off-cycle/été » → à jour = « stage front office janvier 2027, 6 mois » (zéro mention MS, doctrine entretien) · (2) **semestre Brésil ABSENT du CV** = incohérent avec lettres Aronne/Thiago → ajouter ligne « SKEMA BS — Campus Belo Horizonte (Brésil), semestre [année à confirmer par Calvin] » · (3) CNAM = à ajouter seulement si inscription effective.
 - **Livrés** : demande Aronne (mail/LinkedIn, rappel vrai de l'hôpital, modèle + CV joints) · demande Florence (chaude, modèle + CV + proposition trame 10 min).
+
+## 🤐 « GARDER POUR MOI » CONFIRMÉ + CE QUI EST VRAIMENT DEMANDÉ EN ENTRETIEN FO (16/09 nuit)
+- **En entretien FO janv. 2027, personne ne demande « préparez-vous une école pour sept. 2027 ? »** ; les 3 questions prévisibles = dispo (dates/durée) · projection (« et après ? ») · pourquoi ce desk.
+- **Réponses honnêtes sans ENSAE** : dispo = janv-juin temps plein, aucune contrainte (vrai) · projection = « mon objectif est un desk : ce stage est un test longue durée, idéalement chez vous » (vrai = endpoint CDI FO) · pourquoi ce desk = pitch desk standard.
+- **Garder pour moi ≠ mentir** = choisir le moment : révélation mai-juin 2027 au manager du stage = le plan devient argument de fidélisation et se lit comme la SUITE du discours d'entretien (cohérence totale).
+- Si insistance « et après le stage ? » = même phrase projection ; jamais de calendrier scolaire spontané.
