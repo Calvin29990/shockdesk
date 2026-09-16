@@ -530,3 +530,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Erreur agent** : le « point » de la consigne Calvin (« dis bac S bon en maths point ») était une instruction HORS message, pas une formule à écrire ; l'avoir collé dans le message = sec/irrespectueux. Règle : les consignes de Calvin ne sont jamais du texte message.
 - **Règle de ton renforcée** : français naturel et simple, phrases courtes, chaleur humaine, zéro formule sèche (« point », « sans détour »), zéro tic IA (« truste », structures lourdes).
 - **Christian v2 + Arthur v2 livrés** : même fond (fiches merci · conseil des pros = temps d'assimiler les notions dures · je ne quitte pas SKEMA je le complète en déc. · bac S + bon bagage maths = point de départ · porte ENSAE sept. plein puis lun+jeu · question = rythme aberrant vu d'un desk ? quel type d'équipe ?) en français parlé.
+
+## ✍️ CHRISTIAN v3 = TEXTE CALVIN NETTOYÉ (16/09)
+- **Base = draft Calvin lui-même** ; agent = grammaire + fluidité uniquement, voix et détails à lui : pros consultés chez Deutsche Bank, J.P. Morgan et banque française · même conseil = expérience longue type alternance · mais M2 finit en déc. + maths/programmation pas le fit SKEMA + travail perso seul trop limite · scénario = stage front à trouver (ahah) puis contrat pro 2 j entreprise / 3 j école · ENSAE = porte ouverte, rien d'officiel · questions = rythme lun+jeu aberrant vu d'un desk si stage front obtenu en amont ? + juniors avec ce rythme dans son entourage (retour d'expérience) ?
+- **Règle ton confirmée** : zéro phrase IA bizarre/fat ; « ahah » et formules parlées de Calvin conservés ; consignes hors message jamais collées.
+- Arthur reste v2 (naturel validé par silence) sauf ordre contraire.
