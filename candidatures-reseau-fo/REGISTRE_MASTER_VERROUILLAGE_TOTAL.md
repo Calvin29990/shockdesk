@@ -409,3 +409,9 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 10. Arts et Métiers : 01 44 24 62 76 (standard, annuaire officiel 2026) ; admissions@ensam.eu.
 - X et Mines Paris = HORS top 10 alternance (pas d'apprentissage) : restent cibles marque via MS/temps plein.
 - Usage : script 30 s du registre (bac+5 FO + 2 questions éligibilité MS/apprentissage) ; numéros publics uniquement ; si standard changé → demander service admissions/apprentissage.
+
+## 📁 DOSSIER SKEMA/FINANCEMENT/ÉCOLES FERMÉ (16/09, Calvin : « fermons ce dossier et basculons à la suite »)
+- **Envoyés 16/09 (screenshot boîte envoi)** : Centrale Lille 10:19 · ENSAM admissions+international 10:39 · ENSAM AMTALENTS 10:59 · ESILV 10:52 · IMT Atlantique 11:04 · clôture Polytech 12:23. Vagues antérieures (14 ingé, plus 6+5, MS 3, M2 3, Néel v1) parties précédemment ; Néel v2 + trace SKEMA = statut d'envoi à confirmer par Calvin.
+- **Position Calvin actée** : parcours s'auto-finance ; décision SKEMA = ne bloquera pas ; replis = alternance septembre 2027 OU démarrage stage sans convention. **Flag factuel consigné** : convention de stage = obligation légale pour l'employeur en France → un desk HR refusera généralement sans convention ; le repli réel si SKEMA bloque = alternance sept. (contrat = statut + convention intégrée), pas le stage sans convention.
+- **Dossier FERMÉ côté production** : plus aucun livrable sur ce track ; réouverture uniquement sur réponses (écoles, SKEMA écrit J+7, Néel).
+- **Bascule « la suite »** : file d'attente opérationnelle = (a) prête à envoyer par Calvin : relances Kabbaj/Bouvet/Agard, vague 5 quasi-recos (Gahir, Agarwal, Berlioz, Pierrot, Ho), réponses Vidal + Zhang ; (b) débloquable par Calvin uniquement : contenu de la réponse Aldrin + vérification un-par-un cohorte Louis (→ salve) ; (c) en attente réponses : threads DB/SGCIB/Barclays/Santander, écoles, SKEMA.
