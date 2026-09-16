@@ -629,3 +629,4 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Risque **borné** si diplôme payé (CPS + alternance printemps 2027) ; **pas** marginal si SKEMA impayée. Alternance = filet, pas argument du RDV.
 - **PEGE 20 k€ sans garant** = FR/UE/EEE en principe → profil gabonais = demander quand même, s’attendre à un **garant**. Hors RDV : ENSAE, plan B alternance, séjour, bourse interne (Charpentier).
 - **Urgent J0** : attestation d’inscription + certificat de scolarité + carte étudiant → Mon Conseiller. Fichier : `CIC_RDV_23_SEPTEMBRE_2026.md`.
+- **Mails partenaires 16/09** (hors CIC, hors BRED qui a dit non) : BNP Allane Lille · CE Eyraud Lille (hook BPCE) · LCL Tison Lille · SG Paris Ben Ali Amer / Bihermach (relais Lille Gares) · CA Paris Carrico / Dos Santos (pas de contact Lille). Même corps : 20 k€ = 16+4, RDV CIC 23/09 = après acceptation plus d’autre banque. Fichier : `MAILS_BANQUES_PARTENAIRES_SKEMA_AVANT_23_SEPT.md`. Sophia ignoré.
