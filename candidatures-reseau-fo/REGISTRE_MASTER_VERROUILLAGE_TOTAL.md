@@ -550,3 +550,7 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 ## 📞 LUCAS THU PING ONE — MESSAGE DE CONTEXTE PRE-CALL (16/09 soir)
 - Message livré : contexte identique Christian/Arthur (pros DB/JPM/FR = expérience longue · M2 déc. · scénario stage front puis contrat pro 2j/3j · ENSAE MS rien d'officiel sept. plein puis lun+jeu) + 2 questions call = (1) ce que CY Tech lui apporte vraiment en desk/process · (2) si un rythme comme ça passe chez HSBC ou si c'est rare/mal vu.
 - Trame call mise à jour : ces 2 questions remplacent les points 2-3 de la trame précédente ; point 1 (intégration salle + ouvertures janv) et clôture sans ask inchangés.
+
+## 💬 LUCAS v2 = TEXTE CALVIN (chaud, humain) NETTOYÉ (16/09)
+- **Règle renforcée** : mes messages « contexte structuré » = bizarres pour des threads chauds ; sur thread déjà vivant = voix Calvin : chaleur d'abord (journée, anecdote), puis UNE question nue. Le contexte complet se donne à l'oral au call, pas par écrit.
+- **Lucas v2 livré** : hello + journée stressante + anecdote + question unique = ENSAE MS 2j/3j sous réserve critères + boîte → rythme recevable en salle ? · questions CY Tech / HSBC rare ou mal vu = À L'ORAL au call.
