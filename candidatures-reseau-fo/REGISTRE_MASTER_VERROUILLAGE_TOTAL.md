@@ -267,3 +267,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Contenu : j'ai participé au FIC Virtual Spotlight sur conseil d'Ali (intern S&T) · event incroyable · anecdote vraie du nom confondu avec Kelvin Asare + échange ensuite · je pousse les process FO Paris & Londres janv. 2027 · demande de conseils ouverte.
 - Adaptations : FR tu = pairs (Farges, Bouvet) ; FR vous = seniors (Simo VP, Kabbaj head of sales) ; EN = anglophones (Zhang, Aggarwal, Kong, Natalja). Natalja = envoi demain (merci déjà parti ce jour). Kelvin & Ali exclus (thread vivant / consigne).
 - Remplace les 7 relances corrigées du correctif précédent (même cible, wording final). Bouvet = relance J+5 avec ligne d'entrée follow-up 10/09.
+
+## ✂️ CADRAGE FINAL RELANCES DB (15/09)
+- **Farges RETIRÉ définitivement** : ghosté 2 fois → ne plus contacter (consigne Calvin).
+- **Round = francophones desk uniquement** (simple) : Simo (vous), Kabbaj (vous), Bouvet (tu, relance J+5). Anglophones (Zhang, Aggarwal, Kong, Natalja) = EN en attente du go Calvin.
+- **Anecdote v2 (version vraie, corrigée par Calvin)** : Natalja appelait les participants un par un ; Calvin 5e de passage ; confusion Calvin/Kelvin en direct ; Calvin coupe son micro et laisse Kelvin répondre ; s'excuse avec autodérision ; pose sa question (différence Londres vs Singapour) ; réponse de Kelvin magistrale. Wording messages = cette version, sans attribuer qui a dit quel nom.
