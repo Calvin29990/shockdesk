@@ -594,3 +594,9 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Réponses honnêtes sans ENSAE** : dispo = janv-juin temps plein, aucune contrainte (vrai) · projection = « mon objectif est un desk : ce stage est un test longue durée, idéalement chez vous » (vrai = endpoint CDI FO) · pourquoi ce desk = pitch desk standard.
 - **Garder pour moi ≠ mentir** = choisir le moment : révélation mai-juin 2027 au manager du stage = le plan devient argument de fidélisation et se lit comme la SUITE du discours d'entretien (cohérence totale).
 - Si insistance « et après le stage ? » = même phrase projection ; jamais de calendrier scolaire spontané.
+
+## 🇧🇷 « AU PIRE JE DEMANDE À CHAQUE PROF » = NON CIBLÉ + DELBIS = NOUVELLE MEILLEURE CARTE (16/09 nuit)
+- **Demander à chaque prof = non** : 2 lettres requises, pas 6 ; tirage en rafale = lettres tièdes + goodwill brûlé + refus visibles. Pour les NOTES : source propre = **relevé officiel SKEMA (scolarité = administratif, zéro engagement personnel)** — vérifier d'abord si le semestre Brésil est dans son PDF « Notes global 2025-2026 » ; ensuite demande ciblée uniquement aux profs des bonnes notes.
+- **Leonardo Delbis de Lacerda** (screenshot) = 1er degré · Prof finances SKEMA Belo Horizonte (cours **cambio/dérivés/banques** = matières FO exactes) + Superintendent financier BDMG = prof ET praticien · communs Geneviève + Ilona → **meilleure carte académique matière-fit** (Aronne = meilleure carte lien humain/hôpital).
+- **Strège lettres** : Florence = hiérarchique verrouillée · académique = demander MAINTENANT Aronne ET Delbis (2 demandes indépendantes, coût zéro) = celui qui répond chaud et précis écrit, l'autre = repli · Thiago = repli 2 · **Aureliano Bressan** (Full Prof UFMG, FRM, commun = Leonardo) = repli 3 via Leonardo, pas de message maintenant.
+- **Message Delbis livré** (~75 mots, chaud, modèle + CV joints, FR ou EN).
