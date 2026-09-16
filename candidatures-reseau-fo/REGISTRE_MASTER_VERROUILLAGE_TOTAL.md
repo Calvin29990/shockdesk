@@ -358,3 +358,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - 6 mails format 1 an (MSc/MS/M2) livrés : **École Polytechnique (X)** · **Mines ParisTech** · **HEC Paris** · **ESSEC** · **ESCP** · **EDHEC** — objet unique « Candidature format 1 an finance quantitative rentrée sept. 2027 » ; corps = profil FO opérationnel + 4 questions (format 1 an adapté, admission sur titre, compatibilité apprentissage/bourses, part d'anglais).
 - Flag financement acté : MSc/MS écoles de commerce = 20-50 k€ sans alternance ; MS X/Mines = ~10-20 k€ ; M2 universitaires déjà au pipeline (MFCA, Sorbonne P&F, Saclay M&F) = ~400 € = plancher financier ; la question bourses/apprentissage est dans le corps → chaque réponse tranchera.
 - Durée : règle 1/2/3-ans-jamais appliquée (ces formats = 1 an).
+
+## 🏆 VAGUE PLUS 2 — EXCELLENCE > SKEMA, SUITE (16/09, Calvin redemande d'ajouter)
+- 5 mails format 1 an ajoutés : **Dauphine-PSL (M2 finance, alternance, vivier salles Paris)** · **Sciences Po (MSc Finance)** · **ENS Paris-Saclay (M2 quantitatives)** · **emlyon (MSc Finance)** · **Paris 1 Sorbonne (M2 finance de marché, vivier desks Paris)** — même corps format 1 an + 4 questions (format, AST, apprentissage/bourses, anglais).
+- Élites étrangères (LSE, ETH, EPFL, Oxford, St. Gallen) = ÉCARTÉES par défaut : rupture du statut étudiant français = risque séjour ; réintégrables uniquement sur ordre explicite Calvin.
+- Cumul vagues écoles : 14 (ingé alternance) + 3 (M2 quant 1 an) + 6 (plus 1) + 5 (plus 2) = 28 mails définis.
