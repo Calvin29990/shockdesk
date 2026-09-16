@@ -535,3 +535,7 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Base = draft Calvin lui-même** ; agent = grammaire + fluidité uniquement, voix et détails à lui : pros consultés chez Deutsche Bank, J.P. Morgan et banque française · même conseil = expérience longue type alternance · mais M2 finit en déc. + maths/programmation pas le fit SKEMA + travail perso seul trop limite · scénario = stage front à trouver (ahah) puis contrat pro 2 j entreprise / 3 j école · ENSAE = porte ouverte, rien d'officiel · questions = rythme lun+jeu aberrant vu d'un desk si stage front obtenu en amont ? + juniors avec ce rythme dans son entourage (retour d'expérience) ?
 - **Règle ton confirmée** : zéro phrase IA bizarre/fat ; « ahah » et formules parlées de Calvin conservés ; consignes hors message jamais collées.
 - Arthur reste v2 (naturel validé par silence) sauf ordre contraire.
+
+## ✂️ CHRISTIAN v4 COURT (16/09, « c'est un pavé »)
+- **Règle pavé** : message LinkedIn chaud = ~100 mots max, 3 paragraphes courts ; v3 (~180 mots) retiré.
+- **v4** : merci fiches (1 ligne) · pros DB/JPM/banque FR = même conseil expérience longue + M2 déc. + fit SKEMA limité → scénario stage front puis contrat pro 2j/3j (1 para) · ENSAE porte MS rien d'officiel sept. plein puis lun+jeu + 2 questions (rythme aberrant ? juniors autour de toi ?) (1 para).
