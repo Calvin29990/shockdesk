@@ -454,3 +454,9 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Barclays (6)** : hook obligatoire = « en contact avec Olivier Moser (Sales Manager, Barclays Private Bank Monaco), qui a transmis mon CV à votre service RH et aux équipes marchés le 15 septembre ».
 - **Santander (1, Calmet)** : hook obligatoire = « Mickael Dos Santos m'a transmis le contact d'Élodie Roux (Structured Solutions & Markets) le 14 septembre ».
 - Blocs v2 bis livrés (modèle PACK_50 + hook + ask stagiaire janv./CV/conseil) ; ouvrante Desmazes nettoyée.
+
+## 🔁 SALVE 5 v3 — HISTORIQUES RÉVÉLÉS + VERDICTS (16/09)
+- **Historiques révélés (pas vierges)** : Uhring = 1 touch 19/08 (ask test plateforme bankprep, ghost) · Faye = 1 touch 27/08 (liens bankprep + exotic-desk, ghost) · Desmazes = 1 touch 19/08 (ask test plateforme, ghost) · Chibane = 1 touch 10/07 (ghost 2 mois) · Orard = 2 touches 02/07 + 11/08 (ghost ×2) · Calmet = 1 touch 08/07 (ghost 2 mois).
+- **Verdicts** : Uhring RELANCE GO (hook Moser + ask réduit) · Faye RELANCE GO (idem) · Desmazes RELANCE GO (idem) · Calmet RELANCE DERNIÈRE CHANCE (hook Dos Santos + ligne de sortie polie) · **Chibane RETIRÉ** (ghost 2 mois + meta Calvin « top 3 commerce ne répondent pas ») · **Orard VERROUILLÉ** (consigne Calvin, ghost ×2) · **Oherne SUPPRIMÉE** (BNP, consigne Calvin).
+- **Actifs révélés** : plateformes Calvin bankprep-finance.netlify.app (+ /frontoffice) et calvin-exotic-desk.netlify.app = actifs de démo cités dans d'anciens messages ; hook futur possible mais ask « teste ma plateforme » = banni (trop lourd, a ghosté).
+- **Salve 5 v3 = 4 relances modèle** (reconnaissance du touch précédent + fait nouveau + hook quasi-reco + ask réduit « une simple orientation me suffirait »), vouvoiement reset respect.
