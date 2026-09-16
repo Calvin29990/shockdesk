@@ -262,3 +262,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Présence prouvée (liste p.9 / grilles p.12-13)** : Elias (liste p9), Asare (grille p13), Creusy, Deschenaux, Dorman, Ducrey, Rucheton, Qinyuan Yang, Vanbrabant, Mateescu, Laryea, Selwyn, F.E. Doyle, Tom Zheng, Lalou, Rehman, Saleem, Brown, Danylenko, Rachcha, Chen47, Ramamurthy (+ présentes liste : Elias, Creusy…). Capture meeting = PJ autorisée UNIQUEMENT pour ceux-là.
 - Elias : invitation + note + capture maintenues (prouvé liste p.9).
 - Règle actée : aucun claim de présence sans preuve liste/grille ; liste participants complète à demander à Ali pour recroiser les 7.
+
+## 💬 MESSAGE MAÎTRE POST-EVENT DB (15/09, version finale Calvin : simple, zéro claim de présence sur autrui)
+- Contenu : j'ai participé au FIC Virtual Spotlight sur conseil d'Ali (intern S&T) · event incroyable · anecdote vraie du nom confondu avec Kelvin Asare + échange ensuite · je pousse les process FO Paris & Londres janv. 2027 · demande de conseils ouverte.
+- Adaptations : FR tu = pairs (Farges, Bouvet) ; FR vous = seniors (Simo VP, Kabbaj head of sales) ; EN = anglophones (Zhang, Aggarwal, Kong, Natalja). Natalja = envoi demain (merci déjà parti ce jour). Kelvin & Ali exclus (thread vivant / consigne).
+- Remplace les 7 relances corrigées du correctif précédent (même cible, wording final). Bouvet = relance J+5 avec ligne d'entrée follow-up 10/09.
