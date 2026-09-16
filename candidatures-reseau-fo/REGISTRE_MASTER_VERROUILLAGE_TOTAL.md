@@ -346,3 +346,10 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Termes demandés à la compta (échéancier ferme, signé) : (a) solde 16 k€ payé **dès CDI front** ; (b) ou **1re partie à définir conjointement fin octobre**, dès première acceptation (front office OU école d'ingé) ; (c) backstop proposé pour crédibilité : solde au plus tard fin du contrat d'apprentissage (sept. 2029) — ligne à biffer si Calvin veut ; garantie = reconnaissance de dette signée + pièces au fil de l'eau.
 - Contreparties exigées dès aujourd'hui : accès pédagogiques + statut étudiant jusqu'au diplôme ; convention de stage janv. 2027 ; attestation de scolarité datée.
 - Deadline lettre : réponse avant vendredi 19/09 ou entretien téléphonique aujourd'hui/demain ; envoi 1:1 compta J0 + appel juste après ; J+2 cc Marino + Charpentier si silence.
+
+## ⏱️ RÈGLE DURÉE + RÉPONSE POLYTECH LILLE (16/09)
+- **Règle durée Calvin (absolue)** : 1 an idéalement (type MSc/M2/MS) · 2 ans si exceptionnel (entrée 4e année ingé) · **3 ans jamais**.
+- **Polytech Lille répond** : cursus apprentissage = **36 mois = 3 ans → EXCLUE** par la règle ; infos utiles conservées : plateforme apprentissage ouvre fin déc. 2026/janv. 2027 ; spécialité suggérée ISIA ; plaquette 2026 calameo. Mail de clôture poli livré (pas de dossier 2027, remerciements).
+- **Pipeline reclassé par durée** : 1 an = M2 MFCA Lille (alternance 2j/3j confirmée, e-candidat printemps 2027, scolarité universitaire ~400 € = dette quasi nulle) + M2 « Probabilités et finance » Sorbonne (filière El Karoui) + M2 « Mathématiques et finance » Paris-Saclay (signal quant top tiers, temps plein) · 2 ans = ESILV (warm, 4e année confirmée Néel) + ENSAE/ENSIIE (durée à confirmer à la candidature) · 3 ans = jamais (Polytech sortie ; toute école révélant 36 mois sortira à sa réponse).
+- **Ligne ajoutée aux futurs mails écoles** : « déjà bac+5 (déc. 2026), je vise 1 à 2 ans maximum (4e/5e année ou M2/MS) ; merci d'indiquer la durée exacte du cursus par apprentissage pour mon profil ».
+- Mini-vague 1 an livrée : 3 mails M2 (responsables parcours, pages officielles).
