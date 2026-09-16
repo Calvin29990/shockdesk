@@ -622,3 +622,10 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Cernès AMF Tome 1 2010** = déonto seulement. **Pas l’examen 2026** (programme 12 thèmes, SFDR/crypto absents). Sessions 21/09 et 05/10 = non. Cible nov/déc + QCM 2025-26.
 - **Jorion FRM 2010** = mécanique VaR/Grecs, **pas le GARP actuel**.
 - Fichier : `PLAN_LECTURE_PONCET_AMF_JORION.md`. Code + écoles = frigo (réponses écoles seulement si une tombe).
+
+## 💳 CIC 23/09 10h — 20 k€ REDEVIENT L’OUTIL (16/09, Calvin : clôturer SKEMA proprement)
+- **Verdict** : oui, prêt pour payer SKEMA (16 k€) + oxygène sept→déc (4 k€). 20 k€ = plafond déjà posé (RECAP), pas un budget déménagement Paris/Bordeaux/Nantes (TGV depuis Lille tant qu’il n’y a pas d’offre).
+- CIC n’est plus « relégué filet » : SKEMA comme banque = écarté ; le prêt clôt l’école. Approuvé ≠ décaissé : offre écrite d’abord ; 16 k€ virés à SKEMA dès déblocage.
+- Risque **borné** si diplôme payé (CPS + alternance printemps 2027) ; **pas** marginal si SKEMA impayée. Alternance = filet, pas argument du RDV.
+- **PEGE 20 k€ sans garant** = FR/UE/EEE en principe → profil gabonais = demander quand même, s’attendre à un **garant**. Hors RDV : ENSAE, plan B alternance, séjour, bourse interne (Charpentier).
+- **Urgent J0** : attestation d’inscription + certificat de scolarité + carte étudiant → Mon Conseiller. Fichier : `CIC_RDV_23_SEPTEMBRE_2026.md`.
