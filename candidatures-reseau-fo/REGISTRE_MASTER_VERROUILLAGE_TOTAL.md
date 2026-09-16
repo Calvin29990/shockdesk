@@ -546,3 +546,7 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 
 ## ✍️ ARTHUR v3 = MÊME CONTEXTE QUE CHRISTIAN v4 (16/09)
 - Arthur v3 : contexte complet identique Christian v4 (pros DB/JPM/banque FR = expérience longue type alternance · M2 déc. · fit SKEMA limité · scénario stage front puis contrat pro 2j/3j · ENSAE porte MS rien d'officiel sept. plein puis lun+jeu) + question rythme vue sales + libération dette bankprep ; ~115 mots, v2 retirée.
+
+## 📞 LUCAS THU PING ONE — MESSAGE DE CONTEXTE PRE-CALL (16/09 soir)
+- Message livré : contexte identique Christian/Arthur (pros DB/JPM/FR = expérience longue · M2 déc. · scénario stage front puis contrat pro 2j/3j · ENSAE MS rien d'officiel sept. plein puis lun+jeu) + 2 questions call = (1) ce que CY Tech lui apporte vraiment en desk/process · (2) si un rythme comme ça passe chez HSBC ou si c'est rare/mal vu.
+- Trame call mise à jour : ces 2 questions remplacent les points 2-3 de la trame précédente ; point 1 (intégration salle + ouvertures janv) et clôture sans ask inchangés.
