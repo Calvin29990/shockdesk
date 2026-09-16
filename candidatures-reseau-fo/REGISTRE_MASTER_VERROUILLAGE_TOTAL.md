@@ -449,3 +449,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Modèle obligatoire** = structure PACK_50 éprouvée : contexte complet (M2 SKEMA, FRM, BPCE BQL/VBA, ShockDesk) + raison spécifique desk/parcours + ask précis (stagiaire janv. OU transmission CV au bon contact OU conseil) + formule respectueuse + signature complète ; vouvoiement sur vierges.
 - **Salve 5 v2 = 7 vierges consommés SCELLÉS** (Barclays Paris 6 : Uhring, Orard, Faye, Desmazes, Chibane, Oherne HR + Santander 1 : Calmet) ; 1 personne/desk respecté.
 - **Discipline pool réaffirmée** : ~270 vierges front = réserve ; consommation UNIQUEMENT par salves scellées avec messages modèle ; hors salve = aucun touch.
+
+## 🔗 SALVE 5 v2 BIS — HOOKS QUASI-RECOS OBLIGATOIRES (16/09, consigne Calvin)
+- **Barclays (6)** : hook obligatoire = « en contact avec Olivier Moser (Sales Manager, Barclays Private Bank Monaco), qui a transmis mon CV à votre service RH et aux équipes marchés le 15 septembre ».
+- **Santander (1, Calmet)** : hook obligatoire = « Mickael Dos Santos m'a transmis le contact d'Élodie Roux (Structured Solutions & Markets) le 14 septembre ».
+- Blocs v2 bis livrés (modèle PACK_50 + hook + ask stagiaire janv./CV/conseil) ; ouvrante Desmazes nettoyée.
