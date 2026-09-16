@@ -501,3 +501,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Classement** : 1. **Mickael Dos Santos** (Généraliste RH Santander, allié, en départ = exposition min) = MÉCANIQUE exacte (pro/convention/PDC) · 2. **Antony Pini** (sales FX & EM Rates Paris, call franchise 11/09) = RÉALITÉ desk (qui soulève le sujet, quand) · 3. **Kelvin Asare** (DB Londres = zéro exposition marché parisien) = lecture carrière/crédibilité du format · 4. **Ali** = répétition générale avant tout envoi · **Alexandre Chanet** (trader, « oui je suis dispo » 11/08 JAMAIS honoré = dette) = bundle call = dette + question discrète.
 - **Blocs livrés** : Pini (FR), Dos Santos (FR), Kelvin (EN).
 - **Flags inbox** : Chanet dispo depuis 11/08 sans call calé = à honorer en priorité · Petrosyan = thread pré-existant (audio 04/09) donc NON vierge (v1 salve 5 non envoyée = sans dommage) · Mugler = call demandé 25/08, statut réponse inconnu · Ruiz/Awlime/Guerin/Chanty/Fayard = ghosts bankprep (ask banni confirmé).
+
+## ✉️ « OU BIEN JE RÉPONDS À L'ENSAE ? » — NON, LES DEUX, RÔLES DIFFÉRENTS (16/09)
+- **Fortier = canal officiel, zéro risque de discrétion** : l'école vend sa formation, rien de ce qu'il écrit n'atteint un employeur ou SKEMA ; son « à vous de voir avec votre employeur » EST une invitation à répondre ; sa réponse écrite = règles opposables (pro/convention recevable ? quel MS ? calendrier).
+- **Réseau discret = autre moitié** : la pratique marché (quel desk accepte, comment amener le sujet, qui paie en vrai) — Fortier ne sait pas ça.
+- **Ordre** : Fortier d'abord (J+0/1 = signal candidat sérieux), réseau en parallèle ensuite ; bloc Fortier inchangé, repassé pour copie.
