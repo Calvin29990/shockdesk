@@ -363,3 +363,18 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - 5 mails format 1 an ajoutés : **Dauphine-PSL (M2 finance, alternance, vivier salles Paris)** · **Sciences Po (MSc Finance)** · **ENS Paris-Saclay (M2 quantitatives)** · **emlyon (MSc Finance)** · **Paris 1 Sorbonne (M2 finance de marché, vivier desks Paris)** — même corps format 1 an + 4 questions (format, AST, apprentissage/bourses, anglais).
 - Élites étrangères (LSE, ETH, EPFL, Oxford, St. Gallen) = ÉCARTÉES par défaut : rupture du statut étudiant français = risque séjour ; réintégrables uniquement sur ordre explicite Calvin.
 - Cumul vagues écoles : 14 (ingé alternance) + 3 (M2 quant 1 an) + 6 (plus 1) + 5 (plus 2) = 28 mails définis.
+
+## 🥇 TOP 10 PROGRAMMES 1-2 ANS TOP TIERS POUR PROFIL CALVIN (16/09, demande précision + atout jury/excentricité)
+1. M2 Probabilités & Finance Sorbonne (filière El Karoui) — 1 an, ~400 €, statut, LE filtre quant FR, jury dossier+entretien.
+2. M2 Mathématiques & Finance Paris-Saclay (X/ENSTA/ENSAE/CS) — 1 an, ~400 €, statut, réseau élite.
+3. ENSAE cycle ingé AST — 2 ans, apprentissage OK (scolarité employeur+salaire), statut, top tier quant.
+4. M2 MFCA Lille — 1 an (entrée M2), apprentissage M2 2j/3j = scolarité ~0 + salaire, statut, Python/HFT, base Lille.
+5. ENSIIE cycle ingé AST — 2 ans, apprentissage, spécialité mathématique financière.
+6. Mines ParisTech MS quant/risk/data — 1 an bac+5, label top tier, scolarité 10-20 k€ = point financement, jurys MS profils atypiques.
+7. Télécom Paris (IP Paris) M2/MS data & finance ou cycle ingé apprentissage — 1-2 ans, apprentissage.
+8. M2 Statistique & probabilités ENS Paris-Saclay — 1 an, ~400 €, signal scientifique élite.
+9. CentraleSupélec cycle ingé apprentissage — 2 ans, label top tier, apprentissage.
+10. Dauphine-PSL M2 finance (marché/ingénierie financière) — 1 an, alternance sur certains, employabilité salles Paris, top tier MSc (non ingé).
+- Logique classement : 1-2 = filtre max pour 400 € ; 3/5/9 = titre ingé + apprentissage (financement) ; 4 = financement + Lille ; 6-8 = label ; 10 = employabilité salles.
+- Atout jury/excentricité acté : profil « atypique par conception, déjà opérationnel » (école de commerce + moteur de pricing qui tourne + FRM/AMF + parcours international + bac S = base maths du dossier, drive = preuve) ; jouer démo ShockDesk 30 s + « je code ce que je trade » en entretien.
+- 3 mails manquants livrés (El Karoui, Saclay M&F, MFCA M2 apprentissage) = corps format 1 an standard.
