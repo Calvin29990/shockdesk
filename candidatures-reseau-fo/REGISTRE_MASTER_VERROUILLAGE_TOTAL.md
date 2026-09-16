@@ -256,3 +256,9 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Invitation avec note (≤300) + capture = Matthieu Elias** (Natixis CIB Paris, EQD/FI, participant session, NON connecté) = cible stratégique desk Paris (le « bon stagiaire » du tri T1).
 - Règle actée : toute relance DB/ session = capture meeting jointe (taux de réponse prouvé par Kelvin 22:52).
 - **OUVERT** : réponse Aldrin reçue → à traiter prochain tour (consigne Calvin « on s'en occupera » avant/après relances DB faites).
+
+## ⚠️ CORRECTIF PREUVE DE PRÉSENCE (15/09, question Calvin « prouve-le »)
+- **7 relances DB (Farges, Simo, Kabbaj, Zhang, Aggarwal, Kong, Bouvet) : présence en salle NON prouvée** (absents des chunks liste + grilles du PDF meeting) → versions corrigées livrées SANS claim « même salle » et SANS capture ; hook vrai = « j'y étais, je reprends contact avec les profils DB de mon réseau ».
+- **Présence prouvée (liste p.9 / grilles p.12-13)** : Elias (liste p9), Asare (grille p13), Creusy, Deschenaux, Dorman, Ducrey, Rucheton, Qinyuan Yang, Vanbrabant, Mateescu, Laryea, Selwyn, F.E. Doyle, Tom Zheng, Lalou, Rehman, Saleem, Brown, Danylenko, Rachcha, Chen47, Ramamurthy (+ présentes liste : Elias, Creusy…). Capture meeting = PJ autorisée UNIQUEMENT pour ceux-là.
+- Elias : invitation + note + capture maintenues (prouvé liste p.9).
+- Règle actée : aucun claim de présence sans preuve liste/grille ; liste participants complète à demander à Ali pour recroiser les 7.
