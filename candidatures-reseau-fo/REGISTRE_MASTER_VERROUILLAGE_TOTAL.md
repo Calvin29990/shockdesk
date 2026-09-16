@@ -279,3 +279,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **3 nouveaux DB 1er degré jamais contactés** : Simon Agard (DB Paris vérifié, emlyon PGE, coursework FI/Greeks/SP/Python = pair technique, FR tu) · James Eardley CFA (Director STIR Trader DB, EN, le plus senior DB du réseau ; **correctif : « Sardiley » de l'audit = James Eardley**) · Mian ZHANG (Strat DB, connecté 11/08, EN).
 - Recherche externe « DB Paris » = vide → aucune invitation à l'aveugle ; nouveaux = pool 1er degré uniquement.
 - Farges confirmé retiré (ghost ×2). Round francophone = Kabbaj + Bouvet + Agard ; EN = Eardley + Zhang (+ Kong/Aggarwal/Natalja toujours en attente go).
+
+## 🧊 GEL TRACK ANGLOPHONE (16/09, Calvin : « je ne me sens pas prêt », priorité Paris)
+- **GELÉS (ne pas envoyer)** : Eardley, Zhang, Kong, Aggarwal, Natalja = blocs EN conservés prêts, envoi uniquement sur go Calvin.
+- **Round actif = francophones/Paris uniquement** : Kabbaj (relance v2), Bouvet (relance J+6), Agard (DB Paris vierge).
+- Déblocage EN plus tard = au choix Calvin ; le thread Kelvin (EN, vivant) sert d'entraînement réel à risque zéro en attendant.
