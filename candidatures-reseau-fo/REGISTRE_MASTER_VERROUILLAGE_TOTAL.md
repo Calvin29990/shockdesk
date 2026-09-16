@@ -353,3 +353,8 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Pipeline reclassé par durée** : 1 an = M2 MFCA Lille (alternance 2j/3j confirmée, e-candidat printemps 2027, scolarité universitaire ~400 € = dette quasi nulle) + M2 « Probabilités et finance » Sorbonne (filière El Karoui) + M2 « Mathématiques et finance » Paris-Saclay (signal quant top tiers, temps plein) · 2 ans = ESILV (warm, 4e année confirmée Néel) + ENSAE/ENSIIE (durée à confirmer à la candidature) · 3 ans = jamais (Polytech sortie ; toute école révélant 36 mois sortira à sa réponse).
 - **Ligne ajoutée aux futurs mails écoles** : « déjà bac+5 (déc. 2026), je vise 1 à 2 ans maximum (4e/5e année ou M2/MS) ; merci d'indiquer la durée exacte du cursus par apprentissage pour mon profil ».
 - Mini-vague 1 an livrée : 3 mails M2 (responsables parcours, pages officielles).
+
+## 🏆 VAGUE PLUS — ÉCOLES D'EXCELLENCE SUPÉRIEURES À SKEMA (16/09, demande Calvin)
+- 6 mails format 1 an (MSc/MS/M2) livrés : **École Polytechnique (X)** · **Mines ParisTech** · **HEC Paris** · **ESSEC** · **ESCP** · **EDHEC** — objet unique « Candidature format 1 an finance quantitative rentrée sept. 2027 » ; corps = profil FO opérationnel + 4 questions (format 1 an adapté, admission sur titre, compatibilité apprentissage/bourses, part d'anglais).
+- Flag financement acté : MSc/MS écoles de commerce = 20-50 k€ sans alternance ; MS X/Mines = ~10-20 k€ ; M2 universitaires déjà au pipeline (MFCA, Sorbonne P&F, Saclay M&F) = ~400 € = plancher financier ; la question bourses/apprentissage est dans le corps → chaque réponse tranchera.
+- Durée : règle 1/2/3-ans-jamais appliquée (ces formats = 1 an).
