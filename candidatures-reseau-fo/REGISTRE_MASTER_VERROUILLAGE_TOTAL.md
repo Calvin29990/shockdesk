@@ -442,3 +442,10 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - Règle 1 personne/desk respectée ; FR partout (profils Paris/France) ; ask = stage janv. 2027 OU renvoi vers le bon contact (+ conseil).
 - **Exclus** : scellés (Bouchlih, Massabo, Riche, Chiu, SAAD, Salomon, Moser, Duhamel, Dangoise) · réservés quasi-recos (Gahir, Agarwal) · hors France (Singapour, Londres, NY, Tokyo, Lisbonne, Lux, Suisse, UK) · non FO (compliance, asset finance, IPV, cash management, support) · ambigus (Favrault Citi/BNP).
 - **Réservés salve 6** : Desmazes (Structured Credit Barclays), Hamiche (SP Sales secondary), Petrowski (EQD/cash trading), Da Conceição (commodities), Gaaoui (SP analyst), Chibane (pair Barclays), Oberlechner (Exane), Sfar (prime brokerage).
+
+## ⚠️ CORRECTIF SALVE 5 (16/09, 3 critiques Calvin : trop court/limite irrespectueux · laisse BNP · empiète sur les ~270 vierges front réservés)
+- **Rien n'est parti** : les 18 blocs v1 n'ont PAS été envoyés → zéro vierge brûlée ; v1 RETIRÉE du pipeline.
+- **BNP EXCLU du messaging** jusqu'à nouvel ordre (canal mentor trader BNP préservé) ; Exane (groupe BNP) exclu aussi.
+- **Modèle obligatoire** = structure PACK_50 éprouvée : contexte complet (M2 SKEMA, FRM, BPCE BQL/VBA, ShockDesk) + raison spécifique desk/parcours + ask précis (stagiaire janv. OU transmission CV au bon contact OU conseil) + formule respectueuse + signature complète ; vouvoiement sur vierges.
+- **Salve 5 v2 = 7 vierges consommés SCELLÉS** (Barclays Paris 6 : Uhring, Orard, Faye, Desmazes, Chibane, Oherne HR + Santander 1 : Calmet) ; 1 personne/desk respecté.
+- **Discipline pool réaffirmée** : ~270 vierges front = réserve ; consommation UNIQUEMENT par salves scellées avec messages modèle ; hors salve = aucun touch.
