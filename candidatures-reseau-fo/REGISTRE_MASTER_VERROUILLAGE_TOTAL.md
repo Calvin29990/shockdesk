@@ -470,3 +470,9 @@ Réserve (langue EN ou non confirmée, à traiter plus tard ou par email) : Ben 
 - **Assa = décourageur** : signal d'humeur, pas un verdict ; distance polie, jamais reconsulté sur la stratégie.
 - **Réponse à « la discussion va évoluer avec Olivier ? »** : OUI, à 2 triggers = (1) stage FO janv. 2027 (preuve exécution) et surtout (2) admission école ingé sept. 2027 (son propre chemin Dauphine+CentraleSupélec+JPM = le plan Calvin exact) ; d'ici là = touches keep-warm milestone zéro ask pour que le thread soit chaud au trigger.
 - **Keep-warm livrés** : Olivier (LinkedIn + variante WhatsApp courte) · Patrice (LinkedIn + variante WhatsApp) ; contenu = milestones (M2 déc. 2026, process FO janv. 2027, AMF, ShockDesk, cible ingé top 5 sept. 2027) + zéro demande + porte future (« ton regard quand l'admission tombe »).
+
+## 🎓 RÉPONSE ENSAE (16/09) : MS SANS ALTERNANCE — DÉCISION + FAILLE
+- **Réponse ENSAE** : rentrée septembre uniquement ; profil = candidater à un **mastère spécialisé** (lien admission MS) ; **pas d'alternance « à proprement parler »**.
+- **Décision Calvin validée** : ENSAE MS écarté à ce stade (sans alternance = scolarité MS ~10-20 k€ + zéro salaire + 1 an plein temps = risque financier trop lourd vs gain marginal face aux voies alternantes top 5 / M2 ~400 €).
+- **Signal acté** : profil RECEVABLE au filtre ENSAE = validation de dossier à utiliser comme argument jury/confiance ; ENSAE MS = **repli conditionnel** activable uniquement si CDI ou financement complet acquis d'ici juin 2027.
+- **Faille « à proprement parler »** : formule laisse ouverte un montage employeur (contrat de professionnalisation, plan de développement des compétences, convention employeur) → réponse ENSAE livrée : remerciement + confirmation sept./MS + UNE question sur ces montages ; si oui = ENSAE rentre dans le jeu.
